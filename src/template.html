@@ -1077,7 +1077,7 @@ function viewSources() {
   <section class="section">
     <h2>Documents et URLs ajoutés</h2>
     <div class="panel">
-      <p>Pour enrichir l'analyse, transmettez un programme, un discours, un article ou une URL dans la conversation qui génère ce site. Le document est alors :</p>
+      <p>Pour enrichir l'analyse, proposez un programme, un discours, un article ou une URL en <a href="https://github.com/blamouche/elections-presidentielles-2027/issues/new" target="_blank" rel="noopener noreferrer">ouvrant un ticket sur GitHub</a>. Le document est alors :</p>
       <ol class="howto"><li>archivé dans la liste ci-dessous avec son lien ;</li><li>analysé pour en extraire les propositions et les chiffres par thème ;</li><li>vérifié auprès des fact-checkeurs et des données officielles ;</li><li>intégré aux fiches et au comparateur, puis la page est republiée.</li></ol>
     </div>
     ${docs.length ? `<div class="srcindex">${docs.map((d) => `<details open><summary><span>${esc(d.titre)}</span><span class="n">${esc(fmtDate(d.ajouteLe))}</span></summary>
@@ -1131,7 +1131,7 @@ window.addEventListener("hashchange", render);
 
 const days = Math.ceil((FIRST_ROUND - new Date()) / 86400000);
 document.getElementById("countdown").innerHTML = days > 0 ? `<b>J-${days}</b> avant le 1er tour · parrainages clos le 12 mars 2027` : "1er tour : 18 avril 2027";
-document.getElementById("footer").innerHTML = `<span>Données mises à jour le ${esc(fmtDate(DATA.generatedAt))} · ${CANDS.length} candidats · ${ALL_PROPS.length} propositions</span><span>Chaque information renvoie à sa source. Signalez une erreur dans la conversation de génération du site.</span>
+document.getElementById("footer").innerHTML = `<span>Données mises à jour le ${esc(fmtDate(DATA.generatedAt))} · ${CANDS.length} candidats · ${ALL_PROPS.length} propositions</span><span>Chaque information renvoie à sa source. Une erreur, une source manquante ? <a href="https://github.com/blamouche/elections-presidentielles-2027/issues/new" target="_blank" rel="noopener noreferrer">Signalez-la sur GitHub</a> · <a href="https://github.com/blamouche/elections-presidentielles-2027" target="_blank" rel="noopener noreferrer">Code source et données</a></span>
   <span><button type="button" class="dl-btn" data-dl><svg viewBox="0 0 16 16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v8M4.5 6.5 8 10l3.5-3.5M3 13h10"/></svg>Télécharger la version portable</button> <span class="dl-msg" id="dl-msg">Un seul fichier HTML (~3 Mo), consultable hors connexion.</span></span>`;
 
 /* ---------- Téléchargement de la version portable ---------- */
