@@ -64,7 +64,25 @@ function checkSources(c, file) {
 
 const autresPath = path.join(root, "data/autres-candidatures.json");
 const autres = fs.existsSync(autresPath) ? JSON.parse(fs.readFileSync(autresPath, "utf8")) : null;
-const data = { generatedAt: new Date().toISOString().slice(0, 10), candidats, documents, autres };
+// Historique des présidentielles (data/elections/<annee>.json) : contrôles arithmétiques et sources.
+const elecDir = path.join(root, "data/elections");
+const historique = fs.existsSync(elecDir) ? fs.readdirSync(elecDir).filter((f) => /^\d{4}\.json$/.test(f)).sort()
+  .map((f) => JSON.parse(fs.readFileSync(path.join(elecDir, f), "utf8"))) : [];
+for (const e of historique) for (const t of e.tours || []) {
+  const where = `historique ${e.annee} T${t.tour}`;
+  const sum = (t.resultats || []).reduce((a, r) => a + (r.voix || 0), 0);
+  if (sum !== t.exprimes) warnings.push(`${where} : somme des voix ${sum} ≠ exprimés ${t.exprimes}`);
+  const bn = t.blancsNuls ?? ((t.blancs || 0) + (t.nuls || 0));
+  if (t.exprimes + bn !== t.votants) warnings.push(`${where} : exprimés + blancs/nuls ≠ votants`);
+  if (!(t.sources || []).some((s) => /^https?:\/\//.test(s.url || ""))) warnings.push(`${where} : sans source`);
+}
+// Sondages d'intentions de vote (data/sondages/sondages.json).
+const sondPath = path.join(root, "data/sondages/sondages.json");
+const sondages = fs.existsSync(sondPath) ? JSON.parse(fs.readFileSync(sondPath, "utf8")) : null;
+for (const s of sondages?.sondages || []) {
+  if (!(s.sources || []).some((x) => /^https?:\/\//.test(x.url || "") && !/wikipedia\.org/.test(x.url))) warnings.push(`sondage ${s.id} : pas de source primaire`);
+}
+const data = { generatedAt: new Date().toISOString().slice(0, 10), candidats, documents, autres, historique, sondages };
 const json = JSON.stringify(data).replace(/</g, "\\u003c");
 const tpl = fs.readFileSync(path.join(root, "src/template.html"), "utf8");
 const marker = "/*__DATA__*/null";
@@ -87,7 +105,7 @@ if (fs.existsSync(fontsCss)) {
   warnings.push("data/fonts absent : la page autonome chargera les polices en ligne (node scripts/fetch-fonts.mjs)");
 }
 const dest = path.join(root, "dist/index.html");
-fs.writeFileSync(dest, `<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>Comparateur Présidentielle 2027</title></head><body>\n${standalone}\n</body></html>\n`);
+fs.writeFileSync(dest, `<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>Présidentielle 2027</title></head><body>\n${standalone}\n</body></html>\n`);
 for (const f of ["presidentielle-2027.html", "presidentielle-2027-portable.html"]) fs.rmSync(path.join(root, "dist", f), { force: true }); // anciens noms
 
 // 3) Dossier complet en PDF : impression de la vue #rapport par Chrome sans interface.
@@ -105,7 +123,7 @@ if (!chrome) {
 }
 
 const nProps = candidats.reduce((n, c) => n + (c.programme?.propositions?.length || 0), 0);
-console.log(`${candidats.length} candidats, ${nProps} propositions, ${documents.length} documents ajoutés`);
+console.log(`${candidats.length} candidats, ${nProps} propositions, ${documents.length} documents ajoutés, ${historique.length} élections, ${sondages?.sondages?.length || 0} sondages`);
 console.log(`→ ${path.relative(root, dest)} (${Math.round(fs.statSync(dest).size / 1024)} Ko)`);
 if (fs.existsSync(pdf)) console.log(`→ ${path.relative(root, pdf)} (${Math.round(fs.statSync(pdf).size / 1024)} Ko)`);
 if (warnings.length) {

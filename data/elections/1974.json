@@ -1,0 +1,186 @@
+{
+  "annee": 1974,
+  "contexte": "Élection anticipée à la suite du décès du président Georges Pompidou le 2 avril 1974. Valéry Giscard d'Estaing devance de justesse François Mitterrand, candidat de l'Union de la gauche, au second tour.",
+  "elu": "Valéry Giscard d'Estaing",
+  "tours": [
+    {
+      "tour": 1,
+      "date": "1974-05-05",
+      "inscrits": 30602953,
+      "votants": 25775743,
+      "blancs": null,
+      "nuls": null,
+      "blancsNuls": 237107,
+      "exprimes": 25538636,
+      "resultats": [
+        {
+          "candidat": "François Mitterrand",
+          "parti": "Parti socialiste (Union de la gauche)",
+          "partiAbrev": "PS",
+          "famille": "gauche",
+          "id": null,
+          "voix": 11044373,
+          "pct": 43.25
+        },
+        {
+          "candidat": "Valéry Giscard d'Estaing",
+          "parti": "Fédération nationale des républicains indépendants",
+          "partiAbrev": "FNRI",
+          "famille": "droite",
+          "id": null,
+          "voix": 8326774,
+          "pct": 32.6
+        },
+        {
+          "candidat": "Jacques Chaban-Delmas",
+          "parti": "Union des démocrates pour la République",
+          "partiAbrev": "UDR",
+          "famille": "droite",
+          "id": null,
+          "voix": 3857728,
+          "pct": 15.11
+        },
+        {
+          "candidat": "Jean Royer",
+          "parti": "Divers droite",
+          "partiAbrev": "DVD",
+          "famille": "droite",
+          "id": null,
+          "voix": 810540,
+          "pct": 3.17
+        },
+        {
+          "candidat": "Arlette Laguiller",
+          "parti": "Lutte ouvrière",
+          "partiAbrev": "LO",
+          "famille": "extreme-gauche",
+          "id": null,
+          "voix": 595247,
+          "pct": 2.33
+        },
+        {
+          "candidat": "René Dumont",
+          "parti": "Écologiste (sans parti)",
+          "partiAbrev": "ECO",
+          "famille": "ecologiste",
+          "id": null,
+          "voix": 337800,
+          "pct": 1.32
+        },
+        {
+          "candidat": "Jean-Marie Le Pen",
+          "parti": "Front national",
+          "partiAbrev": "FN",
+          "famille": "extreme-droite",
+          "id": null,
+          "voix": 190921,
+          "pct": 0.75
+        },
+        {
+          "candidat": "Émile Muller",
+          "parti": "Mouvement démocrate socialiste de France",
+          "partiAbrev": "MDSF",
+          "famille": "centre",
+          "id": null,
+          "voix": 176279,
+          "pct": 0.69
+        },
+        {
+          "candidat": "Alain Krivine",
+          "parti": "Front communiste révolutionnaire",
+          "partiAbrev": "FCR",
+          "famille": "extreme-gauche",
+          "id": null,
+          "voix": 93990,
+          "pct": 0.37
+        },
+        {
+          "candidat": "Bertrand Renouvin",
+          "parti": "Nouvelle Action française",
+          "partiAbrev": "NAF",
+          "famille": "divers",
+          "id": null,
+          "voix": 43722,
+          "pct": 0.17
+        },
+        {
+          "candidat": "Jean-Claude Sebag",
+          "parti": "Mouvement fédéraliste européen",
+          "partiAbrev": "MFE",
+          "famille": "divers",
+          "id": null,
+          "voix": 42007,
+          "pct": 0.16
+        },
+        {
+          "candidat": "Guy Héraud",
+          "parti": "Parti fédéraliste européen",
+          "partiAbrev": "PFE",
+          "famille": "divers",
+          "id": null,
+          "voix": 19255,
+          "pct": 0.08
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 74-30 PDR du 7 mai 1974 – Déclaration relative aux résultats du premier tour de scrutin de l'élection du Président de la République",
+          "url": "https://www.conseil-constitutionnel.fr/decision/1974/7430pdr.htm",
+          "media": "Conseil constitutionnel",
+          "date": "1974-05-07"
+        },
+        {
+          "titre": "Élection présidentielle française de 1974 (blancs et nuls, étiquettes des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "tour": 2,
+      "date": "1974-05-19",
+      "inscrits": 30600775,
+      "votants": 26724595,
+      "blancs": null,
+      "nuls": null,
+      "blancsNuls": 356788,
+      "exprimes": 26367807,
+      "resultats": [
+        {
+          "candidat": "Valéry Giscard d'Estaing",
+          "parti": "Fédération nationale des républicains indépendants",
+          "partiAbrev": "FNRI",
+          "famille": "droite",
+          "id": null,
+          "voix": 13396203,
+          "pct": 50.81
+        },
+        {
+          "candidat": "François Mitterrand",
+          "parti": "Parti socialiste (Union de la gauche)",
+          "partiAbrev": "PS",
+          "famille": "gauche",
+          "id": null,
+          "voix": 12971604,
+          "pct": 49.19
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 74-32 PDR du 24 mai 1974 – Proclamation des résultats de l'élection du Président de la République",
+          "url": "https://www.conseil-constitutionnel.fr/decision/1974/7432PDR.htm",
+          "media": "Conseil constitutionnel",
+          "date": "1974-05-24"
+        },
+        {
+          "titre": "Élection présidentielle française de 1974 (blancs et nuls, étiquettes des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1974",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    }
+  ],
+  "derniereMiseAJour": "2026-11-14"
+}

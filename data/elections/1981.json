@@ -1,0 +1,168 @@
+{
+  "annee": 1981,
+  "contexte": "Le président sortant Valéry Giscard d'Estaing, arrivé en tête au premier tour, est battu au second tour par François Mitterrand, premier candidat de gauche élu président sous la Ve République.",
+  "elu": "François Mitterrand",
+  "tours": [
+    {
+      "tour": 1,
+      "date": "1981-04-26",
+      "inscrits": 36398859,
+      "votants": 29516082,
+      "blancs": null,
+      "nuls": null,
+      "blancsNuls": 477965,
+      "exprimes": 29038117,
+      "resultats": [
+        {
+          "candidat": "Valéry Giscard d'Estaing",
+          "parti": "Union pour la démocratie française",
+          "partiAbrev": "UDF",
+          "famille": "centre",
+          "id": null,
+          "voix": 8222432,
+          "pct": 28.32
+        },
+        {
+          "candidat": "François Mitterrand",
+          "parti": "Parti socialiste",
+          "partiAbrev": "PS",
+          "famille": "gauche",
+          "id": null,
+          "voix": 7505960,
+          "pct": 25.85
+        },
+        {
+          "candidat": "Jacques Chirac",
+          "parti": "Rassemblement pour la République",
+          "partiAbrev": "RPR",
+          "famille": "droite",
+          "id": null,
+          "voix": 5225848,
+          "pct": 18.0
+        },
+        {
+          "candidat": "Georges Marchais",
+          "parti": "Parti communiste français",
+          "partiAbrev": "PCF",
+          "famille": "gauche",
+          "id": null,
+          "voix": 4456922,
+          "pct": 15.35
+        },
+        {
+          "candidat": "Brice Lalonde",
+          "parti": "Mouvement d'écologie politique",
+          "partiAbrev": "MEP",
+          "famille": "ecologiste",
+          "id": null,
+          "voix": 1126254,
+          "pct": 3.88
+        },
+        {
+          "candidat": "Arlette Laguiller",
+          "parti": "Lutte ouvrière",
+          "partiAbrev": "LO",
+          "famille": "extreme-gauche",
+          "id": null,
+          "voix": 668057,
+          "pct": 2.3
+        },
+        {
+          "candidat": "Michel Crépeau",
+          "parti": "Mouvement des radicaux de gauche",
+          "partiAbrev": "MRG",
+          "famille": "gauche",
+          "id": null,
+          "voix": 642847,
+          "pct": 2.21
+        },
+        {
+          "candidat": "Michel Debré",
+          "parti": "Divers droite (gaulliste)",
+          "partiAbrev": "DVD",
+          "famille": "droite",
+          "id": null,
+          "voix": 481821,
+          "pct": 1.66
+        },
+        {
+          "candidat": "Marie-France Garaud",
+          "parti": "Indépendante",
+          "partiAbrev": "DVD",
+          "famille": "droite",
+          "id": null,
+          "voix": 386623,
+          "pct": 1.33
+        },
+        {
+          "candidat": "Huguette Bouchardeau",
+          "parti": "Parti socialiste unifié",
+          "partiAbrev": "PSU",
+          "famille": "gauche",
+          "id": null,
+          "voix": 321353,
+          "pct": 1.11
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 81-45 PDR du 29 avril 1981 – Déclaration relative aux résultats du premier tour de scrutin de l'élection du Président de la République",
+          "url": "https://www.conseil-constitutionnel.fr/decision/1981/8145pdr.htm",
+          "media": "Conseil constitutionnel",
+          "date": "1981-04-29"
+        },
+        {
+          "titre": "Élection présidentielle française de 1981 (blancs et nuls, étiquettes des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1981",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "tour": 2,
+      "date": "1981-05-10",
+      "inscrits": 36398762,
+      "votants": 31249552,
+      "blancs": null,
+      "nuls": null,
+      "blancsNuls": 898984,
+      "exprimes": 30350568,
+      "resultats": [
+        {
+          "candidat": "François Mitterrand",
+          "parti": "Parti socialiste",
+          "partiAbrev": "PS",
+          "famille": "gauche",
+          "id": null,
+          "voix": 15708262,
+          "pct": 51.76
+        },
+        {
+          "candidat": "Valéry Giscard d'Estaing",
+          "parti": "Union pour la démocratie française",
+          "partiAbrev": "UDF",
+          "famille": "centre",
+          "id": null,
+          "voix": 14642306,
+          "pct": 48.24
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 81-47 PDR du 15 mai 1981 – Proclamation des résultats de l'élection du Président de la République",
+          "url": "https://www.conseil-constitutionnel.fr/decision/1981/8147pdr.htm",
+          "media": "Conseil constitutionnel",
+          "date": "1981-05-15"
+        },
+        {
+          "titre": "Élection présidentielle française de 1981 (blancs et nuls, étiquettes des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1981",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    }
+  ],
+  "derniereMiseAJour": "2026-11-14"
+}

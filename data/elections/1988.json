@@ -1,0 +1,159 @@
+{
+  "annee": 1988,
+  "contexte": "Président sortant, François Mitterrand (PS) brigue un second septennat au terme de la première cohabitation ; il affronte au second tour son Premier ministre, Jacques Chirac (RPR).",
+  "elu": "François Mitterrand",
+  "tours": [
+    {
+      "tour": 1,
+      "date": "1988-04-24",
+      "inscrits": 38128507,
+      "votants": 31027972,
+      "blancs": null,
+      "nuls": null,
+      "blancsNuls": 621934,
+      "exprimes": 30406038,
+      "resultats": [
+        {
+          "candidat": "François Mitterrand",
+          "parti": "Parti socialiste",
+          "partiAbrev": "PS",
+          "famille": "gauche",
+          "id": null,
+          "voix": 10367220,
+          "pct": 34.1
+        },
+        {
+          "candidat": "Jacques Chirac",
+          "parti": "Rassemblement pour la République",
+          "partiAbrev": "RPR",
+          "famille": "droite",
+          "id": null,
+          "voix": 6063514,
+          "pct": 19.94
+        },
+        {
+          "candidat": "Raymond Barre",
+          "parti": "Union pour la démocratie française",
+          "partiAbrev": "UDF",
+          "famille": "centre",
+          "id": null,
+          "voix": 5031849,
+          "pct": 16.55
+        },
+        {
+          "candidat": "Jean-Marie Le Pen",
+          "parti": "Front national",
+          "partiAbrev": "FN",
+          "famille": "extreme-droite",
+          "id": null,
+          "voix": 4375894,
+          "pct": 14.39
+        },
+        {
+          "candidat": "André Lajoinie",
+          "parti": "Parti communiste français",
+          "partiAbrev": "PCF",
+          "famille": "gauche",
+          "id": null,
+          "voix": 2055995,
+          "pct": 6.76
+        },
+        {
+          "candidat": "Antoine Waechter",
+          "parti": "Les Verts",
+          "partiAbrev": "LV",
+          "famille": "ecologiste",
+          "id": null,
+          "voix": 1149642,
+          "pct": 3.78
+        },
+        {
+          "candidat": "Pierre Juquin",
+          "parti": "Divers gauche (soutenu par le PSU et la LCR)",
+          "partiAbrev": "DVG",
+          "famille": "gauche",
+          "id": null,
+          "voix": 639084,
+          "pct": 2.1
+        },
+        {
+          "candidat": "Arlette Laguiller",
+          "parti": "Lutte ouvrière",
+          "partiAbrev": "LO",
+          "famille": "extreme-gauche",
+          "id": null,
+          "voix": 606017,
+          "pct": 1.99
+        },
+        {
+          "candidat": "Pierre Boussel",
+          "parti": "Mouvement pour un parti des travailleurs",
+          "partiAbrev": "MPPT",
+          "famille": "extreme-gauche",
+          "id": null,
+          "voix": 116823,
+          "pct": 0.38
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 88-56 PDR du 27 avril 1988 — Déclaration relative aux résultats du premier tour de scrutin",
+          "url": "https://www.conseil-constitutionnel.fr/decision/1988/8856pdr.htm",
+          "media": "Conseil constitutionnel",
+          "date": "1988-04-27"
+        },
+        {
+          "titre": "Élection présidentielle française de 1988 (blancs et nuls, partis)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1988",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "tour": 2,
+      "date": "1988-05-08",
+      "inscrits": 38168869,
+      "votants": 32085071,
+      "blancs": null,
+      "nuls": null,
+      "blancsNuls": 1161822,
+      "exprimes": 30923249,
+      "resultats": [
+        {
+          "candidat": "François Mitterrand",
+          "parti": "Parti socialiste",
+          "partiAbrev": "PS",
+          "famille": "gauche",
+          "id": null,
+          "voix": 16704279,
+          "pct": 54.02
+        },
+        {
+          "candidat": "Jacques Chirac",
+          "parti": "Rassemblement pour la République",
+          "partiAbrev": "RPR",
+          "famille": "droite",
+          "id": null,
+          "voix": 14218970,
+          "pct": 45.98
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 88-60 PDR du 11 mai 1988 — Proclamation des résultats de l'élection du Président de la République",
+          "url": "https://www.conseil-constitutionnel.fr/decision/1988/8860PDR.htm",
+          "media": "Conseil constitutionnel",
+          "date": "1988-05-11"
+        },
+        {
+          "titre": "Élection présidentielle française de 1988 (blancs et nuls, partis)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1988",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    }
+  ],
+  "derniereMiseAJour": "2026-11-14"
+}

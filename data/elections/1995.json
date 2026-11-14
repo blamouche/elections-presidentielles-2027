@@ -1,0 +1,159 @@
+{
+  "annee": 1995,
+  "contexte": "François Mitterrand, président sortant, ne se représente pas ; deux candidats issus du RPR, Jacques Chirac et le Premier ministre Édouard Balladur, s'affrontent au premier tour, et Lionel Jospin (PS) arrive en tête.",
+  "elu": "Jacques Chirac",
+  "tours": [
+    {
+      "tour": 1,
+      "date": "1995-04-23",
+      "inscrits": 39992912,
+      "votants": 31345794,
+      "blancs": null,
+      "nuls": null,
+      "blancsNuls": 883161,
+      "exprimes": 30462633,
+      "resultats": [
+        {
+          "candidat": "Lionel Jospin",
+          "parti": "Parti socialiste",
+          "partiAbrev": "PS",
+          "famille": "gauche",
+          "id": null,
+          "voix": 7097786,
+          "pct": 23.3
+        },
+        {
+          "candidat": "Jacques Chirac",
+          "parti": "Rassemblement pour la République",
+          "partiAbrev": "RPR",
+          "famille": "droite",
+          "id": null,
+          "voix": 6348375,
+          "pct": 20.84
+        },
+        {
+          "candidat": "Édouard Balladur",
+          "parti": "Rassemblement pour la République",
+          "partiAbrev": "RPR",
+          "famille": "droite",
+          "id": null,
+          "voix": 5658796,
+          "pct": 18.58
+        },
+        {
+          "candidat": "Jean-Marie Le Pen",
+          "parti": "Front national",
+          "partiAbrev": "FN",
+          "famille": "extreme-droite",
+          "id": null,
+          "voix": 4570838,
+          "pct": 15.0
+        },
+        {
+          "candidat": "Robert Hue",
+          "parti": "Parti communiste français",
+          "partiAbrev": "PCF",
+          "famille": "gauche",
+          "id": null,
+          "voix": 2632460,
+          "pct": 8.64
+        },
+        {
+          "candidat": "Arlette Laguiller",
+          "parti": "Lutte ouvrière",
+          "partiAbrev": "LO",
+          "famille": "extreme-gauche",
+          "id": null,
+          "voix": 1615552,
+          "pct": 5.3
+        },
+        {
+          "candidat": "Philippe de Villiers",
+          "parti": "Mouvement pour la France",
+          "partiAbrev": "MPF",
+          "famille": "droite",
+          "id": null,
+          "voix": 1443186,
+          "pct": 4.74
+        },
+        {
+          "candidat": "Dominique Voynet",
+          "parti": "Les Verts",
+          "partiAbrev": "LV",
+          "famille": "ecologiste",
+          "id": null,
+          "voix": 1010681,
+          "pct": 3.32
+        },
+        {
+          "candidat": "Jacques Cheminade",
+          "parti": "Fédération pour une nouvelle solidarité",
+          "partiAbrev": "FNS",
+          "famille": "divers",
+          "id": null,
+          "voix": 84959,
+          "pct": 0.28
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 95-79 PDR du 26 avril 1995 — Déclaration relative aux résultats du premier tour de scrutin",
+          "url": "https://www.conseil-constitutionnel.fr/decision/1995/9579pdr.htm",
+          "media": "Conseil constitutionnel",
+          "date": "1995-04-26"
+        },
+        {
+          "titre": "Élection présidentielle française de 1995 (blancs et nuls, partis)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1995",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "tour": 2,
+      "date": "1995-05-07",
+      "inscrits": 39976944,
+      "votants": 31845819,
+      "blancs": null,
+      "nuls": null,
+      "blancsNuls": 1902148,
+      "exprimes": 29943671,
+      "resultats": [
+        {
+          "candidat": "Jacques Chirac",
+          "parti": "Rassemblement pour la République",
+          "partiAbrev": "RPR",
+          "famille": "droite",
+          "id": null,
+          "voix": 15763027,
+          "pct": 52.64
+        },
+        {
+          "candidat": "Lionel Jospin",
+          "parti": "Parti socialiste",
+          "partiAbrev": "PS",
+          "famille": "gauche",
+          "id": null,
+          "voix": 14180644,
+          "pct": 47.36
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 95-81 PDR du 12 mai 1995 — Proclamation des résultats de l'élection du Président de la République",
+          "url": "https://www.conseil-constitutionnel.fr/decision/1995/9581PDR.htm",
+          "media": "Conseil constitutionnel",
+          "date": "1995-05-12"
+        },
+        {
+          "titre": "Élection présidentielle française de 1995 (blancs et nuls, partis)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1995",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    }
+  ],
+  "derniereMiseAJour": "2026-11-14"
+}

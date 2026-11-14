@@ -1,0 +1,186 @@
+{
+  "annee": 2007,
+  "contexte": "Le président sortant Jacques Chirac ne se représentait pas. Ségolène Royal est la première femme qualifiée pour le second tour d'une élection présidentielle.",
+  "elu": "Nicolas Sarkozy",
+  "tours": [
+    {
+      "tour": 1,
+      "date": "2007-04-22",
+      "inscrits": 44472834,
+      "votants": 37254242,
+      "blancs": null,
+      "nuls": null,
+      "blancsNuls": 534846,
+      "exprimes": 36719396,
+      "resultats": [
+        {
+          "candidat": "Nicolas Sarkozy",
+          "parti": "Union pour un mouvement populaire",
+          "partiAbrev": "UMP",
+          "famille": "droite",
+          "id": null,
+          "voix": 11448663,
+          "pct": 31.18
+        },
+        {
+          "candidat": "Ségolène Royal",
+          "parti": "Parti socialiste",
+          "partiAbrev": "PS",
+          "famille": "gauche",
+          "id": null,
+          "voix": 9500112,
+          "pct": 25.87
+        },
+        {
+          "candidat": "François Bayrou",
+          "parti": "Union pour la démocratie française",
+          "partiAbrev": "UDF",
+          "famille": "centre",
+          "id": null,
+          "voix": 6820119,
+          "pct": 18.57
+        },
+        {
+          "candidat": "Jean-Marie Le Pen",
+          "parti": "Front national",
+          "partiAbrev": "FN",
+          "famille": "extreme-droite",
+          "id": null,
+          "voix": 3834530,
+          "pct": 10.44
+        },
+        {
+          "candidat": "Olivier Besancenot",
+          "parti": "Ligue communiste révolutionnaire",
+          "partiAbrev": "LCR",
+          "famille": "extreme-gauche",
+          "id": null,
+          "voix": 1498581,
+          "pct": 4.08
+        },
+        {
+          "candidat": "Philippe de Villiers",
+          "parti": "Mouvement pour la France",
+          "partiAbrev": "MPF",
+          "famille": "droite",
+          "id": null,
+          "voix": 818407,
+          "pct": 2.23
+        },
+        {
+          "candidat": "Marie-George Buffet",
+          "parti": "Parti communiste français",
+          "partiAbrev": "PCF",
+          "famille": "gauche",
+          "id": null,
+          "voix": 707268,
+          "pct": 1.93
+        },
+        {
+          "candidat": "Dominique Voynet",
+          "parti": "Les Verts",
+          "partiAbrev": "VEC",
+          "famille": "ecologiste",
+          "id": null,
+          "voix": 576666,
+          "pct": 1.57
+        },
+        {
+          "candidat": "Arlette Laguiller",
+          "parti": "Lutte ouvrière",
+          "partiAbrev": "LO",
+          "famille": "extreme-gauche",
+          "id": null,
+          "voix": 487857,
+          "pct": 1.33
+        },
+        {
+          "candidat": "José Bové",
+          "parti": "Divers gauche",
+          "partiAbrev": "DVG",
+          "famille": "gauche",
+          "id": null,
+          "voix": 483008,
+          "pct": 1.32
+        },
+        {
+          "candidat": "Frédéric Nihous",
+          "parti": "Chasse, pêche, nature et traditions",
+          "partiAbrev": "CPNT",
+          "famille": "divers",
+          "id": null,
+          "voix": 420645,
+          "pct": 1.15
+        },
+        {
+          "candidat": "Gérard Schivardi",
+          "parti": "Parti des travailleurs",
+          "partiAbrev": "PT",
+          "famille": "extreme-gauche",
+          "id": null,
+          "voix": 123540,
+          "pct": 0.34
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 2007-139 PDR du 25 avril 2007 — Déclaration relative aux résultats du premier tour de scrutin de l'élection du Président de la République",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007139PDR.htm",
+          "media": "Conseil constitutionnel",
+          "date": "2007-04-25"
+        },
+        {
+          "titre": "Élection présidentielle française de 2007",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "tour": 2,
+      "date": "2007-05-06",
+      "inscrits": 44472733,
+      "votants": 37342004,
+      "blancs": null,
+      "nuls": null,
+      "blancsNuls": 1568426,
+      "exprimes": 35773578,
+      "resultats": [
+        {
+          "candidat": "Nicolas Sarkozy",
+          "parti": "Union pour un mouvement populaire",
+          "partiAbrev": "UMP",
+          "famille": "droite",
+          "id": null,
+          "voix": 18983138,
+          "pct": 53.06
+        },
+        {
+          "candidat": "Ségolène Royal",
+          "parti": "Parti socialiste",
+          "partiAbrev": "PS",
+          "famille": "gauche",
+          "id": null,
+          "voix": 16790440,
+          "pct": 46.94
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 2007-141 PDR du 10 mai 2007 portant proclamation des résultats de l'élection du Président de la République",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007141pdr.htm",
+          "media": "Conseil constitutionnel",
+          "date": "2007-05-10"
+        },
+        {
+          "titre": "Élection présidentielle française de 2007",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    }
+  ],
+  "derniereMiseAJour": "2026-11-14"
+}

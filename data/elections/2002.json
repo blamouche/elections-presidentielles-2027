@@ -1,0 +1,234 @@
+{
+  "annee": 2002,
+  "contexte": "Première élection pour un quinquennat ; le président sortant Jacques Chirac est réélu face à Jean-Marie Le Pen, premier candidat d'extrême droite qualifié pour un second tour sous la Ve République, le Premier ministre Lionel Jospin étant éliminé dès le premier tour.",
+  "elu": "Jacques Chirac",
+  "tours": [
+    {
+      "tour": 1,
+      "date": "2002-04-21",
+      "inscrits": 41194689,
+      "votants": 29495733,
+      "blancs": null,
+      "nuls": null,
+      "blancsNuls": 997262,
+      "exprimes": 28498471,
+      "resultats": [
+        {
+          "candidat": "Jacques Chirac",
+          "parti": "Rassemblement pour la République",
+          "partiAbrev": "RPR",
+          "famille": "droite",
+          "id": null,
+          "voix": 5665855,
+          "pct": 19.88
+        },
+        {
+          "candidat": "Jean-Marie Le Pen",
+          "parti": "Front national",
+          "partiAbrev": "FN",
+          "famille": "extreme-droite",
+          "id": null,
+          "voix": 4804713,
+          "pct": 16.86
+        },
+        {
+          "candidat": "Lionel Jospin",
+          "parti": "Parti socialiste",
+          "partiAbrev": "PS",
+          "famille": "gauche",
+          "id": null,
+          "voix": 4610113,
+          "pct": 16.18
+        },
+        {
+          "candidat": "François Bayrou",
+          "parti": "Union pour la démocratie française",
+          "partiAbrev": "UDF",
+          "famille": "centre",
+          "id": null,
+          "voix": 1949170,
+          "pct": 6.84
+        },
+        {
+          "candidat": "Arlette Laguiller",
+          "parti": "Lutte ouvrière",
+          "partiAbrev": "LO",
+          "famille": "extreme-gauche",
+          "id": null,
+          "voix": 1630045,
+          "pct": 5.72
+        },
+        {
+          "candidat": "Jean-Pierre Chevènement",
+          "parti": "Mouvement des citoyens",
+          "partiAbrev": "MDC",
+          "famille": "gauche",
+          "id": null,
+          "voix": 1518528,
+          "pct": 5.33
+        },
+        {
+          "candidat": "Noël Mamère",
+          "parti": "Les Verts",
+          "partiAbrev": "LV",
+          "famille": "ecologiste",
+          "id": null,
+          "voix": 1495724,
+          "pct": 5.25
+        },
+        {
+          "candidat": "Olivier Besancenot",
+          "parti": "Ligue communiste révolutionnaire",
+          "partiAbrev": "LCR",
+          "famille": "extreme-gauche",
+          "id": null,
+          "voix": 1210562,
+          "pct": 4.25
+        },
+        {
+          "candidat": "Jean Saint-Josse",
+          "parti": "Chasse, pêche, nature et traditions",
+          "partiAbrev": "CPNT",
+          "famille": "divers",
+          "id": null,
+          "voix": 1204689,
+          "pct": 4.23
+        },
+        {
+          "candidat": "Alain Madelin",
+          "parti": "Démocratie libérale",
+          "partiAbrev": "DL",
+          "famille": "droite",
+          "id": null,
+          "voix": 1113484,
+          "pct": 3.91
+        },
+        {
+          "candidat": "Robert Hue",
+          "parti": "Parti communiste français",
+          "partiAbrev": "PCF",
+          "famille": "gauche",
+          "id": null,
+          "voix": 960480,
+          "pct": 3.37
+        },
+        {
+          "candidat": "Bruno Mégret",
+          "parti": "Mouvement national républicain",
+          "partiAbrev": "MNR",
+          "famille": "extreme-droite",
+          "id": null,
+          "voix": 667026,
+          "pct": 2.34
+        },
+        {
+          "candidat": "Christiane Taubira",
+          "parti": "Parti radical de gauche",
+          "partiAbrev": "PRG",
+          "famille": "gauche",
+          "id": null,
+          "voix": 660447,
+          "pct": 2.32
+        },
+        {
+          "candidat": "Corinne Lepage",
+          "parti": "Cap21",
+          "partiAbrev": "Cap21",
+          "famille": "ecologiste",
+          "id": null,
+          "voix": 535837,
+          "pct": 1.88
+        },
+        {
+          "candidat": "Christine Boutin",
+          "parti": "Forum des républicains sociaux",
+          "partiAbrev": "FRS",
+          "famille": "droite",
+          "id": null,
+          "voix": 339112,
+          "pct": 1.19
+        },
+        {
+          "candidat": "Daniel Gluckstein",
+          "parti": "Parti des travailleurs",
+          "partiAbrev": "PT",
+          "famille": "extreme-gauche",
+          "id": null,
+          "voix": 132686,
+          "pct": 0.47
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 2002-109 PDR du 24 avril 2002 — Déclaration relative aux résultats du premier tour de scrutin",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002109PDR.htm",
+          "media": "Conseil constitutionnel",
+          "date": "2002-04-24"
+        },
+        {
+          "titre": "Élection présidentielle 2002 — Les deux tours (blancs et nuls)",
+          "url": "https://www.conseil-constitutionnel.fr/election-presidentielle-2002/les-deux-tours",
+          "media": "Conseil constitutionnel",
+          "date": "2026-11-14"
+        },
+        {
+          "titre": "Élection présidentielle française de 2002 (partis)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2002",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "tour": 2,
+      "date": "2002-05-05",
+      "inscrits": 41191169,
+      "votants": 32832295,
+      "blancs": null,
+      "nuls": null,
+      "blancsNuls": 1769307,
+      "exprimes": 31062988,
+      "resultats": [
+        {
+          "candidat": "Jacques Chirac",
+          "parti": "Rassemblement pour la République",
+          "partiAbrev": "RPR",
+          "famille": "droite",
+          "id": null,
+          "voix": 25537956,
+          "pct": 82.21
+        },
+        {
+          "candidat": "Jean-Marie Le Pen",
+          "parti": "Front national",
+          "partiAbrev": "FN",
+          "famille": "extreme-droite",
+          "id": null,
+          "voix": 5525032,
+          "pct": 17.79
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 2002-111 PDR du 8 mai 2002 — Proclamation des résultats de l'élection du Président de la République",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2002/2002111PDR.htm",
+          "media": "Conseil constitutionnel",
+          "date": "2002-05-08"
+        },
+        {
+          "titre": "Élection présidentielle 2002 — Les deux tours (blancs et nuls)",
+          "url": "https://www.conseil-constitutionnel.fr/election-presidentielle-2002/les-deux-tours",
+          "media": "Conseil constitutionnel",
+          "date": "2026-11-14"
+        },
+        {
+          "titre": "Élection présidentielle française de 2002 (partis)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2002",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    }
+  ],
+  "derniereMiseAJour": "2026-11-14"
+}

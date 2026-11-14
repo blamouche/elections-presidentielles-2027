@@ -1,0 +1,141 @@
+{
+  "annee": 1969,
+  "contexte": "Élection anticipée à la suite de la démission de Charles de Gaulle le 28 avril 1969, après l'échec du référendum ; Alain Poher, président du Sénat, assure l'intérim. Georges Pompidou l'emporte au second tour face à Alain Poher, sans candidat de gauche au second tour.",
+  "elu": "Georges Pompidou",
+  "tours": [
+    {
+      "tour": 1,
+      "date": "1969-06-01",
+      "inscrits": 29513361,
+      "votants": 22898960,
+      "blancs": null,
+      "nuls": null,
+      "blancsNuls": 295036,
+      "exprimes": 22603924,
+      "resultats": [
+        {
+          "candidat": "Georges Pompidou",
+          "parti": "Union des démocrates pour la République",
+          "partiAbrev": "UDR",
+          "famille": "droite",
+          "id": null,
+          "voix": 10051783,
+          "pct": 44.47
+        },
+        {
+          "candidat": "Alain Poher",
+          "parti": "Centre démocrate",
+          "partiAbrev": "CD",
+          "famille": "centre",
+          "id": null,
+          "voix": 5268613,
+          "pct": 23.31
+        },
+        {
+          "candidat": "Jacques Duclos",
+          "parti": "Parti communiste français",
+          "partiAbrev": "PCF",
+          "famille": "gauche",
+          "id": null,
+          "voix": 4808285,
+          "pct": 21.27
+        },
+        {
+          "candidat": "Gaston Defferre",
+          "parti": "Section française de l'Internationale ouvrière",
+          "partiAbrev": "SFIO",
+          "famille": "gauche",
+          "id": null,
+          "voix": 1133222,
+          "pct": 5.01
+        },
+        {
+          "candidat": "Michel Rocard",
+          "parti": "Parti socialiste unifié",
+          "partiAbrev": "PSU",
+          "famille": "gauche",
+          "id": null,
+          "voix": 816470,
+          "pct": 3.61
+        },
+        {
+          "candidat": "Louis Ducatel",
+          "parti": "Divers gauche",
+          "partiAbrev": "DVG",
+          "famille": "divers",
+          "id": null,
+          "voix": 286447,
+          "pct": 1.27
+        },
+        {
+          "candidat": "Alain Krivine",
+          "parti": "Ligue communiste",
+          "partiAbrev": "LC",
+          "famille": "extreme-gauche",
+          "id": null,
+          "voix": 239104,
+          "pct": 1.06
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 69-20 PDR du 3 juin 1969 – Déclaration relative aux résultats du premier tour de scrutin de l'élection du Président de la République",
+          "url": "https://www.conseil-constitutionnel.fr/decision/1969/6920PDR.htm",
+          "media": "Conseil constitutionnel",
+          "date": "1969-06-03"
+        },
+        {
+          "titre": "Élection présidentielle française de 1969 (blancs et nuls, étiquettes des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1969",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "tour": 2,
+      "date": "1969-06-15",
+      "inscrits": 29500334,
+      "votants": 20311287,
+      "blancs": null,
+      "nuls": null,
+      "blancsNuls": 1303798,
+      "exprimes": 19007489,
+      "resultats": [
+        {
+          "candidat": "Georges Pompidou",
+          "parti": "Union des démocrates pour la République",
+          "partiAbrev": "UDR",
+          "famille": "droite",
+          "id": null,
+          "voix": 11064371,
+          "pct": 58.21
+        },
+        {
+          "candidat": "Alain Poher",
+          "parti": "Centre démocrate",
+          "partiAbrev": "CD",
+          "famille": "centre",
+          "id": null,
+          "voix": 7943118,
+          "pct": 41.79
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 69-22 PDR du 19 juin 1969 – Proclamation des résultats de l'élection du Président de la République",
+          "url": "https://www.conseil-constitutionnel.fr/decision/1969/6922pdr.htm",
+          "media": "Conseil constitutionnel",
+          "date": "1969-06-19"
+        },
+        {
+          "titre": "Élection présidentielle française de 1969 (blancs et nuls, étiquettes des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1969",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    }
+  ],
+  "derniereMiseAJour": "2026-11-14"
+}

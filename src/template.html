@@ -1,4 +1,4 @@
-<title>Comparateur Présidentielle 2027</title>
+<title>Présidentielle 2027</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <meta name="description" content="Programmes, parcours, affaires judiciaires et fact-checking des candidats à l'élection présidentielle française de 2027, chaque information reliée à sa source.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -273,6 +273,7 @@ table.matrix { --c0: 180px; --cw: 250px; border-collapse: separate; border-spaci
 .map-legend .ring { fill: none; stroke: currentColor; stroke-width: 3; }
 .map-tip { position: absolute; z-index: 3; pointer-events: none; display: grid; gap: 2px; background: var(--ink); color: var(--bg); padding: 8px 10px; border-radius: var(--radius); font-size: 0.8rem; max-width: 280px; box-shadow: 0 4px 14px rgba(0,0,0,.18); }
 .map-tip .muted { color: inherit; opacity: 0.7; }
+.map-tip[hidden] { display: none; }
 table.datatable { width: 100%; border-collapse: collapse; font-size: 0.88rem; min-width: 720px; }
 .datatable th, .datatable td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); vertical-align: middle; }
 .datatable thead th { font-family: var(--font-data); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 500; }
@@ -401,6 +402,8 @@ body.is-report main.wrap { padding-inline: 16px; }
 .r-figs { margin: 0 0 1.5mm; padding-left: 5mm; font-family: var(--font-data); font-size: 8pt; }
 .r-fc { font-size: 8.8pt; background: #f4f5f8; padding: 1.5mm 2.5mm; border-radius: 1mm; }
 .r-fc .verdict { margin-right: 1.5mm; }
+.r-elec { break-inside: auto; margin-bottom: 4mm; }
+.r-elec h3 { margin-top: 3mm; }
 .r-intl .r-pos { width: 14mm; text-align: center; font: 600 11pt var(--font-data); }
 .r-intl td:first-child { width: 42mm; }
 .r-poles { display: block; font-size: 7pt; color: var(--muted); margin-top: 0.8mm; }
@@ -416,6 +419,51 @@ sup.ref { font-size: 6.5pt; font-family: var(--font-data); margin-left: 0.5mm; w
   .report { padding: 0; max-width: none; }
   * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 }
+/* Familles politiques (historique) */
+:root { --fam-extreme-gauche: #A3202B; --fam-gauche: #D6336C; --fam-ecologiste: #2E8B45; --fam-centre: #C98000; --fam-droite: #2B5DB8; --fam-extreme-droite: #1E2A52; --fam-divers: #7D8396; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --fam-extreme-gauche: #F06A72; --fam-gauche: #F27BA6; --fam-ecologiste: #5CC77A; --fam-centre: #F2B84B; --fam-droite: #6D9BF0; --fam-extreme-droite: #8E9BD6; --fam-divers: #A5ABC2; } }
+:root[data-theme="dark"] { --fam-extreme-gauche: #F06A72; --fam-gauche: #F27BA6; --fam-ecologiste: #5CC77A; --fam-centre: #F2B84B; --fam-droite: #6D9BF0; --fam-extreme-droite: #8E9BD6; --fam-divers: #A5ABC2; }
+.hbars { list-style: none; margin: 12px 0; padding: 0; display: grid; gap: 6px; }
+.hbars li { display: grid; grid-template-columns: minmax(0, 15rem) minmax(0, 1fr) 7.5rem; gap: 12px; align-items: center; }
+.hbars li.win .hb-name { font-weight: 700; }
+.hb-name { font-size: 0.92rem; line-height: 1.25; }
+.hb-name a { color: inherit; }
+.hb-party { display: block; font-size: 0.75rem; color: var(--muted); }
+.hb-track { height: 14px; background: var(--surface-2); border-radius: 3px; overflow: hidden; }
+.hb-bar { display: block; height: 100%; border-radius: 0 4px 4px 0; }
+.hb-val { text-align: right; font-family: var(--font-data); font-variant-numeric: tabular-nums; font-size: 0.85rem; line-height: 1.2; }
+.hb-val span { display: block; font-size: 0.7rem; color: var(--muted); }
+.hbars.sm li { grid-template-columns: minmax(0, 11rem) minmax(0, 1fr) 4rem; }
+.hbars.sm .hb-track { height: 9px; }
+@media (max-width: 640px) { .hbars li { grid-template-columns: minmax(0, 1fr) 6.5rem; } .hbars li .hb-track { grid-column: 1 / -1; grid-row: 2; } .hbars.sm li { grid-template-columns: minmax(0, 1fr) 3.5rem; } }
+.tour-block { margin-top: 12px; }
+.tb-head { display: flex; flex-wrap: wrap; gap: 8px 24px; align-items: baseline; justify-content: space-between; }
+.kv { display: flex; flex-wrap: wrap; gap: 4px 18px; margin: 0; font-size: 0.82rem; }
+.kv div { display: flex; gap: 6px; }
+.kv dt { color: var(--muted); }
+.kv dd { margin: 0; font-family: var(--font-data); font-variant-numeric: tabular-nums; }
+.datatable tr.sel { background: var(--accent-soft); }
+a.chip { text-decoration: none; color: inherit; }
+.chart-wrap { overflow-x: auto; position: relative; padding: 8px 4px; }
+.chart-wrap svg { width: 100%; height: auto; display: block; }
+.chart-wrap .grid { stroke: var(--line); stroke-width: 1; }
+.chart-wrap .ax { fill: var(--muted); font: 12px var(--font-data); }
+.chart-wrap .ln { fill: none; stroke: var(--c); stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+.chart-wrap .dot { fill: var(--c); stroke: var(--surface); stroke-width: 2; }
+.chart-wrap .dot-hit { fill: transparent; cursor: pointer; }
+.chart-wrap .pt:hover .dot, .chart-wrap .pt:focus .dot { r: 6; }
+.chart-wrap .endlbl { font: 600 12.5px var(--font-body); }
+.polls { display: grid; gap: 6px; }
+.poll { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
+.poll summary { cursor: pointer; display: grid; grid-template-columns: 6.5rem minmax(0, 16rem) minmax(0, 1fr) auto; gap: 6px 14px; align-items: center; padding: 9px 14px; font-size: 0.9rem; }
+.poll summary::-webkit-details-marker { display: none; }
+.poll[open] summary { border-bottom: 1px solid var(--line); }
+.pl-top { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 0.85rem; }
+.pl-n { font-size: 0.78rem; }
+.pl-body { padding: 10px 14px 14px; display: grid; gap: 10px; }
+.pl-hyps { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px 24px; }
+.pl-hyp .eyebrow { text-transform: none; letter-spacing: 0; font-size: 0.75rem; }
+@media (max-width: 760px) { .poll summary { grid-template-columns: 5.5rem minmax(0, 1fr); } .pl-top { grid-column: 1 / -1; } .pl-n { display: none; } }
 .dl-btn { display: inline-flex; align-items: center; gap: 6px; font: 600 0.82rem var(--font-body); color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 5px 10px; cursor: pointer; white-space: nowrap; }
 .dl-btn:hover { border-color: var(--accent); color: var(--accent); }
 .dl-btn:disabled { opacity: 0.6; cursor: progress; }
@@ -434,7 +482,7 @@ footer .wrap { display: flex; flex-wrap: wrap; gap: 8px 20px; justify-content: s
 
 <header class="top">
   <div class="wrap">
-    <a class="brand" href="#accueil" aria-label="Accueil"><span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span><b>Comparateur Présidentielle 2027</b></a>
+    <a class="brand" href="#accueil" aria-label="Accueil"><span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span><b>Présidentielle 2027</b></a>
     <nav class="nav" id="nav" aria-label="Sections"></nav>
     <span class="countdown" id="countdown"></span>
     <button type="button" class="dl-btn" data-dl title="Toutes les données détaillées des fiches, avec leurs sources, en un seul PDF"><svg viewBox="0 0 16 16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v8M4.5 6.5 8 10l3.5-3.5M3 13h10"/></svg>Export PDF</button>
@@ -591,7 +639,8 @@ function route() {
     const [id, tab] = h.slice(2).split("--");
     if (BY_ID[id]) return { view: "candidat", id, tab: tab || "programme" };
   }
-  if (["comparer", "carte", "international", "fact-check", "sources", "rapport"].includes(h)) return { view: h };
+  if (["comparer", "carte", "international", "fact-check", "sources", "rapport", "sondages"].includes(h)) return { view: h };
+  if (h === "historique" || h.startsWith("historique-")) return { view: "historique", year: h.split("-")[1] };
   return { view: "accueil" };
 }
 let lastView = "";
@@ -605,18 +654,20 @@ function render() {
     : r.view === "fact-check" ? viewFactcheck()
     : r.view === "sources" ? viewSources()
     : r.view === "rapport" ? viewRapport()
+    : r.view === "historique" ? viewHistorique(r.year)
+    : r.view === "sondages" ? viewSondages()
     : viewAccueil();
   app.innerHTML = `<div class="view">${html}</div>`;
   document.body.classList.toggle("is-report", r.view === "rapport");
   renderNav(r.view);
   const key = r.view + (r.id || "");
   if (key !== lastView) { window.scrollTo(0, 0); lastView = key; }
-  document.title = r.view === "candidat" ? `${fullName(BY_ID[r.id])} · Comparateur Présidentielle 2027` : r.view === "rapport" ? `Comparateur Présidentielle 2027 · Dossier complet (${fmtDate(DATA.generatedAt)})` : "Comparateur Présidentielle 2027";
+  document.title = r.view === "candidat" ? `${fullName(BY_ID[r.id])} · Présidentielle 2027` : r.view === "rapport" ? `Présidentielle 2027 · Dossier complet (${fmtDate(DATA.generatedAt)})` : "Présidentielle 2027";
 }
 function renderNav(view) {
-  const items = [["accueil", "Candidats"], ["comparer", "Comparer", state.compare.size || ""], ["carte", "Carte"], ["international", "International"], ["fact-check", "Fact-check"], ["sources", "Sources & méthode"]];
+  const items = [["accueil", "Candidats"], ["comparer", "Comparer", state.compare.size || ""], ["carte", "Carte"], ["international", "International"], ["sondages", "Sondages"], ["historique", "Historique"], ["fact-check", "Fact-check"], ["sources", "Sources & méthode"]];
   const cur = view === "candidat" ? "accueil" : view;
-  document.getElementById("nav").innerHTML = items.map(([h, l, n]) =>
+  document.getElementById("nav").innerHTML = items.filter(([h]) => h !== "sondages" || SD().length).map(([h, l, n]) =>
     `<a href="#${h}" ${cur === h ? 'aria-current="page"' : ""}>${l}${n ? `<span class="count">${n}</span>` : ""}</a>`).join("");
 }
 
@@ -982,21 +1033,26 @@ function viewCarte() {
 }
 // Infobulle de la carte (souris et clavier).
 function showTip(a) {
-  const tip = document.getElementById("map-tip"), wrap = document.getElementById("map-wrap");
-  if (!tip || !wrap) return;
-  const [name, party, cred, jud] = a.dataset.tip.split("|");
-  tip.innerHTML = `<strong>${esc(name)}</strong><span class="muted">${esc(party)}</span><span>${esc(cred)}</span><span>${esc(jud)}</span>`;
+  const wrap = a.closest(".map-wrap"), tip = wrap?.querySelector(".map-tip");
+  if (!tip) return;
+  const [head, ...rest] = a.dataset.tip.split("|");
+  tip.innerHTML = `<strong>${esc(head)}</strong>${rest.map((x, i) => `<span${i === 0 ? ' class="muted"' : ""}>${esc(x)}</span>`).join("")}`;
   tip.hidden = false;
-  const rb = a.querySelector(".ring, .ring2").getBoundingClientRect(), wb = wrap.getBoundingClientRect();
+  const rb = (a.querySelector(".ring, .ring2, .dot-hit") || a).getBoundingClientRect(), wb = wrap.getBoundingClientRect();
   let left = rb.left - wb.left + wrap.scrollLeft + rb.width / 2 - tip.offsetWidth / 2;
   left = Math.max(wrap.scrollLeft + 6, Math.min(left, wrap.scrollLeft + wrap.clientWidth - tip.offsetWidth - 6));
   let top = rb.top - wb.top - tip.offsetHeight - 8;
   if (top < 4) top = rb.bottom - wb.top + 8;
   tip.style.left = left + "px"; tip.style.top = top + "px";
 }
-const hideTip = () => { const t = document.getElementById("map-tip"); if (t) t.hidden = true; };
+const hideTip = () => document.querySelectorAll(".map-tip").forEach((t) => (t.hidden = true));
 document.addEventListener("mouseover", (e) => { const a = e.target.closest?.(".pt"); a ? showTip(a) : hideTip(); });
 document.addEventListener("focusin", (e) => { const a = e.target.closest?.(".pt"); a ? showTip(a) : hideTip(); });
+// Masquer l'infobulle dès qu'on quitte un point : sortie du graphique ou de la fenêtre, perte du focus, tap ailleurs, défilement.
+document.addEventListener("mouseout", (e) => { if (e.target.closest?.(".pt") && !e.relatedTarget?.closest?.(".pt")) hideTip(); });
+document.addEventListener("focusout", (e) => { if (e.target.closest?.(".pt")) hideTip(); });
+document.addEventListener("pointerdown", (e) => { if (!e.target.closest?.(".pt")) hideTip(); });
+window.addEventListener("scroll", hideTip, { passive: true });
 
 /* ---------- Politique extérieure ---------- */
 const INTL_AXES = [
@@ -1172,6 +1228,173 @@ function viewSources() {
   </section>`;
 }
 
+/* ---------- Couleurs des familles politiques (historique) ---------- */
+const famColor = (f) => `var(--fam-${FAMILLES[f] ? f : "divers"})`;
+const fmtInt = (n) => Number.isFinite(n) ? n.toLocaleString("fr-FR") : "—";
+const fmtPct = (x, d = 2) => Number.isFinite(x) ? x.toLocaleString("fr-FR", { minimumFractionDigits: d, maximumFractionDigits: d }) + " %" : "—";
+const partic = (t) => t && t.inscrits ? (t.votants / t.inscrits) * 100 : null;
+
+/* Petit graphique en lignes (SVG) : séries [{key,label,color,points:[{x,y,tip}]}], axe x numérique. */
+function lineChart({ series, xMin, xMax, yMin, yMax, yStep, xTicks, fmtY = (v) => String(v).replace(".", ",") + " %", height = 340, unit = "" }) {
+  const W = 1000, H = height, L = 46, R = 150, T = 16, B = 34;
+  const X = (x) => L + ((x - xMin) / ((xMax - xMin) || 1)) * (W - L - R);
+  const Y = (y) => T + (1 - (y - yMin) / ((yMax - yMin) || 1)) * (H - T - B);
+  const grid = []; for (let v = yMin; v <= yMax + 1e-9; v += yStep) grid.push(v);
+  // Étiquettes directes en bout de série, écartées pour éviter les chevauchements.
+  const ends = series.filter((s) => s.points.length).map((s) => { const p = s.points[s.points.length - 1]; return { s, x: X(p.x), y: Y(p.y), v: p.y }; }).sort((a, b) => a.y - b.y);
+  for (let i = 1; i < ends.length; i++) if (ends[i].y - ends[i - 1].y < 15) ends[i].y = ends[i - 1].y + 15;
+  return `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Graphique ${esc(series.map((s) => s.label).join(", "))}" style="min-width:640px">
+    ${grid.map((v) => `<line x1="${L}" x2="${W - R}" y1="${Y(v)}" y2="${Y(v)}" class="grid"/><text x="${L - 8}" y="${Y(v) + 4}" text-anchor="end" class="ax">${esc(fmtY(v))}</text>`).join("")}
+    ${xTicks.map((t) => `<text x="${X(t.x)}" y="${H - 10}" text-anchor="middle" class="ax">${esc(t.label)}</text>`).join("")}
+    ${series.map((s) => `<g style="--c:${s.color}">
+      <polyline class="ln" points="${s.points.map((p) => `${X(p.x).toFixed(1)},${Y(p.y).toFixed(1)}`).join(" ")}"/>
+      ${s.points.map((p) => `<g class="pt" tabindex="0" data-tip="${esc(p.tip)}"><circle class="dot" cx="${X(p.x).toFixed(1)}" cy="${Y(p.y).toFixed(1)}" r="4"/><circle class="dot-hit" cx="${X(p.x).toFixed(1)}" cy="${Y(p.y).toFixed(1)}" r="10"/></g>`).join("")}
+    </g>`).join("")}
+    ${ends.map((e) => `<text x="${W - R + 10}" y="${e.y + 4}" class="endlbl" style="fill:var(--ink)"><tspan style="fill:${e.s.color}">●</tspan> ${esc(e.s.label)} <tspan class="ax">${esc(fmtY(Math.round(e.v * 10) / 10))}</tspan></text>`).join("")}
+  </svg>`;
+}
+const chartLegend = (series) => `<div class="legend">${series.map((s) => `<span><i style="background:${s.color}"></i>${esc(s.label)}</span>`).join("")}</div>`;
+
+/* ---------- Vue : historique des élections présidentielles ---------- */
+function barsTour(t, eluName) {
+  const max = Math.max(...t.resultats.map((r) => r.pct || 0), 1);
+  return `<ol class="hbars">${t.resultats.map((r) => {
+    const name = r.id && BY_ID[r.id] ? `<a href="#c-${esc(r.id)}">${esc(r.candidat)}</a>` : esc(r.candidat);
+    const win = eluName && r.candidat === eluName;
+    return `<li class="${win ? "win" : ""}">
+      <span class="hb-name">${name}${win ? ` <span class="pill ok">Élu</span>` : ""}<span class="hb-party">${esc(r.partiAbrev || r.parti || "")}${r.famille ? ` · ${esc(FAMILLES[r.famille] || "")}` : ""}</span></span>
+      <span class="hb-track"><span class="hb-bar" style="width:${(r.pct / max) * 100}%;background:${famColor(r.famille)}"></span></span>
+      <span class="hb-val"><b>${fmtPct(r.pct)}</b><span>${fmtInt(r.voix)} voix</span></span>
+    </li>`; }).join("")}</ol>`;
+}
+function tourStats(t) {
+  const bn = t.blancsNuls ?? null;
+  return `<dl class="kv">
+    <div><dt>Date</dt><dd>${esc(fmtDate(t.date))}</dd></div>
+    <div><dt>Inscrits</dt><dd>${fmtInt(t.inscrits)}</dd></div>
+    <div><dt>Participation</dt><dd>${fmtPct(partic(t), 1)}</dd></div>
+    <div><dt>Abstention</dt><dd>${fmtPct(100 - partic(t), 1)}</dd></div>
+    ${bn !== null ? `<div><dt>Blancs et nuls</dt><dd>${fmtInt(bn)}</dd></div>` : `<div><dt>Blancs</dt><dd>${fmtInt(t.blancs)}</dd></div><div><dt>Nuls</dt><dd>${fmtInt(t.nuls)}</dd></div>`}
+    <div><dt>Exprimés</dt><dd>${fmtInt(t.exprimes)}</dd></div>
+  </dl>`;
+}
+function viewHistorique(year) {
+  const H = DATA.historique || [];
+  if (!H.length) return `<header><p class="eyebrow">Historique</p><h1>Les élections présidentielles depuis 1965</h1></header><p class="empty">Données en cours de collecte.</p>`;
+  const e = H.find((x) => String(x.annee) === String(year)) || H[H.length - 1];
+  const t1 = e.tours.find((t) => t.tour === 1), t2 = e.tours.find((t) => t.tour === 2);
+  const years = H.map((x) => x.annee), xs = years.map((y, i) => ({ y, i }));
+  const mk = (tour, label, color) => ({ key: "t" + tour, label, color, points: H.map((x, i) => { const t = x.tours.find((tt) => tt.tour === tour); const p = partic(t); return p === null ? null : { x: i, y: p, tip: `${x.annee} · ${label}|Participation : ${fmtPct(p, 1)}|Abstention : ${fmtPct(100 - p, 1)}` }; }).filter(Boolean) });
+  const series = [mk(1, "1er tour", "var(--accent)"), mk(2, "2nd tour", "var(--orange)")];
+  return `
+  <header><p class="eyebrow">Historique</p><h1>Les élections présidentielles depuis 1965</h1>
+    <p class="prose muted" style="margin-top:8px">Résultats officiels des ${H.length} élections présidentielles au suffrage universel direct de la Ve République, tels que proclamés par le Conseil constitutionnel. Pourcentages calculés sur les suffrages exprimés ; couleur des barres selon la famille politique.</p></header>
+
+  <section class="section">
+    <h2>Les seconds tours</h2>
+    <div class="matrix-wrap"><table class="datatable"><thead><tr><th scope="col">Année</th><th scope="col">Élu</th><th scope="col" class="num">Score</th><th scope="col">Adversaire</th><th scope="col" class="num">Score</th><th scope="col" class="num">Participation 1er tour</th><th scope="col" class="num">Participation 2nd tour</th></tr></thead>
+    <tbody>${[...H].reverse().map((x) => { const a = x.tours.find((t) => t.tour === 1), b = x.tours.find((t) => t.tour === 2); const [w, l] = b ? b.resultats : []; return `<tr${x === e ? ' class="sel"' : ""}>
+      <th scope="row"><a href="#historique-${x.annee}">${x.annee}</a></th>
+      <td><span class="thdot" style="background:${famColor(w?.famille)}"></span>${esc(w?.candidat || x.elu || "")}</td><td class="num">${fmtPct(w?.pct)}</td>
+      <td><span class="thdot" style="background:${famColor(l?.famille)}"></span>${esc(l?.candidat || "")}</td><td class="num">${fmtPct(l?.pct)}</td>
+      <td class="num">${fmtPct(partic(a), 1)}</td><td class="num">${fmtPct(partic(b), 1)}</td></tr>`; }).join("")}</tbody></table></div>
+  </section>
+
+  <section class="section">
+    <h2>Participation</h2>
+    ${chartLegend(series)}
+    <div class="map-wrap chart-wrap">${lineChart({ series, xMin: 0, xMax: years.length - 1, yMin: 60, yMax: 90, yStep: 5, xTicks: xs.map(({ y, i }) => ({ x: i, label: String(y) })), height: 300 })}<div class="map-tip" hidden></div></div>
+  </section>
+
+  <section class="section">
+    <h2>Résultats détaillés</h2>
+    <div class="toolbar" role="group" aria-label="Choisir une élection">${[...years].reverse().map((y) => `<a class="chip" href="#historique-${y}" aria-pressed="${y === e.annee}">${y}</a>`).join("")}</div>
+    <div class="panel"><p class="eyebrow">Élection présidentielle ${e.annee}</p><h3>${e.elu ? `Élu : ${esc(e.elu)}` : ""}</h3>${e.contexte ? `<p class="prose" style="margin-top:6px">${esc(e.contexte)}</p>` : ""}</div>
+    ${[t1, t2].filter(Boolean).map((t) => `<div class="panel tour-block">
+      <div class="tb-head"><h3>${t.tour === 1 ? "Premier tour" : "Second tour"}</h3>${tourStats(t)}</div>
+      ${barsTour(t, t.tour === 2 ? e.elu : null)}
+      ${srcLinks(t.sources)}
+    </div>`).join("")}
+    <div class="legend fam-legend">${Object.keys(FAMILLES).map((f) => `<span><i style="background:${famColor(f)}"></i>${esc(FAMILLES[f])}</span>`).join("")}</div>
+  </section>`;
+}
+
+/* ---------- Vue : sondages ---------- */
+const SD = () => DATA.sondages?.sondages || [];
+const candKey = (r) => r.id || norm(r.candidat);
+const candColor = (r) => r.id && BY_ID[r.id]?.couleur ? BY_ID[r.id].couleur : "var(--neutral)";
+const dnum = (d) => { const t = Date.parse(d); return Number.isFinite(t) ? t : null; };
+function pollRow(s) {
+  const h = s.hypotheses?.[0];
+  return `<details class="poll">
+    <summary>
+      <span class="pl-date mono">${esc(shortDate(s.terrainFin || s.publication))}</span>
+      <span class="pl-inst"><strong>${esc(s.institut)}</strong>${s.commanditaire ? `<span class="muted"> pour ${esc(s.commanditaire)}</span>` : ""}</span>
+      <span class="pl-top">${(h?.resultats || []).slice(0, 4).map((r) => `<span><span class="thdot" style="background:${candColor(r)}"></span>${esc(r.candidat.split(" ").slice(-1)[0])} <b class="mono">${esc(String(r.pct).replace(".", ","))}</b></span>`).join("")}</span>
+      <span class="pl-n muted">${(s.hypotheses || []).length} hyp.</span>
+    </summary>
+    <div class="pl-body">
+      <p class="muted" style="font-size:.85rem">Terrain du ${esc(fmtDate(s.terrainDebut))} au ${esc(fmtDate(s.terrainFin))}${s.echantillon ? ` · ${fmtInt(s.echantillon)} personnes` : ""}${s.methode ? ` · ${esc(s.methode)}` : ""}${s.note ? ` · ${esc(s.note)}` : ""}</p>
+      <div class="pl-hyps">${(s.hypotheses || []).map((hy) => `<div class="pl-hyp"><p class="eyebrow">${esc(hy.label || "")}</p><ol class="hbars sm">${hy.resultats.map((r) => `<li><span class="hb-name">${r.id && BY_ID[r.id] ? `<a href="#c-${esc(r.id)}">${esc(r.candidat)}</a>` : esc(r.candidat)}</span><span class="hb-track"><span class="hb-bar" style="width:${Math.min(100, r.pct * (s.tour === 2 ? 1 : 2))}%;background:${candColor(r)}"></span></span><span class="hb-val"><b>${esc(String(r.pct).replace(".", ","))} %</b></span></li>`).join("")}</ol></div>`).join("")}</div>
+      ${srcLinks(s.sources)}
+    </div>
+  </details>`;
+}
+function viewSondages() {
+  const all = SD();
+  const head = `<header><p class="eyebrow">Sondages</p><h1>Les sondages d'intentions de vote</h1>
+    <p class="prose muted" style="margin-top:8px">Tous les sondages nationaux d'intentions de vote publiés pour la présidentielle 2027 que nous avons recensés, avec leurs scénarios et un lien vers chaque publication.</p></header>
+    <p class="notice">Un sondage n'est pas une prévision : il mesure l'opinion d'un échantillon à une date donnée, avec une marge d'erreur d'environ 2 à 3 points pour 1 000 personnes interrogées. Avant la clôture des candidatures (mars 2027), les instituts testent des hypothèses : les candidats et les scores varient d'un scénario à l'autre. Les notices des sondages publiés sont consultables auprès de la <a href="https://www.commission-des-sondages.fr/" target="_blank" rel="noopener noreferrer">Commission des sondages</a>.</p>`;
+  if (!all.length) return head + `<p class="empty">Recensement en cours.</p>`;
+  const tour = state.sdTour || 1, inst = state.sdInst || "", period = state.sdPeriod || "12m";
+  const latest = Math.max(...all.map((s) => dnum(s.terrainFin) || 0));
+  const from = period === "12m" ? latest - 365 * 864e5 : -Infinity;
+  const insts = [...new Set(all.map((s) => s.institut))].sort((a, b) => a.localeCompare(b));
+  const list = all.filter((s) => s.tour === tour && (!inst || s.institut === inst) && (dnum(s.terrainFin) || 0) >= from)
+    .sort((a, b) => String(b.terrainFin).localeCompare(String(a.terrainFin)));
+  // Courbes : 1re hypothèse de chaque sondage de 1er tour ; candidats les plus présents et les plus hauts récemment.
+  let chart = "";
+  const t1 = list.filter((s) => s.tour === 1 && s.hypotheses?.[0]).slice().reverse();
+  if (tour === 1 && t1.length >= 2) {
+    const by = new Map();
+    t1.forEach((s) => s.hypotheses[0].resultats.forEach((r) => {
+      const k = candKey(r); if (!by.has(k)) by.set(k, { r, pts: [] });
+      by.get(k).pts.push({ x: dnum(s.terrainFin), y: r.pct, tip: `${r.candidat} : ${String(r.pct).replace(".", ",")} %|${s.institut}${s.commanditaire ? " pour " + s.commanditaire : ""}|Terrain achevé le ${fmtDate(s.terrainFin)}|${s.hypotheses[0].label || "Hypothèse 1"}` });
+    }));
+    const minPolls = Math.min(3, t1.length);
+    const ranked = [...by.values()].filter((v) => v.pts.length >= minPolls)
+      .map((v) => ({ ...v, recent: v.pts.slice(-5).reduce((a, p) => a + p.y, 0) / Math.min(5, v.pts.length) }))
+      .sort((a, b) => b.recent - a.recent).slice(0, 7);
+    const series = ranked.map((v) => ({ key: candKey(v.r), label: v.r.candidat, color: candColor(v.r), points: v.pts }));
+    const xs = t1.map((s) => dnum(s.terrainFin)), xMin = Math.min(...xs), xMax = Math.max(...xs);
+    const yMax = Math.ceil(Math.max(...series.flatMap((s) => s.points.map((p) => p.y)), 10) / 5) * 5;
+    const ticks = []; const d0 = new Date(xMin); d0.setDate(1);
+    const months = Math.max(1, Math.round((xMax - xMin) / (30.4 * 864e5))); const step = months > 18 ? 6 : months > 8 ? 3 : 1;
+    for (let d = new Date(d0); d.getTime() <= xMax; d.setMonth(d.getMonth() + step)) if (d.getTime() >= xMin - 15 * 864e5) ticks.push({ x: d.getTime(), label: `${MONTHS[d.getMonth()].slice(0, 4)}. ${String(d.getFullYear()).slice(2)}` });
+    chart = `<section class="section"><h2>Évolution au premier tour</h2>
+      <p class="muted" style="font-size:.88rem;margin-bottom:8px">Pour chaque sondage, la première hypothèse publiée par l'institut. Les ${series.length} candidats les mieux placés dans les derniers sondages. Survolez un point pour le détail.</p>
+      ${chartLegend(series)}
+      <div class="map-wrap chart-wrap">${lineChart({ series, xMin, xMax, yMin: 0, yMax, yStep: yMax > 30 ? 10 : 5, xTicks: ticks })}<div class="map-tip" hidden></div></div></section>`;
+  }
+  const n1 = all.filter((s) => s.tour === 1).length, n2 = all.filter((s) => s.tour === 2).length;
+  return `${head}
+  <div class="panel picker" style="margin-top:16px">
+    <div class="row"><span class="eyebrow">Tour</span>
+      <button class="chip" data-act="sdtour" data-v="1" aria-pressed="${tour === 1}">Premier tour <span class="n">${n1}</span></button>
+      <button class="chip" data-act="sdtour" data-v="2" aria-pressed="${tour === 2}">Second tour <span class="n">${n2}</span></button></div>
+    <div class="row"><span class="eyebrow">Période</span>
+      <button class="chip" data-act="sdper" data-v="12m" aria-pressed="${period === "12m"}">12 derniers mois</button>
+      <button class="chip" data-act="sdper" data-v="all" aria-pressed="${period === "all"}">Depuis le début</button>
+      <label class="eyebrow" for="sd-inst" style="margin-left:12px">Institut</label>
+      <select id="sd-inst"><option value="">Tous</option>${insts.map((i) => `<option ${i === inst ? "selected" : ""}>${esc(i)}</option>`).join("")}</select></div>
+  </div>
+  ${chart}
+  <section class="section"><h2>${list.length} sondage${list.length > 1 ? "s" : ""} ${tour === 1 ? "de premier tour" : "de second tour"}</h2>
+    <p class="muted" style="font-size:.85rem;margin-bottom:8px">Du plus récent au plus ancien. Cliquez sur un sondage pour voir toutes ses hypothèses et ses sources. Données au ${esc(fmtDate(DATA.sondages.derniereMiseAJour))}.</p>
+    <div class="polls">${list.map(pollRow).join("") || `<p class="empty">Aucun sondage pour ces critères.</p>`}</div>
+  </section>`;
+}
+
 /* ---------- Vue : rapport complet (imprimé en PDF par scripts/build.mjs) ---------- */
 // Références numérotées par section : chaque fait renvoie à [n], la liste complète des URLs suit.
 function mkRefs(prefix) {
@@ -1258,12 +1481,12 @@ function viewRapport() {
   const A = DATA.autres, AR = mkRefs("autres");
   const byFam = Object.keys(FAMILLES).map((f) => [f, CANDS.filter((c) => c.famillePolitique === f)]).filter(([, l]) => l.length);
   const scale = (v) => `<span class="r-scale">${[-2, -1, 0, 1, 2].map((x) => `<i class="${x === v ? "on" : ""}"></i>`).join("")}</span>`;
-  return `<style>@page { size: A4; margin: 16mm 14mm 17mm; @bottom-left { content: "Comparateur Présidentielle 2027 · données au ${d}"; font: 7.5pt "Public Sans", sans-serif; color: #666; } @bottom-right { content: counter(page) " / " counter(pages); font: 7.5pt "IBM Plex Mono", monospace; color: #666; } } @page :first { @bottom-left { content: none; } @bottom-right { content: none; } }</style>
+  return `<style>@page { size: A4; margin: 16mm 14mm 17mm; @bottom-left { content: "Présidentielle 2027 · données au ${d}"; font: 7.5pt "Public Sans", sans-serif; color: #666; } @bottom-right { content: counter(page) " / " counter(pages); font: 7.5pt "IBM Plex Mono", monospace; color: #666; } } @page :first { @bottom-left { content: none; } @bottom-right { content: none; } }</style>
   <article class="report">
     <section class="r-cover">
       <div class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></div>
       <p class="eyebrow">Élection présidentielle · 1er tour le 18 avril 2027</p>
-      <h1>Comparateur Présidentielle 2027<br><span>Dossier complet</span></h1>
+      <h1>Présidentielle 2027<br><span>Dossier complet</span></h1>
       <p class="r-wip"><strong>Données en cours de constitution.</strong> Les fiches, propositions et vérifications seront complétées au fur et à mesure jusqu'à l'élection présidentielle d'avril 2027. Ce dossier reflète l'état des données au ${d}.</p>
       <p class="r-lead">Programmes, fact-checking, parcours, situations judiciaires et positions de politique extérieure de ${CANDS.length} candidats et prétendants. Chaque information renvoie à une source numérotée, listée en fin de fiche.</p>
       <dl class="r-dl">
@@ -1278,6 +1501,7 @@ function viewRapport() {
       <h1>Sommaire</h1>
       <ol class="r-toc"><li><a href="#r-methode">Méthode et clés de lecture</a></li><li><a href="#r-synthese">Synthèse comparative</a></li>
       ${byFam.map(([f, l]) => `<li>${esc(FAMILLES[f])}<ol>${l.map((c) => `<li><a href="#r-${esc(c.id)}">${esc(fullName(c))}</a> <span class="r-meta">${esc(c.partiAbrev || c.parti)}</span></li>`).join("")}</ol></li>`).join("")}
+      ${SD().length ? `<li><a href="#r-sondages">Sondages d'intentions de vote</a></li>` : ""}${(DATA.historique || []).length ? `<li><a href="#r-historique">Historique des élections présidentielles</a></li>` : ""}
       <li><a href="#r-autres">Autres candidatures recensées</a></li><li><a href="#r-annexes">Documents ajoutés et crédits</a></li></ol>
     </section>
 
@@ -1310,6 +1534,25 @@ function viewRapport() {
     </section>
 
     ${CANDS.map((c, i) => rapportCandidat(c, i)).join("")}
+
+    ${SD().length ? `<section class="r-part" id="r-sondages">
+      <h1>Sondages d'intentions de vote</h1>
+      <p>Sondages nationaux recensés au ${esc(fmtDate(DATA.sondages.derniereMiseAJour))}, du plus récent au plus ancien. Pour chaque sondage, la première hypothèse publiée par l'institut ; les autres scénarios et les sources figurent dans la version en ligne. Un sondage n'est pas une prévision : marge d'erreur d'environ 2 à 3 points pour 1 000 personnes interrogées.</p>
+      ${[1, 2].map((tr) => { const l = SD().filter((x) => x.tour === tr).sort((a, b) => String(b.terrainFin).localeCompare(String(a.terrainFin))); return l.length ? `<h2>${tr === 1 ? "Premier tour" : "Second tour"} (${l.length})</h2>
+      <table class="r-table"><thead><tr><th>Terrain</th><th>Institut</th><th>${tr === 1 ? "Hypothèse 1" : "Duels testés"}</th></tr></thead><tbody>${l.map((x) => `<tr><td class="r-when">${esc(fmtDate(x.terrainFin))}</td><td><strong>${esc(x.institut)}</strong>${x.commanditaire ? `<br><span class="r-meta">${esc(x.commanditaire)}</span>` : ""}${x.echantillon ? `<br><span class="r-meta">${fmtInt(x.echantillon)} pers.</span>` : ""}</td><td>${tr === 1
+        ? (x.hypotheses?.[0]?.resultats || []).map((r) => `${esc(r.candidat)} ${esc(String(r.pct).replace(".", ","))}`).join(" · ")
+        : (x.hypotheses || []).map((h) => h.resultats.map((r) => `${esc(r.candidat)} ${esc(String(r.pct).replace(".", ","))}`).join(" / ")).join("<br>")}</td></tr>`).join("")}</tbody></table>` : ""; }).join("")}
+    </section>` : ""}
+
+    ${(DATA.historique || []).length ? `<section class="r-part" id="r-historique">
+      <h1>Historique des élections présidentielles</h1>
+      <p>Résultats officiels proclamés par le Conseil constitutionnel, France entière. Pourcentages des suffrages exprimés.</p>
+      ${[...DATA.historique].reverse().map((e) => { const HR = mkRefs("h" + e.annee); return `<div class="r-elec"><h2>${e.annee}${e.elu ? ` — élu : ${esc(e.elu)}` : ""}</h2>${e.contexte ? `<p>${esc(e.contexte)}</p>` : ""}
+        ${e.tours.map((t) => `<h3>${t.tour === 1 ? "Premier tour" : "Second tour"}, ${esc(fmtDate(t.date))}${HR.cite(t.sources)}</h3>
+        <p class="r-meta">Inscrits ${fmtInt(t.inscrits)} · votants ${fmtInt(t.votants)} (participation ${fmtPct(partic(t), 1)}) · exprimés ${fmtInt(t.exprimes)}${t.blancsNuls != null ? ` · blancs et nuls ${fmtInt(t.blancsNuls)}` : ` · blancs ${fmtInt(t.blancs)} · nuls ${fmtInt(t.nuls)}`}</p>
+        <table class="r-table r-syn"><tbody>${t.resultats.map((r) => `<tr><td>${esc(r.candidat)}</td><td>${esc(r.partiAbrev || r.parti || "")}</td><td class="num">${fmtInt(r.voix)}</td><td class="num">${fmtPct(r.pct)}</td></tr>`).join("")}</tbody></table>`).join("")}
+        ${HR.render()}</div>`; }).join("")}
+    </section>` : ""}
 
     <section class="r-part" id="r-autres">
       <h1>Autres candidatures recensées</h1>
@@ -1349,6 +1592,8 @@ document.addEventListener("click", (e) => {
     case "ctheme-none": state.cmpThemes = new Set(); break;
     case "ptheme": state.progTheme = v || null; break;
     case "fcv": state.fc.verdicts.has(v) ? state.fc.verdicts.delete(v) : state.fc.verdicts.add(v); break;
+    case "sdtour": state.sdTour = +v; break;
+    case "sdper": state.sdPeriod = v; break;
     default: return;
   }
   render();
@@ -1364,6 +1609,7 @@ document.addEventListener("change", (e) => {
   if (e.target.id === "fc-cand") { state.fc.cand = e.target.value; render(); }
   if (e.target.id === "fc-theme") { state.fc.theme = e.target.value; render(); }
   if (e.target.id === "intl-x") { state.intlX = e.target.value; render(); }
+  if (e.target.id === "sd-inst") { state.sdInst = e.target.value; render(); }
   if (e.target.id === "intl-y") { state.intlY = e.target.value; render(); }
 });
 window.addEventListener("hashchange", render);
@@ -1383,7 +1629,7 @@ const DOWNLOADS = (window.claude && typeof window.claude.use === "function")
   ? window.claude.use("downloads").catch(() => null) : Promise.resolve(null);
 function dlMsg(t) { const m = document.getElementById("dl-msg"); if (m) m.textContent = t; }
 async function downloadPdf() {
-  const name = `comparateur-presidentielle-2027_${DATA.generatedAt || "donnees"}.pdf`;
+  const name = `presidentielle-2027_${DATA.generatedAt || "donnees"}.pdf`;
   const btns = [...document.querySelectorAll("[data-dl]")];
   btns.forEach((b) => (b.disabled = true));
   try {

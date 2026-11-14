@@ -1,0 +1,198 @@
+{
+  "annee": 2022,
+  "contexte": "Le président sortant Emmanuel Macron est réélu face à Marine Le Pen, dans un second tour identique à celui de 2017.",
+  "elu": "Emmanuel Macron",
+  "tours": [
+    {
+      "tour": 1,
+      "date": "2022-04-10",
+      "inscrits": 48747876,
+      "votants": 35923707,
+      "blancs": 543609,
+      "nuls": 247151,
+      "blancsNuls": null,
+      "exprimes": 35132947,
+      "resultats": [
+        {
+          "candidat": "Emmanuel Macron",
+          "parti": "La République en marche",
+          "partiAbrev": "LREM",
+          "famille": "centre",
+          "id": null,
+          "voix": 9783058,
+          "pct": 27.85
+        },
+        {
+          "candidat": "Marine Le Pen",
+          "parti": "Rassemblement national",
+          "partiAbrev": "RN",
+          "famille": "extreme-droite",
+          "id": "marine-le-pen",
+          "voix": 8133828,
+          "pct": 23.15
+        },
+        {
+          "candidat": "Jean-Luc Mélenchon",
+          "parti": "La France insoumise",
+          "partiAbrev": "LFI",
+          "famille": "gauche",
+          "id": "jean-luc-melenchon",
+          "voix": 7712520,
+          "pct": 21.95
+        },
+        {
+          "candidat": "Éric Zemmour",
+          "parti": "Reconquête",
+          "partiAbrev": "REC",
+          "famille": "extreme-droite",
+          "id": "eric-zemmour",
+          "voix": 2485226,
+          "pct": 7.07
+        },
+        {
+          "candidat": "Valérie Pécresse",
+          "parti": "Les Républicains",
+          "partiAbrev": "LR",
+          "famille": "droite",
+          "id": null,
+          "voix": 1679001,
+          "pct": 4.78
+        },
+        {
+          "candidat": "Yannick Jadot",
+          "parti": "Europe Écologie Les Verts",
+          "partiAbrev": "EELV",
+          "famille": "ecologiste",
+          "id": null,
+          "voix": 1627853,
+          "pct": 4.63
+        },
+        {
+          "candidat": "Jean Lassalle",
+          "parti": "Résistons !",
+          "partiAbrev": "RES",
+          "famille": "divers",
+          "id": "jean-lassalle",
+          "voix": 1101387,
+          "pct": 3.13
+        },
+        {
+          "candidat": "Fabien Roussel",
+          "parti": "Parti communiste français",
+          "partiAbrev": "PCF",
+          "famille": "gauche",
+          "id": "fabien-roussel",
+          "voix": 802422,
+          "pct": 2.28
+        },
+        {
+          "candidat": "Nicolas Dupont-Aignan",
+          "parti": "Debout la France",
+          "partiAbrev": "DLF",
+          "famille": "droite",
+          "id": "nicolas-dupont-aignan",
+          "voix": 725176,
+          "pct": 2.06
+        },
+        {
+          "candidat": "Anne Hidalgo",
+          "parti": "Parti socialiste",
+          "partiAbrev": "PS",
+          "famille": "gauche",
+          "id": null,
+          "voix": 616478,
+          "pct": 1.75
+        },
+        {
+          "candidat": "Philippe Poutou",
+          "parti": "Nouveau Parti anticapitaliste",
+          "partiAbrev": "NPA",
+          "famille": "extreme-gauche",
+          "id": null,
+          "voix": 268904,
+          "pct": 0.77
+        },
+        {
+          "candidat": "Nathalie Arthaud",
+          "parti": "Lutte ouvrière",
+          "partiAbrev": "LO",
+          "famille": "extreme-gauche",
+          "id": "nathalie-arthaud",
+          "voix": 197094,
+          "pct": 0.56
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 2022-195 PDR du 13 avril 2022 — Déclaration relative aux résultats du premier tour de scrutin de l'élection du Président de la République",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022195PDR.htm",
+          "media": "Conseil constitutionnel",
+          "date": "2022-04-13"
+        },
+        {
+          "titre": "Annonce par Laurent Fabius, Président du Conseil constitutionnel, des résultats officiels du premier tour de l'élection présidentielle",
+          "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-communiques/resultats-du-premier-tour.html",
+          "media": "Conseil constitutionnel",
+          "date": "2022-04-13"
+        },
+        {
+          "titre": "Élection présidentielle française de 2022",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "tour": 2,
+      "date": "2022-04-24",
+      "inscrits": 48752339,
+      "votants": 35096478,
+      "blancs": 2233904,
+      "nuls": 805249,
+      "blancsNuls": null,
+      "exprimes": 32057325,
+      "resultats": [
+        {
+          "candidat": "Emmanuel Macron",
+          "parti": "La République en marche",
+          "partiAbrev": "LREM",
+          "famille": "centre",
+          "id": null,
+          "voix": 18768639,
+          "pct": 58.55
+        },
+        {
+          "candidat": "Marine Le Pen",
+          "parti": "Rassemblement national",
+          "partiAbrev": "RN",
+          "famille": "extreme-droite",
+          "id": "marine-le-pen",
+          "voix": 13288686,
+          "pct": 41.45
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 2022-197 PDR du 27 avril 2022 — Proclamation des résultats de l'élection du Président de la République",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2022/2022197PDR.htm",
+          "media": "Conseil constitutionnel",
+          "date": "2022-04-27"
+        },
+        {
+          "titre": "Annonce des résultats officiels du second tour de l'élection présidentielle et proclamation de l'élection du Président de la République",
+          "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-communiques/resultats-du-second-tour.html",
+          "media": "Conseil constitutionnel",
+          "date": "2022-04-27"
+        },
+        {
+          "titre": "Élection présidentielle française de 2022",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    }
+  ],
+  "derniereMiseAJour": "2026-11-14"
+}

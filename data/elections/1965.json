@@ -1,0 +1,132 @@
+{
+  "annee": 1965,
+  "contexte": "Première élection du président de la République au suffrage universel direct depuis la révision constitutionnelle de 1962. Le président sortant Charles de Gaulle, mis en ballottage au premier tour, est réélu au second tour face à François Mitterrand.",
+  "elu": "Charles de Gaulle",
+  "tours": [
+    {
+      "tour": 1,
+      "date": "1965-12-05",
+      "inscrits": 28910581,
+      "votants": 24502916,
+      "blancs": null,
+      "nuls": null,
+      "blancsNuls": 248360,
+      "exprimes": 24254556,
+      "resultats": [
+        {
+          "candidat": "Charles de Gaulle",
+          "parti": "Union pour la nouvelle République – Union démocratique du travail",
+          "partiAbrev": "UNR-UDT",
+          "famille": "droite",
+          "id": null,
+          "voix": 10828521,
+          "pct": 44.65
+        },
+        {
+          "candidat": "François Mitterrand",
+          "parti": "Fédération de la gauche démocrate et socialiste (candidat de la Convention des institutions républicaines)",
+          "partiAbrev": "FGDS",
+          "famille": "gauche",
+          "id": null,
+          "voix": 7694005,
+          "pct": 31.72
+        },
+        {
+          "candidat": "Jean Lecanuet",
+          "parti": "Mouvement républicain populaire",
+          "partiAbrev": "MRP",
+          "famille": "centre",
+          "id": null,
+          "voix": 3777120,
+          "pct": 15.57
+        },
+        {
+          "candidat": "Jean-Louis Tixier-Vignancour",
+          "parti": "Comités Tixier-Vignancour",
+          "partiAbrev": "CTV",
+          "famille": "extreme-droite",
+          "id": null,
+          "voix": 1260208,
+          "pct": 5.2
+        },
+        {
+          "candidat": "Pierre Marcilhacy",
+          "parti": "Parti libéral européen",
+          "partiAbrev": "PLE",
+          "famille": "divers",
+          "id": null,
+          "voix": 415017,
+          "pct": 1.71
+        },
+        {
+          "candidat": "Marcel Barbu",
+          "parti": "Indépendant",
+          "partiAbrev": "SE",
+          "famille": "divers",
+          "id": null,
+          "voix": 279685,
+          "pct": 1.15
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 65-6 PDR du 7 décembre 1965 – Déclaration relative aux résultats du premier tour de scrutin de l'élection du Président de la République",
+          "url": "https://www.conseil-constitutionnel.fr/decision/1965/656pdr.htm",
+          "media": "Conseil constitutionnel",
+          "date": "1965-12-07"
+        },
+        {
+          "titre": "Élection présidentielle française de 1965 (blancs et nuls, étiquettes des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1965",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "tour": 2,
+      "date": "1965-12-19",
+      "inscrits": 28902704,
+      "votants": 24371647,
+      "blancs": null,
+      "nuls": null,
+      "blancsNuls": 668213,
+      "exprimes": 23703434,
+      "resultats": [
+        {
+          "candidat": "Charles de Gaulle",
+          "parti": "Union pour la nouvelle République – Union démocratique du travail",
+          "partiAbrev": "UNR-UDT",
+          "famille": "droite",
+          "id": null,
+          "voix": 13083699,
+          "pct": 55.2
+        },
+        {
+          "candidat": "François Mitterrand",
+          "parti": "Fédération de la gauche démocrate et socialiste (candidat de la Convention des institutions républicaines)",
+          "partiAbrev": "FGDS",
+          "famille": "gauche",
+          "id": null,
+          "voix": 10619735,
+          "pct": 44.8
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 65-10 PDR du 28 décembre 1965 – Proclamation des résultats de l'élection du Président de la République",
+          "url": "https://www.conseil-constitutionnel.fr/decision/1965/6510pdr.htm",
+          "media": "Conseil constitutionnel",
+          "date": "1965-12-28"
+        },
+        {
+          "titre": "Élection présidentielle française de 1965 (blancs et nuls, étiquettes des candidats)",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_1965",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    }
+  ],
+  "derniereMiseAJour": "2026-11-14"
+}

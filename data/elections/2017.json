@@ -1,0 +1,177 @@
+{
+  "annee": 2017,
+  "contexte": "Le président sortant François Hollande ne se représentait pas. Premier scrutin présidentiel où les bulletins blancs sont décomptés séparément des nuls ; Emmanuel Macron l'emporte face à Marine Le Pen.",
+  "elu": "Emmanuel Macron",
+  "tours": [
+    {
+      "tour": 1,
+      "date": "2017-04-23",
+      "inscrits": 47582183,
+      "votants": 37003728,
+      "blancs": 659997,
+      "nuls": 289337,
+      "blancsNuls": null,
+      "exprimes": 36054394,
+      "resultats": [
+        {
+          "candidat": "Emmanuel Macron",
+          "parti": "En marche !",
+          "partiAbrev": "EM",
+          "famille": "centre",
+          "id": null,
+          "voix": 8656346,
+          "pct": 24.01
+        },
+        {
+          "candidat": "Marine Le Pen",
+          "parti": "Front national",
+          "partiAbrev": "FN",
+          "famille": "extreme-droite",
+          "id": "marine-le-pen",
+          "voix": 7678491,
+          "pct": 21.3
+        },
+        {
+          "candidat": "François Fillon",
+          "parti": "Les Républicains",
+          "partiAbrev": "LR",
+          "famille": "droite",
+          "id": null,
+          "voix": 7212995,
+          "pct": 20.01
+        },
+        {
+          "candidat": "Jean-Luc Mélenchon",
+          "parti": "La France insoumise",
+          "partiAbrev": "LFI",
+          "famille": "gauche",
+          "id": "jean-luc-melenchon",
+          "voix": 7059951,
+          "pct": 19.58
+        },
+        {
+          "candidat": "Benoît Hamon",
+          "parti": "Parti socialiste",
+          "partiAbrev": "PS",
+          "famille": "gauche",
+          "id": null,
+          "voix": 2291288,
+          "pct": 6.36
+        },
+        {
+          "candidat": "Nicolas Dupont-Aignan",
+          "parti": "Debout la France",
+          "partiAbrev": "DLF",
+          "famille": "droite",
+          "id": "nicolas-dupont-aignan",
+          "voix": 1695000,
+          "pct": 4.7
+        },
+        {
+          "candidat": "Jean Lassalle",
+          "parti": "Résistons !",
+          "partiAbrev": "RES",
+          "famille": "divers",
+          "id": "jean-lassalle",
+          "voix": 435301,
+          "pct": 1.21
+        },
+        {
+          "candidat": "Philippe Poutou",
+          "parti": "Nouveau Parti anticapitaliste",
+          "partiAbrev": "NPA",
+          "famille": "extreme-gauche",
+          "id": null,
+          "voix": 394505,
+          "pct": 1.09
+        },
+        {
+          "candidat": "François Asselineau",
+          "parti": "Union populaire républicaine",
+          "partiAbrev": "UPR",
+          "famille": "divers",
+          "id": "francois-asselineau",
+          "voix": 332547,
+          "pct": 0.92
+        },
+        {
+          "candidat": "Nathalie Arthaud",
+          "parti": "Lutte ouvrière",
+          "partiAbrev": "LO",
+          "famille": "extreme-gauche",
+          "id": "nathalie-arthaud",
+          "voix": 232384,
+          "pct": 0.64
+        },
+        {
+          "candidat": "Jacques Cheminade",
+          "parti": "Solidarité et progrès",
+          "partiAbrev": "S&P",
+          "famille": "divers",
+          "id": null,
+          "voix": 65586,
+          "pct": 0.18
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 2017-169 PDR du 26 avril 2017 — Déclaration relative aux résultats du premier tour de scrutin de l'élection du Président de la République",
+          "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017169PDR.htm",
+          "media": "Conseil constitutionnel",
+          "date": "2017-04-26"
+        },
+        {
+          "titre": "Élection présidentielle française de 2017",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "tour": 2,
+      "date": "2017-05-07",
+      "inscrits": 47568693,
+      "votants": 35467327,
+      "blancs": 3021499,
+      "nuls": 1064225,
+      "blancsNuls": null,
+      "exprimes": 31381603,
+      "resultats": [
+        {
+          "candidat": "Emmanuel Macron",
+          "parti": "En marche !",
+          "partiAbrev": "EM",
+          "famille": "centre",
+          "id": null,
+          "voix": 20743128,
+          "pct": 66.1
+        },
+        {
+          "candidat": "Marine Le Pen",
+          "parti": "Front national",
+          "partiAbrev": "FN",
+          "famille": "extreme-droite",
+          "id": "marine-le-pen",
+          "voix": 10638475,
+          "pct": 33.9
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Décision n° 2017-171 PDR du 10 mai 2017 portant proclamation des résultats de l'élection du Président de la République",
+          "url": "https://www.conseil-constitutionnel.fr/sites/default/files/as/root/bank_mm/decisions/2017171pdr/2017171pdr.pdf",
+          "media": "Conseil constitutionnel",
+          "date": "2017-05-10"
+        },
+        {
+          "titre": "Élection présidentielle française de 2017",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+          "media": "Wikipédia",
+          "date": "2026-11-14"
+        }
+      ]
+    }
+  ],
+  "derniereMiseAJour": "2026-11-14"
+}
