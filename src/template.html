@@ -335,6 +335,87 @@ input[type="search"], select { width: 100%; font: inherit; font-size: 0.92rem; p
 .howto li { counter-increment: s; display: grid; grid-template-columns: 26px minmax(0, 1fr); gap: 10px; align-items: baseline; }
 .howto li::before { content: counter(s); font-family: var(--font-data); font-size: 0.8rem; width: 22px; height: 22px; display: grid; place-items: center; border-radius: 50%; background: var(--accent-soft); color: var(--accent); }
 
+.wip { background: var(--surface-2); border-bottom: 1px solid var(--line); }
+.wip .wrap { display: flex; gap: 10px; align-items: flex-start; padding-block: 9px; }
+.wip p { margin: 0; font-size: 0.86rem; line-height: 1.45; color: var(--ink); }
+.wip-ico { flex: none; display: grid; place-items: center; width: 18px; height: 18px; margin-top: 1px; border-radius: 50%; background: var(--accent); color: var(--accent-ink); font: 700 0.72rem var(--font-data); }
+#wip-date { color: var(--muted); }
+
+/* Rapport complet : mise en page A4 (imprimée en PDF), lisible aussi à l'écran via #rapport */
+body.is-report .top, body.is-report footer, body.is-report .wip { display: none; }
+body.is-report { background: #fff; }
+.report { --ink: #16181d; --muted: #5b6070; --line: #d9dbe1; color: var(--ink); font-size: 9.5pt; line-height: 1.45; max-width: 182mm; margin: 0 auto; padding: 8mm 0; overflow-wrap: break-word; }
+body.is-report main.wrap { padding-inline: 16px; }
+.report a { color: #1f3fae; text-decoration: none; }
+.report h1 { font-family: var(--font-display); font-stretch: 85%; font-size: 20pt; line-height: 1.1; margin: 0 0 4mm; }
+.report h2 { font-family: var(--font-display); font-stretch: 90%; font-size: 12.5pt; margin: 6mm 0 2mm; padding-bottom: 1mm; border-bottom: 1.5px solid var(--ink); break-after: avoid; }
+.report h3 { font-size: 10pt; margin: 3mm 0 1mm; break-after: avoid; }
+.report p { margin: 0 0 2mm; }
+.report .eyebrow { font-size: 7.5pt; margin: 0 0 1mm; }
+.report .empty { font-size: 9pt; }
+.r-cover { min-height: 240mm; display: flex; flex-direction: column; justify-content: center; gap: 4mm; }
+.r-cover .brand-mark { height: 18mm; grid-template-columns: repeat(3, 5mm); gap: 1.5mm; }
+.r-cover h1 { font-size: 34pt; }
+.r-cover h1 span { font-size: 20pt; color: var(--muted); font-stretch: 100%; }
+.r-lead { font-size: 12pt; max-width: 150mm; }
+.r-wip { border-left: 3px solid var(--accent); background: #f1f3f8; padding: 3mm 4mm; max-width: 150mm; }
+.r-part, .r-cand { break-before: page; }
+.r-toc { columns: 2; column-gap: 10mm; padding-left: 5mm; font-size: 9.5pt; }
+.r-toc > li { break-inside: avoid; margin-bottom: 2mm; font-weight: 600; }
+.r-toc ol { font-weight: 400; padding-left: 5mm; list-style: disc; }
+.r-dl { display: grid; grid-template-columns: 38mm 1fr; gap: 1.5mm 4mm; margin: 0 0 2mm; }
+.r-dl dt { font-weight: 600; color: var(--muted); }
+.r-dl dd { margin: 0; }
+.r-table { width: 100%; border-collapse: collapse; margin: 1mm 0 3mm; font-size: 8.8pt; }
+.r-table th { text-align: left; font-size: 7.5pt; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); border-bottom: 1px solid var(--ink); padding: 1.2mm 2mm; }
+.r-table td { vertical-align: top; border-bottom: 0.5px solid var(--line); padding: 1.4mm 2mm; overflow-wrap: anywhere; }
+.r-table tr { break-inside: avoid; }
+.r-table .num { text-align: right; font-family: var(--font-data); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.r-when { width: 32mm; font-family: var(--font-data); font-size: 8pt; color: var(--muted); overflow-wrap: normal; }
+.r-chrono .r-when { width: 28mm; }
+.r-syn td, .r-syn th { padding: 1mm 1.5mm; overflow-wrap: normal; }
+.report .verdict { white-space: nowrap; overflow-wrap: normal; }
+.r-vtable td:first-child { width: 40mm; }
+.r-imx th.num { white-space: normal; font-size: 6.5pt; text-align: center; }
+.r-imx td.num { text-align: center; }
+.r-scale { display: block; margin: 0.6mm auto 0; width: max-content; }
+.r-scale i { display: inline-block; width: 2.2mm; height: 1.4mm; margin: 0 0.2mm; background: #e3e5ea; border-radius: 0.4mm; }
+.r-scale i.on { background: var(--ink); }
+.r-jl { display: inline-grid; place-items: center; width: 4mm; height: 4mm; border-radius: 50%; font: 600 7pt var(--font-data); color: #fff; background: #8a8f9c; }
+.r-jl.t-ok { background: #2f7d4f; } .r-jl.t-warn { background: #b07b14; } .r-jl.t-orange { background: #c4561b; } .r-jl.t-crit { background: #b3261e; }
+.r-chead { display: grid; grid-template-columns: 30mm 1fr; gap: 5mm; padding-left: 4mm; border-left: 3px solid; margin-bottom: 2mm; }
+.r-chead figure { margin: 0; }
+.r-chead img { width: 30mm; height: 36mm; object-fit: cover; object-position: center 22%; border-radius: 1.5mm; display: block; }
+.r-chead figcaption { font-size: 6.5pt; color: var(--muted); margin-top: 1mm; line-height: 1.3; }
+.r-chead .avatar { width: 30mm; height: 30mm; font-size: 18pt; }
+.r-chead h1 { margin-bottom: 1.5mm; }
+.r-party { font-weight: 600; }
+.r-meta { font-size: 8pt; color: var(--muted); }
+.r-note { font-size: 8.3pt; color: var(--muted); font-style: italic; }
+.r-case { border-left: 2px solid #8a8f9c; padding: 0.5mm 0 0.5mm 3mm; margin: 2mm 0 3mm; }
+.r-case.ok { border-color: #2f7d4f; } .r-case.warn { border-color: #b07b14; } .r-case.crit { border-color: #b3261e; }
+.r-case h3 { margin-top: 0; }
+.r-theme { font-family: var(--font-display); font-stretch: 90%; font-size: 10.5pt; color: var(--muted); text-transform: uppercase; letter-spacing: 0.03em; margin-top: 4mm; }
+.r-prop { break-inside: avoid; border-bottom: 0.5px solid var(--line); padding: 1.5mm 0 2mm; }
+.r-ptitle { margin-bottom: 1mm; }
+.r-figs { margin: 0 0 1.5mm; padding-left: 5mm; font-family: var(--font-data); font-size: 8pt; }
+.r-fc { font-size: 8.8pt; background: #f4f5f8; padding: 1.5mm 2.5mm; border-radius: 1mm; }
+.r-fc .verdict { margin-right: 1.5mm; }
+.r-intl .r-pos { width: 14mm; text-align: center; font: 600 11pt var(--font-data); }
+.r-intl td:first-child { width: 42mm; }
+.r-poles { display: block; font-size: 7pt; color: var(--muted); margin-top: 0.8mm; }
+sup.ref { font-size: 6.5pt; font-family: var(--font-data); margin-left: 0.5mm; white-space: nowrap; }
+.r-srcs { font-size: 7.3pt; line-height: 1.35; padding-left: 7mm; color: var(--muted); }
+.r-srcs li { margin-bottom: 0.8mm; break-inside: avoid; }
+.r-srcs span { color: var(--ink); }
+.r-srcs a { overflow-wrap: anywhere; }
+@media print {
+  .top, footer, .wip { display: none !important; }
+  body { background: #fff !important; }
+  body.is-report main.wrap { padding: 0; max-width: none; margin: 0; }
+  .report { padding: 0; max-width: none; }
+  * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}
 .dl-btn { display: inline-flex; align-items: center; gap: 6px; font: 600 0.82rem var(--font-body); color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 5px 10px; cursor: pointer; white-space: nowrap; }
 .dl-btn:hover { border-color: var(--accent); color: var(--accent); }
 .dl-btn:disabled { opacity: 0.6; cursor: progress; }
@@ -356,17 +437,14 @@ footer .wrap { display: flex; flex-wrap: wrap; gap: 8px 20px; justify-content: s
     <a class="brand" href="#accueil" aria-label="Accueil"><span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span><b>Comparateur Présidentielle 2027</b></a>
     <nav class="nav" id="nav" aria-label="Sections"></nav>
     <span class="countdown" id="countdown"></span>
-    <button type="button" class="dl-btn" data-dl title="Un seul fichier HTML, consultable hors connexion et facile à partager"><svg viewBox="0 0 16 16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v8M4.5 6.5 8 10l3.5-3.5M3 13h10"/></svg>Version portable</button>
+    <button type="button" class="dl-btn" data-dl title="Toutes les données détaillées des fiches, avec leurs sources, en un seul PDF"><svg viewBox="0 0 16 16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v8M4.5 6.5 8 10l3.5-3.5M3 13h10"/></svg>Export PDF</button>
   </div>
 </header>
+<div class="wip" role="note"><div class="wrap"><span class="wip-ico" aria-hidden="true">i</span><p><strong>Données en cours de constitution.</strong> Les fiches, propositions et vérifications seront complétées au fur et à mesure jusqu'à l'élection présidentielle d'avril 2027. <span id="wip-date"></span></p></div></div>
 <main class="wrap" id="app" tabindex="-1"></main>
 <footer><div class="wrap" id="footer"></div></footer>
 
 <script>
-// Version portable : le fichier se « recopie » lui-même. On capture le document tel que chargé,
-// avant que le script ne modifie le DOM (le script est le dernier élément de la page).
-const PORTABLE = /*__PORTABLE__*/false;
-const SELF_HTML = PORTABLE ? "<!doctype html>\n" + document.documentElement.outerHTML : null;
 document.documentElement.lang = "fr";
 const DATA = /*__DATA__*/null || { generatedAt: "", candidats: [], documents: [] };
 
@@ -513,7 +591,7 @@ function route() {
     const [id, tab] = h.slice(2).split("--");
     if (BY_ID[id]) return { view: "candidat", id, tab: tab || "programme" };
   }
-  if (["comparer", "carte", "international", "fact-check", "sources"].includes(h)) return { view: h };
+  if (["comparer", "carte", "international", "fact-check", "sources", "rapport"].includes(h)) return { view: h };
   return { view: "accueil" };
 }
 let lastView = "";
@@ -526,12 +604,14 @@ function render() {
     : r.view === "international" ? viewInternational()
     : r.view === "fact-check" ? viewFactcheck()
     : r.view === "sources" ? viewSources()
+    : r.view === "rapport" ? viewRapport()
     : viewAccueil();
   app.innerHTML = `<div class="view">${html}</div>`;
+  document.body.classList.toggle("is-report", r.view === "rapport");
   renderNav(r.view);
   const key = r.view + (r.id || "");
   if (key !== lastView) { window.scrollTo(0, 0); lastView = key; }
-  document.title = r.view === "candidat" ? `${fullName(BY_ID[r.id])} · Comparateur Présidentielle 2027` : "Comparateur Présidentielle 2027";
+  document.title = r.view === "candidat" ? `${fullName(BY_ID[r.id])} · Comparateur Présidentielle 2027` : r.view === "rapport" ? `Comparateur Présidentielle 2027 · Dossier complet (${fmtDate(DATA.generatedAt)})` : "Comparateur Présidentielle 2027";
 }
 function renderNav(view) {
   const items = [["accueil", "Candidats"], ["comparer", "Comparer", state.compare.size || ""], ["carte", "Carte"], ["international", "International"], ["fact-check", "Fact-check"], ["sources", "Sources & méthode"]];
@@ -1092,6 +1172,165 @@ function viewSources() {
   </section>`;
 }
 
+/* ---------- Vue : rapport complet (imprimé en PDF par scripts/build.mjs) ---------- */
+// Références numérotées par section : chaque fait renvoie à [n], la liste complète des URLs suit.
+function mkRefs(prefix) {
+  const list = [], idx = new Map();
+  const cite = (...groups) => {
+    const ns = groups.flat().filter((s) => s && safeUrl(s.url)).map((s) => {
+      if (!idx.has(s.url)) { list.push(s); idx.set(s.url, list.length); }
+      return idx.get(s.url);
+    });
+    const u = [...new Set(ns)].sort((a, b) => a - b);
+    return u.length ? `<sup class="ref">[${u.map((n) => `<a href="#${prefix}-s${n}">${n}</a>`).join(", ")}]</sup>` : "";
+  };
+  const render = () => list.length ? `<ol class="r-srcs">${list.map((s, i) => `<li id="${prefix}-s${i + 1}"><span>${esc(s.media || hostOf(s.url))}${s.date ? `, ${esc(fmtDate(s.date))}` : ""}${s.titre ? ` — ${esc(s.titre)}` : ""}</span> <a href="${esc(s.url)}">${esc(s.url)}</a></li>`).join("")}</ol>` : `<p class="empty">Aucune source.</p>`;
+  return { cite, render, size: () => list.length };
+}
+const SITE_URL = "https://blamouche.github.io/elections-presidentielles-2027/";
+const STATUT_COURT = { declare: "Déclaré", potentiel: "Potentiel", incertain: "Incertain", retire: "Retiré" };
+const JUD_COURT = ["Aucune procédure", "Procédure en cours", "Condamnation non définitive", "Condamnation définitive"];
+const fmtPos = (v) => v === null ? "—" : v > 0 ? "+" + v : v < 0 ? "−" + Math.abs(v) : "0";
+function rapportCandidat(c, i) {
+  const R = mkRefs("c" + i), pr = c.profil || {}, n = pr.naissance || {}, j = c.judiciaire || {};
+  const st = STATUTS[c.statutCandidature] || STATUTS.incertain, ps = props(c), cr = credibility(c), jl = judLevel(c);
+  const parcours = [...(c.parcoursPolitique || [])].sort((a, b) => String(b.debut).localeCompare(String(a.debut)));
+  const order = Object.keys(JUD);
+  const aff = [...(j.affaires || [])].sort((a, b) => (misEnCause(b) - misEnCause(a)) || (order.indexOf(a.statut) - order.indexOf(b.statut)));
+  const themes = Object.keys(THEMES).filter((t) => ps.some((p) => p.theme === t));
+  const I = c.international;
+  return `<section class="r-cand" id="r-${esc(c.id)}">
+    <header class="r-chead" style="border-color:${esc(c.couleur)}">
+      ${c.photo ? `<figure><img src="${c.photo.src}" alt=""><figcaption>Photo : ${esc(c.photo.auteur)}, ${esc(c.photo.licence)}</figcaption></figure>` : avatar(c)}
+      <div>
+        <p class="eyebrow">${esc(FAMILLES[c.famillePolitique] || "")}</p>
+        <h1>${esc(fullName(c))}</h1>
+        <p class="r-party">${esc(c.parti)}${c.partiAbrev ? ` (${esc(c.partiAbrev)})` : ""} · ${pill(st[0], st[1])}</p>
+        ${c.candidature?.texte ? `<p>${esc(c.candidature.texte)}${R.cite(c.candidature.sources)}</p>` : ""}
+        <p class="r-meta">${(c.sites || []).filter((s) => safeUrl(s.url)).map((s) => `${esc(s.label)} : <a href="${esc(s.url)}">${esc(hostOf(s.url))}</a>`).join(" · ") || "Aucun site officiel de campagne identifié"}</p>
+        <p class="r-meta">Fiche à jour au ${esc(fmtDate(c.derniereMiseAJour))} · ${ps.length} proposition${ps.length > 1 ? "s" : ""}, ${checked(ps)} avec verdict · indice de fiabilité : ${cr.n >= MIN_VERDICTS ? `${cr.score}/100 (${cr.n} verdicts)` : "non calculé (moins de 3 verdicts)"} · judiciaire : ${esc(JUD_LEVELS[jl.level].label)}</p>
+      </div>
+    </header>
+
+    <h2>Profil</h2>
+    ${pr.resume ? `<p>${esc(pr.resume)}${R.cite(pr.sources)}</p>` : ""}
+    <dl class="r-dl">
+      ${n.date || n.lieu ? `<dt>Naissance</dt><dd>${esc(fmtDate(n.date))}${n.lieu ? `, ${esc(n.lieu)}` : ""}${R.cite(n.sources)}</dd>` : ""}
+      <dt>Formation</dt><dd>${(pr.formation || []).map((f) => `${esc(f.texte)}${R.cite(f.sources)}`).join("<br>") || "Non renseigné"}</dd>
+      <dt>Activité hors politique</dt><dd>${(pr.professionHorsPolitique || []).map((f) => `${esc(f.texte)}${R.cite(f.sources)}`).join("<br>") || "Non renseigné"}</dd>
+    </dl>
+
+    <h2>Parcours politique</h2>
+    ${parcours.length ? `<table class="r-table"><tbody>${parcours.map((p) => `<tr><td class="r-when">${esc(p.debut || "?")} – ${p.fin ? esc(p.fin) : "en cours"}</td><td><strong>${esc(p.fonction)}</strong>${p.details ? ` — ${esc(p.details)}` : ""}${R.cite(p.sources)}</td></tr>`).join("")}</tbody></table>` : `<p class="empty">Non renseigné.</p>`}
+
+    <h2>Situation judiciaire</h2>
+    <p class="r-note">Présomption d'innocence : toute personne mise en cause est présumée innocente tant qu'aucune condamnation définitive n'a été prononcée. Statuts connus au ${esc(fmtDate(c.derniereMiseAJour))}.</p>
+    ${j.note ? `<p><strong>Synthèse :</strong> ${esc(j.note)}${R.cite(j.sources)}</p>` : ""}
+    ${aff.map((a) => { const J = misEnCause(a) ? (JUD[a.statut] || JUD.autre) : { label: JUD[a.statut]?.label || "Procédure", tone: "neutral" }; return `<div class="r-case ${J.tone}">
+      <h3>${esc(a.titre)}</h3>
+      <p class="r-meta">${misEnCause(a) ? "" : "Plaignant ou victime · "}${esc(J.label)}${a.role ? ` · ${esc(a.role)}` : ""}</p>
+      ${a.resume ? `<p>${esc(a.resume)}${R.cite(a.sources)}</p>` : R.cite(a.sources)}
+      ${(a.chronologie || []).length ? `<table class="r-table r-chrono"><tbody>${[...a.chronologie].sort((x, y) => String(x.date).localeCompare(String(y.date))).map((e) => `<tr><td class="r-when">${esc(fmtDate(e.date))}</td><td>${esc(e.evenement)}${R.cite(e.sources)}</td></tr>`).join("")}</tbody></table>` : ""}
+    </div>`; }).join("") || `<p class="empty">Aucune procédure judiciaire recensée.</p>`}
+
+    <h2>Programme et fact-checking</h2>
+    <p><strong>${esc(c.programme?.statut || "Statut non renseigné")}.</strong> ${esc(c.programme?.resume || "")}${R.cite(c.programme?.documents)}</p>
+    ${themes.map((t) => `<h3 class="r-theme">${THEMES[t]}</h3>${ps.filter((p) => p.theme === t).map((p) => { const fc = p.factCheck || {}; return `<div class="r-prop">
+      <p class="r-ptitle"><strong>${esc(p.titre)}</strong> <span class="r-meta">${p.type === "declaration-chiffree" ? "Déclaration chiffrée" : "Proposition"}${p.date ? ` · ${esc(fmtDate(p.date))}` : ""}</span>${R.cite(p.sources)}</p>
+      ${p.description ? `<p>${esc(p.description)}</p>` : ""}
+      ${(p.chiffres || []).length ? `<ul class="r-figs">${p.chiffres.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
+      <p class="r-fc">${verdictBadge(fc.verdict)} ${esc(fc.analyse || "")}${R.cite(fc.sources)}</p>
+    </div>`; }).join("")}`).join("") || `<p class="empty">Aucune proposition recensée.</p>`}
+
+    <h2>Politique extérieure</h2>
+    ${I ? `${I.resume ? `<p>${esc(I.resume)}</p>` : ""}
+    <table class="r-table r-intl"><thead><tr><th>Sujet</th><th>Position</th><th>Détail</th></tr></thead><tbody>${INTL_AXES.map((ax) => { const a = I.axes?.[ax.id] || {}, pos = Number.isInteger(a.position) ? a.position : null; return `<tr>
+      <td><strong>${esc(ax.label)}</strong><span class="r-poles">−2 : ${esc(ax.a)}<br>+2 : ${esc(ax.b)}</span></td>
+      <td class="r-pos">${fmtPos(pos)}</td>
+      <td><strong>${esc(a.titre || "Pas de position publique identifiée")}</strong>${a.date ? ` <span class="r-meta">(${esc(fmtDate(a.date))})</span>` : ""}${a.resume ? `<br>${esc(a.resume)}` : ""}${R.cite(a.sources)}</td></tr>`; }).join("")}</tbody></table>` : `<p class="empty">Positions non recensées.</p>`}
+
+    <h2>Sources (${R.size()})</h2>
+    ${R.render()}
+  </section>`;
+}
+function viewRapport() {
+  const d = fmtDate(DATA.generatedAt);
+  const A = DATA.autres, AR = mkRefs("autres");
+  const byFam = Object.keys(FAMILLES).map((f) => [f, CANDS.filter((c) => c.famillePolitique === f)]).filter(([, l]) => l.length);
+  const scale = (v) => `<span class="r-scale">${[-2, -1, 0, 1, 2].map((x) => `<i class="${x === v ? "on" : ""}"></i>`).join("")}</span>`;
+  return `<style>@page { size: A4; margin: 16mm 14mm 17mm; @bottom-left { content: "Comparateur Présidentielle 2027 · données au ${d}"; font: 7.5pt "Public Sans", sans-serif; color: #666; } @bottom-right { content: counter(page) " / " counter(pages); font: 7.5pt "IBM Plex Mono", monospace; color: #666; } } @page :first { @bottom-left { content: none; } @bottom-right { content: none; } }</style>
+  <article class="report">
+    <section class="r-cover">
+      <div class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></div>
+      <p class="eyebrow">Élection présidentielle · 1er tour le 18 avril 2027</p>
+      <h1>Comparateur Présidentielle 2027<br><span>Dossier complet</span></h1>
+      <p class="r-wip"><strong>Données en cours de constitution.</strong> Les fiches, propositions et vérifications seront complétées au fur et à mesure jusqu'à l'élection présidentielle d'avril 2027. Ce dossier reflète l'état des données au ${d}.</p>
+      <p class="r-lead">Programmes, fact-checking, parcours, situations judiciaires et positions de politique extérieure de ${CANDS.length} candidats et prétendants. Chaque information renvoie à une source numérotée, listée en fin de fiche.</p>
+      <dl class="r-dl">
+        <dt>Données au</dt><dd>${d}</dd>
+        <dt>Contenu</dt><dd>${CANDS.length} fiches · ${ALL_PROPS.length} propositions et déclarations · ${checked(ALL_PROPS.map((x) => x.p))} verdicts de fact-check</dd>
+        <dt>Version en ligne</dt><dd><a href="${SITE_URL}">${SITE_URL}</a></dd>
+        <dt>Signaler une erreur</dt><dd><a href="https://github.com/blamouche/elections-presidentielles-2027/issues">github.com/blamouche/elections-presidentielles-2027/issues</a></dd>
+      </dl>
+    </section>
+
+    <section class="r-part">
+      <h1>Sommaire</h1>
+      <ol class="r-toc"><li><a href="#r-methode">Méthode et clés de lecture</a></li><li><a href="#r-synthese">Synthèse comparative</a></li>
+      ${byFam.map(([f, l]) => `<li>${esc(FAMILLES[f])}<ol>${l.map((c) => `<li><a href="#r-${esc(c.id)}">${esc(fullName(c))}</a> <span class="r-meta">${esc(c.partiAbrev || c.parti)}</span></li>`).join("")}</ol></li>`).join("")}
+      <li><a href="#r-autres">Autres candidatures recensées</a></li><li><a href="#r-annexes">Documents ajoutés et crédits</a></li></ol>
+    </section>
+
+    <section class="r-part" id="r-methode">
+      <h1>Méthode et clés de lecture</h1>
+      <p>Les fiches sont établies à partir de sources publiques : sites des candidats et partis, Assemblée nationale, Sénat, Parlement européen, décisions de justice, médias de référence et fact-checkeurs. Une information sans source vérifiable n'est pas publiée. La rédaction se veut factuelle et neutre ; les positions décrivent ce que les candidats disent ou votent, sans jugement.</p>
+      <h2>Verdicts de fact-check</h2>
+      <p>Le verdict porte sur le chiffrage, la faisabilité juridique et l'exactitude des chiffres invoqués, pas sur l'opportunité politique de la mesure.</p>
+      <table class="r-table r-vtable"><tbody>${VERDICT_ORDER.map((k) => `<tr><td>${verdictBadge(k)}</td><td>${esc(VERDICTS[k].def)}</td></tr>`).join("")}</tbody></table>
+      <h2>Indice de fiabilité</h2>
+      <p>Moyenne des verdicts d'un candidat : Vrai = 100, Plutôt vrai = 75, Trompeur = 40, Plutôt faux = 20, Faux = 0. Les verdicts « Invérifiable » et « Non vérifié » ne comptent pas. L'indice n'est pas calculé en dessous de ${MIN_VERDICTS} verdicts.</p>
+      <h2>Situation judiciaire</h2>
+      <p>Seules les procédures judiciaires sont listées, pas les polémiques. Le niveau retenu est la situation la plus grave parmi les procédures où le candidat est mis en cause (les affaires où il est plaignant ou victime sont signalées à part) :</p>
+      <table class="r-table"><tbody>${JUD_LEVELS.map((l, i) => `<tr><td class="r-when">Niveau ${i}</td><td>${esc(l.label)}</td></tr>`).join("")}</tbody></table>
+      <h2>Positions de politique extérieure</h2>
+      <p>Chaque sujet est noté de −2 à +2 entre deux pôles, d'après les déclarations, votes et propositions datés ; « — » signifie qu'aucune position publique n'a été identifiée. En cas de doute entre deux crans, le plus prudent est retenu.</p>
+      <table class="r-table"><thead><tr><th>Sujet</th><th>−2</th><th>+2</th></tr></thead><tbody>${INTL_AXES.map((ax) => `<tr><td><strong>${esc(ax.label)}</strong></td><td>${esc(ax.a)}</td><td>${esc(ax.b)}</td></tr>`).join("")}</tbody></table>
+    </section>
+
+    <section class="r-part" id="r-synthese">
+      <h1>Synthèse comparative</h1>
+      <h2>Candidats, fact-checking et judiciaire</h2>
+      <table class="r-table r-syn"><thead><tr><th>Candidat</th><th>Parti</th><th>Statut</th><th class="num">Propositions</th><th class="num">Verdicts</th><th class="num">Fiabilité</th><th>Judiciaire</th></tr></thead><tbody>
+      ${CANDS.map((c) => { const ps = props(c), cr = credibility(c), jl = judLevel(c); return `<tr><td><a href="#r-${esc(c.id)}">${esc(fullName(c))}</a></td><td>${esc(c.partiAbrev || c.parti)}</td><td>${esc(STATUT_COURT[c.statutCandidature] || "Incertain")}</td><td class="num">${ps.length}</td><td class="num">${checked(ps)}</td><td class="num">${cr.n >= MIN_VERDICTS ? cr.score : "—"}</td><td><span class="r-jl t-${JUD_LEVELS[jl.level].tone}">${jl.level}</span> ${esc(JUD_COURT[jl.level])}${jl.count > 1 ? ` <span class="r-meta">(${jl.count} procédures)</span>` : ""}</td></tr>`; }).join("")}
+      </tbody></table>
+      <h2>Positions de politique extérieure</h2>
+      <table class="r-table r-syn r-imx"><thead><tr><th>Candidat</th>${INTL_AXES.map((ax) => `<th class="num">${esc(ax.label)}</th>`).join("")}</tr></thead><tbody>
+      ${CANDS.filter(hasIntl).map((c) => `<tr><td><a href="#r-${esc(c.id)}">${esc(fullName(c))}</a></td>${INTL_AXES.map((ax) => { const v = ipos(c, ax.id); return `<td class="num">${fmtPos(v)}${v === null ? "" : scale(v)}</td>`; }).join("")}</tr>`).join("")}
+      </tbody></table>
+    </section>
+
+    ${CANDS.map((c, i) => rapportCandidat(c, i)).join("")}
+
+    <section class="r-part" id="r-autres">
+      <h1>Autres candidatures recensées</h1>
+      ${A ? `<p>Personnes sans fiche détaillée : petites candidatures, noms évoqués et retraits. Liste à jour au ${esc(fmtDate(A.miseAJour))}.</p>
+      ${[["Déclarées", A.declarees], ["Évoquées", A.evoquees], ["Ont renoncé ou ne sont pas candidats", A.retirees]].filter(([, l]) => l?.length).map(([t, l]) => `<h2>${t}</h2><table class="r-table"><tbody>${l.map((x) => `<tr><td class="r-when"><strong>${esc(x.nom)}</strong><br><span class="r-meta">${esc(x.parti)}</span></td><td>${esc(x.detail)}${AR.cite(x.sources)}</td></tr>`).join("")}</tbody></table>`).join("")}
+      <h2>Sources (${AR.size()})</h2>${AR.render()}` : `<p class="empty">Aucune.</p>`}
+    </section>
+
+    <section class="r-part" id="r-annexes">
+      <h1>Documents ajoutés et crédits</h1>
+      <h2>Documents et URLs ajoutés</h2>
+      ${(DATA.documents || []).length ? `<ul>${DATA.documents.map((x) => `<li><strong>${esc(x.titre)}</strong> (${esc(fmtDate(x.ajouteLe))})${x.url && safeUrl(x.url) ? ` — <a href="${esc(x.url)}">${esc(x.url)}</a>` : ""}${x.resume ? `<br>${esc(x.resume)}` : ""}</li>`).join("")}</ul>` : `<p>Aucun document ajouté pour l'instant : les fiches reposent sur la recherche initiale.</p>`}
+      <h2>Crédits photographiques</h2>
+      <p>Photos issues de Wikimedia Commons, sous licence libre.</p>
+      <table class="r-table"><tbody>${CANDS.filter((c) => c.photo).map((c) => `<tr><td class="r-when">${esc(fullName(c))}</td><td>${esc(c.photo.auteur)}, ${esc(c.photo.licence)} — <a href="${esc(c.photo.page)}">${esc(c.photo.page)}</a></td></tr>`).join("")}</tbody></table>
+      <h2>Polices</h2>
+      <p>Archivo, Public Sans et IBM Plex Mono (licence SIL Open Font License).</p>
+    </section>
+  </article>`;
+}
+
 /* ---------- Interactions ---------- */
 document.addEventListener("click", (e) => {
   const b = e.target.closest("[data-act]"); if (!b) return;
@@ -1130,40 +1369,41 @@ document.addEventListener("change", (e) => {
 window.addEventListener("hashchange", render);
 
 const days = Math.ceil((FIRST_ROUND - new Date()) / 86400000);
+document.getElementById("wip-date").textContent = `Dernière mise à jour : ${fmtDate(DATA.generatedAt)}.`;
 document.getElementById("countdown").innerHTML = days > 0 ? `<b>J-${days}</b> avant le 1er tour · parrainages clos le 12 mars 2027` : "1er tour : 18 avril 2027";
 document.getElementById("footer").innerHTML = `<span>Données mises à jour le ${esc(fmtDate(DATA.generatedAt))} · ${CANDS.length} candidats · ${ALL_PROPS.length} propositions</span><span>Chaque information renvoie à sa source. Une erreur, une source manquante ? <a href="https://github.com/blamouche/elections-presidentielles-2027/issues/new" target="_blank" rel="noopener noreferrer">Signalez-la sur GitHub</a> · <a href="https://github.com/blamouche/elections-presidentielles-2027" target="_blank" rel="noopener noreferrer">Code source et données</a></span>
-  <span><button type="button" class="dl-btn" data-dl><svg viewBox="0 0 16 16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v8M4.5 6.5 8 10l3.5-3.5M3 13h10"/></svg>Télécharger la version portable</button> <span class="dl-msg" id="dl-msg">Un seul fichier HTML (~3 Mo), consultable hors connexion.</span></span>`;
+  <span><button type="button" class="dl-btn" data-dl><svg viewBox="0 0 16 16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v8M4.5 6.5 8 10l3.5-3.5M3 13h10"/></svg>Télécharger le dossier complet (PDF)</button> <span class="dl-msg" id="dl-msg">Toutes les fiches détaillées, avec leurs sources.</span></span>`;
 
-/* ---------- Téléchargement de la version portable ---------- */
-// Dans le fichier portable : il se recopie lui-même (SELF_HTML).
-// Dans l'Artifact claude.ai : le fichier portable est publié à côté de la page ; on le récupère
-// puis on le propose via la capacité « downloads » (les téléchargements directs y sont bloqués).
-const PORTABLE_FILE = "presidentielle-2027-portable.html";
-const DOWNLOADS = (!PORTABLE && window.claude && typeof window.claude.use === "function")
+/* ---------- Export PDF du dossier complet ---------- */
+// Le PDF est généré par scripts/build.mjs (impression de la vue #rapport) et publié à côté de la page.
+// Dans l'Artifact claude.ai, les téléchargements directs sont bloqués : on passe par la capacité « downloads ».
+const PDF_FILE = "presidentielle-2027.pdf";
+const PDF_ONLINE = "https://blamouche.github.io/elections-presidentielles-2027/" + PDF_FILE;
+const DOWNLOADS = (window.claude && typeof window.claude.use === "function")
   ? window.claude.use("downloads").catch(() => null) : Promise.resolve(null);
 function dlMsg(t) { const m = document.getElementById("dl-msg"); if (m) m.textContent = t; }
-function saveBlob(blob, name) {
-  const url = URL.createObjectURL(blob), a = document.createElement("a");
-  a.href = url; a.download = name; document.body.appendChild(a); a.click(); a.remove();
-  setTimeout(() => URL.revokeObjectURL(url), 10000);
-}
-async function downloadPortable() {
-  const name = `comparateur-presidentielle-2027_${DATA.generatedAt || "donnees"}.html`;
-  if (PORTABLE) { saveBlob(new Blob([SELF_HTML], { type: "text/html" }), name); return; }
+async function downloadPdf() {
+  const name = `comparateur-presidentielle-2027_${DATA.generatedAt || "donnees"}.pdf`;
   const btns = [...document.querySelectorAll("[data-dl]")];
   btns.forEach((b) => (b.disabled = true));
-  dlMsg("Préparation du fichier…");
   try {
-    const res = await fetch(PORTABLE_FILE);
-    if (!res.ok) throw new Error("HTTP " + res.status);
-    const blob = await res.blob();
     const dl = await DOWNLOADS;
-    if (dl) { await dl.save({ filename: name, data: blob }); dlMsg("Fichier enregistré."); }
-    else { saveBlob(blob, name); dlMsg("Téléchargement lancé."); }
+    if (dl) {
+      dlMsg("Préparation du fichier…");
+      const res = await fetch(PDF_FILE);
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      await dl.save({ filename: name, data: await res.blob() });
+      dlMsg("Fichier enregistré.");
+    } else {
+      // Navigateur classique : lien direct (le PDF est publié à côté de la page ; en local file://, la version en ligne).
+      const a = document.createElement("a");
+      a.href = location.protocol === "file:" ? PDF_ONLINE : PDF_FILE; a.download = name; a.target = "_blank"; a.rel = "noopener";
+      document.body.appendChild(a); a.click(); a.remove();
+    }
   } catch (e) {
-    dlMsg(e && e.code === "declined" ? "Téléchargement annulé." : "Téléchargement indisponible ici : ouvrez la page dans un navigateur ou demandez le fichier à la personne qui vous l'a partagée.");
+    dlMsg(e && e.code === "declined" ? "Téléchargement annulé." : "Téléchargement indisponible ici. Le PDF est aussi en ligne : " + PDF_ONLINE);
   } finally { btns.forEach((b) => (b.disabled = false)); }
 }
-document.addEventListener("click", (e) => { if (e.target.closest("[data-dl]")) downloadPortable(); });
+document.addEventListener("click", (e) => { if (e.target.closest("[data-dl]")) downloadPdf(); });
 render();
 </script>

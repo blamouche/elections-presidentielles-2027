@@ -4,7 +4,7 @@ Page HTML statique (un seul fichier) pour analyser et comparer les programmes de
 
 - Site public (GitHub Pages) : https://blamouche.github.io/elections-presidentielles-2027/
 - Version Artifact claude.ai (privée tant qu'elle n'est pas partagée) : https://claude.ai/artifact/MJAhMnwSDxZE11E8fkTbT1
-- Version portable : `dist/presidentielle-2027-portable.html`, un seul fichier (~3 Mo) sans aucune ressource externe — données, photos et polices intégrées. S'ouvre par double-clic, hors connexion, et se partage par e-mail, clé USB, Drive, etc. Le bouton « Version portable » de la page (barre du haut et pied de page) la télécharge : le fichier portable se recopie lui-même ; dans l'Artifact, il est publié à côté de la page (`files`) et proposé via la capacité `downloads`.
+- Dossier complet en PDF : `dist/presidentielle-2027.pdf` (A4, ~240 pages) — synthèse comparative puis, pour chaque candidat, profil, parcours, judiciaire, programme et fact-checks, positions internationales et sources numérotées. Il est généré à chaque build en imprimant la vue `#rapport` avec Chrome sans interface, et téléchargeable depuis le bouton « Export PDF » de la page (dans l'Artifact, via la capacité `downloads`).
 
 ## Organisation
 
@@ -17,11 +17,11 @@ Page HTML statique (un seul fichier) pour analyser et comparer les programmes de
 | `data/documents.json` | Registre des documents et URLs ajoutés pour alimenter l'analyse |
 | `documents/` | Copies locales des documents transmis (PDF, etc.) |
 | `src/template.html` | Interface (HTML/CSS/JS sans dépendance) |
-| `scripts/build.mjs` | Intègre les données dans la page et contrôle que chaque fait est sourcé |
-| `data/fonts/` | Polices (Google Fonts, licence SIL OFL) intégrées à la version portable |
+| `scripts/build.mjs` | Intègre les données dans la page, contrôle que chaque fait est sourcé et génère le PDF (Chrome requis, chemin modifiable via `CHROME_PATH`) |
+| `data/fonts/` | Polices (Google Fonts, licence SIL OFL) intégrées à la page autonome et au PDF |
 | `scripts/fetch-fonts.mjs` | Télécharge ces polices une fois (`node scripts/fetch-fonts.mjs`) |
 | `scripts/fetch-medias.mjs` | Récupère les photos libres via Wikidata/Commons (`node scripts/fetch-medias.mjs <id>`) |
-| `dist/` | Pages générées (`artifact.html` pour la publication, `presidentielle-2027-portable.html` portable) |
+| `dist/` | Pages générées (`artifact.html` pour la publication, `index.html` autonome, `presidentielle-2027.pdf`) |
 
 ## Mettre à jour
 
@@ -33,4 +33,4 @@ node scripts/build.mjs
 
 La commande affiche un avertissement pour toute information sans source.
 
-GitHub Pages est mis à jour automatiquement à chaque push sur `main` (`.github/workflows/pages.yml` relance `node scripts/build.mjs` et publie la version portable comme `index.html`).
+GitHub Pages est mis à jour automatiquement à chaque push sur `main` (`.github/workflows/pages.yml` relance `node scripts/build.mjs` et publie `index.html` et le PDF).

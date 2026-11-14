@@ -22,13 +22,13 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Générer la page
+      - name: Générer la page et le PDF
         run: node scripts/build.mjs
       - name: Préparer le site
         run: |
+          test -s dist/presidentielle-2027.pdf || { echo "PDF manquant"; exit 1; }
           mkdir -p _site
-          cp dist/presidentielle-2027-portable.html _site/index.html
-          cp dist/presidentielle-2027-portable.html _site/presidentielle-2027-portable.html
+          cp dist/index.html dist/presidentielle-2027.pdf _site/
           touch _site/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:

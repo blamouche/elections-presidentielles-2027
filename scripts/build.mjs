@@ -2,7 +2,8 @@
 // Usage : node scripts/build.mjs
 import fs from "node:fs";
 import path from "node:path";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
+import { spawnSync } from "node:child_process";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const candDir = path.join(root, "data/candidates");
@@ -72,27 +73,54 @@ const out = tpl.replace(marker, () => json);
 fs.mkdirSync(path.join(root, "dist"), { recursive: true });
 // 1) Contenu brut pour la publication en Artifact (la plateforme ajoute le squelette HTML).
 fs.writeFileSync(path.join(root, "dist/artifact.html"), out);
-// 2) Version portable : un seul fichier, sans aucune ressource externe (polices intégrées),
-//    à envoyer par e-mail, mettre sur une clé USB ou ouvrir hors connexion.
+// 2) Page autonome (dist/index.html) : un seul fichier, sans ressource externe (polices intégrées).
+//    Servie par GitHub Pages ; c'est aussi elle qu'on imprime en PDF.
 const fontsDir = path.join(root, "data/fonts");
-let portable = out.replace("/*__PORTABLE__*/false", "true");
+let standalone = out;
 const fontsCss = path.join(fontsDir, "fonts.css");
 if (fs.existsSync(fontsCss)) {
   const inlined = fs.readFileSync(fontsCss, "utf8").replace(/url\(([^)]+\.woff2)\)/g, (_, f) =>
     `url(data:font/woff2;base64,${fs.readFileSync(path.join(fontsDir, f)).toString("base64")})`);
-  portable = portable.replace(/<link[^>]+fonts\.(googleapis|gstatic)\.com[^>]*>\n?/g, "");
-  portable = `<style>\n${inlined}</style>\n` + portable;
+  standalone = standalone.replace(/<link[^>]+fonts\.(googleapis|gstatic)\.com[^>]*>\n?/g, "");
+  standalone = `<style>\n${inlined}</style>\n` + standalone;
 } else {
-  warnings.push("data/fonts absent : la version portable chargera les polices en ligne (node scripts/fetch-fonts.mjs)");
+  warnings.push("data/fonts absent : la page autonome chargera les polices en ligne (node scripts/fetch-fonts.mjs)");
 }
-const dest = path.join(root, "dist/presidentielle-2027-portable.html");
-fs.writeFileSync(dest, `<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>Comparateur Présidentielle 2027</title></head><body>\n${portable}\n</body></html>\n`);
-fs.rmSync(path.join(root, "dist/presidentielle-2027.html"), { force: true }); // ancien nom
+const dest = path.join(root, "dist/index.html");
+fs.writeFileSync(dest, `<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>Comparateur Présidentielle 2027</title></head><body>\n${standalone}\n</body></html>\n`);
+for (const f of ["presidentielle-2027.html", "presidentielle-2027-portable.html"]) fs.rmSync(path.join(root, "dist", f), { force: true }); // anciens noms
+
+// 3) Dossier complet en PDF : impression de la vue #rapport par Chrome sans interface.
+const pdf = path.join(root, "dist/presidentielle-2027.pdf");
+const chrome = findChrome();
+if (!chrome) {
+  warnings.push("Chrome introuvable : PDF non généré (définir CHROME_PATH)");
+} else {
+  fs.rmSync(pdf, { force: true });
+  const args = ["--headless", "--disable-gpu", "--no-first-run", "--no-default-browser-check", "--no-pdf-header-footer",
+    "--generate-pdf-document-outline", "--virtual-time-budget=20000", `--print-to-pdf=${pdf}`,
+    ...(process.platform === "linux" ? ["--no-sandbox"] : []), pathToFileURL(dest).href + "#rapport"];
+  const r = spawnSync(chrome, args, { encoding: "utf8", timeout: 180000 });
+  if (!fs.existsSync(pdf)) throw new Error("Échec de la génération du PDF :\n" + (r.stderr || r.error || ""));
+}
 
 const nProps = candidats.reduce((n, c) => n + (c.programme?.propositions?.length || 0), 0);
 console.log(`${candidats.length} candidats, ${nProps} propositions, ${documents.length} documents ajoutés`);
 console.log(`→ ${path.relative(root, dest)} (${Math.round(fs.statSync(dest).size / 1024)} Ko)`);
+if (fs.existsSync(pdf)) console.log(`→ ${path.relative(root, pdf)} (${Math.round(fs.statSync(pdf).size / 1024)} Ko)`);
 if (warnings.length) {
   console.log(`\n${warnings.length} avertissement(s) :`);
   warnings.forEach((w) => console.log("  - " + w));
+}
+
+function findChrome() {
+  const candidates = [process.env.CHROME_PATH,
+    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+    "/Applications/Chromium.app/Contents/MacOS/Chromium"].filter(Boolean);
+  for (const c of candidates) if (fs.existsSync(c)) return c;
+  for (const name of ["google-chrome", "google-chrome-stable", "chromium", "chromium-browser"]) {
+    const r = spawnSync("which", [name], { encoding: "utf8" });
+    if (r.status === 0 && r.stdout.trim()) return r.stdout.trim();
+  }
+  return null;
 }
