@@ -34,7 +34,7 @@ Les règles absolues de `data/SCHEMA.md` s'appliquent : uniquement des URLs rée
 
 - **Un objet par sondage et par tour.** Un sondage qui teste le premier tour et des duels de second tour donne deux objets : `tour: 1` et `tour: 2`, avec le même `id` suffixé `-t1` et `-t2`.
 - **`hypotheses`** : chaque scénario testé, dans l'ordre de publication de l'institut. Pour un duel de second tour, chaque duel est une hypothèse (ex. « Bardella / Philippe »). `resultats` est trié par pourcentage décroissant.
-- **`pct`** : pourcentage des intentions exprimées, tel que publié (décimales si l'institut en donne).
+- **`pct`** : pourcentage des intentions exprimées, tel que publié (décimales si l'institut en donne). Un score publié « <1 » est codé `0.5`, avec la valeur d'origine dans `pctPublie: "<1"` (c'est elle qui est affichée).
 - **`id`** de candidat : identifiant de la fiche dans `data/candidates/` si elle existe, sinon `null`.
 - **Dates** au format ISO. `publication` = date de première diffusion.
 - Champ facultatif `note` (une phrase) pour signaler une particularité : échantillon spécifique, scénario sans candidat déclaré…

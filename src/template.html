@@ -420,6 +420,9 @@ sup.ref { font-size: 6.5pt; font-family: var(--font-data); margin-left: 0.5mm; w
   * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 }
 /* Familles politiques (historique) */
+:root { --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300; --s7: #6250d6; --s8: #e34948; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #008300; --s7: #9085e9; --s8: #e66767; } }
+:root[data-theme="dark"] { --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #008300; --s7: #9085e9; --s8: #e66767; }
 :root { --fam-extreme-gauche: #A3202B; --fam-gauche: #D6336C; --fam-ecologiste: #2E8B45; --fam-centre: #C98000; --fam-droite: #2B5DB8; --fam-extreme-droite: #1E2A52; --fam-divers: #7D8396; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --fam-extreme-gauche: #F06A72; --fam-gauche: #F27BA6; --fam-ecologiste: #5CC77A; --fam-centre: #F2B84B; --fam-droite: #6D9BF0; --fam-extreme-droite: #8E9BD6; --fam-divers: #A5ABC2; } }
 :root[data-theme="dark"] { --fam-extreme-gauche: #F06A72; --fam-gauche: #F27BA6; --fam-ecologiste: #5CC77A; --fam-centre: #F2B84B; --fam-droite: #6D9BF0; --fam-extreme-droite: #8E9BD6; --fam-divers: #A5ABC2; }
@@ -452,7 +455,7 @@ a.chip { text-decoration: none; color: inherit; }
 .chart-wrap .dot { fill: var(--c); stroke: var(--surface); stroke-width: 2; }
 .chart-wrap .dot-hit { fill: transparent; cursor: pointer; }
 .chart-wrap .pt:hover .dot, .chart-wrap .pt:focus .dot { r: 6; }
-.chart-wrap .endlbl { font: 600 12.5px var(--font-body); }
+.chart-wrap .endlbl { font: 600 12px var(--font-body); }
 .polls { display: grid; gap: 6px; }
 .poll { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
 .poll summary { cursor: pointer; display: grid; grid-template-columns: 6.5rem minmax(0, 16rem) minmax(0, 1fr) auto; gap: 6px 14px; align-items: center; padding: 9px 14px; font-size: 0.9rem; }
@@ -1236,7 +1239,7 @@ const partic = (t) => t && t.inscrits ? (t.votants / t.inscrits) * 100 : null;
 
 /* Petit graphique en lignes (SVG) : séries [{key,label,color,points:[{x,y,tip}]}], axe x numérique. */
 function lineChart({ series, xMin, xMax, yMin, yMax, yStep, xTicks, fmtY = (v) => String(v).replace(".", ",") + " %", height = 340, unit = "" }) {
-  const W = 1000, H = height, L = 46, R = 150, T = 16, B = 34;
+  const W = 1000, H = height, L = 46, R = 200, T = 16, B = 34;
   const X = (x) => L + ((x - xMin) / ((xMax - xMin) || 1)) * (W - L - R);
   const Y = (y) => T + (1 - (y - yMin) / ((yMax - yMin) || 1)) * (H - T - B);
   const grid = []; for (let v = yMin; v <= yMax + 1e-9; v += yStep) grid.push(v);
@@ -1322,7 +1325,9 @@ function viewHistorique(year) {
 /* ---------- Vue : sondages ---------- */
 const SD = () => DATA.sondages?.sondages || [];
 const candKey = (r) => r.id || norm(r.candidat);
-const candColor = (r) => r.id && BY_ID[r.id]?.couleur ? BY_ID[r.id].couleur : "var(--neutral)";
+let POLL_COLORS = new Map(); // candidat → couleur de série (graphique et liste), attribuée par rang
+const candColor = (r) => POLL_COLORS.get(candKey(r)) || "var(--neutral)";
+const shortName = (r) => r.id && BY_ID[r.id] ? BY_ID[r.id].nom : r.candidat.split(" ").slice(1).join(" ") || r.candidat;
 const dnum = (d) => { const t = Date.parse(d); return Number.isFinite(t) ? t : null; };
 function pollRow(s) {
   const h = s.hypotheses?.[0];
@@ -1330,12 +1335,12 @@ function pollRow(s) {
     <summary>
       <span class="pl-date mono">${esc(shortDate(s.terrainFin || s.publication))}</span>
       <span class="pl-inst"><strong>${esc(s.institut)}</strong>${s.commanditaire ? `<span class="muted"> pour ${esc(s.commanditaire)}</span>` : ""}</span>
-      <span class="pl-top">${(h?.resultats || []).slice(0, 4).map((r) => `<span><span class="thdot" style="background:${candColor(r)}"></span>${esc(r.candidat.split(" ").slice(-1)[0])} <b class="mono">${esc(String(r.pct).replace(".", ","))}</b></span>`).join("")}</span>
+      <span class="pl-top">${(h?.resultats || []).slice(0, 4).map((r) => `<span><span class="thdot" style="background:${candColor(r)}"></span>${esc(shortName(r))} <b class="mono">${esc(String(r.pct).replace(".", ","))}</b></span>`).join("")}</span>
       <span class="pl-n muted">${(s.hypotheses || []).length} hyp.</span>
     </summary>
     <div class="pl-body">
       <p class="muted" style="font-size:.85rem">Terrain du ${esc(fmtDate(s.terrainDebut))} au ${esc(fmtDate(s.terrainFin))}${s.echantillon ? ` · ${fmtInt(s.echantillon)} personnes` : ""}${s.methode ? ` · ${esc(s.methode)}` : ""}${s.note ? ` · ${esc(s.note)}` : ""}</p>
-      <div class="pl-hyps">${(s.hypotheses || []).map((hy) => `<div class="pl-hyp"><p class="eyebrow">${esc(hy.label || "")}</p><ol class="hbars sm">${hy.resultats.map((r) => `<li><span class="hb-name">${r.id && BY_ID[r.id] ? `<a href="#c-${esc(r.id)}">${esc(r.candidat)}</a>` : esc(r.candidat)}</span><span class="hb-track"><span class="hb-bar" style="width:${Math.min(100, r.pct * (s.tour === 2 ? 1 : 2))}%;background:${candColor(r)}"></span></span><span class="hb-val"><b>${esc(String(r.pct).replace(".", ","))} %</b></span></li>`).join("")}</ol></div>`).join("")}</div>
+      <div class="pl-hyps">${(s.hypotheses || []).map((hy) => `<div class="pl-hyp"><p class="eyebrow">${esc(hy.label || "")}</p><ol class="hbars sm">${hy.resultats.map((r) => `<li><span class="hb-name">${r.id && BY_ID[r.id] ? `<a href="#c-${esc(r.id)}">${esc(r.candidat)}</a>` : esc(r.candidat)}</span><span class="hb-track"><span class="hb-bar" style="width:${Math.min(100, r.pct * (s.tour === 2 ? 1 : 2))}%;background:${candColor(r)}"></span></span><span class="hb-val"><b>${esc(r.pctPublie || String(r.pct).replace(".", ","))} %</b></span></li>`).join("")}</ol></div>`).join("")}</div>
       ${srcLinks(s.sources)}
     </div>
   </details>`;
@@ -1354,6 +1359,8 @@ function viewSondages() {
     .sort((a, b) => String(b.terrainFin).localeCompare(String(a.terrainFin)));
   // Courbes : 1re hypothèse de chaque sondage de 1er tour ; candidats les plus présents et les plus hauts récemment.
   let chart = "";
+  // 2nd tour : pas de graphique, couleur du parti pour lire les duels.
+  if (tour !== 1) POLL_COLORS = new Map(CANDS.map((c) => [c.id, c.couleur]));
   const t1 = list.filter((s) => s.tour === 1 && s.hypotheses?.[0]).slice().reverse();
   if (tour === 1 && t1.length >= 2) {
     const by = new Map();
@@ -1365,6 +1372,7 @@ function viewSondages() {
     const ranked = [...by.values()].filter((v) => v.pts.length >= minPolls)
       .map((v) => ({ ...v, recent: v.pts.slice(-5).reduce((a, p) => a + p.y, 0) / Math.min(5, v.pts.length) }))
       .sort((a, b) => b.recent - a.recent).slice(0, 7);
+    POLL_COLORS = new Map(ranked.map((v, i) => [candKey(v.r), `var(--s${i + 1})`]));
     const series = ranked.map((v) => ({ key: candKey(v.r), label: v.r.candidat, color: candColor(v.r), points: v.pts }));
     const xs = t1.map((s) => dnum(s.terrainFin)), xMin = Math.min(...xs), xMax = Math.max(...xs);
     const yMax = Math.ceil(Math.max(...series.flatMap((s) => s.points.map((p) => p.y)), 10) / 5) * 5;
@@ -1540,7 +1548,7 @@ function viewRapport() {
       <p>Sondages nationaux recensés au ${esc(fmtDate(DATA.sondages.derniereMiseAJour))}, du plus récent au plus ancien. Pour chaque sondage, la première hypothèse publiée par l'institut ; les autres scénarios et les sources figurent dans la version en ligne. Un sondage n'est pas une prévision : marge d'erreur d'environ 2 à 3 points pour 1 000 personnes interrogées.</p>
       ${[1, 2].map((tr) => { const l = SD().filter((x) => x.tour === tr).sort((a, b) => String(b.terrainFin).localeCompare(String(a.terrainFin))); return l.length ? `<h2>${tr === 1 ? "Premier tour" : "Second tour"} (${l.length})</h2>
       <table class="r-table"><thead><tr><th>Terrain</th><th>Institut</th><th>${tr === 1 ? "Hypothèse 1" : "Duels testés"}</th></tr></thead><tbody>${l.map((x) => `<tr><td class="r-when">${esc(fmtDate(x.terrainFin))}</td><td><strong>${esc(x.institut)}</strong>${x.commanditaire ? `<br><span class="r-meta">${esc(x.commanditaire)}</span>` : ""}${x.echantillon ? `<br><span class="r-meta">${fmtInt(x.echantillon)} pers.</span>` : ""}</td><td>${tr === 1
-        ? (x.hypotheses?.[0]?.resultats || []).map((r) => `${esc(r.candidat)} ${esc(String(r.pct).replace(".", ","))}`).join(" · ")
+        ? (x.hypotheses?.[0]?.resultats || []).map((r) => `${esc(r.candidat)} ${esc(r.pctPublie || String(r.pct).replace(".", ","))}`).join(" · ")
         : (x.hypotheses || []).map((h) => h.resultats.map((r) => `${esc(r.candidat)} ${esc(String(r.pct).replace(".", ","))}`).join(" / ")).join("<br>")}</td></tr>`).join("")}</tbody></table>` : ""; }).join("")}
     </section>` : ""}
 
