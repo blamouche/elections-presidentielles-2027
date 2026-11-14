@@ -1,0 +1,748 @@
+{
+  "anasse-kazib": {
+    "wikidata": "Q106405647",
+    "wikidataLabel": "Anasse Kazib",
+    "wikidataDescription": "homme politique français",
+    "naissanceWikidata": "1986-00-00",
+    "sitesWikidata": [
+      "https://anassekazib.fr/"
+    ],
+    "photo": {
+      "fichier": "data/photos/anasse-kazib.jpg",
+      "auteur": "PabloMorao27",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Anasse_Kazib,_d%C3%A9cembre_2021.jpg",
+      "date": "2021-12-01"
+    },
+    "sites": [
+      {
+        "label": "Site de campagne",
+        "url": "https://anasse2027.fr/"
+      },
+      {
+        "label": "Révolution permanente",
+        "url": "https://revolutionpermanente.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "bruno-retailleau": {
+    "wikidata": "Q2926942",
+    "wikidataLabel": "Bruno Retailleau",
+    "wikidataDescription": "homme politique français",
+    "naissanceWikidata": "1960-11-20",
+    "sitesWikidata": [],
+    "photo": {
+      "fichier": "data/photos/bruno-retailleau.jpg",
+      "auteur": "Anthonymontardyfr",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_(cropped).jpg",
+      "date": "2025-06-05"
+    },
+    "sites": [
+      {
+        "label": "Site du parti",
+        "url": "https://www.republicains.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "david-lisnard": {
+    "wikidata": "Q3018298",
+    "wikidataLabel": "David Lisnard",
+    "wikidataDescription": "homme politique français, maire de Cannes",
+    "naissanceWikidata": "1969-02-02",
+    "sitesWikidata": [
+      "https://www.lisnard2027.fr"
+    ],
+    "photo": {
+      "fichier": "data/photos/david-lisnard.jpg",
+      "auteur": "Grégor Sauvagère",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:David_Lisnard_en_2026.jpg",
+      "date": "2026-10-08"
+    },
+    "sites": [
+      {
+        "label": "Site de campagne",
+        "url": "https://www.lisnard2027.fr/"
+      },
+      {
+        "label": "Site du parti",
+        "url": "https://www.unenouvelleenergie.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "dominique-de-villepin": {
+    "wikidata": "Q131660",
+    "wikidataLabel": "Dominique de Villepin",
+    "wikidataDescription": "diplomate, écrivain et homme d'État français",
+    "naissanceWikidata": "1953-11-14",
+    "sitesWikidata": [
+      "https://www.villepin.fr/"
+    ],
+    "photo": {
+      "fichier": "data/photos/dominique-de-villepin.jpg",
+      "auteur": "Georges Seguin (Okki)",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Dominique_de_Villepin_(2010).jpg",
+      "date": "2010-03-30"
+    },
+    "sites": [
+      {
+        "label": "Site du mouvement",
+        "url": "https://lafrancehumaniste.fr/"
+      },
+      {
+        "label": "Site personnel",
+        "url": "https://www.villepin.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "edouard-philippe": {
+    "wikidata": "Q3579995",
+    "wikidataLabel": "Édouard Philippe",
+    "wikidataDescription": "homme d'État français",
+    "naissanceWikidata": "1970-11-28",
+    "sitesWikidata": [],
+    "photo": {
+      "fichier": "data/photos/edouard-philippe.jpg",
+      "auteur": "Jacques Paquier",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Philippe_2019_(cropped).jpg",
+      "date": "2019-04-01"
+    },
+    "sites": [
+      {
+        "label": "Site de campagne",
+        "url": "https://www.edouardphilippe.fr/"
+      },
+      {
+        "label": "Site du parti",
+        "url": "https://horizonsleparti.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "eric-zemmour": {
+    "wikidata": "Q288477",
+    "wikidataLabel": "Éric Zemmour",
+    "wikidataDescription": "journaliste, écrivain et homme politique français",
+    "naissanceWikidata": "1958-08-31",
+    "sitesWikidata": [
+      "https://www.ericzemmour.fr/"
+    ],
+    "photo": {
+      "fichier": "data/photos/eric-zemmour.jpg",
+      "auteur": "Anh De France",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File:Portrait_d%27%C3%89ric_Zemmour,_avril_2022.jpg",
+      "date": "2022-04-25"
+    },
+    "sites": [
+      {
+        "label": "Site personnel",
+        "url": "https://www.ericzemmour.fr/"
+      },
+      {
+        "label": "Site du parti",
+        "url": "https://www.parti-reconquete.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "fabien-roussel": {
+    "wikidata": "Q30388733",
+    "wikidataLabel": "Fabien Roussel",
+    "wikidataDescription": "homme politique français",
+    "naissanceWikidata": "1969-04-16",
+    "sitesWikidata": [
+      "https://www.rousselfabien.com/"
+    ],
+    "photo": {
+      "fichier": "data/photos/fabien-roussel.jpg",
+      "auteur": "Zouhair NAKARA",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Roussel_Fabien_1.jpg",
+      "date": "2018-11-25"
+    },
+    "sites": [
+      {
+        "label": "Site de campagne",
+        "url": "https://www.fabienroussel2027.fr/"
+      },
+      {
+        "label": "Site du parti",
+        "url": "https://www.pcf.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "francois-hollande": {
+    "wikidata": "Q157",
+    "wikidataLabel": "François Hollande",
+    "wikidataDescription": "homme d'État français",
+    "naissanceWikidata": "1954-08-12",
+    "sitesWikidata": [],
+    "photo": {
+      "fichier": "data/photos/francois-hollande.jpg",
+      "auteur": "Web Summit",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Hollande_-_2017_(27869823159)_(cropped_2).jpg",
+      "date": "2017-11-30"
+    },
+    "sites": [],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "francois-ruffin": {
+    "wikidata": "Q3085763",
+    "wikidataLabel": "François Ruffin",
+    "wikidataDescription": "journaliste, réalisateur et homme politique français",
+    "naissanceWikidata": "1975-10-18",
+    "sitesWikidata": [
+      "https://francoisruffin.fr/"
+    ],
+    "photo": {
+      "fichier": "data/photos/francois-ruffin.jpg",
+      "auteur": "Thinkerview",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Ruffin_(cropped).jpg",
+      "date": "2022-10-06"
+    },
+    "sites": [
+      {
+        "label": "Site de campagne",
+        "url": "https://nouspresident.fr/"
+      },
+      {
+        "label": "Site personnel",
+        "url": "https://francoisruffin.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "gabriel-attal": {
+    "wikidata": "Q30339350",
+    "wikidataLabel": "Gabriel Attal",
+    "wikidataDescription": "homme d'État français",
+    "naissanceWikidata": "1989-03-16",
+    "sitesWikidata": [
+      "https://www.info.gouv.fr/personnalite/gabriel-attal",
+      "https://gabrielattal.fr"
+    ],
+    "photo": {
+      "fichier": "data/photos/gabriel-attal.jpg",
+      "auteur": "Ismail Aissoub",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Gabriel_Attal_2025_(close_crop).jpg",
+      "date": "2025-03-03"
+    },
+    "sites": [
+      {
+        "label": "Site de campagne",
+        "url": "https://attalpresident.fr/"
+      },
+      {
+        "label": "Site du parti",
+        "url": "https://parti-renaissance.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "jean-luc-melenchon": {
+    "wikidata": "Q5829",
+    "wikidataLabel": "Jean-Luc Mélenchon",
+    "wikidataDescription": "homme politique français",
+    "naissanceWikidata": "1951-08-19",
+    "sitesWikidata": [
+      "https://melenchon.fr/",
+      "http://europe.jean-luc-melenchon.fr/"
+    ],
+    "photo": {
+      "fichier": "data/photos/jean-luc-melenchon.jpg",
+      "auteur": "jlm2017.fr",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:M%C3%A9lenchon_2027_-_55262255527_(cropped_3-4).png",
+      "date": "2026-05-11"
+    },
+    "sites": [
+      {
+        "label": "Site de campagne",
+        "url": "https://melenchon2027.fr/"
+      },
+      {
+        "label": "Site du parti",
+        "url": "https://lafranceinsoumise.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "jordan-bardella": {
+    "wikidata": "Q40655898",
+    "wikidataLabel": "Jordan Bardella",
+    "wikidataDescription": "homme politique français",
+    "naissanceWikidata": "1995-09-13",
+    "sitesWikidata": [],
+    "photo": {
+      "fichier": "data/photos/jordan-bardella.jpg",
+      "auteur": "Raphael ATTAL @BootEXE",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Jordan_Bardella_-_Strasbourg_European_Parliament_September_2022_(Cropped).jpg",
+      "date": "2024-06-11"
+    },
+    "sites": [
+      {
+        "label": "Site du parti",
+        "url": "https://rassemblementnational.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "juan-branco": {
+    "wikidata": "Q21890311",
+    "wikidataLabel": "Juan Branco",
+    "wikidataDescription": "avocat et militant politique franco-espagnol",
+    "naissanceWikidata": "1989-08-26",
+    "sitesWikidata": [
+      "https://juan-branco.fr/"
+    ],
+    "photo": {
+      "fichier": "data/photos/juan-branco.jpg",
+      "auteur": "UPOP Marseille",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Juan_Branco_Pick.jpg",
+      "date": "2024-09-12"
+    },
+    "sites": [
+      {
+        "label": "Site du mouvement",
+        "url": "https://ruches.org/"
+      },
+      {
+        "label": "Site personnel",
+        "url": "https://juan-branco.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "marine-le-pen": {
+    "wikidata": "Q12927",
+    "wikidataLabel": "Marine Le Pen",
+    "wikidataDescription": "femme politique française",
+    "naissanceWikidata": "1968-08-05",
+    "sitesWikidata": [
+      "https://mlafrance.fr"
+    ],
+    "photo": {
+      "fichier": "data/photos/marine-le-pen.jpg",
+      "auteur": "VOX España",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_(28-01-2022).jpg",
+      "date": "2022-01-28"
+    },
+    "sites": [
+      {
+        "label": "Site du parti",
+        "url": "https://rassemblementnational.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "marine-tondelier": {
+    "wikidata": "Q29917987",
+    "wikidataLabel": "Marine Tondelier",
+    "wikidataDescription": "femme politique française",
+    "naissanceWikidata": "1986-08-23",
+    "sitesWikidata": [
+      "https://marinetondelier.fr"
+    ],
+    "photo": {
+      "fichier": "data/photos/marine-tondelier.jpg",
+      "auteur": "Selbymay",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Huma2023MarineTondelier.jpg",
+      "date": "2023-09-17"
+    },
+    "sites": [
+      {
+        "label": "Site de campagne",
+        "url": "https://marinetondelier.fr/"
+      },
+      {
+        "label": "Site du parti",
+        "url": "https://lesecologistes.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "natacha-polony": {
+    "wikidata": "Q941949",
+    "wikidataLabel": "Natacha Polony",
+    "wikidataDescription": "journaliste et essayiste française",
+    "naissanceWikidata": "1975-04-15",
+    "sitesWikidata": [],
+    "photo": {
+      "fichier": "data/photos/natacha-polony.jpg",
+      "auteur": "Georges Biard",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Natacha_Polony_Cannes_2015.jpg",
+      "date": "2015-05"
+    },
+    "sites": [],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "nathalie-arthaud": {
+    "wikidata": "Q439490",
+    "wikidataLabel": "Nathalie Arthaud",
+    "wikidataDescription": "femme politique française",
+    "naissanceWikidata": "1970-02-23",
+    "sitesWikidata": [
+      "http://www.nathalie-arthaud.info/"
+    ],
+    "photo": {
+      "fichier": "data/photos/nathalie-arthaud.jpg",
+      "auteur": "Kokluts",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Nathalie_Arthaud_(LO)_19-05-2024.jpg",
+      "date": "2024-05-19"
+    },
+    "sites": [
+      {
+        "label": "Site personnel",
+        "url": "https://www.nathalie-arthaud.info/"
+      },
+      {
+        "label": "Site du parti",
+        "url": "https://www.lutte-ouvriere.org/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "raphael-glucksmann": {
+    "wikidata": "Q556149",
+    "wikidataLabel": "Raphaël Glucksmann",
+    "wikidataDescription": "essayiste et homme politique français",
+    "naissanceWikidata": "1979-10-15",
+    "sitesWikidata": [
+      "https://glucks2027.fr/"
+    ],
+    "photo": {
+      "fichier": "data/photos/raphael-glucksmann.jpg",
+      "auteur": "Mathieu Delmestre",
+      "licence": "Public domain",
+      "licenceUrl": null,
+      "page": "https://commons.wikimedia.org/wiki/File:2024-03-03_-_Congr%C3%A8s_du_PSE-_105_-_Raphael_Glucksmann.jpg",
+      "date": "2024-03-03"
+    },
+    "sites": [
+      {
+        "label": "Site de campagne",
+        "url": "https://glucks2027.fr/"
+      },
+      {
+        "label": "Site du parti",
+        "url": "https://place-publique.eu/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "selma-labib": {
+    "wikidata": "Q125755264",
+    "wikidataLabel": "Selma Labib",
+    "naissanceWikidata": "1995-08-25",
+    "sitesWikidata": [],
+    "sites": [
+      {
+        "label": "Site du parti",
+        "url": "https://npa-revolutionnaires.org/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "teddy-riner": {
+    "wikidata": "Q353514",
+    "wikidataLabel": "Teddy Riner",
+    "wikidataDescription": "judoka français",
+    "naissanceWikidata": "1989-04-07",
+    "sitesWikidata": [
+      "https://www.teddyriner.com"
+    ],
+    "photo": {
+      "fichier": "data/photos/teddy-riner.jpg",
+      "auteur": "Georges Biard",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Teddy_Riner_Cannes_2016.jpg",
+      "date": "2016-05-21"
+    },
+    "sites": [],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "florian-philippot": {
+    "wikidata": "Q3074223",
+    "wikidataLabel": "Florian Philippot",
+    "wikidataDescription": "haut fonctionnaire et homme politique français",
+    "naissanceWikidata": "1981-10-24",
+    "sitesWikidata": [],
+    "photo": {
+      "fichier": "data/photos/florian-philippot.jpg",
+      "auteur": "Films et documetnaires",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Florian_Philippot.jpg",
+      "date": "2024-09-12"
+    },
+    "sites": [
+      {
+        "label": "Site du parti",
+        "url": "https://les-patriotes.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "francois-asselineau": {
+    "wikidata": "Q12972",
+    "wikidataLabel": "François Asselineau",
+    "wikidataDescription": "haut fonctionnaire et homme politique français",
+    "naissanceWikidata": "1957-09-14",
+    "sitesWikidata": [
+      "http://www.francoisasselineau.fr/"
+    ],
+    "photo": {
+      "fichier": "data/photos/francois-asselineau.jpg",
+      "auteur": "Union Populaire Républicaine",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_ASSELINEAU.jpg",
+      "date": "2014-01-01"
+    },
+    "sites": [
+      {
+        "label": "Site du parti",
+        "url": "https://upr.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "jean-lassalle": {
+    "wikidata": "Q3173022",
+    "wikidataLabel": "Jean Lassalle",
+    "wikidataDescription": "homme politique français",
+    "naissanceWikidata": "1955-05-03",
+    "sitesWikidata": [
+      "https://resistons-france.fr/"
+    ],
+    "photo": {
+      "fichier": "data/photos/jean-lassalle.jpg",
+      "auteur": "Antoine Lamielle",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Jean_Lassalle_03_(cropped).jpg",
+      "date": "2017-06-21"
+    },
+    "sites": [
+      {
+        "label": "Site du mouvement",
+        "url": "https://resistons-france.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "nicolas-dupont-aignan": {
+    "wikidata": "Q12961",
+    "wikidataLabel": "Nicolas Dupont-Aignan",
+    "wikidataDescription": "homme politique français",
+    "naissanceWikidata": "1961-03-07",
+    "sitesWikidata": [
+      "https://www.dupontaignan.fr/"
+    ],
+    "photo": {
+      "fichier": "data/photos/nicolas-dupont-aignan.jpg",
+      "auteur": "Debout la France",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Dupont-Aignan,_homme_politique_fran%C3%A7ais.jpg",
+      "date": "2019-03-01"
+    },
+    "sites": [
+      {
+        "label": "Site de campagne",
+        "url": "https://www.dupontaignan.fr/"
+      },
+      {
+        "label": "Site du parti",
+        "url": "https://www.debout-la-france.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "xavier-bertrand": {
+    "wikidata": "Q203793",
+    "wikidataLabel": "Xavier Bertrand",
+    "wikidataDescription": "homme politique français",
+    "naissanceWikidata": "1965-03-21",
+    "sitesWikidata": [],
+    "photo": {
+      "fichier": "data/photos/xavier-bertrand.jpg",
+      "auteur": "Claudio Centonze / European Union, 2025 / EC - Audiovisual Service",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Xavier_Bertrand_-_2025_(cropped).jpg",
+      "date": "2025-04-08"
+    },
+    "sites": [
+      {
+        "label": "Site du mouvement",
+        "url": "https://nousfrance.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "bruno-le-maire": {
+    "wikidata": "Q993472",
+    "wikidataLabel": "Bruno Le Maire",
+    "wikidataDescription": "homme politique français",
+    "naissanceWikidata": "1969-04-15",
+    "sitesWikidata": [
+      "http://www.brunolemaire.fr/"
+    ],
+    "photo": {
+      "fichier": "data/photos/bruno-le-maire.jpg",
+      "auteur": "Sebastiaan ter Burg from Utrecht, The Netherlands",
+      "licence": "CC BY 2.5",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+      "page": "https://commons.wikimedia.org/wiki/File:Bruno_Le_Maire_in_2022.jpg",
+      "date": "2022-11-23"
+    },
+    "sites": [],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "delphine-batho": {
+    "wikidata": "Q291385",
+    "wikidataLabel": "Delphine Batho",
+    "wikidataDescription": "femme politique française",
+    "naissanceWikidata": "1973-03-23",
+    "sitesWikidata": [
+      "https://www.delphinebatho.fr"
+    ],
+    "photo": {
+      "fichier": "data/photos/delphine-batho.jpg",
+      "auteur": "DeuxSevres79",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Delphine_Batho_(cropped).png",
+      "date": "2018-09-08"
+    },
+    "sites": [
+      {
+        "label": "Site de campagne",
+        "url": "https://www.delphinebatho.fr/"
+      },
+      {
+        "label": "Site du parti",
+        "url": "https://www.generationecologie.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "francis-lalanne": {
+    "wikidata": "Q3081533",
+    "wikidataLabel": "Francis Lalanne",
+    "wikidataDescription": "auteur-compositeur-interprète français",
+    "naissanceWikidata": "1958-08-08",
+    "sitesWikidata": [],
+    "photo": {
+      "fichier": "data/photos/francis-lalanne.jpg",
+      "auteur": "Olivier Roller, In Libro Veritas",
+      "licence": "FAL",
+      "licenceUrl": "http://artlibre.org/licence/lal/en",
+      "page": "https://commons.wikimedia.org/wiki/File:Francis_Lalanne.png",
+      "date": "2011-08-09"
+    },
+    "sites": [],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "gilles-platret": {
+    "wikidata": "Q33103460",
+    "wikidataLabel": "Gilles Platret",
+    "wikidataDescription": "homme politique français",
+    "naissanceWikidata": "1973-04-19",
+    "sitesWikidata": [],
+    "photo": {
+      "fichier": "data/photos/gilles-platret.jpg",
+      "auteur": "Jérémy Viger",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File:GPlatret.jpg",
+      "date": "2017-01-03"
+    },
+    "sites": [],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "karim-bouamrane": {
+    "wikidata": "Q98251165",
+    "wikidataLabel": "Karim Bouamrane",
+    "wikidataDescription": "homme politique français",
+    "naissanceWikidata": "1973-02-21",
+    "sitesWikidata": [],
+    "photo": {
+      "fichier": "data/photos/karim-bouamrane.jpg",
+      "auteur": "Oumma",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Karim_Bouamrane_en_2026.jpg",
+      "date": "2026-07-02"
+    },
+    "sites": [
+      {
+        "label": "Site de campagne",
+        "url": "https://karimbouamrane2027.org/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  },
+  "olivier-becht": {
+    "wikidata": "Q30348845",
+    "wikidataLabel": "Olivier Becht",
+    "wikidataDescription": "homme politique français",
+    "naissanceWikidata": "1976-04-28",
+    "sitesWikidata": [
+      "http://olivierbecht.com/",
+      "https://becht2027.fr"
+    ],
+    "photo": {
+      "fichier": "data/photos/olivier-becht.jpg",
+      "auteur": "Werner STEINKE",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Olivier_BECHT.jpg",
+      "date": "11 January"
+    },
+    "sites": [
+      {
+        "label": "Site de campagne",
+        "url": "https://becht2027.fr/"
+      }
+    ],
+    "sitesVerifiesLe": "2026-11-13"
+  }
+}

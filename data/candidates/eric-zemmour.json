@@ -1,0 +1,1673 @@
+{
+  "id": "eric-zemmour",
+  "prenom": "Éric",
+  "nom": "Zemmour",
+  "parti": "Reconquête",
+  "partiAbrev": "REC",
+  "famillePolitique": "extreme-droite",
+  "couleur": "#1B1F3B",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Le 17 septembre 2026, sur BFMTV (« Face à BFM »), Éric Zemmour déclare : « Je suis candidat à la présidence de la République, je serai candidat à l'élection présidentielle », confirmant qu'il portera lui-même les couleurs de Reconquête plutôt que l'eurodéputée Sarah Knafo, qui fera campagne à ses côtés. Il officialise et détaille sa candidature le 10 novembre 2026 au journal de 20 heures de TF1, en disant vouloir « enrayer le déclin » et « conserver une France française ». Il doit encore réunir les 500 parrainages d'élus requis.",
+    "date": "2026-09-17",
+    "sources": [
+      {
+        "titre": "Zemmour confirme qu'il sera candidat à l'élection présidentielle en France et durcit encore son discours sur l'immigration",
+        "url": "https://www.lavenir.net/actu/monde/2026/09/18/zemmour-confirme-quil-sera-candidat-a-lelection-presidentielle-en-france-et-durcit-encore-son-discours-sur-limmigration-5OFMOVM6CVCDFHY4B3GI5QID3Q/",
+        "media": "L'Avenir (AFP)",
+        "date": "2026-09-18"
+      },
+      {
+        "titre": "Présidentielle : Éric Zemmour annonce qu'il « sera candidat » en 2027 pour le parti d'extrême droite Reconquête",
+        "url": "https://www.ouest-france.fr/politique/eric-zemmour/presidentielle-eric-zemmour-annonce-quil-sera-candidat-en-2027-pour-le-parti-dextreme-droite-reconquete-aa74f2ae-b2da-11f1-bc32-13ddcee9efa7",
+        "media": "Ouest-France",
+        "date": "2026-09-17"
+      },
+      {
+        "titre": "Éric Zemmour confirme sa candidature à la présidentielle pour \"enrayer le déclin\"",
+        "url": "https://france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin",
+        "media": "France 24",
+        "date": "2026-11-10"
+      },
+      {
+        "titre": "Election présidentielle en France : Eric Zemmour annonce sa candidature pour 'conserver une France française'",
+        "url": "https://www.rtbf.be/article/election-presidentielle-en-france-eric-zemmour-annonce-sa-candidature-pour-conserver-une-france-francaise-11813889",
+        "media": "RTBF (Belga)",
+        "date": "2026-11-10"
+      },
+      {
+        "titre": "Présidentielle 2027 : Zemmour confirme sa candidature sur TF1 et détaille ses premières mesures",
+        "url": "https://www.politiquematin.fr/zemmour-presidentielle-2027-confirme-candidature-tf1-programme-101126-2055",
+        "media": "Politique Matin",
+        "date": "2026-11-10"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1958-08-31",
+      "lieu": "Montreuil (Seine, aujourd'hui Seine-Saint-Denis)",
+      "sources": [
+        {
+          "titre": "La biographie et le CV d'Éric Zemmour",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-deric-zemmour",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Éric Zemmour",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Éric Zemmour",
+          "url": "https://en.wikipedia.org/wiki/%C3%89ric_Zemmour",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Éric Zemmour est un journaliste, essayiste et chroniqueur politique, longtemps passé par Le Quotidien de Paris, Le Figaro, RTL, Paris Première et CNews. Il fonde le parti Reconquête le 5 décembre 2021 et en est le président. Candidat à l'élection présidentielle de 2022, il obtient 7,07 % des suffrages au premier tour (4e). Il n'a jamais exercé de mandat électif. Il est candidat à l'élection présidentielle de 2027, avec un programme centré sur la réduction de l'immigration.",
+    "formation": [
+      {
+        "texte": "Diplômé de l'Institut d'études politiques de Paris (Sciences Po), 1979.",
+        "sources": [
+          {
+            "titre": "La biographie et le CV d'Éric Zemmour",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-deric-zemmour",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Éric Zemmour",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Éric Zemmour",
+            "url": "https://en.wikipedia.org/wiki/%C3%89ric_Zemmour",
+            "media": "Wikipedia (en)",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "texte": "Échoue deux fois au concours d'entrée de l'École nationale d'administration (1980 et 1981).",
+        "sources": [
+          {
+            "titre": "La biographie et le CV d'Éric Zemmour",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-deric-zemmour",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Éric Zemmour",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Éric Zemmour",
+            "url": "https://en.wikipedia.org/wiki/%C3%89ric_Zemmour",
+            "media": "Wikipedia (en)",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Journaliste au service politique du Quotidien de Paris (1986-1994), puis éditorialiste à InfoMatin.",
+        "sources": [
+          {
+            "titre": "La biographie et le CV d'Éric Zemmour",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-deric-zemmour",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Éric Zemmour",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "texte": "Journaliste politique au Figaro (1996-2009, puis retour en 2013) et chroniqueur au Figaro Magazine jusqu'en 2021.",
+        "sources": [
+          {
+            "titre": "La biographie et le CV d'Éric Zemmour",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-deric-zemmour",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Éric Zemmour",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "texte": "Chroniqueur télévision et radio : « Ça se dispute » sur I-Télé (2003-2014), « On n'est pas couché » sur France 2 (2006-2011), RTL (à partir de 2010), « Zemmour et Naulleau » sur Paris Première (2011-2022), « Face à l'info » sur CNews (octobre 2019 - septembre 2021).",
+        "sources": [
+          {
+            "titre": "La biographie et le CV d'Éric Zemmour",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-deric-zemmour",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Éric Zemmour",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "Éric Zemmour",
+        "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Éric Zemmour",
+        "url": "https://en.wikipedia.org/wiki/%C3%89ric_Zemmour",
+        "media": "Wikipedia (en)",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Éric Zemmour confirme sa candidature à la présidentielle pour \"enrayer le déclin\"",
+        "url": "https://france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin",
+        "media": "France 24",
+        "date": "2026-11-10"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "2021",
+      "fin": null,
+      "fonction": "Président de Reconquête",
+      "details": "Fondateur du parti, lancé le 5 décembre 2021 lors du meeting de Villepinte.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV d'Éric Zemmour",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-deric-zemmour",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Éric Zemmour",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Éric Zemmour",
+          "url": "https://en.wikipedia.org/wiki/%C3%89ric_Zemmour",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2022",
+      "fin": "2022",
+      "fonction": "Candidat à l'élection présidentielle",
+      "details": "4e du premier tour (10 avril 2022) avec 7,07 % des suffrages exprimés.",
+      "sources": [
+        {
+          "titre": "Éric Zemmour",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Election présidentielle en France : Eric Zemmour annonce sa candidature pour 'conserver une France française'",
+          "url": "https://www.rtbf.be/article/election-presidentielle-en-france-eric-zemmour-annonce-sa-candidature-pour-conserver-une-france-francaise-11813889",
+          "media": "RTBF (Belga)",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "debut": "2022",
+      "fin": "2022",
+      "fonction": "Candidat aux élections législatives (4e circonscription du Var)",
+      "details": "Éliminé au premier tour avec 23,19 % des voix (3e).",
+      "sources": [
+        {
+          "titre": "Résultats des élections législatives 2022 – Var, 4e circonscription",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/legislatives-2022/083/08304.php",
+          "media": "Ministère de l'Intérieur",
+          "date": "2022-06-12"
+        },
+        {
+          "titre": "Éric Zemmour",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Éric Zemmour",
+          "url": "https://en.wikipedia.org/wiki/%C3%89ric_Zemmour",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2024",
+      "fin": "2024",
+      "fonction": "Candidat (80e position) sur la liste Reconquête aux élections européennes",
+      "details": "La tête de liste était Marion Maréchal ; M. Zemmour figurait en avant-dernière position, non éligible.",
+      "sources": [
+        {
+          "titre": "Européennes : Sarah Knafo, Guillaume Peltier... Marion Maréchal dévoile la liste Reconquête!",
+          "url": "https://www.europe1.fr/node/13966",
+          "media": "Europe 1",
+          "date": "2024-05-07"
+        },
+        {
+          "titre": "Éric Zemmour",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2026",
+      "fin": null,
+      "fonction": "Candidat à l'élection présidentielle de 2027",
+      "details": "Candidature annoncée le 17 septembre 2026 (BFMTV) et confirmée le 10 novembre 2026 (TF1).",
+      "sources": [
+        {
+          "titre": "Zemmour confirme qu'il sera candidat à l'élection présidentielle en France et durcit encore son discours sur l'immigration",
+          "url": "https://www.lavenir.net/actu/monde/2026/09/18/zemmour-confirme-quil-sera-candidat-a-lelection-presidentielle-en-france-et-durcit-encore-son-discours-sur-limmigration-5OFMOVM6CVCDFHY4B3GI5QID3Q/",
+          "media": "L'Avenir (AFP)",
+          "date": "2026-09-18"
+        },
+        {
+          "titre": "Éric Zemmour confirme sa candidature à la présidentielle pour \"enrayer le déclin\"",
+          "url": "https://france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin",
+          "media": "France 24",
+          "date": "2026-11-10"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Éric Zemmour a fait l'objet de nombreuses poursuites, essentiellement pour des délits de presse (provocation à la haine, injure, diffamation, contestation de crime contre l'humanité) ; plusieurs condamnations à des amendes sont définitives (dont, en 2025-2026, celles des affaires de la Convention de la droite, des mineurs isolés, de Patrick Klugman et de l'Ined), deux condamnations de 2025 (Pétain, Crépol) font l'objet de recours dont l'issue n'a pas été trouvée au 13/11/2026, et il a aussi obtenu plusieurs relaxes. La liste ci-dessous retient les procédures les mieux documentées et n'est pas exhaustive.",
+    "affaires": [
+      {
+        "titre": "Propos sur Pétain « sauveur » des juifs français (contestation de crime contre l'humanité)",
+        "statut": "condamnation-non-definitive",
+        "role": "prévenu",
+        "resume": "Propos tenus le 21 octobre 2019 sur CNews (« Face à l'info »). Relaxé en première instance (février 2021) puis en appel (12 mai 2022) ; la Cour de cassation, saisie par le parquet général et cinq associations, annule la relaxe le 5 septembre 2023 (pourvoi n° 22-83.959) et ordonne un nouveau procès. Le 2 avril 2025, la cour d'appel de Paris le condamne à 10 000 € d'amende, 1 € de dommages-intérêts et 1 200 € de frais à chacune des cinq associations. M. Zemmour a annoncé un pourvoi en cassation ; aucune décision de la Cour de cassation sur ce pourvoi n'a été trouvée dans la presse ni dans les sources juridiques consultées : issue non connue à la date de mise à jour (13/11/2026). Présomption d'innocence : tant qu'aucune décision définitive n'est rendue, M. Zemmour est présumé innocent.",
+        "chronologie": [
+          {
+            "date": "2019-10-21",
+            "evenement": "Propos tenus sur CNews face à Bernard-Henri Lévy.",
+            "sources": [
+              {
+                "titre": "Éric Zemmour condamné en appel pour avoir qualifié Pétain de \"sauveur\" de juifs français",
+                "url": "https://www.france24.com/fr/france/20250402-zemmour-condamn%C3%A9-10-000-euros-amende-pour-avoir-qualifi%C3%A9-p%C3%A9tain-de-sauveur-des-juifs-fran%C3%A7ais",
+                "media": "France 24",
+                "date": "2025-04-02"
+              }
+            ]
+          },
+          {
+            "date": "2021-02",
+            "evenement": "Relaxe par le tribunal correctionnel de Paris.",
+            "sources": [
+              {
+                "titre": "Pétain « sauveur » des Juifs, Zemmour débouté",
+                "url": "https://www.rjb.ch/rjb/Actualite/economie/Petain-sauveur-des-Juifs-Zemmour-deboute.html",
+                "media": "RJB (ATS)",
+                "date": "2022-01-20"
+              },
+              {
+                "titre": "Éric Zemmour condamné en appel pour avoir qualifié Pétain de \"sauveur\" de juifs français",
+                "url": "https://www.france24.com/fr/france/20250402-zemmour-condamn%C3%A9-10-000-euros-amende-pour-avoir-qualifi%C3%A9-p%C3%A9tain-de-sauveur-des-juifs-fran%C3%A7ais",
+                "media": "France 24",
+                "date": "2025-04-02"
+              }
+            ]
+          },
+          {
+            "date": "2022-05-12",
+            "evenement": "La cour d'appel de Paris confirme la relaxe.",
+            "sources": [
+              {
+                "titre": "Éric Zemmour condamné en appel pour avoir qualifié Pétain de \"sauveur\" de juifs français",
+                "url": "https://www.france24.com/fr/france/20250402-zemmour-condamn%C3%A9-10-000-euros-amende-pour-avoir-qualifi%C3%A9-p%C3%A9tain-de-sauveur-des-juifs-fran%C3%A7ais",
+                "media": "France 24",
+                "date": "2025-04-02"
+              }
+            ]
+          },
+          {
+            "date": "2023-09-05",
+            "evenement": "La Cour de cassation (chambre criminelle, pourvoi n° 22-83.959) casse l'arrêt de relaxe et renvoie l'affaire devant la cour d'appel de Paris.",
+            "sources": [
+              {
+                "titre": "Contestation de l'existence de crime contre l'humanité par Éric Zemmour",
+                "url": "https://www.lemondedudroit.fr/judiciaire/326-droit-penal/88774-contestation-de-l-existence-de-crime-contre-l-humanite-par-eric-zemmour.html",
+                "media": "Le Monde du Droit",
+                "date": "2023-09-06"
+              },
+              {
+                "titre": "Propos négationnistes de Zemmour sur Pétain : la Cour de cassation ordonne un nouveau procès",
+                "url": "https://mrap.fr/propos-negationnistes-de-zemmour-sur-petain-la-cour-de-cassation-ordonne-un-nouveau-proces.html",
+                "media": "MRAP (partie civile)",
+                "date": "2023-09"
+              },
+              {
+                "titre": "Éric Zemmour condamné en appel pour avoir qualifié Pétain de \"sauveur\" de juifs français",
+                "url": "https://www.france24.com/fr/france/20250402-zemmour-condamn%C3%A9-10-000-euros-amende-pour-avoir-qualifi%C3%A9-p%C3%A9tain-de-sauveur-des-juifs-fran%C3%A7ais",
+                "media": "France 24",
+                "date": "2025-04-02"
+              }
+            ]
+          },
+          {
+            "date": "2025-04-02",
+            "evenement": "Condamnation par la cour d'appel de Paris à 10 000 € d'amende ; pourvoi en cassation annoncé.",
+            "sources": [
+              {
+                "titre": "Éric Zemmour condamné en appel pour avoir qualifié Pétain de \"sauveur\" de juifs français",
+                "url": "https://www.france24.com/fr/france/20250402-zemmour-condamn%C3%A9-10-000-euros-amende-pour-avoir-qualifi%C3%A9-p%C3%A9tain-de-sauveur-des-juifs-fran%C3%A7ais",
+                "media": "France 24",
+                "date": "2025-04-02"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Éric Zemmour condamné en appel pour avoir qualifié Pétain de \"sauveur\" de juifs français",
+            "url": "https://www.france24.com/fr/france/20250402-zemmour-condamn%C3%A9-10-000-euros-amende-pour-avoir-qualifi%C3%A9-p%C3%A9tain-de-sauveur-des-juifs-fran%C3%A7ais",
+            "media": "France 24",
+            "date": "2025-04-02"
+          },
+          {
+            "titre": "Contestation de l'existence de crime contre l'humanité par Éric Zemmour",
+            "url": "https://www.lemondedudroit.fr/judiciaire/326-droit-penal/88774-contestation-de-l-existence-de-crime-contre-l-humanite-par-eric-zemmour.html",
+            "media": "Le Monde du Droit",
+            "date": "2023-09-06"
+          },
+          {
+            "titre": "Propos négationnistes de Zemmour sur Pétain : la Cour de cassation ordonne un nouveau procès",
+            "url": "https://mrap.fr/propos-negationnistes-de-zemmour-sur-petain-la-cour-de-cassation-ordonne-un-nouveau-proces.html",
+            "media": "MRAP (partie civile)",
+            "date": "2023-09"
+          },
+          {
+            "titre": "Éric Zemmour",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "titre": "Propos sur le drame de Crépol (injure raciale)",
+        "statut": "condamnation-non-definitive",
+        "role": "prévenu",
+        "resume": "Propos tenus le 30 novembre 2023 sur RMC et BFMTV après la mort du lycéen Thomas à Crépol (« deux peuples, deux France », « racailles arabo-musulmanes »). Le 26 mars 2025, le tribunal correctionnel de Paris le condamne pour injure raciale à 60 jours-amende à 150 € (9 000 €). M. Zemmour a annoncé faire appel ; aucun arrêt de la cour d'appel n'a été trouvé dans les sources consultées : issue non connue à la date de mise à jour (13/11/2026). Présomption d'innocence : tant qu'aucune décision définitive n'est rendue, M. Zemmour est présumé innocent.",
+        "chronologie": [
+          {
+            "date": "2023-11-30",
+            "evenement": "Propos tenus sur RMC et BFMTV.",
+            "sources": [
+              {
+                "titre": "Crépol : Eric Zemmour condamné pour injure raciale",
+                "url": "https://fr.timesofisrael.com/crepol-eric-zemmour-condamne-pour-injure-raciale/",
+                "media": "The Times of Israël (AFP)",
+                "date": "2025-03-26"
+              }
+            ]
+          },
+          {
+            "date": "2025-03-26",
+            "evenement": "Condamnation en première instance à 9 000 € (60 jours-amende à 150 €).",
+            "sources": [
+              {
+                "titre": "Crépol : Eric Zemmour condamné pour injure raciale",
+                "url": "https://fr.timesofisrael.com/crepol-eric-zemmour-condamne-pour-injure-raciale/",
+                "media": "The Times of Israël (AFP)",
+                "date": "2025-03-26"
+              }
+            ]
+          },
+          {
+            "date": "2025-03-26",
+            "evenement": "M. Zemmour annonce faire appel.",
+            "sources": [
+              {
+                "titre": "Meurtre de Thomas à Crépol : Zemmour fait appel de sa condamnation pour « injure raciale »",
+                "url": "https://www.lejdd.fr/Societe/il-est-inadmissible-que-la-verite-soit-a-ce-point-baillonnee-zemmour-fait-appel-de-sa-condamnation-pour-ses-propos-sur-crepol-156416",
+                "media": "Le JDD",
+                "date": "2025-03-26"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Crépol : Eric Zemmour condamné pour injure raciale",
+            "url": "https://fr.timesofisrael.com/crepol-eric-zemmour-condamne-pour-injure-raciale/",
+            "media": "The Times of Israël (AFP)",
+            "date": "2025-03-26"
+          },
+          {
+            "titre": "Meurtre de Thomas à Crépol : Zemmour fait appel de sa condamnation pour « injure raciale »",
+            "url": "https://www.lejdd.fr/Societe/il-est-inadmissible-que-la-verite-soit-a-ce-point-baillonnee-zemmour-fait-appel-de-sa-condamnation-pour-ses-propos-sur-crepol-156416",
+            "media": "Le JDD",
+            "date": "2025-03-26"
+          }
+        ]
+      },
+      {
+        "titre": "Discours de la « Convention de la droite » (provocation à la haine raciale et injures racistes)",
+        "statut": "condamnation-definitive",
+        "role": "prévenu",
+        "resume": "Propos tenus le 28 septembre 2019 (immigrés « colonisateurs », voile et djellaba comme « uniformes d'une armée d'occupation »). Condamné en 2020 à 10 000 € d'amende, relaxé en appel, puis, après cassation de la relaxe, condamné sur renvoi par la cour d'appel de Paris en 2024 à 15 000 € d'amende. La Cour de cassation rejette son pourvoi le 17 septembre 2025 : la condamnation est définitive.",
+        "chronologie": [
+          {
+            "date": "2019-09-28",
+            "evenement": "Discours à la « Convention de la droite ».",
+            "sources": [
+              {
+                "titre": "Zemmour définitivement condamné pour racisme : « Les lois n'admettent pas que la haine puisse servir de fondement à notre société »",
+                "url": "https://www.lalibre.be/international/europe/2025/09/17/zemmour-definitivement-condamne-pour-racisme-les-lois-nadmettent-pas-que-la-haine-puisse-servir-de-fondement-a-notre-societe-2UQ2WKE7W5HYXJ3SKA2BHBG4YQ/",
+                "media": "La Libre Belgique",
+                "date": "2025-09-17"
+              }
+            ]
+          },
+          {
+            "date": "2020",
+            "evenement": "Condamnation en première instance (10 000 € d'amende).",
+            "sources": [
+              {
+                "titre": "Zemmour définitivement condamné pour racisme : « Les lois n'admettent pas que la haine puisse servir de fondement à notre société »",
+                "url": "https://www.lalibre.be/international/europe/2025/09/17/zemmour-definitivement-condamne-pour-racisme-les-lois-nadmettent-pas-que-la-haine-puisse-servir-de-fondement-a-notre-societe-2UQ2WKE7W5HYXJ3SKA2BHBG4YQ/",
+                "media": "La Libre Belgique",
+                "date": "2025-09-17"
+              }
+            ]
+          },
+          {
+            "date": "2024",
+            "evenement": "Après cassation d'un arrêt de relaxe, condamnation sur renvoi par la cour d'appel de Paris à 15 000 € d'amende.",
+            "sources": [
+              {
+                "titre": "Zemmour définitivement condamné pour racisme : « Les lois n'admettent pas que la haine puisse servir de fondement à notre société »",
+                "url": "https://www.lalibre.be/international/europe/2025/09/17/zemmour-definitivement-condamne-pour-racisme-les-lois-nadmettent-pas-que-la-haine-puisse-servir-de-fondement-a-notre-societe-2UQ2WKE7W5HYXJ3SKA2BHBG4YQ/",
+                "media": "La Libre Belgique",
+                "date": "2025-09-17"
+              }
+            ]
+          },
+          {
+            "date": "2025-09-17",
+            "evenement": "Rejet du pourvoi par la Cour de cassation ; condamnation définitive.",
+            "sources": [
+              {
+                "titre": "Zemmour définitivement condamné pour racisme : « Les lois n'admettent pas que la haine puisse servir de fondement à notre société »",
+                "url": "https://www.lalibre.be/international/europe/2025/09/17/zemmour-definitivement-condamne-pour-racisme-les-lois-nadmettent-pas-que-la-haine-puisse-servir-de-fondement-a-notre-societe-2UQ2WKE7W5HYXJ3SKA2BHBG4YQ/",
+                "media": "La Libre Belgique",
+                "date": "2025-09-17"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Zemmour définitivement condamné pour racisme : « Les lois n'admettent pas que la haine puisse servir de fondement à notre société »",
+            "url": "https://www.lalibre.be/international/europe/2025/09/17/zemmour-definitivement-condamne-pour-racisme-les-lois-nadmettent-pas-que-la-haine-puisse-servir-de-fondement-a-notre-societe-2UQ2WKE7W5HYXJ3SKA2BHBG4YQ/",
+            "media": "La Libre Belgique",
+            "date": "2025-09-17"
+          }
+        ]
+      },
+      {
+        "titre": "Propos sur les mineurs étrangers isolés (complicité d'injure publique et de provocation à la haine)",
+        "statut": "condamnation-definitive",
+        "role": "prévenu",
+        "resume": "Propos tenus en septembre 2020 sur CNews (les mineurs isolés « n'ont rien à faire ici »). Condamné en appel à 100 jours-amende de 100 € pour complicité d'injure publique et de provocation à la haine. Le 2 décembre 2025, la Cour de cassation rejette son pourvoi, jugeant que ces propos dépassaient les limites admissibles de la liberté d'expression : la condamnation est définitive.",
+        "chronologie": [
+          {
+            "date": "2020-09",
+            "evenement": "Propos tenus sur CNews.",
+            "sources": [
+              {
+                "titre": "La Cour de cassation confirme deux condamnations d'Éric Zemmour pour complicité d'injure publique, provocation à la haine et pour diffamation",
+                "url": "https://www.leclubdesjuristes.com/en-bref/la-cour-de-cassation-confirme-deux-condamnations-deric-zemmour-pour-complicite-dinjure-publique-provocation-a-la-haine-et-pour-diffamation-13229/",
+                "media": "Le Club des Juristes",
+                "date": "2025-12-03"
+              }
+            ]
+          },
+          {
+            "date": "2025-12-02",
+            "evenement": "Rejet du pourvoi par la Cour de cassation ; condamnation définitive.",
+            "sources": [
+              {
+                "titre": "La Cour de cassation confirme deux condamnations d'Éric Zemmour pour complicité d'injure publique, provocation à la haine et pour diffamation",
+                "url": "https://www.leclubdesjuristes.com/en-bref/la-cour-de-cassation-confirme-deux-condamnations-deric-zemmour-pour-complicite-dinjure-publique-provocation-a-la-haine-et-pour-diffamation-13229/",
+                "media": "Le Club des Juristes",
+                "date": "2025-12-03"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "La Cour de cassation confirme deux condamnations d'Éric Zemmour pour complicité d'injure publique, provocation à la haine et pour diffamation",
+            "url": "https://www.leclubdesjuristes.com/en-bref/la-cour-de-cassation-confirme-deux-condamnations-deric-zemmour-pour-complicite-dinjure-publique-provocation-a-la-haine-et-pour-diffamation-13229/",
+            "media": "Le Club des Juristes",
+            "date": "2025-12-03"
+          }
+        ]
+      },
+      {
+        "titre": "Diffamation envers l'avocat Patrick Klugman (affaire Jérémie Cohen)",
+        "statut": "condamnation-definitive",
+        "role": "prévenu",
+        "resume": "Le 5 avril 2022, sur France 2, M. Zemmour affirme que l'avocat Patrick Klugman voulait « étouffer l'affaire » de la mort de Jérémie Cohen. Condamné pour diffamation publique à 1 000 € d'amende, condamnation confirmée en appel (5 décembre 2024). La Cour de cassation rejette son pourvoi le 2 décembre 2025 (pourvoi n° 24-87.311) : la condamnation est définitive.",
+        "chronologie": [
+          {
+            "date": "2022-04-05",
+            "evenement": "Propos tenus dans l'émission « Élysée 2022 » sur France 2.",
+            "sources": [
+              {
+                "titre": "Diffamation envers un avocat : confirmation de la condamnation d'Eric Zemmour",
+                "url": "https://www.lemondedudroit.fr/judiciaire/326-droit-penal/102159-diffamation-envers-un-avocat-confirmation-de-la-condamnation-d-eric-zemmour.html",
+                "media": "Le Monde du Droit",
+                "date": "2025-12-16"
+              }
+            ]
+          },
+          {
+            "date": "2024-12-05",
+            "evenement": "Condamnation confirmée en appel (1 000 € d'amende).",
+            "sources": [
+              {
+                "titre": "La Cour de cassation confirme deux condamnations d'Éric Zemmour pour complicité d'injure publique, provocation à la haine et pour diffamation",
+                "url": "https://www.leclubdesjuristes.com/en-bref/la-cour-de-cassation-confirme-deux-condamnations-deric-zemmour-pour-complicite-dinjure-publique-provocation-a-la-haine-et-pour-diffamation-13229/",
+                "media": "Le Club des Juristes",
+                "date": "2025-12-03"
+              }
+            ]
+          },
+          {
+            "date": "2025-12-02",
+            "evenement": "Rejet du pourvoi par la Cour de cassation.",
+            "sources": [
+              {
+                "titre": "Diffamation envers un avocat : confirmation de la condamnation d'Eric Zemmour",
+                "url": "https://www.lemondedudroit.fr/judiciaire/326-droit-penal/102159-diffamation-envers-un-avocat-confirmation-de-la-condamnation-d-eric-zemmour.html",
+                "media": "Le Monde du Droit",
+                "date": "2025-12-16"
+              },
+              {
+                "titre": "La Cour de cassation confirme deux condamnations d'Éric Zemmour pour complicité d'injure publique, provocation à la haine et pour diffamation",
+                "url": "https://www.leclubdesjuristes.com/en-bref/la-cour-de-cassation-confirme-deux-condamnations-deric-zemmour-pour-complicite-dinjure-publique-provocation-a-la-haine-et-pour-diffamation-13229/",
+                "media": "Le Club des Juristes",
+                "date": "2025-12-03"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Diffamation envers un avocat : confirmation de la condamnation d'Eric Zemmour",
+            "url": "https://www.lemondedudroit.fr/judiciaire/326-droit-penal/102159-diffamation-envers-un-avocat-confirmation-de-la-condamnation-d-eric-zemmour.html",
+            "media": "Le Monde du Droit",
+            "date": "2025-12-16"
+          },
+          {
+            "titre": "La Cour de cassation confirme deux condamnations d'Éric Zemmour pour complicité d'injure publique, provocation à la haine et pour diffamation",
+            "url": "https://www.leclubdesjuristes.com/en-bref/la-cour-de-cassation-confirme-deux-condamnations-deric-zemmour-pour-complicite-dinjure-publique-provocation-a-la-haine-et-pour-diffamation-13229/",
+            "media": "Le Club des Juristes",
+            "date": "2025-12-03"
+          }
+        ]
+      },
+      {
+        "titre": "Diffamation envers l'Ined (accusation de « trafiquer » les chiffres de l'immigration)",
+        "statut": "condamnation-definitive",
+        "role": "prévenu (complicité de diffamation publique envers une administration)",
+        "resume": "Le 2 avril 2021 sur CNews, M. Zemmour accuse l'Institut national d'études démographiques de « trafiquer » les chiffres de l'immigration. Condamné le 29 janvier 2024 par la 17e chambre du tribunal judiciaire de Paris à 1 500 € d'amende avec sursis ; condamnation confirmée en appel le 11 décembre 2024. La Cour de cassation rejette les pourvois le 27 janvier 2026 : la condamnation est définitive.",
+        "chronologie": [
+          {
+            "date": "2021-04-02",
+            "evenement": "Propos tenus dans « Face à l'info » sur CNews.",
+            "sources": [
+              {
+                "titre": "Cour de cassation : Zemmour et CNews définitivement condamnés dans l'affaire Ined",
+                "url": "https://actualitte.com/article/129048/droit-justice/cour-de-cassation-zemmour-et-cnews-definitivement-condamnes-dans-l-affaire-ined",
+                "media": "ActuaLitté",
+                "date": "2026-02-01"
+              }
+            ]
+          },
+          {
+            "date": "2024-01-29",
+            "evenement": "Condamnation en première instance (1 500 € d'amende avec sursis).",
+            "sources": [
+              {
+                "titre": "Cour de cassation : Zemmour et CNews définitivement condamnés dans l'affaire Ined",
+                "url": "https://actualitte.com/article/129048/droit-justice/cour-de-cassation-zemmour-et-cnews-definitivement-condamnes-dans-l-affaire-ined",
+                "media": "ActuaLitté",
+                "date": "2026-02-01"
+              }
+            ]
+          },
+          {
+            "date": "2024-12-11",
+            "evenement": "Condamnation confirmée par la cour d'appel de Paris.",
+            "sources": [
+              {
+                "titre": "Cour de cassation : Zemmour et CNews définitivement condamnés dans l'affaire Ined",
+                "url": "https://actualitte.com/article/129048/droit-justice/cour-de-cassation-zemmour-et-cnews-definitivement-condamnes-dans-l-affaire-ined",
+                "media": "ActuaLitté",
+                "date": "2026-02-01"
+              }
+            ]
+          },
+          {
+            "date": "2026-01-27",
+            "evenement": "Rejet des pourvois par la Cour de cassation.",
+            "sources": [
+              {
+                "titre": "Cour de cassation : Zemmour et CNews définitivement condamnés dans l'affaire Ined",
+                "url": "https://actualitte.com/article/129048/droit-justice/cour-de-cassation-zemmour-et-cnews-definitivement-condamnes-dans-l-affaire-ined",
+                "media": "ActuaLitté",
+                "date": "2026-02-01"
+              },
+              {
+                "titre": "Condamnation définitive de Monsieur Éric Zemmour et de Monsieur Jean-Christophe Thiery-Bercegol du Moulin",
+                "url": "https://www.ined.fr/fr/presse/condamnation-definitive-monsieur-eric-zemmour-et-monsieur-jean-christophe-thiery-bercegol-du",
+                "media": "Ined (partie civile)",
+                "date": "2026-01"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Cour de cassation : Zemmour et CNews définitivement condamnés dans l'affaire Ined",
+            "url": "https://actualitte.com/article/129048/droit-justice/cour-de-cassation-zemmour-et-cnews-definitivement-condamnes-dans-l-affaire-ined",
+            "media": "ActuaLitté",
+            "date": "2026-02-01"
+          },
+          {
+            "titre": "Condamnation définitive de Monsieur Éric Zemmour et de Monsieur Jean-Christophe Thiery-Bercegol du Moulin",
+            "url": "https://www.ined.fr/fr/presse/condamnation-definitive-monsieur-eric-zemmour-et-monsieur-jean-christophe-thiery-bercegol-du",
+            "media": "Ined (partie civile)",
+            "date": "2026-01"
+          }
+        ]
+      },
+      {
+        "titre": "Injure raciste envers Hapsatou Sy (« votre prénom est une insulte à la France »)",
+        "statut": "condamnation-definitive",
+        "role": "prévenu",
+        "resume": "Propos tenus le 13 septembre 2018 lors de l'enregistrement des « Terriens du dimanche ». Condamné le 12 janvier 2023 par le tribunal correctionnel de Paris à 4 000 € d'amende et 3 000 € de dommages-intérêts ; condamnation confirmée en appel le 28 mars 2024. Le pourvoi en cassation a été rejeté (septembre 2025) : la condamnation est définitive.",
+        "chronologie": [
+          {
+            "date": "2018-09-13",
+            "evenement": "Propos tenus face à Hapsatou Sy.",
+            "sources": [
+              {
+                "titre": "« Insulte à la France » : Eric Zemmour définitivement condamné",
+                "url": "https://www.lemondedudroit.fr/judiciaire/326-droit-penal/100479-insulte-a-la-france-eric-zemmour-definitivement-condamne.html",
+                "media": "Le Monde du Droit",
+                "date": "2025-09-03"
+              }
+            ]
+          },
+          {
+            "date": "2023-01-12",
+            "evenement": "Condamnation en première instance.",
+            "sources": [
+              {
+                "titre": "Eric Zemmour a été condamné à une amende pour injure raciste face à Hapsatou Sy",
+                "url": "https://www.parismatch.be/actualites/societe/2023/01/12/eric-zemmour-a-ete-condamne-a-une-amende-pour-injure-raciste-face-a-hapsatou-sy-775PPQWCX5AFJGLOIK2R6BJO2E/",
+                "media": "Paris Match Belgique",
+                "date": "2023-01-12"
+              }
+            ]
+          },
+          {
+            "date": "2024-03-28",
+            "evenement": "Condamnation confirmée par la cour d'appel de Paris.",
+            "sources": [
+              {
+                "titre": "Injure raciste envers Hapsatou Sy : Eric Zemmour condamné en appel",
+                "url": "https://www.ozap.com/actu/injure-raciste-envers-hapsatou-sy-eric-zemmour-condamne-en-appel/643173",
+                "media": "Ozap",
+                "date": "2024-03-28"
+              }
+            ]
+          },
+          {
+            "date": "2025-09",
+            "evenement": "Rejet du pourvoi en cassation ; condamnation définitive.",
+            "sources": [
+              {
+                "titre": "« Insulte à la France » : Eric Zemmour définitivement condamné",
+                "url": "https://www.lemondedudroit.fr/judiciaire/326-droit-penal/100479-insulte-a-la-france-eric-zemmour-definitivement-condamne.html",
+                "media": "Le Monde du Droit",
+                "date": "2025-09-03"
+              },
+              {
+                "titre": "Éric Zemmour",
+                "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "« Insulte à la France » : Eric Zemmour définitivement condamné",
+            "url": "https://www.lemondedudroit.fr/judiciaire/326-droit-penal/100479-insulte-a-la-france-eric-zemmour-definitivement-condamne.html",
+            "media": "Le Monde du Droit",
+            "date": "2025-09-03"
+          },
+          {
+            "titre": "Eric Zemmour a été condamné à une amende pour injure raciste face à Hapsatou Sy",
+            "url": "https://www.parismatch.be/actualites/societe/2023/01/12/eric-zemmour-a-ete-condamne-a-une-amende-pour-injure-raciste-face-a-hapsatou-sy-775PPQWCX5AFJGLOIK2R6BJO2E/",
+            "media": "Paris Match Belgique",
+            "date": "2023-01-12"
+          },
+          {
+            "titre": "Injure raciste envers Hapsatou Sy : Eric Zemmour condamné en appel",
+            "url": "https://www.ozap.com/actu/injure-raciste-envers-hapsatou-sy-eric-zemmour-condamne-en-appel/643173",
+            "media": "Ozap",
+            "date": "2024-03-28"
+          }
+        ]
+      },
+      {
+        "titre": "Complicité de diffamation envers la députée Danièle Obono",
+        "statut": "condamnation-definitive",
+        "role": "prévenu",
+        "resume": "Propos tenus en août 2020 dans « Face à l'info » (CNews). Le 7 février 2024, la 17e chambre du tribunal correctionnel de Paris le condamne pour complicité de diffamation publique à 1 000 € d'amende avec sursis et 1 000 € de dommages-intérêts ; décision confirmée en appel en janvier 2025. Le pourvoi du directeur de publication de CNews a été rejeté en juin 2026 ; la condamnation est présentée comme définitive par les sources consultées, mais ni l'arrêt de cassation ni une source de presse de référence n'ont pu être consultés, et l'existence d'un pourvoi propre à M. Zemmour n'a pas pu être vérifiée : le caractère définitif repose donc sur Wikipédia et un site d'information belge.",
+        "chronologie": [
+          {
+            "date": "2024-02-07",
+            "evenement": "Condamnation en première instance.",
+            "sources": [
+              {
+                "titre": "Eric Zemmour condamné pour complicité de diffamation à l'encontre de Danièle Obono",
+                "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-condamne-pour-complicite-de-diffamation-a-l-encontre-de-daniele-obono_6351307.html",
+                "media": "franceinfo",
+                "date": "2024-02-07"
+              },
+              {
+                "titre": "Eric Zemmour condamné pour complicité de diffamation à l'encontre de Danièle Obono",
+                "url": "https://fr.timesofisrael.com/eric-zemmour-condamne-pour-complicite-de-diffamation-a-lencontre-de-daniele-obono/",
+                "media": "The Times of Israël (AFP)",
+                "date": "2024-02-07"
+              }
+            ]
+          },
+          {
+            "date": "2025-01",
+            "evenement": "Condamnation confirmée en appel.",
+            "sources": [
+              {
+                "titre": "Éric Zemmour",
+                "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          },
+          {
+            "date": "2026-06",
+            "evenement": "Rejet du pourvoi en cassation du directeur de publication de CNews ; décision définitive.",
+            "sources": [
+              {
+                "titre": "CNews définitivement condamnée pour les propos diffamatoires d'Éric Zemmour contre Danièle Obono",
+                "url": "https://www.bonnes-nouvelles.be/cnews-definitivement-condamnee-pour-les-propos-diffamatoires-deric-zemmour-contre-daniele-obono/",
+                "media": "Bonnes Nouvelles",
+                "date": "2026-06"
+              },
+              {
+                "titre": "Éric Zemmour",
+                "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Eric Zemmour condamné pour complicité de diffamation à l'encontre de Danièle Obono",
+            "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-condamne-pour-complicite-de-diffamation-a-l-encontre-de-daniele-obono_6351307.html",
+            "media": "franceinfo",
+            "date": "2024-02-07"
+          },
+          {
+            "titre": "CNews définitivement condamnée pour les propos diffamatoires d'Éric Zemmour contre Danièle Obono",
+            "url": "https://www.bonnes-nouvelles.be/cnews-definitivement-condamnee-pour-les-propos-diffamatoires-deric-zemmour-contre-daniele-obono/",
+            "media": "Bonnes Nouvelles",
+            "date": "2026-06"
+          },
+          {
+            "titre": "Éric Zemmour",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Eric Zemmour condamné pour complicité de diffamation à l'encontre de Danièle Obono",
+            "url": "https://fr.timesofisrael.com/eric-zemmour-condamne-pour-complicite-de-diffamation-a-lencontre-de-daniele-obono/",
+            "media": "The Times of Israël (AFP)",
+            "date": "2024-02-07"
+          }
+        ]
+      },
+      {
+        "titre": "Propos sur les musulmans de 2016 (provocation à la haine religieuse)",
+        "statut": "condamnation-definitive",
+        "role": "prévenu",
+        "resume": "Propos tenus le 6 septembre 2016 dans l'émission « C à vous » (France 5). Condamné par la cour d'appel de Paris le 3 mai 2018 pour provocation à la haine religieuse à 3 000 € d'amende (ainsi qu'un euro symbolique et 1 000 € de frais de justice au profit de l'association CAPJPO-EuroPalestine) ; pourvoi rejeté par la Cour de cassation le 17 septembre 2019, condamnation définitive. Une précédente version de cette fiche indiquait 5 000 € d'amende d'après Wikipédia ; la presse fait état d'une amende définitive de 3 000 €. La Cour européenne des droits de l'homme a jugé le 20 décembre 2022 que cette condamnation ne violait pas sa liberté d'expression.",
+        "chronologie": [
+          {
+            "date": "2018-05-03",
+            "evenement": "Condamnation par la cour d'appel de Paris (3 000 € d'amende selon Ozap).",
+            "sources": [
+              {
+                "titre": "Éric Zemmour définitivement condamné à 3 000 euros d'amende pour provocation à la haine religieuse",
+                "url": "https://www.ozap.com/actu/eric-zemmour-definitivement-condamne-a-3-000-euros-d-amende-pour-provocation-a-la-haine-religieuse/583655",
+                "media": "Ozap",
+                "date": "2019-09-19"
+              },
+              {
+                "titre": "Éric Zemmour",
+                "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          },
+          {
+            "date": "2019-09-17",
+            "evenement": "Rejet du pourvoi par la Cour de cassation.",
+            "sources": [
+              {
+                "titre": "Éric Zemmour définitivement condamné à 3 000 euros d'amende pour provocation à la haine religieuse",
+                "url": "https://www.ozap.com/actu/eric-zemmour-definitivement-condamne-a-3-000-euros-d-amende-pour-provocation-a-la-haine-religieuse/583655",
+                "media": "Ozap",
+                "date": "2019-09-19"
+              },
+              {
+                "titre": "Éric Zemmour",
+                "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          },
+          {
+            "date": "2022-12-20",
+            "evenement": "La CEDH rejette sa requête (Zemmour c. France).",
+            "sources": [
+              {
+                "titre": "Propos \"discriminatoires\" en 2016 : Eric Zemmour débouté par la CEDH",
+                "url": "https://www.lavenir.net/actu/monde/2022/12/20/propos-discriminatoires-en-2016-eric-zemmour-deboute-par-la-cedh-LP4DT7CZN5CTLAYXLHCRLEC3NE/",
+                "media": "L'Avenir",
+                "date": "2022-12-20"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Éric Zemmour définitivement condamné à 3 000 euros d'amende pour provocation à la haine religieuse",
+            "url": "https://www.ozap.com/actu/eric-zemmour-definitivement-condamne-a-3-000-euros-d-amende-pour-provocation-a-la-haine-religieuse/583655",
+            "media": "Ozap",
+            "date": "2019-09-19"
+          },
+          {
+            "titre": "Éric Zemmour",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Propos \"discriminatoires\" en 2016 : Eric Zemmour débouté par la CEDH",
+            "url": "https://www.lavenir.net/actu/monde/2022/12/20/propos-discriminatoires-en-2016-eric-zemmour-deboute-par-la-cedh-LP4DT7CZN5CTLAYXLHCRLEC3NE/",
+            "media": "L'Avenir",
+            "date": "2022-12-20"
+          }
+        ]
+      },
+      {
+        "titre": "Provocation à la discrimination raciale (2011)",
+        "statut": "condamnation-definitive",
+        "role": "prévenu",
+        "resume": "Le 18 février 2011, le tribunal correctionnel de Paris (17e chambre) le reconnaît coupable de provocation à la discrimination raciale, sur plainte notamment de SOS Racisme, de la Licra et du Mrap, pour des propos tenus en mars 2010 (notamment « la plupart des trafiquants sont noirs et arabes » dans « Salut les Terriens ! » sur Canal+). Il est condamné à une amende avec sursis (2 000 € selon Ozap ; Wikipédia fait état de deux jugements de 1 000 € avec sursis chacun) et à des dommages-intérêts. Son avocat a annoncé le 28 février 2011 qu'il ne ferait pas appel : la condamnation est définitive.",
+        "chronologie": [
+          {
+            "date": "2011-02-18",
+            "evenement": "Condamnation par le tribunal correctionnel de Paris pour provocation à la discrimination raciale (amende avec sursis).",
+            "sources": [
+              {
+                "titre": "Eric Zemmour condamné pour ses propos sur les \"noirs et les arabes\"",
+                "url": "https://www.ozap.com/actu/eric-zemmour-condamne-discrimination-raciale/398794",
+                "media": "Ozap",
+                "date": "2011-02-18"
+              },
+              {
+                "titre": "Éric Zemmour",
+                "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          },
+          {
+            "date": "2011-02-28",
+            "evenement": "Son avocat annonce qu'il ne fera pas appel.",
+            "sources": [
+              {
+                "titre": "Eric Zemmour ne fera pas appel de sa condamnation",
+                "url": "https://www.ozap.com/actu/eric-zemmour-appel-renonce-condamnation-provocation-haine-raciale-ardisson/400996",
+                "media": "Ozap",
+                "date": "2011-02-28"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Eric Zemmour condamné pour ses propos sur les \"noirs et les arabes\"",
+            "url": "https://www.ozap.com/actu/eric-zemmour-condamne-discrimination-raciale/398794",
+            "media": "Ozap",
+            "date": "2011-02-18"
+          },
+          {
+            "titre": "Eric Zemmour ne fera pas appel de sa condamnation",
+            "url": "https://www.ozap.com/actu/eric-zemmour-appel-renonce-condamnation-provocation-haine-raciale-ardisson/400996",
+            "media": "Ozap",
+            "date": "2011-02-28"
+          },
+          {
+            "titre": "Éric Zemmour",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "titre": "Contrefaçon : extraits de films dans le clip de candidature de 2021 (procédure civile)",
+        "statut": "autre",
+        "role": "défendeur (avec Reconquête)",
+        "resume": "Le 4 mars 2022, le tribunal judiciaire de Paris (3e chambre, n° 22/00034) condamne Éric Zemmour, Reconquête (association de soutien à sa candidature) et son président François Miramont pour contrefaçon et atteinte au droit moral, pour l'utilisation sans autorisation d'extraits de films (dont « Jeanne d'Arc », « Un singe en hiver », « Le Quai des brumes ») dans le clip d'annonce de candidature de novembre 2021. Il ordonne l'arrêt de la diffusion de la vidéo non expurgée sous astreinte de 1 500 € par jour et des dommages-intérêts (5 000 € par demandeur selon Actu-Juridique ; 70 000 € au total selon Europe 1). L'entourage de M. Zemmour avait annoncé faire appel, alors que Wikipédia indique qu'il n'y a pas eu d'appel : le caractère définitif du jugement n'a pas pu être vérifié. Une précédente version de cette fiche indiquait un total d'environ 165 000 € d'après Wikipédia, chiffre non confirmé par la presse consultée. Procédure civile, sans condamnation pénale.",
+        "chronologie": [
+          {
+            "date": "2022-03-04",
+            "evenement": "Jugement du tribunal judiciaire de Paris retenant la contrefaçon et l'atteinte au droit moral ; appel annoncé par l'entourage de M. Zemmour.",
+            "sources": [
+              {
+                "titre": "Eric Zemmour condamné pour contrefaçon de droits d'auteur dans son clip de campagne",
+                "url": "https://www.europe1.fr/politique/eric-zemmour-condamne-pour-contrefacon-de-droits-dauteur-dans-son-clip-de-campagne-4097443",
+                "media": "Europe 1",
+                "date": "2022-03-04"
+              },
+              {
+                "titre": "Eric Zemmour condamné pour violation des droits d'auteur",
+                "url": "https://www.actu-juridique.fr/ntic-medias-presse/eric-zemmour-condamne-pour-violation-des-droits-dauteur/",
+                "media": "Actu-Juridique (Lextenso)",
+                "date": "2022-03-08"
+              },
+              {
+                "titre": "Éric Zemmour",
+                "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Eric Zemmour condamné pour violation des droits d'auteur",
+            "url": "https://www.actu-juridique.fr/ntic-medias-presse/eric-zemmour-condamne-pour-violation-des-droits-dauteur/",
+            "media": "Actu-Juridique (Lextenso)",
+            "date": "2022-03-08"
+          },
+          {
+            "titre": "Eric Zemmour condamné pour contrefaçon de droits d'auteur dans son clip de campagne",
+            "url": "https://www.europe1.fr/politique/eric-zemmour-condamne-pour-contrefacon-de-droits-dauteur-dans-son-clip-de-campagne-4097443",
+            "media": "Europe 1",
+            "date": "2022-03-04"
+          },
+          {
+            "titre": "Éric Zemmour",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "titre": "Contrefaçon : extraits du documentaire « Le Collège d'à côté » (procédure civile)",
+        "statut": "autre",
+        "role": "défendeur",
+        "resume": "Le 16 janvier 2026, le tribunal judiciaire de Paris retient la contrefaçon (atteinte aux droits de l'auteur et du producteur) pour la diffusion d'un montage d'extraits du documentaire et ordonne notamment la publication d'un communiqué sur ses réseaux sociaux. Source principale : communiqué de la Scam, partie à l'instance. L'existence d'un appel n'a pas pu être vérifiée.",
+        "chronologie": [
+          {
+            "date": "2026-01-16",
+            "evenement": "Jugement du tribunal judiciaire de Paris retenant la contrefaçon.",
+            "sources": [
+              {
+                "titre": "Zemmour rattrapé par le réel, condamné pour violation du droit d'auteur des documentaristes",
+                "url": "https://www.lascam.fr/actualites-ressources/zemmour-rattrape-par-le-reel-condamne-pour-violation-du-droit-dauteur-des-documentaristes/",
+                "media": "La Scam (partie à l'instance)",
+                "date": "2026-01-19"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Zemmour rattrapé par le réel, condamné pour violation du droit d'auteur des documentaristes",
+            "url": "https://www.lascam.fr/actualites-ressources/zemmour-rattrape-par-le-reel-condamne-pour-violation-du-droit-dauteur-des-documentaristes/",
+            "media": "La Scam (partie à l'instance)",
+            "date": "2026-01-19"
+          },
+          {
+            "titre": "Éric Zemmour",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "titre": "Diffamation envers l'enseignante Sophie Djigo",
+        "statut": "relaxe",
+        "role": "prévenu",
+        "resume": "Poursuivi avec huit autres personnes (dont des élus RN) pour diffamation envers une professeure de Valenciennes ciblée après un projet de sortie scolaire dans un camp de migrants. Le tribunal de Paris prononce une relaxe générale le 9 juin 2026 ; la plaignante a annoncé faire appel. Présomption d'innocence : tant qu'aucune décision définitive n'est rendue, M. Zemmour est présumé innocent.",
+        "chronologie": [
+          {
+            "date": "2026-06-09",
+            "evenement": "Relaxe générale par le tribunal de Paris ; appel annoncé par la partie civile.",
+            "sources": [
+              {
+                "titre": "Relaxe générale pour les personnalités poursuivies pour diffamation envers Sophie Djigo",
+                "url": "https://www.ici.fr/hauts-de-france/nord-59/valenciennes/relaxe-generale-pour-les-personnalites-poursuivies-pour-diffamation-envers-sophie-djigo-2873328",
+                "media": "ici (ex-France Bleu)",
+                "date": "2026-06-09"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Relaxe générale pour les personnalités poursuivies pour diffamation envers Sophie Djigo",
+            "url": "https://www.ici.fr/hauts-de-france/nord-59/valenciennes/relaxe-generale-pour-les-personnalites-poursuivies-pour-diffamation-envers-sophie-djigo-2873328",
+            "media": "ici (ex-France Bleu)",
+            "date": "2026-06-09"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "statut": "Propositions partielles",
+    "resume": "Aucun programme complet n'était publié au 13/11/2026. Les annonces se concentrent sur une « immigration négative » (2 millions d'immigrés en moins sur le quinquennat, expulsion des étrangers détenus, délinquants, en situation irrégulière ou au chômage de longue durée, référendum sur l'immigration), un plan de 280 Md€ de baisse des dépenses et des impôts, le non-renouvellement de 800 000 postes publics, et un volet pénal (40 000 surveillants, places de prison préfabriquées, peines planchers). Il défend aussi un âge de départ à la retraite de 64, voire 65 ans.",
+    "documents": [
+      {
+        "titre": "Éric Zemmour confirme sa candidature à la présidentielle pour \"enrayer le déclin\"",
+        "url": "https://france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin",
+        "media": "France 24",
+        "date": "2026-11-10"
+      },
+      {
+        "titre": "Présidentielle 2027 : Zemmour confirme sa candidature sur TF1 et détaille ses premières mesures",
+        "url": "https://www.politiquematin.fr/zemmour-presidentielle-2027-confirme-candidature-tf1-programme-101126-2055",
+        "media": "Politique Matin",
+        "date": "2026-11-10"
+      },
+      {
+        "titre": "Présidentielle 2027 : Eric Zemmour souhaite supprimer 800 000 postes dans la fonction publique",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-eric-zemmour-souhaite-supprimer-800-000-postes-dans-la-fonction-publique_8279303.html",
+        "media": "franceinfo",
+        "date": "2026-11-12"
+      },
+      {
+        "titre": "Présidentielle 2027 : santé, justice, éducation, culture… Que retenir du grand oral des candidats sur les services publics",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics",
+        "media": "Public Sénat",
+        "date": "2026-11-12"
+      },
+      {
+        "titre": "Zemmour confirme qu'il sera candidat à l'élection présidentielle en France et durcit encore son discours sur l'immigration",
+        "url": "https://www.lavenir.net/actu/monde/2026/09/18/zemmour-confirme-quil-sera-candidat-a-lelection-presidentielle-en-france-et-durcit-encore-son-discours-sur-limmigration-5OFMOVM6CVCDFHY4B3GI5QID3Q/",
+        "media": "L'Avenir (AFP)",
+        "date": "2026-09-18"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "zemmour-immigration-negative-2-millions",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "Deux millions d'immigrés en moins à la fin du quinquennat",
+        "description": "Passer d'un objectif d'« immigration zéro » à une « immigration négative » : « Je ne veux pas seulement contrôler les flux migratoires, je veux qu'il y ait moins d'immigrés à la fin de mon quinquennat », avec un objectif de deux millions d'immigrés en moins.",
+        "chiffres": [
+          "Objectif : -2 millions d'immigrés en 5 ans (soit 400 000 par an en moyenne)"
+        ],
+        "date": "2026-11-10",
+        "sources": [
+          {
+            "titre": "Éric Zemmour confirme sa candidature à la présidentielle pour \"enrayer le déclin\"",
+            "url": "https://france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin",
+            "media": "France 24",
+            "date": "2026-11-10"
+          },
+          {
+            "titre": "Election présidentielle en France : Eric Zemmour annonce sa candidature pour 'conserver une France française'",
+            "url": "https://www.rtbf.be/article/election-presidentielle-en-france-eric-zemmour-annonce-sa-candidature-pour-conserver-une-france-francaise-11813889",
+            "media": "RTBF (Belga)",
+            "date": "2026-11-10"
+          },
+          {
+            "titre": "Éric Zemmour officialise sa candidature à l'élection présidentielle 2027",
+            "url": "https://www.i24news.tv/fr/actu/france/artc-eric-zemmour-officialise-sa-candidature-a-l-election-presidentielle-2027",
+            "media": "i24NEWS",
+            "date": "2026-11"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun chiffrage indépendant de cet objectif n'a été trouvé, et Reconquête n'a publié ni texte ni calendrier. Ordres de grandeur officiels : l'Insee compte 7,7 millions d'immigrés en 2024 (11,3 % de la population), dont 2,6 millions devenus Français, qui ne peuvent pas être expulsés. En 2025, le ministère de l'Intérieur a recensé 24 985 éloignements (dont 15 569 forcés) et délivré 384 230 premiers titres de séjour. Atteindre -2 millions en cinq ans supposerait un solde d'environ 400 000 départs nets par an, soit environ 16 fois le total des éloignements de 2025.",
+          "sources": [
+            {
+              "titre": "En 2024, 6,0 millions d'étrangers vivent en France, 0,9 million y sont nés (Insee Première n° 2076)",
+              "url": "https://www.insee.fr/fr/statistiques/8651304",
+              "media": "Insee",
+              "date": "2025-10-07"
+            },
+            {
+              "titre": "Immigration en France : titres de séjour en hausse et régularisations en baisse en 2025",
+              "url": "https://fr.euronews.com/2026/01/27/immigration-en-france-titres-de-sejour-en-hausse-et-regularisations-en-baisse-en-2025",
+              "media": "Euronews",
+              "date": "2026-01-27"
+            },
+            {
+              "titre": "Zemmour et la remigration : qui est visé ?",
+              "url": "https://lessentieldeleco.fr/8508-zemmour-et-la-remigration-qui-est-vise/",
+              "media": "L'Essentiel de l'Éco",
+              "date": "2026-09-22"
+            }
+          ]
+        }
+      },
+      {
+        "id": "zemmour-expulsion-chomeurs-etrangers",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "Expulser les étrangers au chômage de longue durée, même en situation régulière",
+        "description": "Expulser les étrangers au chômage de longue durée, y compris ceux qui ont un titre de séjour, ainsi que les personnes vivant uniquement de prestations sociales. Sur BFMTV le 17 septembre 2026, il a hésité sur le seuil (« plus de six mois à un an, un an dirons-nous ») et retenu un an ; sur TF1 le 10 novembre 2026, il a parlé des « chômeurs étrangers de plus de six mois ».",
+        "chiffres": [
+          "Seuil : 1 an (BFMTV, 17/09/2026), puis plus de 6 mois (TF1, 10/11/2026)"
+        ],
+        "date": "2026-11-10",
+        "sources": [
+          {
+            "titre": "Éric Zemmour confirme sa candidature à la présidentielle pour \"enrayer le déclin\"",
+            "url": "https://france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin",
+            "media": "France 24",
+            "date": "2026-11-10"
+          },
+          {
+            "titre": "Election présidentielle en France : Eric Zemmour annonce sa candidature pour 'conserver une France française'",
+            "url": "https://www.rtbf.be/article/election-presidentielle-en-france-eric-zemmour-annonce-sa-candidature-pour-conserver-une-france-francaise-11813889",
+            "media": "RTBF (Belga)",
+            "date": "2026-11-10"
+          },
+          {
+            "titre": "Zemmour confirme qu'il sera candidat à l'élection présidentielle en France et durcit encore son discours sur l'immigration",
+            "url": "https://www.lavenir.net/actu/monde/2026/09/18/zemmour-confirme-quil-sera-candidat-a-lelection-presidentielle-en-france-et-durcit-encore-son-discours-sur-limmigration-5OFMOVM6CVCDFHY4B3GI5QID3Q/",
+            "media": "L'Avenir (AFP)",
+            "date": "2026-09-18"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun chiffrage de la version 2027 n'a été trouvé. Pour une mesure proche en 2022 (6 mois sans emploi), l'Institut Montaigne relevait une « forte complexité juridique » : il faudrait modifier le Ceseda (renouvellement du titre en cas de perte involontaire d'emploi), et le contrôle de proportionnalité au titre de l'article 8 de la CEDH resterait applicable. L'Institut estimait alors l'économie nette à environ 1,8 Md€ par an (fourchette de 0,9 à 2,4 Md€) pour environ 200 000 chômeurs étrangers de plus de 6 mois. L'Essentiel de l'Éco rappelle que l'expulsion suppose aujourd'hui une « menace grave pour l'ordre public » (art. L. 631-1 du Ceseda) et que le Protocole n° 4 de la CEDH interdit les expulsions collectives.",
+          "sources": [
+            {
+              "titre": "Éric Zemmour – Renvoyer les étrangers venus travailler au bout de 6 mois sans emploi (chiffrage présidentielle 2022)",
+              "url": "https://www.institutmontaigne.org/presidentielle-2022/eric-zemmour/renvoyer-les-etrangers-venus-travailler-au-bout-de-6-mois-sans-emploi/",
+              "media": "Institut Montaigne",
+              "date": "2022"
+            },
+            {
+              "titre": "Zemmour et la remigration : qui est visé ?",
+              "url": "https://lessentieldeleco.fr/8508-zemmour-et-la-remigration-qui-est-vise/",
+              "media": "L'Essentiel de l'Éco",
+              "date": "2026-09-22"
+            }
+          ]
+        }
+      },
+      {
+        "id": "zemmour-expulsion-detenus-etrangers",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "Expulser les détenus et délinquants étrangers",
+        "description": "Expulser les étrangers détenus ainsi que les étrangers condamnés exécutant leur peine hors de prison (bracelet électronique, travaux d'intérêt général), et les étrangers en situation irrégulière.",
+        "chiffres": [],
+        "date": "2026-09-17",
+        "sources": [
+          {
+            "titre": "Zemmour confirme qu'il sera candidat à l'élection présidentielle en France et durcit encore son discours sur l'immigration",
+            "url": "https://www.lavenir.net/actu/monde/2026/09/18/zemmour-confirme-quil-sera-candidat-a-lelection-presidentielle-en-france-et-durcit-encore-son-discours-sur-limmigration-5OFMOVM6CVCDFHY4B3GI5QID3Q/",
+            "media": "L'Avenir (AFP)",
+            "date": "2026-09-18"
+          },
+          {
+            "titre": "Présidentielle 2027 : Zemmour confirme sa candidature sur TF1 et détaille ses premières mesures",
+            "url": "https://www.politiquematin.fr/zemmour-presidentielle-2027-confirme-candidature-tf1-programme-101126-2055",
+            "media": "Politique Matin",
+            "date": "2026-11-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune évaluation indépendante de la mesure n'a été trouvée. Selon le ministère de la Justice, au 5 février 2026, 21 167 des 86 979 détenus étaient de nationalité étrangère ; 8 525 détenus faisaient l'objet d'au moins une mesure d'éloignement (OQTF ou interdiction du territoire). En 2025, 3 129 étrangers sortant de détention ont été éloignés. L'écart entre ces chiffres montre l'ampleur du changement visé, mais une expulsion reste soumise à un examen individuel et à l'accord du pays de renvoi.",
+          "sources": [
+            {
+              "titre": "Question écrite n° 7546 – Données actualisées sur les personnes étrangères détenues (réponse du ministère de la Justice)",
+              "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE7546.pdf",
+              "media": "Assemblée nationale / Journal officiel",
+              "date": "2026-04-21"
+            }
+          ]
+        }
+      },
+      {
+        "id": "zemmour-decl-25-pourcent-prisons",
+        "theme": "securite-justice",
+        "type": "declaration-chiffree",
+        "titre": "« Ça fait 25 % des prisons » (détenus étrangers)",
+        "description": "Sur BFMTV, Éric Zemmour affirme que les détenus étrangers représentent « 25 % des prisons ».",
+        "chiffres": [
+          "25 % des détenus seraient étrangers"
+        ],
+        "date": "2026-09-17",
+        "sources": [
+          {
+            "titre": "Zemmour confirme qu'il sera candidat à l'élection présidentielle en France et durcit encore son discours sur l'immigration",
+            "url": "https://www.lavenir.net/actu/monde/2026/09/18/zemmour-confirme-quil-sera-candidat-a-lelection-presidentielle-en-france-et-durcit-encore-son-discours-sur-limmigration-5OFMOVM6CVCDFHY4B3GI5QID3Q/",
+            "media": "L'Avenir (AFP)",
+            "date": "2026-09-18"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "Selon la réponse du ministère de la Justice publiée au JO le 21 avril 2026, la France comptait au 5 février 2026 86 979 détenus, dont 21 167 étrangers, soit environ 24,3 %, une proportion « globalement stable depuis 2022 ». Les séries du ministère donnaient 25 % en 2022. L'ordre de grandeur est donc juste. La formule est toutefois imprécise : il s'agit d'une part des détenus, et non « des prisons », et la statistique porte sur la nationalité, pas sur le statut d'immigré.",
+          "sources": [
+            {
+              "titre": "Question écrite n° 7546 – Données actualisées sur les personnes étrangères détenues (réponse du ministère de la Justice)",
+              "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE7546.pdf",
+              "media": "Assemblée nationale / Journal officiel",
+              "date": "2026-04-21"
+            },
+            {
+              "titre": "Zemmour et la remigration : qui est visé ?",
+              "url": "https://lessentieldeleco.fr/8508-zemmour-et-la-remigration-qui-est-vise/",
+              "media": "L'Essentiel de l'Éco",
+              "date": "2026-09-22"
+            }
+          ]
+        }
+      },
+      {
+        "id": "zemmour-decl-texte-1945",
+        "theme": "immigration",
+        "type": "declaration-chiffree",
+        "titre": "Un texte de 1945 imposerait d'expulser tout étranger qui « pèse sur les finances publiques »",
+        "description": "Sur BFMTV, Éric Zemmour affirme qu'un article du code des étrangers « qui date, je pense, de 1945 » dispose que « tout étranger qui pèse sur les finances publiques doit être expulsé ».",
+        "chiffres": [
+          "Texte invoqué : ordonnance de 1945"
+        ],
+        "date": "2026-09-17",
+        "sources": [
+          {
+            "titre": "Zemmour confirme qu'il sera candidat à l'élection présidentielle en France et durcit encore son discours sur l'immigration",
+            "url": "https://www.lavenir.net/actu/monde/2026/09/18/zemmour-confirme-quil-sera-candidat-a-lelection-presidentielle-en-france-et-durcit-encore-son-discours-sur-limmigration-5OFMOVM6CVCDFHY4B3GI5QID3Q/",
+            "media": "L'Avenir (AFP)",
+            "date": "2026-09-18"
+          }
+        ],
+        "factCheck": {
+          "verdict": "faux",
+          "analyse": "Les Surligneurs concluent que l'affirmation est fausse. L'ordonnance du 2 novembre 1945 permettait d'expulser un étranger dont la présence menaçait « l'ordre public ou le crédit public ». C'était une faculté laissée à l'administration, pas une obligation, et elle ne visait ni le chômage ni les prestations sociales. Cette rédaction est abrogée depuis plus de quarante ans (1981 selon L'Essentiel de l'Éco).",
+          "sources": [
+            {
+              "titre": "Un texte de 1945 prévoit-il l'expulsion de tout étranger qui \"pèse sur les finances publiques\" ?",
+              "url": "https://lessurligneurs.eu/existe-t-il-un-texte-de-1945-qui-dit-que-tout-etranger-qui-pese-sur-les-finances-publiques-doit-etre-expulse/",
+              "media": "Les Surligneurs",
+              "date": "2026-09-22"
+            },
+            {
+              "titre": "Ordonnance n° 45-2658 du 2 novembre 1945 (texte consolidé, document de travail)",
+              "url": "https://www.gisti.org/droit/reformes/2003-entree-sejour/ordo_45_consolidee_30-oct.pdf",
+              "media": "GISTI",
+              "date": "2003"
+            },
+            {
+              "titre": "Zemmour et la remigration : qui est visé ?",
+              "url": "https://lessentieldeleco.fr/8508-zemmour-et-la-remigration-qui-est-vise/",
+              "media": "L'Essentiel de l'Éco",
+              "date": "2026-09-22"
+            }
+          ]
+        }
+      },
+      {
+        "id": "zemmour-referendum-immigration",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Référendum sur l'immigration",
+        "description": "Organiser un référendum sur la politique migratoire, au motif que « la volonté du peuple » doit l'emporter sur celle des juges ; il évoque aussi une nouvelle loi.",
+        "chiffres": [],
+        "date": "2026-11-10",
+        "sources": [
+          {
+            "titre": "Éric Zemmour officialise sa candidature à l'élection présidentielle 2027",
+            "url": "https://www.i24news.tv/fr/actu/france/artc-eric-zemmour-officialise-sa-candidature-a-l-election-presidentielle-2027",
+            "media": "i24NEWS",
+            "date": "2026-11"
+          },
+          {
+            "titre": "Présidentielle 2027 : Zemmour confirme sa candidature sur TF1 et détaille ses premières mesures",
+            "url": "https://www.politiquematin.fr/zemmour-presidentielle-2027-confirme-candidature-tf1-programme-101126-2055",
+            "media": "Politique Matin",
+            "date": "2026-11-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "En l'état, l'article 11 de la Constitution ne permet un référendum législatif que sur l'organisation des pouvoirs publics, la politique économique, sociale ou environnementale et les services publics, ou la ratification d'un traité. La politique migratoire n'y figure pas. Le 11 avril 2024, le Conseil constitutionnel a rejeté la proposition de référendum d'initiative partagée des LR sur l'immigration, qui tentait de passer par le volet social. Un tel référendum supposerait donc au préalable une révision constitutionnelle, ce que le candidat n'a pas détaillé.",
+          "sources": [
+            {
+              "titre": "RIP sur l'immigration : le Conseil constitutionnel rejette la demande des LR",
+              "url": "https://www.publicsenat.fr/actualites/politique/rip-sur-limmigration-le-conseil-constitutionnel-rejette-la-demande-des-lr",
+              "media": "Public Sénat",
+              "date": "2024-04-11"
+            },
+            {
+              "titre": "Zemmour et la remigration : qui est visé ?",
+              "url": "https://lessentieldeleco.fr/8508-zemmour-et-la-remigration-qui-est-vise/",
+              "media": "L'Essentiel de l'Éco",
+              "date": "2026-09-22"
+            }
+          ]
+        }
+      },
+      {
+        "id": "zemmour-plan-280-milliards",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Plan de 280 Md€ de baisse des dépenses et des impôts",
+        "description": "Plan de redressement des finances publiques chiffré par le candidat à 280 milliards d'euros, qui combine baisse des dépenses publiques et baisses d'impôts, avec en parallèle un investissement massif dans l'intelligence artificielle et la robotisation.",
+        "chiffres": [
+          "280 Md€ (période, ventilation et hypothèses non précisées)"
+        ],
+        "date": "2026-11-10",
+        "sources": [
+          {
+            "titre": "Éric Zemmour officialise sa candidature à l'élection présidentielle 2027",
+            "url": "https://www.i24news.tv/fr/actu/france/artc-eric-zemmour-officialise-sa-candidature-a-l-election-presidentielle-2027",
+            "media": "i24NEWS",
+            "date": "2026-11"
+          },
+          {
+            "titre": "Présidentielle 2027 : Zemmour confirme sa candidature sur TF1 et détaille ses premières mesures",
+            "url": "https://www.politiquematin.fr/zemmour-presidentielle-2027-confirme-candidature-tf1-programme-101126-2055",
+            "media": "Politique Matin",
+            "date": "2026-11-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune ventilation n'a été publiée : on ne sait ni sur quelle durée porte le montant, ni comment il se répartit entre économies et baisses d'impôts, ni quelles hypothèses il retient. Il ne peut donc pas être vérifié. Pour comparaison, selon l'Insee, le déficit public était de 152,5 Md€ en 2025 (5,1 % du PIB), les dépenses publiques représentaient 57,2 % du PIB et la dette atteignait environ 3 460 Md€.",
+          "sources": [
+            {
+              "titre": "Comptes nationaux des administrations publiques – premiers résultats, année 2025",
+              "url": "https://www.insee.fr/fr/statistiques/8956575",
+              "media": "Insee",
+              "date": "2026-03-27"
+            },
+            {
+              "titre": "Présidentielle 2027 : Zemmour confirme sa candidature sur TF1 et détaille ses premières mesures",
+              "url": "https://www.politiquematin.fr/zemmour-presidentielle-2027-confirme-candidature-tf1-programme-101126-2055",
+              "media": "Politique Matin",
+              "date": "2026-11-10"
+            }
+          ]
+        }
+      },
+      {
+        "id": "zemmour-fonction-publique-800000",
+        "theme": "territoires-services-publics",
+        "type": "proposition",
+        "titre": "Ne pas renouveler 800 000 postes de fonctionnaires",
+        "description": "Préserver 2,2 millions d'emplois publics (enseignants, militaires, policiers, soignants) et ne pas renouveler 800 000 postes en cinq ans, sans licenciement : « Un tiers des départs à la retraite ne sont pas remplacés. »",
+        "chiffres": [
+          "800 000 postes non renouvelés en 5 ans",
+          "2,2 millions d'emplois « protégés »"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : Eric Zemmour souhaite supprimer 800 000 postes dans la fonction publique",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-eric-zemmour-souhaite-supprimer-800-000-postes-dans-la-fonction-publique_8279303.html",
+            "media": "franceinfo",
+            "date": "2026-11-12"
+          },
+          {
+            "titre": "Présidentielle 2027 : santé, justice, éducation, culture… Que retenir du grand oral des candidats sur les services publics",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics",
+            "media": "Public Sénat",
+            "date": "2026-11-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le candidat ne donne ni chiffrage des économies ni calendrier détaillé, et aucune évaluation indépendante n'a été trouvée. Selon la DGAFP, la fonction publique comptait environ 5,9 millions d'agents fin 2024 (+0,6 % sur un an). 800 000 postes représentent donc environ 14 % des effectifs. Les postes non renouvelés devraient tous être pris hors des 2,2 millions d'emplois déclarés protégés, soit sur environ 3,7 millions d'agents. La faisabilité par le seul non-remplacement d'un départ à la retraite sur trois n'a pas pu être vérifiée faute de données publiées sur les départs.",
+          "sources": [
+            {
+              "titre": "L'emploi dans la fonction publique en 2024",
+              "url": "https://www.fonction-publique.gouv.fr/toutes-les-publications/lemploi-dans-la-fonction-publique-en-2024",
+              "media": "DGAFP – fonction-publique.gouv.fr",
+              "date": "2026-02-10"
+            },
+            {
+              "titre": "Présidentielle 2027 : Eric Zemmour souhaite supprimer 800 000 postes dans la fonction publique",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-eric-zemmour-souhaite-supprimer-800-000-postes-dans-la-fonction-publique_8279303.html",
+              "media": "franceinfo",
+              "date": "2026-11-12"
+            }
+          ]
+        }
+      },
+      {
+        "id": "zemmour-prisons-40000-surveillants",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "40 000 surveillants et 100 000 places de prison en préfabriqué",
+        "description": "Recruter 40 000 surveillants pénitentiaires (« Je vais recruter 40 000 gardiens de prison ») et « construire très rapidement 100 000 places de prison en préfabriqué » (citations rapportées par franceinfo le 12 novembre 2026).",
+        "chiffres": [
+          "40 000 surveillants",
+          "100 000 places de prison en préfabriqué"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : Eric Zemmour souhaite supprimer 800 000 postes dans la fonction publique",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-eric-zemmour-souhaite-supprimer-800-000-postes-dans-la-fonction-publique_8279303.html",
+            "media": "franceinfo",
+            "date": "2026-11-12"
+          },
+          {
+            "titre": "Présidentielle 2027 : santé, justice, éducation, culture… Que retenir du grand oral des candidats sur les services publics",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics",
+            "media": "Public Sénat",
+            "date": "2026-11-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun coût ni financement n'a été annoncé. Au 1er avril 2026, le ministère de la Justice recensait 63 353 places opérationnelles pour 88 145 détenus (densité de 139,1 %, 171,1 % en maisons d'arrêt, 7 540 matelas au sol). 100 000 places supplémentaires reviendraient à multiplier le parc par environ 2,6, alors que la surpopulation représente environ 25 000 détenus au-delà des places disponibles. Un chiffre de 200 000 places, attribué à RTL par un site agrégateur, n'a pas été confirmé par une source de référence : la citation directe rapportée par franceinfo mentionne 100 000 places.",
+          "sources": [
+            {
+              "titre": "Mesure de l'incarcération – Indicateurs clés au 1er avril 2026",
+              "url": "https://www.justice.gouv.fr/sites/default/files/2026-04/mesure_mensuelle_01042026.pdf",
+              "media": "Ministère de la Justice",
+              "date": "2026-04"
+            }
+          ]
+        }
+      },
+      {
+        "id": "zemmour-peines-planchers-jap",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "Peines planchers, cumul des peines et suppression des aménagements de peine",
+        "description": "Instaurer des peines planchers « pour imposer un minimum de peine à un délinquant », pratiquer l'« accumulation des peines » « comme aux États-Unis » au lieu de leur confusion, supprimer les aménagements de peine accordés par le juge de l'application des peines, et rendre les magistrats « responsables de leurs actes » (franceinfo, 12 novembre 2026).",
+        "chiffres": [],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : Eric Zemmour souhaite supprimer 800 000 postes dans la fonction publique",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-eric-zemmour-souhaite-supprimer-800-000-postes-dans-la-fonction-publique_8279303.html",
+            "media": "franceinfo",
+            "date": "2026-11-12"
+          },
+          {
+            "titre": "Présidentielle 2027 : santé, justice, éducation, culture… Que retenir du grand oral des candidats sur les services publics",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics",
+            "media": "Public Sénat",
+            "date": "2026-11-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Ces mesures ne sont pas chiffrées et aucune vérification indépendante n'a été trouvée. Supprimer les aménagements de peine augmenterait mécaniquement la population détenue, alors que le ministère de la Justice comptait déjà 26 458 détenus en surnombre au 1er avril 2026. L'impact budgétaire n'a pas été évalué.",
+          "sources": [
+            {
+              "titre": "Mesure de l'incarcération – Indicateurs clés au 1er avril 2026",
+              "url": "https://www.justice.gouv.fr/sites/default/files/2026-04/mesure_mensuelle_01042026.pdf",
+              "media": "Ministère de la Justice",
+              "date": "2026-04"
+            }
+          ]
+        }
+      },
+      {
+        "id": "zemmour-sante-medecins-retraites",
+        "theme": "sante",
+        "type": "proposition",
+        "titre": "Rappeler les médecins retraités et supprimer le numerus clausus",
+        "description": "Faire appel aux quelque 100 000 médecins retraités en exonérant d'impôt sur le revenu les revenus tirés de cette activité, supprimer le numerus clausus des facultés de médecine, et permettre aux pharmaciens et infirmiers de traiter des pathologies bénignes.",
+        "chiffres": [
+          "Environ 100 000 médecins retraités visés",
+          "Exonération d'impôt sur le revenu"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : Eric Zemmour souhaite supprimer 800 000 postes dans la fonction publique",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-eric-zemmour-souhaite-supprimer-800-000-postes-dans-la-fonction-publique_8279303.html",
+            "media": "franceinfo",
+            "date": "2026-11-12"
+          },
+          {
+            "titre": "Présidentielle 2027 : santé, justice, éducation, culture… Que retenir du grand oral des candidats sur les services publics",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics",
+            "media": "Public Sénat",
+            "date": "2026-11-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "trompeur",
+          "analyse": "La loi du 24 juillet 2019 relative à l'organisation et à la transformation du système de santé a supprimé le numerus clausus depuis la rentrée universitaire 2020. Les capacités d'accueil sont désormais fixées par les universités avec les ARS. Proposer de le « supprimer » laisse donc croire qu'il est toujours en vigueur, même si une sélection subsiste à l'entrée des études de santé. Le chiffre d'environ 100 000 médecins retraités et le coût de l'exonération fiscale n'ont pas pu être vérifiés.",
+          "sources": [
+            {
+              "titre": "Pourquoi réformer les études de santé ?",
+              "url": "https://www.enseignementsup-recherche.gouv.fr/fr/pourquoi-reformer-les-etudes-de-sante-50930",
+              "media": "Ministère de l'Enseignement supérieur et de la Recherche",
+              "date": "2021-05-25"
+            }
+          ]
+        }
+      },
+      {
+        "id": "zemmour-fin-college-unique",
+        "theme": "education",
+        "type": "proposition",
+        "titre": "Fin du collège unique et orientation professionnelle dès la 4e",
+        "description": "Mettre fin au collège unique, orienter des élèves vers l'enseignement professionnel dès la quatrième et revenir aux méthodes d'enseignement traditionnelles.",
+        "chiffres": [
+          "Orientation possible dès la 4e"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : Eric Zemmour souhaite supprimer 800 000 postes dans la fonction publique",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-eric-zemmour-souhaite-supprimer-800-000-postes-dans-la-fonction-publique_8279303.html",
+            "media": "franceinfo",
+            "date": "2026-11-12"
+          },
+          {
+            "titre": "Présidentielle 2027 : santé, justice, éducation, culture… Que retenir du grand oral des candidats sur les services publics",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics",
+            "media": "Public Sénat",
+            "date": "2026-11-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Mesure non chiffrée, dont les modalités ne sont pas détaillées (âge, procédure d'orientation, passerelles). Aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Présidentielle 2027 : santé, justice, éducation, culture… Que retenir du grand oral des candidats sur les services publics",
+              "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics",
+              "media": "Public Sénat",
+              "date": "2026-11-12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

@@ -1,0 +1,765 @@
+{
+  "id": "nicolas-dupont-aignan",
+  "prenom": "Nicolas",
+  "nom": "Dupont-Aignan",
+  "parti": "Debout la France",
+  "partiAbrev": "DLF",
+  "famillePolitique": "droite",
+  "couleur": "#0087CD",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Nicolas Dupont-Aignan a annoncé sa candidature le 8 mars 2025 devant ses militants à Yerres (Essonne), disant avoir « le devoir d'être candidat à l'élection présidentielle » après la perte de son siège de député à l'été 2024. Il l'a officialisée le 19 septembre 2026 lors de sa « Fête de la Liberté » à Yerres. Il s'agirait de sa quatrième candidature (après 2012, 2017 et 2022), sous réserve de réunir les 500 parrainages requis avant le 12 mars 2027. Il fait de la sortie de l'Union européenne le cœur de sa campagne. LCP (10/11/2026) et franceinfo le classent parmi les candidats déclarés.",
+    "date": "2025-03-08",
+    "sources": [
+      {
+        "titre": "« Cette présidentielle sera peut-être la dernière d'un peuple libre » : Dupont-Aignan annonce sa candidature pour 2027",
+        "url": "https://www.lejdd.fr/politique/cette-presidentielle-sera-peut-etre-la-derniere-dun-peuple-libre-dupont-aignan-annonce-sa-candidature-pour-2027-155797",
+        "media": "Le JDD",
+        "date": "2025-03-09"
+      },
+      {
+        "titre": "Présidentielle 2027 : Nicolas Dupont-Aignan officialise sa candidature",
+        "url": "https://entrevue.fr/presidentielle-2027/presidentielle-2027-nicolas-dupont-aignan-officialise-sa-candidature/",
+        "media": "Entrevue",
+        "date": "2026-09-19"
+      },
+      {
+        "titre": "Candidatures à l'élection présidentielle française de 2027",
+        "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-10"
+      },
+      {
+        "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "media": "franceinfo",
+        "date": "2026-11-09"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1961-03-07",
+      "lieu": "Paris (15e arrondissement)",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Nicolas Dupont-Aignan",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nicolas-dupont-aignan",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Nicolas Dupont-Aignan",
+          "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Haut fonctionnaire issu de l'ENA, Nicolas Dupont-Aignan a été maire de Yerres (Essonne) de 1995 à 2017, puis de nouveau depuis mars 2026, et député de la 8e circonscription de l'Essonne de 1997 à 2024. Ancien membre du RPR puis de l'UMP, il préside depuis 2008 Debout la République, devenu Debout la France, parti qui se réclame du gaullisme et du souverainisme. Candidat à la présidentielle en 2012 (1,79 %), 2017 (4,70 %) et 2022 (2,06 %), il avait conclu entre les deux tours de 2017 une alliance avec Marine Le Pen. Pour 2027, il défend une sortie de l'Union européenne, un protectionnisme « intelligent », une baisse des prix de l'énergie et un durcissement de la politique migratoire.",
+    "formation": [
+      {
+        "texte": "Diplômé de l'Institut d'études politiques de Paris (1982), licence de droit (1984), DESS de gestion de l'entreprise et marchés financiers à Paris-Dauphine (1985), École nationale d'administration (1987-1989).",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de Nicolas Dupont-Aignan",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nicolas-dupont-aignan",
+            "media": "Sud Radio",
+            "date": "2026"
+          },
+          {
+            "titre": "Nicolas Dupont-Aignan",
+            "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Administrateur civil : adjoint au chef du bureau des élections au ministère de l'Intérieur (1988-1989), puis postes en préfecture et en cabinets ministériels (notamment auprès de François Bayrou et de Michel Barnier).",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de Nicolas Dupont-Aignan",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nicolas-dupont-aignan",
+            "media": "Sud Radio",
+            "date": "2026"
+          },
+          {
+            "titre": "Nicolas Dupont-Aignan",
+            "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "La biographie et le CV de Nicolas Dupont-Aignan",
+        "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nicolas-dupont-aignan",
+        "media": "Sud Radio",
+        "date": "2026"
+      },
+      {
+        "titre": "Nicolas Dupont-Aignan",
+        "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "media": "franceinfo",
+        "date": "2026-11-09"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "1995",
+      "fin": "2017",
+      "fonction": "Maire de Yerres (Essonne)",
+      "details": "Élu en juin 1995, réélu en 2001, 2008 et 2014 ; il quitte la mairie le 23 juillet 2017 en application de la loi sur le non-cumul des mandats, au profit de son adjoint Olivier Clodong.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Nicolas Dupont-Aignan",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nicolas-dupont-aignan",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Nicolas Dupont-Aignan",
+          "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "1997",
+      "fin": "2024",
+      "fonction": "Député de la 8e circonscription de l'Essonne",
+      "details": "Élu en 1997, réélu en 2002, 2007, 2012, 2017 et 2022 ; battu aux législatives anticipées de 2024.",
+      "sources": [
+        {
+          "titre": "Nicolas Dupont-Aignan",
+          "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "media": "franceinfo",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "debut": "2002",
+      "fin": "2017",
+      "fonction": "Président de l'intercommunalité du Val d'Yerres",
+      "details": "Président de la communauté d'agglomération du Val d'Yerres (2002-2015), puis de la communauté d'agglomération Val d'Yerres Val de Seine (2016-2017).",
+      "sources": [
+        {
+          "titre": "Nicolas Dupont-Aignan",
+          "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2008",
+      "fin": null,
+      "fonction": "Président de Debout la République, devenu Debout la France",
+      "details": "Président du parti depuis le 22 novembre 2008.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Nicolas Dupont-Aignan",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nicolas-dupont-aignan",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Nicolas Dupont-Aignan",
+          "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2012",
+      "fin": "2022",
+      "fonction": "Candidat à l'élection présidentielle (2012, 2017, 2022)",
+      "details": "1,79 % en 2012, 4,70 % en 2017 (puis alliance d'entre-deux-tours avec Marine Le Pen), 2,06 % en 2022.",
+      "sources": [
+        {
+          "titre": "Résultats de l'élection présidentielle 2017 – France entière",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/presidentielle-2017/FE.php",
+          "media": "Ministère de l'Intérieur (archives des résultats électoraux)",
+          "date": "2017-04-23"
+        },
+        {
+          "titre": "Résultats de l'élection présidentielle 2022 – France entière",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/presidentielle-2022/FE.php",
+          "media": "Ministère de l'Intérieur (archives des résultats électoraux)",
+          "date": "2022-04-10"
+        },
+        {
+          "titre": "Nicolas Dupont-Aignan",
+          "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "media": "franceinfo",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "debut": "2026",
+      "fin": null,
+      "fonction": "Maire de Yerres (Essonne)",
+      "details": "Sa liste l'emporte dès le premier tour des municipales du 15 mars 2026 (environ 80 % des voix face à une liste LFI) ; il retrouve la mairie le 22 mars 2026.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Nicolas Dupont-Aignan",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nicolas-dupont-aignan",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Nicolas Dupont-Aignan",
+          "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Élections municipales 2026 à Yerres : candidats et résultats",
+          "url": "https://datan.fr/elections/resultats/essonne-91/ville_yerres",
+          "media": "Datan",
+          "date": "2026-03"
+        },
+        {
+          "titre": "Yerres : Dupont-Aignan officialise sa candidature à la présidentielle 2027",
+          "url": "https://info.fr/yerres-dupont-aignan-candidature-presidentielle-2027-sursaut-gaulliste/",
+          "media": "info.fr",
+          "date": "2026-04-23"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Aucune procédure judiciaire en cours connue le visant à ce jour. Poursuivi pour provocation à la haine après un tweet de 2017, il a été relaxé en 2018.",
+    "sources": [
+      {
+        "titre": "Nicolas Dupont-Aignan",
+        "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Nicolas Dupont-Aignan relaxé pour ses propos sur l'\"invasion migratoire\" en France",
+        "url": "https://www.europe1.fr/societe/nicolas-dupont-aignan-relaxe-pour-ses-propos-sur-linvasion-migratoire-en-france-3673592",
+        "media": "Europe 1",
+        "date": "2018-06-06"
+      }
+    ],
+    "affaires": [
+      {
+        "titre": "Tweet sur l'« invasion migratoire » (2017)",
+        "statut": "relaxe",
+        "role": "prévenu",
+        "resume": "Poursuivi pour provocation à la haine ou à la discrimination, à la suite d'un signalement de la Licra, pour un tweet du 17 janvier 2017 évoquant une « invasion migratoire ». Le parquet avait requis 5 000 euros d'amende avec sursis. Le 6 juin 2018, la 17e chambre du tribunal correctionnel de Paris, après avoir écarté l'immunité parlementaire invoquée par la défense, l'a relaxé sur le fond. Aucun appel n'est mentionné dans les sources consultées.",
+        "chronologie": [
+          {
+            "date": "2017-01-17",
+            "evenement": "Publication du tweet évoquant une « invasion migratoire ».",
+            "sources": [
+              {
+                "titre": "Nicolas Dupont-Aignan relaxé pour ses propos sur l'\"invasion migratoire\" en France",
+                "url": "https://www.europe1.fr/societe/nicolas-dupont-aignan-relaxe-pour-ses-propos-sur-linvasion-migratoire-en-france-3673592",
+                "media": "Europe 1",
+                "date": "2018-06-06"
+              }
+            ]
+          },
+          {
+            "date": "2018-06-06",
+            "evenement": "Relaxe prononcée par la 17e chambre du tribunal correctionnel de Paris.",
+            "sources": [
+              {
+                "titre": "Nicolas Dupont-Aignan relaxé pour ses propos sur l'\"invasion migratoire\" en France",
+                "url": "https://www.europe1.fr/societe/nicolas-dupont-aignan-relaxe-pour-ses-propos-sur-linvasion-migratoire-en-france-3673592",
+                "media": "Europe 1",
+                "date": "2018-06-06"
+              },
+              {
+                "titre": "Dupont-Aignan relaxé pour ses propos sur l'« invasion migratoire » en France",
+                "url": "https://www.publicsenat.fr/actualites/politique/dupont-aignan-relaxe-pour-ses-propos-sur-l-invasion-migratoire-en-france-86680",
+                "media": "Public Sénat (AFP)",
+                "date": "2018-06-06"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Nicolas Dupont-Aignan relaxé pour ses propos sur l'\"invasion migratoire\" en France",
+            "url": "https://www.europe1.fr/societe/nicolas-dupont-aignan-relaxe-pour-ses-propos-sur-linvasion-migratoire-en-france-3673592",
+            "media": "Europe 1",
+            "date": "2018-06-06"
+          },
+          {
+            "titre": "Dupont-Aignan relaxé pour ses propos sur l'« invasion migratoire » en France",
+            "url": "https://www.publicsenat.fr/actualites/politique/dupont-aignan-relaxe-pour-ses-propos-sur-l-invasion-migratoire-en-france-86680",
+            "media": "Public Sénat (AFP)",
+            "date": "2018-06-06"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "statut": "Propositions partielles",
+    "resume": "Debout la France indique actualiser son programme pour 2027 ; le projet économique détaillé (production, pouvoir d'achat, réduction du déficit) est en ligne. La sortie de l'Union européenne, présentée comme la condition des autres réformes, est au cœur de la campagne, avec la sortie du marché européen de l'électricité. S'y ajoutent un SMIC à 1 600 € net, un capital de 10 000 € pour chaque nouveau-né, la relocalisation d'emplois industriels, le maintien de la retraite à 62 ans, un durcissement de la politique migratoire (sortie de Schengen, suppression de l'AME et du droit du sol) et un référendum d'initiative citoyenne. Les détails viennent aussi de son livre « 2027 : La liberté ou la mort » (Fayard, avril 2026).",
+    "documents": [
+      {
+        "titre": "Notre projet",
+        "url": "https://www.debout-la-france.fr/notre-projet/",
+        "media": "Debout la France (site du parti)",
+        "date": "2026"
+      },
+      {
+        "titre": "Économie et travail – Notre projet",
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "media": "Debout la France (site du parti)",
+        "date": "2026"
+      },
+      {
+        "titre": "Immigration et assimilation – Notre projet",
+        "url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+        "media": "Debout la France (site du parti)",
+        "date": "2026"
+      },
+      {
+        "titre": "Nicolas Dupont-Aignan - Candidat à l'élection présidentielle 2027 !",
+        "url": "https://www.dupontaignan.fr/",
+        "media": "Site de Nicolas Dupont-Aignan",
+        "date": "2026-11-13"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "sortie-ue",
+        "theme": "europe-international",
+        "type": "proposition",
+        "titre": "Sortir de l'Union européenne",
+        "description": "Quitter les institutions de l'Union européenne et « la reconstruire sur des bases saines » sous la forme d'une « Europe des nations » fondée sur la coopération entre États souverains. Il affirme qu'aucun programme de droite (RN, Reconquête, LR) n'est applicable sans cette sortie. En 2025, il présentait encore le Frexit comme un recours ultime ; il en fait désormais l'axe de sa campagne.",
+        "chiffres": [
+          "Économie attendue sur le solde contributeur de la France à l'UE : 15 Md€ (chiffre du projet DLF)"
+        ],
+        "date": "2026-06-02",
+        "sources": [
+          {
+            "titre": "Nicolas Dupont-Aignan candidat en 2027 : « Je dis à Éric Zemmour, Bruno Retailleau, \"vous ne pourrez pas faire ce que vous promettez si vous ne sortez pas de l'UE\" »",
+            "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mardi-02-juin-2026_8001014.html",
+            "media": "franceinfo",
+            "date": "2026-06-02"
+          },
+          {
+            "titre": "Frexit : la France est « suffisamment forte pour faire sortir d'autres pays de l'Union européenne », assure Nicolas Dupont-Aignan",
+            "url": "https://www.europe1.fr/international/frexit-la-france-est-suffisamment-forte-pour-faire-sortir-dautres-pays-de-lunion-europeenne-assure-nicolas-dupont-aignan-873516",
+            "media": "Europe 1",
+            "date": "2025-12-02"
+          },
+          {
+            "titre": "Présidentielle 2027 : Nicolas Dupont-Aignan officialise sa candidature",
+            "url": "https://entrevue.fr/presidentielle-2027/presidentielle-2027-nicolas-dupont-aignan-officialise-sa-candidature/",
+            "media": "Entrevue",
+            "date": "2026-09-19"
+          },
+          {
+            "titre": "Économie et travail – Notre projet",
+            "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+            "media": "Debout la France (site du parti)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le montant de la contribution nette française et la procédure de retrait (article 50 du traité sur l'Union européenne, modification du titre XV de la Constitution) n'ont pas fait l'objet d'une vérification indépendante trouvée pour cette proposition. Les modalités (référendum, calendrier, sortie de l'euro) ne sont pas précisées dans les sources consultées. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Nicolas Dupont-Aignan candidat en 2027 : « Je dis à Éric Zemmour, Bruno Retailleau, \"vous ne pourrez pas faire ce que vous promettez si vous ne sortez pas de l'UE\" »",
+              "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mardi-02-juin-2026_8001014.html",
+              "media": "franceinfo",
+              "date": "2026-06-02"
+            },
+            {
+              "titre": "Économie et travail – Notre projet",
+              "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+              "media": "Debout la France (site du parti)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "electricite-sortie-marche-europeen",
+        "theme": "environnement-energie",
+        "type": "proposition",
+        "titre": "Baisser le prix de l'électricité en sortant du marché européen",
+        "description": "Sortir du marché européen de l'électricité et revenir à un tarif réglementé fondé sur le coût du nucléaire. Le projet de DLF promet de « diviser par 2 le prix de l'électricité » avec un tarif réglementé de 11 centimes le kWh ; il prévoit aussi une baisse de 40 centimes du litre de carburant, de 20 % du prix du gaz, et la suppression des aides à l'éolien et au solaire pour la financer.",
+        "chiffres": [
+          "Tarif réglementé visé : 11 c€/kWh",
+          "Baisse annoncée : -50 % (projet DLF) ou -30 % (franceinfo, juin 2026)",
+          "Carburants : -40 c€/litre ; gaz : -20 %",
+          "Économie sur les aides éolien/solaire : 10 à 12 Md€"
+        ],
+        "date": "2026-06-02",
+        "sources": [
+          {
+            "titre": "Économie et travail – Notre projet",
+            "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+            "media": "Debout la France (site du parti)",
+            "date": "2026"
+          },
+          {
+            "titre": "Nicolas Dupont-Aignan candidat en 2027 : « Je dis à Éric Zemmour, Bruno Retailleau, \"vous ne pourrez pas faire ce que vous promettez si vous ne sortez pas de l'UE\" »",
+            "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mardi-02-juin-2026_8001014.html",
+            "media": "franceinfo",
+            "date": "2026-06-02"
+          },
+          {
+            "titre": "Présidentielle 2027 : Nicolas Dupont-Aignan officialise sa candidature",
+            "url": "https://entrevue.fr/presidentielle-2027/presidentielle-2027-nicolas-dupont-aignan-officialise-sa-candidature/",
+            "media": "Entrevue",
+            "date": "2026-09-19"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Les ordres de grandeur annoncés varient selon les sources : baisse de 30 % sur franceinfo le 2 juin 2026, division par deux dans le projet en ligne ; l'économie sur les aides aux renouvelables est chiffrée à 10 Md€ (projet) ou 12 Md€ (Entrevue). Aucun chiffrage indépendant de l'effet d'une sortie du marché européen sur les prix n'a été trouvé. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Économie et travail – Notre projet",
+              "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+              "media": "Debout la France (site du parti)",
+              "date": "2026"
+            },
+            {
+              "titre": "Nicolas Dupont-Aignan candidat en 2027 : « Je dis à Éric Zemmour, Bruno Retailleau, \"vous ne pourrez pas faire ce que vous promettez si vous ne sortez pas de l'UE\" »",
+              "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mardi-02-juin-2026_8001014.html",
+              "media": "franceinfo",
+              "date": "2026-06-02"
+            },
+            {
+              "titre": "Présidentielle 2027 : Nicolas Dupont-Aignan officialise sa candidature",
+              "url": "https://entrevue.fr/presidentielle-2027/presidentielle-2027-nicolas-dupont-aignan-officialise-sa-candidature/",
+              "media": "Entrevue",
+              "date": "2026-09-19"
+            }
+          ]
+        }
+      },
+      {
+        "id": "smic-1600-net",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "SMIC à 1 600 € net par baisse des cotisations salariales",
+        "description": "Porter le SMIC à 1 600 € net par une baisse dégressive des cotisations salariales, financée par des économies sur la dépense publique, sans hausse du coût du travail pour l'employeur. S'y ajoutent la défiscalisation des heures supplémentaires jusqu'à 300 heures par an et une TVA à zéro sur 50 produits de première nécessité.",
+        "chiffres": [
+          "SMIC : 1 600 € net, soit +98 €/mois selon DLF",
+          "2,5 millions de salariés concernés selon DLF",
+          "Heures supplémentaires défiscalisées : jusqu'à 300 h/an",
+          "TVA à 0 % sur 50 produits de première nécessité"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Économie et travail – Notre projet",
+            "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+            "media": "Debout la France (site du parti)",
+            "date": "2026"
+          },
+          {
+            "titre": "Nicolas Dupont-Aignan - Candidat à l'élection présidentielle 2027 !",
+            "url": "https://www.dupontaignan.fr/",
+            "media": "Site de Nicolas Dupont-Aignan",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le coût de la baisse des cotisations salariales n'est pas chiffré dans le projet. La hausse de 98 € suppose un SMIC net de référence d'environ 1 502 €, non vérifié ici. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Économie et travail – Notre projet",
+              "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+              "media": "Debout la France (site du parti)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "capital-10000-nouveau-ne",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Capital de 10 000 € pour chaque nouveau-né",
+        "description": "Ouvrir pour chaque nouveau-né français un livret doté de 10 000 €, destiné à constituer une épargne retraite par capitalisation.",
+        "chiffres": [
+          "10 000 € par naissance",
+          "Coût annoncé : environ 6 Md€ par an"
+        ],
+        "date": "2026-09-19",
+        "sources": [
+          {
+            "titre": "Économie et travail – Notre projet",
+            "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+            "media": "Debout la France (site du parti)",
+            "date": "2026"
+          },
+          {
+            "titre": "Présidentielle 2027 : Nicolas Dupont-Aignan officialise sa candidature",
+            "url": "https://entrevue.fr/presidentielle-2027/presidentielle-2027-nicolas-dupont-aignan-officialise-sa-candidature/",
+            "media": "Entrevue",
+            "date": "2026-09-19"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Un coût de 6 Md€ par an correspond à environ 600 000 naissances dotées. Le nombre de naissances n'a pas été vérifié ici. Les modalités (blocage des fonds, gestion, rendement) ne sont pas précisées. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Économie et travail – Notre projet",
+              "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+              "media": "Debout la France (site du parti)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "retraite-62-ans",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Retraite à 62 ans",
+        "description": "Défendre un âge légal de départ fixé à 62 ans. Le projet en ligne prévoit aussi d'indexer les pensions au moins sur l'inflation et de conditionner l'ASPA à 10 ans de cotisation pour les étrangers.",
+        "chiffres": [
+          "Âge légal : 62 ans",
+          "ASPA des étrangers : 10 ans de cotisation minimum"
+        ],
+        "date": "2026-06-02",
+        "sources": [
+          {
+            "titre": "Nicolas Dupont-Aignan candidat en 2027 : « Je dis à Éric Zemmour, Bruno Retailleau, \"vous ne pourrez pas faire ce que vous promettez si vous ne sortez pas de l'UE\" »",
+            "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mardi-02-juin-2026_8001014.html",
+            "media": "franceinfo",
+            "date": "2026-06-02"
+          },
+          {
+            "titre": "Notre projet",
+            "url": "https://www.debout-la-france.fr/notre-projet/",
+            "media": "Debout la France (site du parti)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le coût du retour à 62 ans et son financement ne sont pas chiffrés dans les sources consultées. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Nicolas Dupont-Aignan candidat en 2027 : « Je dis à Éric Zemmour, Bruno Retailleau, \"vous ne pourrez pas faire ce que vous promettez si vous ne sortez pas de l'UE\" »",
+              "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mardi-02-juin-2026_8001014.html",
+              "media": "franceinfo",
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      },
+      {
+        "id": "relocalisation-2-millions-emplois",
+        "theme": "emploi-travail",
+        "type": "proposition",
+        "titre": "Relocaliser et créer 2 millions d'emplois industriels",
+        "description": "Relocaliser 1 million d'emplois et en créer 1 million, avec un fonds de relocalisation de 4 Md€ par an, une préférence nationale dans la commande publique (si le prix ne dépasse pas de plus de 50 % celui du produit étranger), une baisse des impôts de production, des droits de douane nationaux contre la « concurrence déloyale » et l'annulation de l'accord UE-Mercosur. Objectif : porter l'industrie à 15 % du PIB en 10 ans et à 20 % en 20 ans.",
+        "chiffres": [
+          "2 millions d'emplois (1 relocalisé + 1 créé)",
+          "Fonds de relocalisation : 4 Md€/an",
+          "Commande publique visée : 200 Md€/an",
+          "Industrie : 15 % du PIB en 10 ans, 20 % en 20 ans",
+          "Recherche : plus de 3 % du PIB dès 2029"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Économie et travail – Notre projet",
+            "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+            "media": "Debout la France (site du parti)",
+            "date": "2026"
+          },
+          {
+            "titre": "Nicolas Dupont-Aignan candidat en 2027 : « Je dis à Éric Zemmour, Bruno Retailleau, \"vous ne pourrez pas faire ce que vous promettez si vous ne sortez pas de l'UE\" »",
+            "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mardi-02-juin-2026_8001014.html",
+            "media": "franceinfo",
+            "date": "2026-06-02"
+          },
+          {
+            "titre": "« Cette présidentielle sera peut-être la dernière d'un peuple libre » : Dupont-Aignan annonce sa candidature pour 2027",
+            "url": "https://www.lejdd.fr/politique/cette-presidentielle-sera-peut-etre-la-derniere-dun-peuple-libre-dupont-aignan-annonce-sa-candidature-pour-2027-155797",
+            "media": "Le JDD",
+            "date": "2025-03-09"
+          },
+          {
+            "titre": "Présidentielle 2027 : Nicolas Dupont-Aignan officialise sa candidature",
+            "url": "https://entrevue.fr/presidentielle-2027/presidentielle-2027-nicolas-dupont-aignan-officialise-sa-candidature/",
+            "media": "Entrevue",
+            "date": "2026-09-19"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La préférence nationale dans la commande publique et les droits de douane nationaux supposent la sortie de l'UE ou une dérogation au droit européen de la concurrence et des marchés publics. Aucune évaluation indépendante du nombre d'emplois n'a été trouvée. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Économie et travail – Notre projet",
+              "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+              "media": "Debout la France (site du parti)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "economies-40-md",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "40 Md€ d'économies par an sur la dépense publique",
+        "description": "Réduire les dépenses publiques de 40 Md€ par an au bout de cinq ans (« un peu plus de 2 % »), via la fin de la contribution nette à l'UE, la fin de l'aide à l'Ukraine, la lutte contre la fraude sociale et à la TVA, la réduction des agences de l'État, de l'échelon régional et des subventions aux associations, et de nouvelles recettes fiscales (multinationales, données personnelles, antidumping).",
+        "chiffres": [
+          "Objectif : 40 Md€/an de dépenses en moins en 5 ans",
+          "UE : 15 Md€ ; Ukraine : 7 Md€/an ; fraude sociale : 20 Md€ ; migration : 5 Md€",
+          "Agences : 20 Md€/an ; régions et CESE : 10 Md€/an ; subventions aux associations : 10 Md€",
+          "Fraude carrousel à la TVA : 20 Md€ ; recettes nouvelles : 20 Md€"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Économie et travail – Notre projet",
+            "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+            "media": "Debout la France (site du parti)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La somme des postes listés par DLF dépasse largement l'objectif de 40 Md€, sans que le projet précise lesquels sont des économies budgétaires certaines et lesquels sont des recettes espérées (lutte contre la fraude). Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Économie et travail – Notre projet",
+              "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+              "media": "Debout la France (site du parti)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "immigration-schengen-ame-droit-du-sol",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "Sortir de Schengen, supprimer l'AME et le droit du sol",
+        "description": "Sortir de l'espace Schengen et recruter 10 000 agents aux frontières, supprimer l'aide médicale d'État (remplacée par un dispensaire d'urgence par département), supprimer le droit du sol par référendum, limiter strictement le regroupement familial, instaurer une « double peine automatique » pour les étrangers condamnés, couper les aides aux pays qui ne reprennent pas leurs ressortissants et conditionner l'immigration économique au taux de chômage.",
+        "chiffres": [
+          "10 000 agents aux frontières",
+          "Laissez-passer consulaires : objectif 100 %",
+          "Naturalisation : 10 ans de résidence et plafond annuel voté par le Parlement"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Immigration et assimilation – Notre projet",
+            "url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+            "media": "Debout la France (site du parti)",
+            "date": "2026"
+          },
+          {
+            "titre": "« Cette présidentielle sera peut-être la dernière d'un peuple libre » : Dupont-Aignan annonce sa candidature pour 2027",
+            "url": "https://www.lejdd.fr/politique/cette-presidentielle-sera-peut-etre-la-derniere-dun-peuple-libre-dupont-aignan-annonce-sa-candidature-pour-2027-155797",
+            "media": "Le JDD",
+            "date": "2025-03-09"
+          },
+          {
+            "titre": "Nicolas Dupont-Aignan candidat en 2027 : « Je dis à Éric Zemmour, Bruno Retailleau, \"vous ne pourrez pas faire ce que vous promettez si vous ne sortez pas de l'UE\" »",
+            "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mardi-02-juin-2026_8001014.html",
+            "media": "franceinfo",
+            "date": "2026-06-02"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La voie juridique d'une suppression du droit du sol par référendum n'est pas précisée et n'a pas été examinée ici. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Immigration et assimilation – Notre projet",
+              "url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+              "media": "Debout la France (site du parti)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ric",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Référendum d'initiative citoyenne",
+        "description": "Instaurer un référendum d'initiative citoyenne « à la suisse », présenté comme un « électrochoc démocratique », en invoquant le « non » de 2005 au traité constitutionnel européen.",
+        "chiffres": [],
+        "date": "2026-06-02",
+        "sources": [
+          {
+            "titre": "Nicolas Dupont-Aignan candidat en 2027 : « Je dis à Éric Zemmour, Bruno Retailleau, \"vous ne pourrez pas faire ce que vous promettez si vous ne sortez pas de l'UE\" »",
+            "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mardi-02-juin-2026_8001014.html",
+            "media": "franceinfo",
+            "date": "2026-06-02"
+          },
+          {
+            "titre": "« Cette présidentielle sera peut-être la dernière d'un peuple libre » : Dupont-Aignan annonce sa candidature pour 2027",
+            "url": "https://www.lejdd.fr/politique/cette-presidentielle-sera-peut-etre-la-derniere-dun-peuple-libre-dupont-aignan-annonce-sa-candidature-pour-2027-155797",
+            "media": "Le JDD",
+            "date": "2025-03-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Les modalités (seuil de signatures, domaines, contrôle constitutionnel) ne sont pas précisées dans les sources consultées. Une telle réforme exigerait une révision de la Constitution. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Nicolas Dupont-Aignan candidat en 2027 : « Je dis à Éric Zemmour, Bruno Retailleau, \"vous ne pourrez pas faire ce que vous promettez si vous ne sortez pas de l'UE\" »",
+              "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mardi-02-juin-2026_8001014.html",
+              "media": "franceinfo",
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

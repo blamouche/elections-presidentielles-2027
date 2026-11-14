@@ -1,0 +1,103 @@
+{
+  "id": "selma-labib",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Selma Labib (NPA-Révolutionnaires) porte une candidature « ouvrière et révolutionnaire » centrée sur le refus du militarisme (« pas un euro pour les guerres impérialistes ») et la dénonciation de l'impérialisme français et américain ainsi que de la politique de l'État d'Israël. Ses déclarations publiques identifiées abordent peu l'Union européenne, la Chine ou la Russie ; certaines positions sont celles de son organisation, antérieures à sa candidature.",
+  "axes": {
+    "europe": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration, aucun vote ni aucune proposition sur ce sujet n'a été identifié dans les sources consultées au 13 novembre 2026.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "otan": {
+      "position": -1,
+      "titre": "Dénonciation des « puissances impérialistes de l'OTAN »",
+      "resume": "Un éditorial du NPA-Révolutionnaires du 26 février 2024 appelle « Halte aux puissances impérialistes de l'OTAN » et réclame le « retrait des troupes de l'Otan de l'est de l'Europe et du monde ». Position de l'organisation, antérieure à sa candidature ; aucune revendication explicite de sortie de l'OTAN n'a été identifiée.",
+      "date": "2024-02-26",
+      "sources": [
+        {
+          "titre": "Troupes russes hors d'Ukraine ! Droit du peuple ukrainien à disposer de lui-même ! Halte aux puissances impérialistes de l'OTAN… (éditorial)",
+          "url": "https://npa-revolutionnaires.org/wp-content/uploads/2024/02/Edito.2024.02.26.pdf",
+          "media": "NPA-Révolutionnaires (éditorial)",
+          "date": "2024-02-26"
+        }
+      ]
+    },
+    "trump": {
+      "position": -1,
+      "titre": "Critique de Trump et de l'impérialisme américain",
+      "resume": "Le 12 septembre 2026, à la fête de l'Humanité, elle cite « son malfaisant patron Trump aux États-Unis » parmi les dirigeants de droite ; le communiqué de candidature (17 juin 2026) reproche à la France de soutenir « l'impérialisme américain ». Cran −1 retenu faute de déclaration plus développée.",
+      "date": "2026-09-15",
+      "sources": [
+        {
+          "titre": "Intervention de Selma Labib à la fête de l'Humanité 2026",
+          "url": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+          "media": "NPA-Révolutionnaires (site officiel)",
+          "date": "2026-09-15"
+        },
+        {
+          "titre": "Communiqué – Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
+          "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
+          "media": "NPA-Révolutionnaires (site officiel)",
+          "date": "2026-06-17"
+        }
+      ]
+    },
+    "russie": {
+      "position": 0,
+      "titre": "Contre l'invasion russe comme contre l'OTAN",
+      "resume": "L'éditorial du NPA-Révolutionnaires du 26 février 2024 exige « Troupes russes hors d'Ukraine ! » et affirme sa solidarité avec les opposants enfermés « dans les prisons de Poutine », tout en dénonçant les États occidentaux. Aucune position sur les sanctions n'a été identifiée.",
+      "date": "2024-02-26",
+      "sources": [
+        {
+          "titre": "Troupes russes hors d'Ukraine ! Droit du peuple ukrainien à disposer de lui-même ! Halte aux puissances impérialistes de l'OTAN… (éditorial)",
+          "url": "https://npa-revolutionnaires.org/wp-content/uploads/2024/02/Edito.2024.02.26.pdf",
+          "media": "NPA-Révolutionnaires (éditorial)",
+          "date": "2024-02-26"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": -1,
+      "titre": "Autodétermination ukrainienne, refus des budgets de guerre",
+      "resume": "Le NPA-Révolutionnaires défend en 2024 le « droit du peuple ukrainien à disposer de lui-même » et « la défense de l'Ukraine, par les travailleurs et avec leurs propres armes », en estimant que les États occidentaux « ne font qu'accroître les risques de généralisation du conflit ». En septembre 2026, elle déclare : « pas un euro pour les guerres impérialistes ». Aucune déclaration explicite sur les livraisons d'armes n'a été identifiée, d'où le cran −1 plutôt que −2.",
+      "date": "2026-09-15",
+      "sources": [
+        {
+          "titre": "Troupes russes hors d'Ukraine ! Droit du peuple ukrainien à disposer de lui-même ! Halte aux puissances impérialistes de l'OTAN… (éditorial)",
+          "url": "https://npa-revolutionnaires.org/wp-content/uploads/2024/02/Edito.2024.02.26.pdf",
+          "media": "NPA-Révolutionnaires (éditorial)",
+          "date": "2024-02-26"
+        },
+        {
+          "titre": "Intervention de Selma Labib à la fête de l'Humanité 2026",
+          "url": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+          "media": "NPA-Révolutionnaires (site officiel)",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "chine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration, aucun vote ni aucune proposition sur ce sujet n'a été identifié dans les sources consultées au 13 novembre 2026.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "proche-orient": {
+      "position": 1,
+      "titre": "Solidarité avec les Palestiniens « contre le génocide »",
+      "resume": "Le communiqué du 17 juin 2026 reproche à la France de soutenir « l'impérialisme américain et son supplétif l'État génocidaire d'Israël » et indique qu'elle a cherché à organiser la solidarité avec le peuple palestinien « contre le génocide perpétré par l'État israélien ». Aucune revendication explicite de sanctions ou d'embargo n'a été identifiée, d'où le cran +1.",
+      "date": "2026-06-17",
+      "sources": [
+        {
+          "titre": "Communiqué – Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
+          "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
+          "media": "NPA-Révolutionnaires (site officiel)",
+          "date": "2026-06-17"
+        }
+      ]
+    }
+  }
+}

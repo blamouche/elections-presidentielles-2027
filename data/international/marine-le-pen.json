@@ -1,0 +1,195 @@
+{
+  "id": "marine-le-pen",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Marine Le Pen défend une « Europe des nations » sans sortie de l'UE, une baisse de la contribution française au budget européen et une sortie du commandement intégré de l'OTAN au cours du quinquennat. Sur l'Ukraine, elle annonce la fin de l'aide financière française six mois après son élection tout en proposant de poursuivre la formation de soldats ukrainiens. En septembre 2026, elle a cosigné avec Jordan Bardella un communiqué dénonçant les pressions russes.",
+  "axes": {
+    "europe": {
+      "position": -1,
+      "titre": "Europe des nations, contribution européenne réduite",
+      "resume": "Le plan budgétaire présenté le 6 octobre 2026 prévoit une baisse de la contribution française au budget de l'UE (contribution nette plafonnée à 5 Md€/an selon Euronews). Elle promet de réduire la réglementation européenne au « strict minimum », de « stopper » le Pacte vert et de revoir le mandat de la BCE, et demande de reporter l'accord sur le budget 2028-2034. Selon l'Ifri (octobre 2026), le RN n'entend plus sortir de l'UE mais vise à la « transformer de l'intérieur » et à affirmer la primauté du droit national.",
+      "date": "2026-10-17",
+      "sources": [
+        {
+          "titre": "Moins de fonds pour l'Ukraine et budget de l'UE en baisse : que changerait une victoire de Le Pen ?",
+          "url": "https://fr.euronews.com/2026/10/17/moins-de-fonds-pour-lukraine-et-budget-de-lue-en-baisse-que-changerait-une-victoire-de-le-",
+          "media": "Euronews",
+          "date": "2026-10-17"
+        },
+        {
+          "titre": "140 milliards d'euros d'économies d'ici 2032 : l'effort radical proposé par Marine Le Pen pour redresser les finances publiques",
+          "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+          "media": "Public Sénat",
+          "date": "2026-10-06"
+        },
+        {
+          "titre": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+          "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html",
+          "media": "franceinfo",
+          "date": "2026-10-08"
+        },
+        {
+          "titre": "Une politique étrangère souverainiste ? Le monde vu par les députés du RN",
+          "url": "https://www.ifri.org/sites/default/files/2026-09/ifri_hecker_politique_etrangere_rn_2026.pdf",
+          "media": "Ifri (Marc Hecker)",
+          "date": "2026-10"
+        }
+      ]
+    },
+    "otan": {
+      "position": -1,
+      "titre": "Sortie du commandement intégré, maintien dans l'Alliance",
+      "resume": "Le 22 mai 2026, elle écrit sur X : « Nous ne souhaitons pas sortir de l'OTAN. Nous sortirons du commandement intégré de l'OTAN dans le quinquennat », et souhaite réorienter l'organisation vers la lutte contre le fondamentalisme islamique. Le 24 septembre 2026, elle met en garde contre une entrée en guerre de l'OTAN (« ce sera la Troisième Guerre mondiale »).",
+      "date": "2026-05-22",
+      "sources": [
+        {
+          "titre": "Une politique étrangère souverainiste ? Le monde vu par les députés du RN",
+          "url": "https://www.ifri.org/sites/default/files/2026-09/ifri_hecker_politique_etrangere_rn_2026.pdf",
+          "media": "Ifri (Marc Hecker)",
+          "date": "2026-10"
+        },
+        {
+          "titre": "Le Pen promet de retirer la France du commandement de l'OTAN si elle devient présidente",
+          "url": "https://www.eurointegration.com.ua/news/2026/05/22/7238148/",
+          "media": "European Pravda (Ukraine)",
+          "date": "2026-05-22"
+        },
+        {
+          "titre": "Marine Le Pen peut-elle vraiment rompre avec Poutine ?",
+          "url": "https://legrandcontinent.eu/fr/2026/09/28/marine-le-pen-peut-elle-vraiment-rompre-avec-poutine/",
+          "media": "Le Grand Continent",
+          "date": "2026-09-28"
+        }
+      ]
+    },
+    "trump": {
+      "position": 0,
+      "titre": "Distance prudente, critique des droits de douane",
+      "resume": "Le 3 avril 2025, elle juge les droits de douane américains « brutaux et au bénéfice des seuls États-Unis » et appelle à un « protectionnisme intelligent » européen ; elle accueille avec prudence le soutien de Donald Trump après sa condamnation (« chasse aux sorcières » selon lui) et critique la brutalité de la suspension de l'aide américaine à l'Ukraine. Aucune critique ni soutien global de Donald Trump n'a été identifié : position classée « partagée » plutôt que « critique » par prudence.",
+      "date": "2025-04-04",
+      "sources": [
+        {
+          "titre": "Comment Marine Le Pen a-t-elle réagi au soutien de Donald Trump après sa condamnation ?",
+          "url": "https://www.europe1.fr/node/671048",
+          "media": "Europe 1",
+          "date": "2025-04-04"
+        },
+        {
+          "titre": "Donald Trump apporte son soutien à Marine Le Pen, comparant sa condamnation à une « chasse aux sorcières »",
+          "url": "https://www.europe1.fr/node/670978",
+          "media": "Europe 1 (AFP)",
+          "date": "2025-04-04"
+        },
+        {
+          "titre": "Une politique étrangère souverainiste ? Le monde vu par les députés du RN",
+          "url": "https://www.ifri.org/sites/default/files/2026-09/ifri_hecker_politique_etrangere_rn_2026.pdf",
+          "media": "Ifri (Marc Hecker)",
+          "date": "2026-10"
+        }
+      ]
+    },
+    "russie": {
+      "position": -1,
+      "titre": "Fin des sanctions, mais ferme sur les ingérences",
+      "resume": "Elle appelle à la fin des sanctions de l'UE contre la Russie et à une « grande conférence de paix » (Euronews, octobre 2026 ; Le Figaro cité le 17 septembre 2026). Le RN s'est abstenu fin 2025 sur la mobilisation des avoirs russes gelés. Le 19 septembre 2026, elle cosigne avec Jordan Bardella un communiqué affirmant que la politique étrangère française « ne saurait être déterminée à Moscou » et qualifiant d'« acte hostile » la saisie d'actifs d'entreprises européennes. Position classée −1 (et non −2) en raison de ce communiqué.",
+      "date": "2026-10-17",
+      "sources": [
+        {
+          "titre": "Moins de fonds pour l'Ukraine et budget de l'UE en baisse : que changerait une victoire de Le Pen ?",
+          "url": "https://fr.euronews.com/2026/10/17/moins-de-fonds-pour-lukraine-et-budget-de-lue-en-baisse-que-changerait-une-victoire-de-le-",
+          "media": "Euronews",
+          "date": "2026-10-17"
+        },
+        {
+          "titre": "Le Pen: France can no longer keep helping Ukraine financially",
+          "url": "https://www.eurointegration.com.ua/eng/news/2026/09/17/7245674/",
+          "media": "European Pravda (Ukraine)",
+          "date": "2026-09-17"
+        },
+        {
+          "titre": "Le RN hausse le ton face à la Russie mais est accusé de « double discours »",
+          "url": "https://www.dhnet.be/dernieres-depeches/2026/09/19/le-rn-hausse-le-ton-face-a-la-russie-mais-est-accuse-de-double-discours-D5MBKUCBQVAQLCMK5OZQKS2IIQ/",
+          "media": "DH (AFP)",
+          "date": "2026-09-19"
+        },
+        {
+          "titre": "Marine Le Pen peut-elle vraiment rompre avec Poutine ?",
+          "url": "https://legrandcontinent.eu/fr/2026/09/28/marine-le-pen-peut-elle-vraiment-rompre-avec-poutine/",
+          "media": "Le Grand Continent",
+          "date": "2026-09-28"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": -1,
+      "titre": "Fin de l'aide financière, formation maintenue",
+      "resume": "Le 16 septembre 2026 sur LCI, elle déclare : « On peut continuer à former leurs soldats [...] Mais financièrement, nous ne pouvons plus », jugeant que ce n'est « pas un acte d'hostilité à l'égard de l'Ukraine ». Le 14 octobre 2026 (VRT), elle précise que l'aide serait maintenue six mois puis cesserait. Le RN a refusé en 2026 le prêt européen de 90 Md€ à l'Ukraine et s'oppose à son adhésion à l'UE.",
+      "date": "2026-10-15",
+      "sources": [
+        {
+          "titre": "Si elle arrive à l'Elysée, Marine Le Pen promet de couper l'aide à l'Ukraine : « Je ne prends personne en traître »",
+          "url": "https://www.parismatch.be/actualites/monde/2026/10/15/presidentielle-francaise-si-elle-arrive-a-lelysee-marine-le-pen-promet-de-couper-laide-a-lukraine-je-ne-prends-personne-en-traitre-EKOIX7JLGZBBTPVJXNLDVDTVXY/",
+          "media": "Paris Match Belgique (Belga)",
+          "date": "2026-10-15"
+        },
+        {
+          "titre": "Le Pen: France can no longer keep helping Ukraine financially",
+          "url": "https://www.eurointegration.com.ua/eng/news/2026/09/17/7245674/",
+          "media": "European Pravda (Ukraine)",
+          "date": "2026-09-17"
+        },
+        {
+          "titre": "Marine Le Pen peut-elle vraiment rompre avec Poutine ?",
+          "url": "https://legrandcontinent.eu/fr/2026/09/28/marine-le-pen-peut-elle-vraiment-rompre-avec-poutine/",
+          "media": "Le Grand Continent",
+          "date": "2026-09-28"
+        },
+        {
+          "titre": "Une politique étrangère souverainiste ? Le monde vu par les députés du RN",
+          "url": "https://www.ifri.org/sites/default/files/2026-09/ifri_hecker_politique_etrangere_rn_2026.pdf",
+          "media": "Ifri (Marc Hecker)",
+          "date": "2026-10"
+        }
+      ]
+    },
+    "chine": {
+      "position": 1,
+      "titre": "Méfiance envers la dépendance à Pékin",
+      "resume": "Aucune déclaration récente de Marine Le Pen centrée sur la Chine n'a été identifiée. L'étude de l'Ifri (octobre 2026) relève chez les députés RN une méfiance envers Pékin : dénonciation du « dumping massif » et des « transferts forcés de technologie » (juin 2025), et de la dépendance aux métaux rares chinois (mai 2025). En avril 2025, elle appelait à un « protectionnisme intelligent » européen. Position de groupe, à confirmer par une prise de parole personnelle.",
+      "date": "2025-06-17",
+      "sources": [
+        {
+          "titre": "Une politique étrangère souverainiste ? Le monde vu par les députés du RN",
+          "url": "https://www.ifri.org/sites/default/files/2026-09/ifri_hecker_politique_etrangere_rn_2026.pdf",
+          "media": "Ifri (Marc Hecker)",
+          "date": "2026-10"
+        },
+        {
+          "titre": "Donald Trump apporte son soutien à Marine Le Pen, comparant sa condamnation à une « chasse aux sorcières »",
+          "url": "https://www.europe1.fr/node/670978",
+          "media": "Europe 1 (AFP)",
+          "date": "2025-04-04"
+        }
+      ]
+    },
+    "proche-orient": {
+      "position": -1,
+      "titre": "Soutien à Israël, opposée à la reconnaissance palestinienne",
+      "resume": "En juillet 2025, elle juge que « reconnaître aujourd'hui un État palestinien, c'est reconnaître un État Hamas et donc un État terroriste ». Le 25 mars 2026 à l'Assemblée, elle rappelle le droit d'Israël à se défendre au Liban tout en l'appelant à respecter le droit international et à éviter les « dommages collatéraux ». Selon l'Ifri, les dirigeants du RN soutiennent officiellement la solution à deux États.",
+      "date": "2026-03-25",
+      "sources": [
+        {
+          "titre": "Etat de Palestine : les principales réactions à l'annonce de Macron",
+          "url": "https://lcp.fr/actualites/etat-de-palestine-les-principales-reactions-a-l-annonce-de-macron-391199",
+          "media": "LCP",
+          "date": "2025-07-25"
+        },
+        {
+          "titre": "Une politique étrangère souverainiste ? Le monde vu par les députés du RN",
+          "url": "https://www.ifri.org/sites/default/files/2026-09/ifri_hecker_politique_etrangere_rn_2026.pdf",
+          "media": "Ifri (Marc Hecker)",
+          "date": "2026-10"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,932 @@
+{
+  "id": "raphael-glucksmann",
+  "prenom": "Raphaël",
+  "nom": "Glucksmann",
+  "parti": "Place publique",
+  "partiAbrev": "PP",
+  "famillePolitique": "gauche",
+  "couleur": "#E8556D",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Candidature annoncée le 23 août 2026 au journal de 20 heures de TF1 (« Oui, je suis candidat à l'élection présidentielle »), en s'engageant à participer à la primaire sociale-démocrate et à en respecter le résultat. Après l'abandon à l'été 2026 d'une primaire unitaire de toute la gauche, il remporte dès le premier tour, le 11 octobre 2026, la primaire organisée par le Parti socialiste, Place publique et la Gauche républicaine et socialiste : 66,17 % des suffrages exprimés (79 613 voix, pour 120 787 votants), selon les résultats proclamés par Patrick Mennucci, président de la commission d'organisation de la primaire, devant Olivier Faure (14,46 %), Ségolène Royal (7,62 %), Emmanuel Maurel (5,92 %) et Jérôme Guedj (5,83 %) ; le chiffre de 66,13 % parfois repris ne correspond pas au résultat proclamé. Il exclut tout accord avec La France insoumise. Il est crédité d'environ 9 à 14 % des intentions de vote au premier tour selon les sondages cités par la presse (environ 12 % dans un sondage Ifop pour LCI publié le 3 novembre 2026).",
+    "date": "2026-08-23",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027: Raphaël Glucksmann officialise sa candidature et participera à la primaire sociale-démocrate",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-raphael-glucksmann-officialise-sa-candidature-et-participera-a-la",
+        "media": "LCP",
+        "date": "2026-08-23"
+      },
+      {
+        "titre": "Primaire socialiste: vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la gauche sociale-démocrate à la présidentielle",
+        "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+        "media": "LCP",
+        "date": "2026-10-11"
+      },
+      {
+        "titre": "Présidentielle 2027 en France: Raphaël Glucksmann candidat de la gauche sociale-démocrate",
+        "url": "https://www.rts.ch/info/monde/2026/article/presidentielle-2027-en-france-raphael-glucksmann-candidat-de-la-gauche-sociale-democrate-29382642.html",
+        "media": "RTS",
+        "date": "2026-10-11"
+      },
+      {
+        "titre": "Raphaël Glucksmann remporte la primaire au premier tour : ce qu'il prévoit pour votre départ à la retraite, votre pension et vos parents en Ehpad",
+        "url": "https://www.senioractu.com/Raphael-Glucksmann-remporte-la-primaire-au-premier-tour-ce-qu-il-prevoit-pour-votre-depart-a-la-retraite-votre-pension_a28149.html",
+        "media": "SeniorActu",
+        "date": "2026-10-11"
+      },
+      {
+        "titre": "2026 United Left primary",
+        "url": "https://en.wikipedia.org/wiki/2026_United_Left_primary",
+        "media": "Wikipédia (en)",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Présidentielle 2027 : « Personne ne gagnera seul », assure Marine Tondelier",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-personne-ne-gagnera-seul-assure-marine-tondelier",
+        "media": "Public Sénat",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1979-10-15",
+      "lieu": "Boulogne-Billancourt (Hauts-de-Seine)",
+      "sources": [
+        {
+          "titre": "Raphaël GLUCKSMANN – Fiche député au Parlement européen",
+          "url": "https://www.europarl.europa.eu/meps/fr/197694/RAPHAEL_GLUCKSMANN/home",
+          "media": "Parlement européen",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Raphaël Glucksmann",
+          "url": "https://en.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+          "media": "Wikipédia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Essayiste, Raphaël Glucksmann cofonde en novembre 2018 le mouvement Place publique, qu'il copréside. Député européen depuis juillet 2019 (groupe des Socialistes et Démocrates), il a conduit la liste PS-Place publique aux européennes de 2019 puis la liste « Réveiller l'Europe » en 2024 (13,83 %). Au Parlement européen, il a présidé la commission spéciale sur l'ingérence étrangère (INGE). Candidat déclaré à la présidentielle depuis août 2026, il a remporté le 11 octobre 2026 la primaire de la gauche sociale-démocrate et se présente comme le candidat d'une gauche pro-européenne qui exclut tout accord avec La France insoumise.",
+    "formation": [
+      {
+        "texte": "Diplômé de Sciences Po (Paris).",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de Raphaël Glucksmann",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-raphael-glucksmann",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Raphaël Glucksmann",
+            "url": "https://en.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+            "media": "Wikipédia (en)",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Essayiste et auteur de plusieurs ouvrages, dont « Génération gueule de bois » (2015), « Notre France » (2016), « Les Enfants du vide » (2018), « Lettre à la génération qui va tout changer » (2021) et « Nous avons encore envie » (Allary, 2026).",
+        "sources": [
+          {
+            "titre": "Raphaël Glucksmann",
+            "url": "https://en.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+            "media": "Wikipédia (en)",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Glucksmann veut une convention citoyenne sur l'immigration",
+            "url": "https://www.france24.com/fr/info-en-continu/20260524-glucksmann-veut-une-convention-citoyenne-sur-l-immigration",
+            "media": "France 24 (AFP)",
+            "date": "2026-05-24"
+          }
+        ]
+      },
+      {
+        "texte": "Conseiller du président géorgien Mikheil Saakachvili jusqu'en 2012 (les dates de début divergent selon les sources : 2005 ou 2009).",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de Raphaël Glucksmann",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-raphael-glucksmann",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Raphaël Glucksmann",
+            "url": "https://en.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+            "media": "Wikipédia (en)",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "Raphaël GLUCKSMANN – Fiche député au Parlement européen",
+        "url": "https://www.europarl.europa.eu/meps/fr/197694/RAPHAEL_GLUCKSMANN/home",
+        "media": "Parlement européen",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Raphaël Glucksmann",
+        "url": "https://en.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+        "media": "Wikipédia (en)",
+        "date": "2026-11-13"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "2006",
+      "fin": "2007",
+      "fonction": "Proche d'Alternative libérale",
+      "details": "Selon Sud Radio, le parti Alternative libérale l'annonce sur ses listes pour les législatives de 2007 avant qu'il ne se retire pour désaccord d'idées ; Wikipédia mentionne une affiliation 2006-2007. Une adhésion formelle n'est pas établie par une source de presse.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Raphaël Glucksmann",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-raphael-glucksmann",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Raphaël Glucksmann",
+          "url": "https://en.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+          "media": "Wikipédia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2018",
+      "fin": null,
+      "fonction": "Cofondateur et coprésident de Place publique",
+      "details": "Mouvement lancé en novembre 2018 avec notamment l'économiste Thomas Porcher et la militante écologiste Claire Nouvian.",
+      "sources": [
+        {
+          "titre": "Glucksmann et d'autres lancent mercredi un nouveau parti, Place publique",
+          "url": "https://www.publicsenat.fr/actualites/non-classe/glucksmann-et-d-autres-lancent-mercredi-un-nouveau-parti-place-publique-135114",
+          "media": "Public Sénat (AFP)",
+          "date": "2018-11-05"
+        },
+        {
+          "titre": "Raphaël Glucksmann",
+          "url": "https://en.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+          "media": "Wikipédia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2019",
+      "fin": null,
+      "fonction": "Député européen (France)",
+      "details": "Élu en 2019 comme tête de liste PS-Place publique, réélu en 2024 comme tête de liste « Réveiller l'Europe » (13,83 %). Siège au groupe S&D. Dans la 10e législature : membre titulaire de la commission sécurité et défense (SEDE), des délégations UE-Ukraine et Euronest ; suppléant aux commissions AFET, INTA et à la commission spéciale « Bouclier européen de la démocratie ».",
+      "sources": [
+        {
+          "titre": "Raphaël GLUCKSMANN – Fiche député au Parlement européen",
+          "url": "https://www.europarl.europa.eu/meps/fr/197694/RAPHAEL_GLUCKSMANN/home",
+          "media": "Parlement européen",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Raphaël Glucksmann",
+          "url": "https://en.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+          "media": "Wikipédia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2020",
+      "fin": "2022",
+      "fonction": "Président de la commission spéciale du Parlement européen sur l'ingérence étrangère (INGE)",
+      "details": "Commission créée en juin 2020 pour 18 mois ; son rapport a été adopté en plénière le 9 mars 2022 et le mandat a pris fin le 23 mars 2022.",
+      "sources": [
+        {
+          "titre": "L'UE doit mieux lutter contre l'ingérence étrangère et la désinformation (communiqué)",
+          "url": "https://www.europarl.europa.eu/pdfs/news/expert/2022/3/press_release/20220304IPR24790/20220304IPR24790_fr.pdf",
+          "media": "Parlement européen",
+          "date": "2022-03-09"
+        },
+        {
+          "titre": "INGE – Welcome Words",
+          "url": "https://www.europarl.europa.eu/committees/en/archives/9/inge/home/welcome-words",
+          "media": "Parlement européen",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2022",
+      "fin": "2023",
+      "fonction": "Président de la seconde commission spéciale sur l'ingérence étrangère (ING2)",
+      "details": "Commission constituée en mars 2022 pour douze mois ; son bureau, présidé par Raphaël Glucksmann, reprend à l'identique celui de la commission INGE (mai 2022). Le 14 février 2023, le Parlement européen a élargi ses compétences (intégrité et transparence, après le « Qatargate ») et prolongé son mandat jusqu'en août 2023, le rapport final devant être soumis à la plénière au plus tard en juillet 2023.",
+      "sources": [
+        {
+          "titre": "New European Parliament special committee on foreign interference keeps same bureau as previous committee",
+          "url": "https://agenceurope.eu/en/bulletin/article/12951/29/new-european-parliament-special-committee-on-foreign-interference-keeps-same-bureau-as-previous-committee",
+          "media": "Agence Europe",
+          "date": "2022-05"
+        },
+        {
+          "titre": "Procès-verbal de la réunion ING2 du 26 janvier 2023",
+          "url": "https://www.europarl.europa.eu/doceo/document/ING2-PV-2023-01-26-1_FR.pdf",
+          "media": "Parlement européen",
+          "date": "2023-01-26"
+        },
+        {
+          "titre": "Décision du 14 février 2023 modifiant la décision constituant la commission spéciale ING2 (2023/2566(RSO)) – résumé",
+          "url": "https://oeil.europarl.europa.eu/oeil/fr/document-summary?id=1733969",
+          "media": "Parlement européen (Observatoire législatif)",
+          "date": "2023-02-14"
+        },
+        {
+          "titre": "Special committee on foreign interference to deal with corruption allegations",
+          "url": "https://www.eureporter.co/politics/european-parliament-2/2023/02/15/special-committee-on-foreign-interference-to-deal-with-corruption-allegations/",
+          "media": "EU Reporter",
+          "date": "2023-02-15"
+        }
+      ]
+    },
+    {
+      "debut": "2026",
+      "fin": null,
+      "fonction": "Candidat à l'élection présidentielle de 2027",
+      "details": "Vainqueur de la primaire sociale-démocrate du 11 octobre 2026 (PS, Place publique, GRS).",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 en France: Raphaël Glucksmann candidat de la gauche sociale-démocrate",
+          "url": "https://www.rts.ch/info/monde/2026/article/presidentielle-2027-en-france-raphael-glucksmann-candidat-de-la-gauche-sociale-democrate-29382642.html",
+          "media": "RTS",
+          "date": "2026-10-11"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Aucune procédure judiciaire connue le visant comme mis en cause au 13 novembre 2026 ; il est la personne visée (victime présumée) d'une opération de désinformation qui fait l'objet d'une enquête du parquet de Paris.",
+    "affaires": [
+      {
+        "titre": "Opération de désinformation « Storm-1516 » visant Raphaël Glucksmann et Léa Salamé",
+        "statut": "enquete",
+        "role": "personne visée (victime présumée)",
+        "resume": "Fin juillet 2026, une fausse vidéo et un faux site imitant le média Blast ont prétendu que la journaliste Léa Salamé, compagne de Raphaël Glucksmann, aurait proposé de l'argent à des rédactions pour favoriser sa candidature ; franceinfo a établi que ces contenus étaient entièrement fabriqués. Le 4 août 2026, Raphaël Glucksmann a indiqué que le SGDSN lui avait confirmé être visé par le réseau prorusse Storm-1516. La section de protection des libertés fondamentales du parquet de Paris a ouvert d'initiative une enquête (notamment sur le fondement de l'article 411-10 du code pénal, fourniture de fausses informations au service d'une puissance étrangère), confiée à la brigade de lutte contre la cybercriminalité. Le parquet s'est saisi « au début du mois » d'août 2026 (date exacte non publiée) ; le 18 août, il a indiqué s'être également saisi de soupçons d'ingérence russe visant Gabriel Attal et Édouard Philippe, l'enquête étant toujours en cours. Aucun auteur n'a été publiquement identifié ni poursuivi : issue non connue à la date de mise à jour. M. Glucksmann n'est pas mis en cause dans cette procédure.",
+        "chronologie": [
+          {
+            "date": "2026-07-30",
+            "evenement": "Début de la diffusion de la fausse vidéo imitant Blast.",
+            "sources": [
+              {
+                "titre": "Après un deepfake visant Raphaël Glucksmann, le parquet ouvre une enquête",
+                "url": "https://clubic.com/actualite-624379-apres-un-deepfake-visant-raphael-glucksmann-le-parquet-ouvre-une-enquete.html",
+                "media": "Clubic",
+                "date": "2026-08-07"
+              }
+            ]
+          },
+          {
+            "date": "2026-08-04",
+            "evenement": "Raphaël Glucksmann rend public le signalement du SGDSN attribuant l'opération au réseau Storm-1516.",
+            "sources": [
+              {
+                "titre": "« Tout y est faux » : une opération d'ingérence russe vise Raphaël Glucksmann et Léa Salamé, en usurpant les noms de journalistes",
+                "url": "https://www.franceinfo.fr/politique/tout-y-est-faux-une-operation-d-ingerence-russe-vise-raphael-glucksmann-et-lea-salame-en-usurpant-les-noms-de-journalistes_8134151.html",
+                "media": "franceinfo",
+                "date": "2026-08-04"
+              },
+              {
+                "titre": "Glucksmann visé par une opération russe de « déstabilisation »",
+                "url": "https://fr.timesofisrael.com/glucksmann-vise-par-une-operation-russe-de-destabilisation/",
+                "media": "The Times of Israel (AFP)",
+                "date": "2026-08-04"
+              }
+            ]
+          },
+          {
+            "date": "2026-08",
+            "evenement": "Le parquet de Paris (section de protection des libertés fondamentales) se saisit d'initiative « au début du mois » d'août 2026 ; la date exacte n'est pas publiée (Clubic, citant Le Monde, situe l'annonce vers le 6 août).",
+            "sources": [
+              {
+                "titre": "Après un deepfake visant Raphaël Glucksmann, le parquet ouvre une enquête",
+                "url": "https://clubic.com/actualite-624379-apres-un-deepfake-visant-raphael-glucksmann-le-parquet-ouvre-une-enquete.html",
+                "media": "Clubic",
+                "date": "2026-08-07"
+              },
+              {
+                "titre": "Présidentielle 2027: le parquet de Paris enquête sur des soupçons d'ingérence russe ciblant Édouard Philippe et Gabriel Attal",
+                "url": "https://lcp.fr/actualites/presidentielle-2027-le-parquet-de-paris-enquete-sur-des-soupcons-d-ingerence-russe",
+                "media": "LCP",
+                "date": "2026-08-18"
+              },
+              {
+                "titre": "Soupçons d'ingérence russe visant Attal et Philippe : le parquet de Paris ouvre une enquête",
+                "url": "https://fr.euronews.com/2026/08/18/soupcons-dingerence-russe-visant-attal-et-philippe-le-parquet-de-paris-ouvre-dune-enquete",
+                "media": "Euronews",
+                "date": "2026-08-18"
+              }
+            ]
+          },
+          {
+            "date": "2026-08-18",
+            "evenement": "Le parquet de Paris annonce s'être aussi saisi de soupçons d'ingérence russe visant Gabriel Attal et Édouard Philippe et rappelle sa saisine du début du mois concernant Raphaël Glucksmann ; l'enquête est toujours en cours.",
+            "sources": [
+              {
+                "titre": "Présidentielle 2027: le parquet de Paris enquête sur des soupçons d'ingérence russe ciblant Édouard Philippe et Gabriel Attal",
+                "url": "https://lcp.fr/actualites/presidentielle-2027-le-parquet-de-paris-enquete-sur-des-soupcons-d-ingerence-russe",
+                "media": "LCP",
+                "date": "2026-08-18"
+              },
+              {
+                "titre": "Soupçons d'ingérence russe visant Attal et Philippe : le parquet de Paris ouvre une enquête",
+                "url": "https://fr.euronews.com/2026/08/18/soupcons-dingerence-russe-visant-attal-et-philippe-le-parquet-de-paris-ouvre-dune-enquete",
+                "media": "Euronews",
+                "date": "2026-08-18"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Après un deepfake visant Raphaël Glucksmann, le parquet ouvre une enquête",
+            "url": "https://clubic.com/actualite-624379-apres-un-deepfake-visant-raphael-glucksmann-le-parquet-ouvre-une-enquete.html",
+            "media": "Clubic",
+            "date": "2026-08-07"
+          },
+          {
+            "titre": "« Tout y est faux » : une opération d'ingérence russe vise Raphaël Glucksmann et Léa Salamé, en usurpant les noms de journalistes",
+            "url": "https://www.franceinfo.fr/politique/tout-y-est-faux-une-operation-d-ingerence-russe-vise-raphael-glucksmann-et-lea-salame-en-usurpant-les-noms-de-journalistes_8134151.html",
+            "media": "franceinfo",
+            "date": "2026-08-04"
+          },
+          {
+            "titre": "Présidentielle 2027: le parquet de Paris enquête sur des soupçons d'ingérence russe ciblant Édouard Philippe et Gabriel Attal",
+            "url": "https://lcp.fr/actualites/presidentielle-2027-le-parquet-de-paris-enquete-sur-des-soupcons-d-ingerence-russe",
+            "media": "LCP",
+            "date": "2026-08-18"
+          },
+          {
+            "titre": "Soupçons d'ingérence russe visant Attal et Philippe : le parquet de Paris ouvre une enquête",
+            "url": "https://fr.euronews.com/2026/08/18/soupcons-dingerence-russe-visant-attal-et-philippe-le-parquet-de-paris-ouvre-dune-enquete",
+            "media": "Euronews",
+            "date": "2026-08-18"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "statut": "Propositions partielles",
+    "resume": "Le programme complet n'est pas encore publié ; le projet est coordonné par Marguerite Cazeneuve. Le 9 novembre 2026, Raphaël Glucksmann a présenté le volet écologique et les « 100 premiers jours » : 200 milliards d'euros d'investissements publics sur le quinquennat, financés notamment par une contribution exceptionnelle de 5 % sur les patrimoines de plus de 100 millions d'euros, et des mesures de pouvoir d'achat (leasing social, chèque énergie, pompes à chaleur). Il défend aussi une surtaxe des « méga-héritages » pour baisser la CSG sur les salaires, l'abrogation de la réforme des retraites de 2023 avec un âge de référence à 62 ans, un service civique obligatoire et une convention citoyenne sur l'immigration. Il affiche l'objectif de stabiliser la dette à l'horizon 2032. Un second volet (biodiversité, eau, agriculture, santé) est annoncé.",
+    "documents": [
+      {
+        "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles",
+        "url": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
+        "media": "France 24 (AFP)",
+        "date": "2026-11-09"
+      },
+      {
+        "titre": "Présidentielle 2027 : Raphaël Glucksmann met 200 milliards sur la table et invite le Sénat à voter en faveur d'une future République écologique",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-raphael-glucksmann-met-200-milliards-sur-la-table-et-invite-le-senat-a-voter-en-faveur-dune-future-republique-ecologique",
+        "media": "Public Sénat",
+        "date": "2026-11-09"
+      },
+      {
+        "titre": "Soutiens, sondages, programme… Sur quoi s'appuie la candidature de Raphaël Glucksmann, qui lance sa campagne pour la présidentielle 2027 ?",
+        "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html",
+        "media": "franceinfo",
+        "date": "2026-08"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "plan-200-md-revolution-ecologique",
+        "theme": "environnement-energie",
+        "type": "proposition",
+        "titre": "200 milliards d'euros d'investissements publics pour sortir des énergies fossiles",
+        "description": "Plan de « révolution écologique » de 200 milliards d'euros d'investissements publics (État, collectivités, Sécurité sociale) sur le quinquennat, avec « état d'urgence écologique », loi de programmation écologique, doublement (plus que x2) de la production d'énergies renouvelables d'ici 2035 et maintien (« pérennisation ») du nucléaire. Objectifs : neutralité carbone en 2050 et stabilisation de la dette en 2032.",
+        "chiffres": [
+          "200 Md€ d'investissements publics sur 5 ans",
+          "Production renouvelable multipliée par plus de 2 d'ici 2035",
+          "Neutralité carbone en 2050, dette stabilisée en 2032"
+        ],
+        "date": "2026-11-09",
+        "sources": [
+          {
+            "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles",
+            "url": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
+            "media": "France 24 (AFP)",
+            "date": "2026-11-09"
+          },
+          {
+            "titre": "Les ambitions de Raphaël Glucksmann sur les EnR",
+            "url": "https://www.batiweb.com/actualites/energie/glucksmann-plan-ecologique-200-milliards-49588",
+            "media": "Batiweb",
+            "date": "2026-11-09"
+          },
+          {
+            "titre": "Présidentielle : Glucksmann prévoit 200 milliards d'investissements pour sa « révolution écologique »",
+            "url": "https://www.linfodurable.fr/presidentielle-glucksmann-prevoit-200-milliards-dinvestissements-pour-sa-revolution-ecologique",
+            "media": "L'Info Durable (AFP)",
+            "date": "2026-11-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun chiffrage indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) de ce plan n'a été trouvé à la date de mise à jour. Seule une recette est chiffrée par l'équipe du candidat (environ 50 Md€ attendus de la contribution exceptionnelle sur les grandes fortunes) ; les autres financements (taxe européenne sur les superprofits pétroliers et gaziers, emprunt vert européen, fin de l'exonération de kérosène sur les vols intérieurs, taxes sur les jets et yachts) ne sont pas chiffrés, et Public Sénat relève que le financement du solde n'est pas détaillé. La compatibilité avec l'objectif de stabilisation de la dette en 2032 ne peut donc pas être évaluée. Ordre de grandeur de référence : le rapport Pisani-Ferry/Mahfouz (France Stratégie, 2023) estimait les investissements de transition nécessaires à environ 67 Md€ par an d'ici 2030, dont environ 34 Md€ par an de dépenses publiques supplémentaires dans son scénario ; les 200 Md€ sur cinq ans (environ 40 Md€ par an) se situent donc dans cet ordre de grandeur, sans que les périmètres soient identiques.",
+          "sources": [
+            {
+              "titre": "Présidentielle 2027 : Raphaël Glucksmann met 200 milliards sur la table et invite le Sénat à voter en faveur d'une future République écologique",
+              "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-raphael-glucksmann-met-200-milliards-sur-la-table-et-invite-le-senat-a-voter-en-faveur-dune-future-republique-ecologique",
+              "media": "Public Sénat",
+              "date": "2026-11-09"
+            },
+            {
+              "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles",
+              "url": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
+              "media": "France 24 (AFP)",
+              "date": "2026-11-09"
+            },
+            {
+              "titre": "Comment financer la transition écologique ? Les pistes du rapport Pisani-Ferry / Mahfouz",
+              "url": "https://www.lafinancepourtous.com/2023/05/26/comment-financer-la-transition-ecologique-les-pistes-du-rapport-pisani-ferry-mahfouz/",
+              "media": "La finance pour tous (IEFP)",
+              "date": "2023-05-26"
+            }
+          ]
+        }
+      },
+      {
+        "id": "contribution-exceptionnelle-5-pct-grandes-fortunes",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Contribution exceptionnelle de 5 % sur les patrimoines de plus de 100 M€",
+        "description": "Prélèvement exceptionnel d'un an (« CEPIC ») de 5 % sur les patrimoines supérieurs à 100 millions d'euros, alimentant un fonds pour la transition climatique. Rendement estimé à 50 milliards d'euros par Yannick Jadot, soutien du candidat.",
+        "chiffres": [
+          "Taux : 5 %, une seule année",
+          "Seuil : patrimoine > 100 M€",
+          "Recette annoncée : 50 Md€"
+        ],
+        "date": "2026-11-09",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : Raphaël Glucksmann met 200 milliards sur la table et invite le Sénat à voter en faveur d'une future République écologique",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-raphael-glucksmann-met-200-milliards-sur-la-table-et-invite-le-senat-a-voter-en-faveur-dune-future-republique-ecologique",
+            "media": "Public Sénat",
+            "date": "2026-11-09"
+          },
+          {
+            "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles",
+            "url": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
+            "media": "France 24 (AFP)",
+            "date": "2026-11-09"
+          },
+          {
+            "titre": "Présidentielle : Glucksmann prévoit 200 milliards d'investissements pour sa « révolution écologique »",
+            "url": "https://www.linfodurable.fr/presidentielle-glucksmann-prevoit-200-milliards-dinvestissements-pour-sa-revolution-ecologique",
+            "media": "L'Info Durable (AFP)",
+            "date": "2026-11-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "invérifiable",
+          "analyse": "Aucune vérification indépendante de ce chiffre n'a été trouvée. L'ordre de grandeur brut est arithmétiquement cohérent : la Fondation iFRAP (février 2025, à partir des données Altrata) évalue à environ 962 Md€ le patrimoine net des personnes détenant plus de 100 M€ (2 904 personnes ; 1 800 foyers selon G. Zucman), soit environ 48 Md€ pour un prélèvement de 5 %. Mais le rendement net dépend des comportements : selon une note du Conseil d'analyse économique (Focus n° 118, juillet 2025) citée par Public Sénat, 54 centimes par euro de la « taxe Zucman » (2 % par an sur les patrimoines de plus de 100 M€) disparaîtraient du fait des réponses comportementales, ramenant son rendement de 15 Md€ à moins de 7,5 Md€. Le caractère exceptionnel (une seule année) pourrait limiter ces effets, mais l'assiette (biens professionnels, environ un tiers de ce patrimoine selon l'iFRAP), les modalités et la conformité constitutionnelle ne sont pas précisées : le rendement réel ne peut être établi.",
+          "sources": [
+            {
+              "titre": "Taxation des centi-millionnaires ? Une idée ubuesque anti-entrepreneurs",
+              "url": "https://www.ifrap.org/budget-et-fiscalite/taxation-des-centi-millionnaires-une-idee-ubuesque-anti-entrepreneurs",
+              "media": "Fondation iFRAP",
+              "date": "2025-02-25"
+            },
+            {
+              "titre": "Budget : la taxation des ultra-riches n'entrainerait pas d'exil fiscal significatif",
+              "url": "https://www.publicsenat.fr/actualites/economie/budget-la-taxation-des-ultra-riches-nentrainerait-pas-dexil-fiscal-significatif",
+              "media": "Public Sénat",
+              "date": "2025-09-03"
+            },
+            {
+              "titre": "La taxe Zucman au cœur du débat économique",
+              "url": "https://www.lafinancepourtous.com/2025/09/05/la-taxe-zucman-au-coeur-du-debat-economique/",
+              "media": "La finance pour tous (IEFP)",
+              "date": "2025-09-05"
+            }
+          ]
+        }
+      },
+      {
+        "id": "taxe-mega-heritages-baisse-csg",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Surtaxer les « méga-héritages » pour baisser la CSG sur les salaires",
+        "description": "Taxation renforcée du 1 % des successions les plus élevées, censée rapporter environ 15 milliards d'euros par an, affectés à une baisse de la CSG / des cotisations sur les salaires afin d'augmenter les salaires nets. Le candidat assure que 99 % des héritages ne seraient pas concernés. Seuil et barème non précisés.",
+        "chiffres": [
+          "Recette annoncée : environ 15 Md€/an",
+          "Cible : 1 % des successions les plus élevées"
+        ],
+        "date": "2026-08-23",
+        "sources": [
+          {
+            "titre": "Surtaxer les « méga-héritages » ou réduire les droits de succession, le débat fiscal qui divise la gauche et la droite pour la présidentielle",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/surtaxer-les-mega-heritages-ou-reduire-les-droits-de-succession-le-debat-fiscal-qui-divise-la-gauche-et-la-droite-pour-la-presidentielle_8163758.html",
+            "media": "franceinfo",
+            "date": "2026-08-27"
+          },
+          {
+            "titre": "Héritages et droits de succession: que proposent les candidats à l'élection présidentielle?",
+            "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election",
+            "media": "LCP",
+            "date": "2026-08-27"
+          }
+        ],
+        "factCheck": {
+          "verdict": "invérifiable",
+          "analyse": "Aucun chiffrage indépendant de la proposition n'a été trouvé, et le candidat n'a publié ni seuil ni barème (LCP, 27 août 2026). Ordres de grandeur : selon la Cour des comptes citée par LCP, les droits de succession ont rapporté environ 16,6 Md€ en 2023 ; 15 Md€ supplémentaires reviendraient donc à presque doubler leur rendement en ne visant que 1 % des successions. Le Conseil d'analyse économique (note « Repenser l'héritage », décembre 2021) estimait toutefois possible de réduire les droits de succession pour 99 % de la population tout en dégageant environ 12 Md€ de recettes supplémentaires, en supprimant ou réformant les principales niches (assurance-vie, démembrement, pacte Dutreil) : le montant annoncé est donc du même ordre de grandeur qu'une estimation indépendante, mais un peu supérieur, et sa réalisation dépend de mesures d'assiette que le candidat n'a pas détaillées.",
+          "sources": [
+            {
+              "titre": "Héritages et droits de succession: que proposent les candidats à l'élection présidentielle?",
+              "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election",
+              "media": "LCP",
+              "date": "2026-08-27"
+            },
+            {
+              "titre": "Repenser l'héritage – communiqué de presse de la Note du CAE n° 69",
+              "url": "https://cae-eco.fr/static/pdf/CAE069_ComPresse.pdf",
+              "media": "Conseil d'analyse économique",
+              "date": "2021-12-21"
+            },
+            {
+              "titre": "Surtaxer les « méga-héritages » ou réduire les droits de succession, le débat fiscal qui divise la gauche et la droite pour la présidentielle",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/surtaxer-les-mega-heritages-ou-reduire-les-droits-de-succession-le-debat-fiscal-qui-divise-la-gauche-et-la-droite-pour-la-presidentielle_8163758.html",
+              "media": "franceinfo",
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      },
+      {
+        "id": "leasing-social-un-million-voitures",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Leasing social pour un million de voitures électriques",
+        "description": "Location sociale d'un million de petites voitures électriques sur cinq ans, à 100 € par mois sans apport, pour les actifs gagnant moins de 2 000 € net par mois et parcourant plus de 30 km par jour ; 100 000 véhicules la première année pour les aides à domicile en zone rurale.",
+        "chiffres": [
+          "1 000 000 de véhicules sur 5 ans",
+          "100 €/mois sans apport",
+          "Plafond de revenu : 2 000 € net/mois"
+        ],
+        "date": "2026-11-09",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : Raphaël Glucksmann met 200 milliards sur la table et invite le Sénat à voter en faveur d'une future République écologique",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-raphael-glucksmann-met-200-milliards-sur-la-table-et-invite-le-senat-a-voter-en-faveur-dune-future-republique-ecologique",
+            "media": "Public Sénat",
+            "date": "2026-11-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le coût n'a pas été annoncé et aucun chiffrage indépendant n'a été trouvé. Éléments de référence : les deux éditions du leasing social gouvernemental (2024 et 2025) ont porté chacune sur environ 50 000 véhicules ; l'enveloppe 2025 était d'environ 370 M€, soit environ 7 400 € d'aide par voiture (calcul de Que Choisir). Le rythme proposé (200 000 véhicules par an en moyenne) serait quatre fois supérieur ; à aide unitaire comparable, le coût public avoisinerait 7 Md€ sur cinq ans (estimation indicative, non publiée par le candidat).",
+          "sources": [
+            {
+              "titre": "Voiture électrique : l'efficacité toute relative du leasing social",
+              "url": "https://www.quechoisir.org/actualite-voiture-electrique-l-efficacite-toute-relative-du-leasing-social-n170896/",
+              "media": "UFC-Que Choisir",
+              "date": "2025-09-11"
+            },
+            {
+              "titre": "Gros succès : l'édition 2025 du leasing social voitures électriques, 41 500 foyers ont déjà été servis",
+              "url": "https://www.ecologie.gouv.fr/presse/gros-succes-ledition-2025-du-leasing-social-voitures-electriques-41-500-foyers-ont-deja",
+              "media": "Ministère de la Transition écologique",
+              "date": "2025-10-29"
+            }
+          ]
+        }
+      },
+      {
+        "id": "cheque-energie-exceptionnel-500",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Chèque énergie exceptionnel de 500 € et élargissement aux classes moyennes",
+        "description": "Chèque énergie exceptionnel de 500 € pour 6 millions de ménages, étendu à 200 € pour 10 millions de ménages supplémentaires des classes moyennes, dans le cadre des « 100 premiers jours ». Le candidat propose aussi un moratoire sur les hausses de taxes sur l'électricité.",
+        "chiffres": [
+          "500 € pour 6 millions de ménages",
+          "200 € pour 10 millions de ménages supplémentaires"
+        ],
+        "date": "2026-11-09",
+        "sources": [
+          {
+            "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles",
+            "url": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
+            "media": "France 24 (AFP)",
+            "date": "2026-11-09"
+          },
+          {
+            "titre": "Présidentielle 2027 : Raphaël Glucksmann met 200 milliards sur la table et invite le Sénat à voter en faveur d'une future République écologique",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-raphael-glucksmann-met-200-milliards-sur-la-table-et-invite-le-senat-a-voter-en-faveur-dune-future-republique-ecologique",
+            "media": "Public Sénat",
+            "date": "2026-11-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le coût n'a pas été annoncé. Calcul mécanique à partir des paramètres annoncés : 6 millions × 500 € + 10 millions × 200 € = 5 Md€ (si versement unique). À titre de comparaison, le chèque énergie actuel va de 48 € à 277 € par an (moyenne d'environ 153 €) et a été versé automatiquement à environ 4,5 millions de ménages en 2026 ; la mesure représenterait donc un net changement d'échelle. Aucune vérification par un fact-checkeur n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Qu'est-ce que le chèque énergie ?",
+              "url": "https://www.connaissancedesenergies.org/quest-ce-que-le-cheque-energie-141016",
+              "media": "Connaissance des Énergies",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "pac-sociales-pass-mobilite",
+        "theme": "environnement-energie",
+        "type": "proposition",
+        "titre": "Pompes à chaleur à tarif social et Pass Mobilité Durable à 1 € par jour",
+        "description": "Vente d'un million de pompes à chaleur à tarif social (environ 1 € par jour) et création d'un « Pass Mobilité Durable » à 1 € par jour pour les moins de 25 ans.",
+        "chiffres": [
+          "1 000 000 de pompes à chaleur à environ 1 €/jour",
+          "Pass mobilité à 1 €/jour pour les moins de 25 ans"
+        ],
+        "date": "2026-11-09",
+        "sources": [
+          {
+            "titre": "Les ambitions de Raphaël Glucksmann sur les EnR",
+            "url": "https://www.batiweb.com/actualites/energie/glucksmann-plan-ecologique-200-milliards-49588",
+            "media": "Batiweb",
+            "date": "2026-11-09"
+          },
+          {
+            "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles",
+            "url": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
+            "media": "France 24 (AFP)",
+            "date": "2026-11-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Ni le coût ni les modalités (reste à charge, durée, aides mobilisées) n'ont été publiés, et aucune vérification indépendante n'a été trouvée. Batiweb note que la mesure sur les pompes à chaleur pourrait s'articuler avec une expérimentation d'offre intégrée déjà existante, dont l'avenir est incertain.",
+          "sources": [
+            {
+              "titre": "Les ambitions de Raphaël Glucksmann sur les EnR",
+              "url": "https://www.batiweb.com/actualites/energie/glucksmann-plan-ecologique-200-milliards-49588",
+              "media": "Batiweb",
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      },
+      {
+        "id": "republique-ecologique-constitution",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Inscrire la « République écologique » à l'article 1er de la Constitution",
+        "description": "Révision constitutionnelle par la procédure de l'article 89 pour inscrire le principe d'une « République écologique » à l'article 1er, accompagnée d'une loi de programmation écologique sur le modèle de la loi de programmation militaire.",
+        "chiffres": [],
+        "date": "2026-11-09",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : Raphaël Glucksmann met 200 milliards sur la table et invite le Sénat à voter en faveur d'une future République écologique",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-raphael-glucksmann-met-200-milliards-sur-la-table-et-invite-le-senat-a-voter-en-faveur-dune-future-republique-ecologique",
+            "media": "Public Sénat",
+            "date": "2026-11-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Pas de chiffre à vérifier. Sur la faisabilité juridique, Public Sénat rappelle que la procédure de l'article 89 suppose l'accord des deux assemblées sur un texte identique : la mesure dépend donc du vote du Sénat, dont la majorité est de droite, ce que le candidat reconnaît en appelant les sénateurs à la soutenir. Aucune analyse juridique indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Présidentielle 2027 : Raphaël Glucksmann met 200 milliards sur la table et invite le Sénat à voter en faveur d'une future République écologique",
+              "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-raphael-glucksmann-met-200-milliards-sur-la-table-et-invite-le-senat-a-voter-en-faveur-dune-future-republique-ecologique",
+              "media": "Public Sénat",
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      },
+      {
+        "id": "retraites-abrogation-62-ans",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Abroger la réforme de 2023 avec un âge de référence à 62 ans",
+        "description": "Abrogation de la réforme des retraites de 2023 sans retour à 60 ans (« Non, on ne pourra pas faire 60 ans, ça sera 62 »), avec des départs différenciés : plus tôt pour les métiers pénibles, plus tard pour certains cadres supérieurs. Création d'un Haut Conseil du pilotage des retraites et plan pour augmenter le nombre de cotisants (emploi des seniors).",
+        "chiffres": [
+          "Âge de référence : 62 ans",
+          "Aucun chiffrage du coût publié"
+        ],
+        "date": "2026-10-11",
+        "sources": [
+          {
+            "titre": "Raphaël Glucksmann remporte la primaire au premier tour : ce qu'il prévoit pour votre départ à la retraite, votre pension et vos parents en Ehpad",
+            "url": "https://www.senioractu.com/Raphael-Glucksmann-remporte-la-primaire-au-premier-tour-ce-qu-il-prevoit-pour-votre-depart-a-la-retraite-votre-pension_a28149.html",
+            "media": "SeniorActu",
+            "date": "2026-10-11"
+          },
+          {
+            "titre": "Changement de système, passage à 60 ou à 65 ans, capitalisation... Que proposent les principaux candidats à l'élection présidentielle pour les retraites ?",
+            "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/changement-de-systeme-passage-a-60-ou-a-65-ans-capitalisation-que-proposent-les-principaux-candidats-a-l-election-presidentielle-pour-les-retraites_8215784.html",
+            "media": "franceinfo",
+            "date": "2026-09-30"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le candidat n'a pas chiffré la mesure, et aucun chiffrage de sa version (âges différenciés) n'a été trouvé. Références : selon l'Institut Montaigne, s'appuyant sur les documents du PLFRSS 2023, les mesures d'âge et de durée de la réforme rapportent environ 8,2 Md€ à l'horizon 2027 ; selon la Cour des comptes (2025), un retour à 62 ans augmenterait le déficit des retraites de 10,4 Md€ en 2035. Le coût net dépendra du nombre de départs anticipés et tardifs prévus, non précisés. SeniorActu rappelle que la suspension en vigueur plafonne l'âge légal à 62 ans et 9 mois pour les départs jusqu'en 2027.",
+          "sources": [
+            {
+              "titre": "Abroger la réforme des retraites et, pour ceux ayant commencé à travailler avant 20 ans, partir à 40 annuités de cotisations",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/abroger-la-reforme-des-retraites-et-pour-ceux-ayant-commence-a-travailler-avant-20-ans-partir-a-40-annuites-de-cotisations",
+              "media": "Institut Montaigne",
+              "date": "2024-06"
+            },
+            {
+              "titre": "Retraites : « si vous abrogez la réforme de 2023, c'est 10 milliards d'euros de plus qu'il faut trouver », souligne Pierre Moscovici",
+              "url": "https://www.publicsenat.fr/actualites/emploi/retraites-si-vous-abrogez-la-reforme-de-2023-cest-10-milliards-deuros-de-plus-quil-faut-trouver-souligne-pierre-moscovici",
+              "media": "Public Sénat",
+              "date": "2025-03-05"
+            }
+          ]
+        }
+      },
+      {
+        "id": "convention-citoyenne-immigration",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "Convention citoyenne sur l'immigration",
+        "description": "Convention de citoyens tirés au sort, confrontés aux données démographiques, économiques et sécuritaires, dont les propositions seraient soumises au vote du Parlement ; le candidat plaide pour une régulation « réaliste et cohérente » de l'immigration, sans autre détail chiffré.",
+        "chiffres": [],
+        "date": "2026-05-24",
+        "sources": [
+          {
+            "titre": "Glucksmann veut une convention citoyenne sur l'immigration",
+            "url": "https://www.france24.com/fr/info-en-continu/20260524-glucksmann-veut-une-convention-citoyenne-sur-l-immigration",
+            "media": "France 24 (AFP)",
+            "date": "2026-05-24"
+          },
+          {
+            "titre": "Soutiens, sondages, programme… Sur quoi s'appuie la candidature de Raphaël Glucksmann, qui lance sa campagne pour la présidentielle 2027 ?",
+            "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html",
+            "media": "franceinfo",
+            "date": "2026-08"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Proposition de méthode sans chiffre ni contenu normatif précis : il n'y a pas d'élément factuel à vérifier à ce stade et aucune analyse indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Glucksmann veut une convention citoyenne sur l'immigration",
+              "url": "https://www.france24.com/fr/info-en-continu/20260524-glucksmann-veut-une-convention-citoyenne-sur-l-immigration",
+              "media": "France 24 (AFP)",
+              "date": "2026-05-24"
+            }
+          ]
+        }
+      },
+      {
+        "id": "service-civique-obligatoire",
+        "theme": "education",
+        "type": "proposition",
+        "titre": "Service civique obligatoire pour les jeunes",
+        "description": "Service civique obligatoire présenté comme un « nouveau contrat patriotique » ; selon SeniorActu, son livre évoque une durée de 10 mois. Il propose aussi une revalorisation « substantielle » du salaire des enseignants (montant non précisé) et la mixité sociale dans tous les établissements financés par l'argent public, y compris privés.",
+        "chiffres": [
+          "Durée évoquée : 10 mois",
+          "Coût non annoncé"
+        ],
+        "date": "2026-05-24",
+        "sources": [
+          {
+            "titre": "Glucksmann veut une convention citoyenne sur l'immigration",
+            "url": "https://www.france24.com/fr/info-en-continu/20260524-glucksmann-veut-une-convention-citoyenne-sur-l-immigration",
+            "media": "France 24 (AFP)",
+            "date": "2026-05-24"
+          },
+          {
+            "titre": "Raphaël Glucksmann remporte la primaire au premier tour : ce qu'il prévoit pour votre départ à la retraite, votre pension et vos parents en Ehpad",
+            "url": "https://www.senioractu.com/Raphael-Glucksmann-remporte-la-primaire-au-premier-tour-ce-qu-il-prevoit-pour-votre-depart-a-la-retraite-votre-pension_a28149.html",
+            "media": "SeniorActu",
+            "date": "2026-10-11"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun coût n'a été annoncé ni estimé de façon indépendante. Point de comparaison : pour le Service national universel (séjour de cohésion de 12 jours), la Cour des comptes a estimé en 2024 le coût d'une généralisation à 3,5 à 5 Md€ par an. Un service obligatoire de 10 mois pour une classe d'âge entière serait d'une tout autre ampleur, ce qui rend nécessaire un chiffrage que le candidat n'a pas fourni.",
+          "sources": [
+            {
+              "titre": "Service national universel : le bilan critique de la Cour des comptes",
+              "url": "https://www.vie-publique.fr/en-bref/295367-service-national-universel-le-bilan-critique-de-la-cour-des-comptes",
+              "media": "Vie publique",
+              "date": "2024-09"
+            }
+          ]
+        }
+      },
+      {
+        "id": "fonds-europeen-defense-emprunt",
+        "theme": "defense",
+        "type": "proposition",
+        "titre": "Fonds européen de défense de 100 Md€ financé par un emprunt commun",
+        "description": "Proposition portée lors des européennes de 2024 : un fonds de défense de 100 milliards d'euros financé par un nouvel emprunt européen, avec la Commission comme acheteur central d'armements, une préférence pour la production européenne (« Buy European Act ») et la priorité aux commandes ukrainiennes ; il défendait aussi l'utilisation des avoirs publics russes gelés.",
+        "chiffres": [
+          "Fonds de 100 Md€ financé par emprunt européen"
+        ],
+        "date": "2024-05-16",
+        "sources": [
+          {
+            "titre": "Bâtir l'Europe de 2030 : la doctrine Glucksmann",
+            "url": "https://legrandcontinent.eu/fr/2024/05/16/batir-leurope-de-2030-la-doctrine-glucksmann-gc/",
+            "media": "Le Grand Continent",
+            "date": "2024-05-16"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "Sur la faisabilité : le principe d'un endettement européen dédié à la défense s'est depuis concrétisé. Le 27 mai 2025, le Conseil de l'UE a adopté l'instrument SAFE, qui mobilise jusqu'à 150 Md€ levés sur les marchés pour des achats conjoints de défense. La différence est notable : SAFE prend la forme de prêts remboursés par les États bénéficiaires, et non d'un fonds commun de subventions. Le montant défendu par le candidat pour 2027 n'a pas pu être confirmé par une source de référence : les montants trouvés (100, 150 ou 500 Md€) ne figurent que sur des sites agrégateurs sans source primaire identifiable et ne sont pas retenus.",
+          "sources": [
+            {
+              "titre": "Défense : l'UE approuve un mécanisme de prêts de 150 milliards d'euros pour renforcer les capacités",
+              "url": "https://france.representation.ec.europa.eu/informations/defense-lue-approuve-un-mecanisme-de-prets-de-150-milliards-deuros-pour-renforcer-les-capacites-2025-05-27_fr",
+              "media": "Représentation de la Commission européenne en France",
+              "date": "2025-05-27"
+            },
+            {
+              "titre": "SAFE (Security Action for Europe)",
+              "url": "https://www.consilium.europa.eu/fr/policies/safe/",
+              "media": "Conseil de l'Union européenne",
+              "date": "2026-06-15"
+            }
+          ]
+        }
+      },
+      {
+        "id": "decl-colonies-trois-fois-moins",
+        "theme": "education",
+        "type": "declaration-chiffree",
+        "titre": "« Trois fois moins de jeunes en colonies qu'au début des années 1980 »",
+        "description": "Pour justifier un « passeport pour l'émancipation » garantissant à chaque enfant un séjour collectif, le candidat affirme dans son livre que les colonies de vacances accueillent trois fois moins de jeunes qu'au début des années 1980.",
+        "chiffres": [
+          "Fréquentation divisée par 3 depuis le début des années 1980 (affirmation)"
+        ],
+        "date": "2026-05-24",
+        "sources": [
+          {
+            "titre": "Glucksmann veut une convention citoyenne sur l'immigration",
+            "url": "https://www.france24.com/fr/info-en-continu/20260524-glucksmann-veut-une-convention-citoyenne-sur-l-immigration",
+            "media": "France 24 (AFP)",
+            "date": "2026-05-24"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification par un fact-checkeur n'a été trouvée, et la série statistique remontant aux années 1980 n'a pas pu être consultée. Les données récentes de l'INJEP confirment la tendance à la baisse : environ 1,3 million de départs en colonies en 2024-2025, soit 141 000 de moins qu'en 2018-2019, dans le cadre d'une baisse structurelle depuis les années 1990. Le ratio « trois fois moins » n'a pas pu être confirmé ni infirmé.",
+          "sources": [
+            {
+              "titre": "Colonies de vacances : le comité de filière Animation en appelle aux collectivités",
+              "url": "https://www.banquedesterritoires.fr/colonies-de-vacances-le-comite-de-filiere-animation-en-appelle-aux-collectivites",
+              "media": "Banque des Territoires (Localtis)",
+              "date": "2026-03-05"
+            }
+          ]
+        }
+      },
+      {
+        "id": "decl-aide-domicile-250-euros",
+        "theme": "pouvoir-achat-social",
+        "type": "declaration-chiffree",
+        "titre": "« Une aide à domicile gagnerait 250 € par mois »",
+        "description": "Le candidat affirme qu'une aide à domicile cumulant la baisse de CSG sur les bas salaires et le leasing social gagnerait 250 € par mois ; Yannick Jadot présente ces mesures comme l'équivalent d'un « 13e mois ».",
+        "chiffres": [
+          "Gain annoncé : 250 €/mois"
+        ],
+        "date": "2026-11-09",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : Raphaël Glucksmann met 200 milliards sur la table et invite le Sénat à voter en faveur d'une future République écologique",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-raphael-glucksmann-met-200-milliards-sur-la-table-et-invite-le-senat-a-voter-en-faveur-dune-future-republique-ecologique",
+            "media": "Public Sénat",
+            "date": "2026-11-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "invérifiable",
+          "analyse": "Le calcul dépend de paramètres non publiés (ampleur de la baisse de CSG, niveau de salaire retenu, coût du véhicule remplacé par le leasing). Ni Public Sénat ni France 24 ne confrontent ce chiffre à une analyse extérieure, et aucune vérification par un fact-checkeur n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles",
+              "url": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
+              "media": "France 24 (AFP)",
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

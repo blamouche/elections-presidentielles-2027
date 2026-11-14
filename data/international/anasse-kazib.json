@@ -1,0 +1,109 @@
+{
+  "id": "anasse-kazib",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Anasse Kazib (Révolution permanente) affirme que « ni Trump, ni Poutine, ni les États européens » ne défendent les intérêts des travailleurs, s'oppose au réarmement européen et à l'envoi de troupes, et son programme préliminaire prévoit le démantèlement de « la machine de guerre française » et le retrait des troupes françaises à l'étranger. Il qualifie la situation à Gaza de génocide et réclame la « libération de la Palestine ». Ses positions sur l'Union européenne et la Chine n'ont pas été identifiées.",
+  "axes": {
+    "europe": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration, aucun vote ni aucune proposition sur ce sujet n'a été identifié dans les sources consultées au 13 novembre 2026.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "otan": {
+      "position": -1,
+      "titre": "Opposition déclarée à l'OTAN",
+      "resume": "Dans un éditorial du 6 mars 2025, il écrit : « Nos oponemos tanto a Putin como a la OTAN » (« Nous nous opposons tant à Poutine qu'à l'OTAN »). Son programme préliminaire demande le « retrait des troupes françaises à l'étranger ». Aucune revendication explicite de sortie de l'OTAN n'a été identifiée, d'où le cran −1.",
+      "date": "2025-03-06",
+      "sources": [
+        {
+          "titre": "Macron y Europa se preparan para la guerra ¡Debemos detenerlos!",
+          "url": "https://www.laizquierdadiario.com/Macron-y-Europa-se-preparan-para-la-guerra-Debemos-detenerlos",
+          "media": "La Izquierda Diario (éditorial d'Anasse Kazib)",
+          "date": "2025-03-06"
+        },
+        {
+          "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+          "url": "https://anasse2027.fr/programme",
+          "media": "Site de campagne d'Anasse Kazib",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "trump": {
+      "position": -1,
+      "titre": "Critique de Trump",
+      "resume": "Le 6 mars 2025, il affirme que « ni Trump, ni Poutine, ni les États européens » ne défendent les intérêts des travailleurs, critique le projet de Donald Trump de faire de Gaza une « Riviera » et sa négociation avec Vladimir Poutine qui ignore les garanties de sécurité demandées par l'Ukraine et l'UE.",
+      "date": "2025-03-06",
+      "sources": [
+        {
+          "titre": "Macron y Europa se preparan para la guerra ¡Debemos detenerlos!",
+          "url": "https://www.laizquierdadiario.com/Macron-y-Europa-se-preparan-para-la-guerra-Debemos-detenerlos",
+          "media": "La Izquierda Diario (éditorial d'Anasse Kazib)",
+          "date": "2025-03-06"
+        }
+      ]
+    },
+    "russie": {
+      "position": 0,
+      "titre": "Opposition à Poutine comme aux puissances occidentales",
+      "resume": "Dans son éditorial du 6 mars 2025, il s'oppose « tant à Poutine qu'à l'OTAN », qualifie Vladimir Poutine d'« autocrate » mais juge « ridicule » la propagande européenne sur la Russie. Aucune position sur les sanctions n'a été identifiée.",
+      "date": "2025-03-06",
+      "sources": [
+        {
+          "titre": "Macron y Europa se preparan para la guerra ¡Debemos detenerlos!",
+          "url": "https://www.laizquierdadiario.com/Macron-y-Europa-se-preparan-para-la-guerra-Debemos-detenerlos",
+          "media": "La Izquierda Diario (éditorial d'Anasse Kazib)",
+          "date": "2025-03-06"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": -1,
+      "titre": "Refus du réarmement et de l'envoi de troupes",
+      "resume": "Le 6 mars 2025, il rejette l'envoi de troupes et le réarmement européen, estimant que les puissances européennes ne défendent pas l'autodétermination de l'Ukraine mais l'accès à ses ressources. Son programme préliminaire affiche « Pas un euro pour la guerre ». Aucune déclaration explicite sur les livraisons d'armes à l'Ukraine n'a été identifiée, d'où le cran −1 plutôt que −2.",
+      "date": "2026-11-13",
+      "sources": [
+        {
+          "titre": "Macron y Europa se preparan para la guerra ¡Debemos detenerlos!",
+          "url": "https://www.laizquierdadiario.com/Macron-y-Europa-se-preparan-para-la-guerra-Debemos-detenerlos",
+          "media": "La Izquierda Diario (éditorial d'Anasse Kazib)",
+          "date": "2025-03-06"
+        },
+        {
+          "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+          "url": "https://anasse2027.fr/programme",
+          "media": "Site de campagne d'Anasse Kazib",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "chine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration, aucun vote ni aucune proposition sur ce sujet n'a été identifié dans les sources consultées au 13 novembre 2026.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "proche-orient": {
+      "position": 1,
+      "titre": "« Libération de la Palestine », dénonciation du génocide",
+      "resume": "Son programme préliminaire réclame la « libération de la Palestine » et affirme que le génocide à Gaza se poursuit avec la complicité des classes dominantes. Dans un entretien du 16 juin 2025, il qualifie la situation de génocide se déroulant « en 4K sous nos yeux ». Son programme demande le démantèlement de l'industrie d'armement française en général ; aucun appel spécifique à des sanctions ou à un embargo visant Israël n'a été identifié, d'où le cran +1.",
+      "date": "2026-11-13",
+      "sources": [
+        {
+          "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+          "url": "https://anasse2027.fr/programme",
+          "media": "Site de campagne d'Anasse Kazib",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "« On ne peut pas accepter de se faire réprimer alors qu'un génocide se passe sous nos yeux »",
+          "url": "https://www.politis.fr/articles/2025/06/anasse-kazib-on-ne-peut-pas-accepter-de-se-faire-reprimer-genocide-se-passe-sous-nos-yeux/",
+          "media": "Politis",
+          "date": "2025-06-16"
+        }
+      ]
+    }
+  }
+}

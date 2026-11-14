@@ -1,0 +1,1173 @@
+{
+  "id": "gabriel-attal",
+  "prenom": "Gabriel",
+  "nom": "Attal",
+  "parti": "Renaissance",
+  "partiAbrev": "RE",
+  "famillePolitique": "centre",
+  "couleur": "#F2B92B",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Déclaré le 22 mai 2026 à Mur-de-Barrez (Aveyron), à l'issue d'un débat citoyen, en tant qu'ancien Premier ministre et secrétaire général de Renaissance, après plusieurs semaines de pré-campagne (livre, déplacements, réunions publiques). Pas de primaire organisée à ce stade : il plaide pour une primaire commune de la droite et du centre (dates des 31 janvier et 7 février évoquées par Bruno Retailleau), qu'Édouard Philippe refuse pour l'instant.",
+    "date": "2026-05-22",
+    "sources": [
+      {
+        "titre": "Gabriel Attal annonce sa candidature pour la présidentielle de 2027",
+        "url": "https://www.france24.com/fr/france/20260522-pr%C3%A9sidentielle-2027-gabriel-attal-annonce-sa-candidature-dans-le-camp-macroniste",
+        "media": "France 24",
+        "date": "2026-05-22"
+      },
+      {
+        "titre": "Primaire de la droite et du centre : \"Il y aura un siège\" pour Edouard Philippe \"dans toutes les réunions\", assure Gabriel Attal",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/primaire-de-la-droite-et-du-centre-il-y-aura-un-siege-pour-edouard-philippe-dans-toutes-les-reunions-assure-gabriel-attal_8279009.html",
+        "media": "franceinfo",
+        "date": "2026-11-12"
+      },
+      {
+        "titre": "Gabriel Attal",
+        "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1989-03-16",
+      "lieu": "Clamart (Hauts-de-Seine)",
+      "sources": [
+        {
+          "titre": "Gabriel Attal · Qui je suis",
+          "url": "https://attalpresident.fr/gabriel-attal",
+          "media": "Site de campagne de Gabriel Attal",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Gabriel Attal",
+          "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Ancien collaborateur de la ministre socialiste Marisol Touraine, Gabriel Attal rejoint En Marche et devient député des Hauts-de-Seine en 2017. Il enchaîne ensuite les fonctions gouvernementales : secrétaire d'État à l'Éducation, porte-parole du gouvernement, ministre délégué aux Comptes publics, ministre de l'Éducation nationale, puis Premier ministre de janvier à septembre 2024, le plus jeune de la Ve République. Depuis la dissolution de 2024, il préside le groupe macroniste à l'Assemblée nationale et dirige Renaissance comme secrétaire général. Candidat déclaré depuis mai 2026, il porte un programme centré sur l'école, les salaires, les frontières, l'intelligence artificielle et le désendettement.",
+    "formation": [
+      {
+        "texte": "Scolarité à l'École alsacienne (Paris).",
+        "sources": [
+          {
+            "titre": "Gabriel Attal, jeune loup de la macronie et benjamin du gouvernement",
+            "url": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-jeune-loup-de-la-macronie-et-benjamin-du-gouvernement-134463",
+            "media": "Public Sénat",
+            "date": "2018-10-16"
+          },
+          {
+            "titre": "La biographie et le CV de Gabriel Attal",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-gabriel-attal",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Gabriel Attal",
+            "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "texte": "Sciences Po Paris (admis en 2007) : master d'affaires publiques obtenu en 2013 ; études de droit à l'université Panthéon-Assas pendant trois ans, sans obtenir la licence.",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de Gabriel Attal",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-gabriel-attal",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Gabriel Attal, jeune loup de la macronie et benjamin du gouvernement",
+            "url": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-jeune-loup-de-la-macronie-et-benjamin-du-gouvernement-134463",
+            "media": "Public Sénat",
+            "date": "2018-10-16"
+          },
+          {
+            "titre": "Gabriel Attal",
+            "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Membre du cabinet de Marisol Touraine au ministère de la Santé (2012-2017), d'abord chargé des discours puis conseiller politique.",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de Gabriel Attal",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-gabriel-attal",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Gabriel Attal, jeune loup de la macronie et benjamin du gouvernement",
+            "url": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-jeune-loup-de-la-macronie-et-benjamin-du-gouvernement-134463",
+            "media": "Public Sénat",
+            "date": "2018-10-16"
+          },
+          {
+            "titre": "Gabriel Attal",
+            "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "texte": "Auteur de « En homme libre » (Éditions de l'Observatoire, avril 2026).",
+        "sources": [
+          {
+            "titre": "En homme libre – Gabriel Attal (L'Observatoire)",
+            "url": "https://actualitte.com/livres/892550/extraits/en-homme-libre-xxx-l-observatoire-gabriel-attal-9791032939079",
+            "media": "ActuaLitté",
+            "date": "2026-04-23"
+          },
+          {
+            "titre": "Gabriel Attal",
+            "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "Gabriel Attal",
+        "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Gabriel Attal annonce sa candidature pour la présidentielle de 2027",
+        "url": "https://www.france24.com/fr/france/20260522-pr%C3%A9sidentielle-2027-gabriel-attal-annonce-sa-candidature-dans-le-camp-macroniste",
+        "media": "France 24",
+        "date": "2026-05-22"
+      },
+      {
+        "titre": "Gabriel Attal · Qui je suis",
+        "url": "https://attalpresident.fr/gabriel-attal",
+        "media": "Site de campagne de Gabriel Attal",
+        "date": "2026-11-13"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "2014",
+      "fin": null,
+      "fonction": "Conseiller municipal de Vanves (Hauts-de-Seine)",
+      "details": "Élu le 30 mars 2014, réélu en 2020 et en 2026.",
+      "sources": [
+        {
+          "titre": "Gabriel Attal · Qui je suis",
+          "url": "https://attalpresident.fr/gabriel-attal",
+          "media": "Site de campagne de Gabriel Attal",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Gabriel Attal",
+          "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2017",
+      "fin": "2018",
+      "fonction": "Député de la 10e circonscription des Hauts-de-Seine",
+      "details": "Du 21 juin 2017 au 16 novembre 2018, date à laquelle il quitte son siège après son entrée au gouvernement.",
+      "sources": [
+        {
+          "titre": "Gabriel Attal · Qui je suis",
+          "url": "https://attalpresident.fr/gabriel-attal",
+          "media": "Site de campagne de Gabriel Attal",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Gabriel Attal",
+          "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2018",
+      "fin": "2018",
+      "fonction": "Porte-parole de La République en marche",
+      "details": "Du 4 janvier au 16 octobre 2018.",
+      "sources": [
+        {
+          "titre": "Gabriel Attal, jeune loup de la macronie et benjamin du gouvernement",
+          "url": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-jeune-loup-de-la-macronie-et-benjamin-du-gouvernement-134463",
+          "media": "Public Sénat",
+          "date": "2018-10-16"
+        },
+        {
+          "titre": "Gabriel Attal",
+          "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2018",
+      "fin": "2020",
+      "fonction": "Secrétaire d'État auprès du ministre de l'Éducation nationale et de la Jeunesse",
+      "details": "Du 16 octobre 2018 au 6 juillet 2020.",
+      "sources": [
+        {
+          "titre": "Gabriel Attal · Qui je suis",
+          "url": "https://attalpresident.fr/gabriel-attal",
+          "media": "Site de campagne de Gabriel Attal",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Gabriel Attal",
+          "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2020",
+      "fin": "2022",
+      "fonction": "Secrétaire d'État auprès du Premier ministre, porte-parole du gouvernement",
+      "details": "Du 6 juillet 2020 au 20 mai 2022.",
+      "sources": [
+        {
+          "titre": "Gabriel Attal · Qui je suis",
+          "url": "https://attalpresident.fr/gabriel-attal",
+          "media": "Site de campagne de Gabriel Attal",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Gabriel Attal",
+          "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2022",
+      "fin": "2023",
+      "fonction": "Ministre délégué chargé des Comptes publics",
+      "details": "Du 20 mai 2022 au 20 juillet 2023. Réélu député en juin 2022, il ne conserve pas son siège en raison de ses fonctions ministérielles.",
+      "sources": [
+        {
+          "titre": "Gabriel Attal · Qui je suis",
+          "url": "https://attalpresident.fr/gabriel-attal",
+          "media": "Site de campagne de Gabriel Attal",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Gabriel Attal",
+          "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2023",
+      "fin": "2024",
+      "fonction": "Ministre de l'Éducation nationale et de la Jeunesse",
+      "details": "Du 20 juillet 2023 au 9 janvier 2024 (l'infobox de la source indique le 11 janvier 2024).",
+      "sources": [
+        {
+          "titre": "Gabriel Attal · Qui je suis",
+          "url": "https://attalpresident.fr/gabriel-attal",
+          "media": "Site de campagne de Gabriel Attal",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Gabriel Attal",
+          "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2024",
+      "fin": "2024",
+      "fonction": "Premier ministre",
+      "details": "Du 9 janvier au 5 septembre 2024, sous la présidence d'Emmanuel Macron ; démission présentée après les élections législatives anticipées consécutives à la dissolution de juin 2024.",
+      "sources": [
+        {
+          "titre": "Gabriel Attal · Qui je suis",
+          "url": "https://attalpresident.fr/gabriel-attal",
+          "media": "Site de campagne de Gabriel Attal",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Gabriel Attal",
+          "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Gabriel Attal is France's youngest-ever and first openly gay prime minister",
+          "url": "https://www.npr.org/2024/01/09/1223686678/france-youngest-first-openly-gay-prime-minister-gabriel-attal",
+          "media": "NPR",
+          "date": "2024-01-09"
+        },
+        {
+          "titre": "French prime minister Gabriel Attal offers resignation",
+          "url": "https://www.aljazeera.com/video/newsfeed/2024/7/7/french-prime-minister-gabriel-attal-offers-resignation",
+          "media": "Al Jazeera",
+          "date": "2024-07-07"
+        }
+      ]
+    },
+    {
+      "debut": "2024",
+      "fin": null,
+      "fonction": "Député de la 10e circonscription des Hauts-de-Seine",
+      "details": "De nouveau député depuis le 8 juillet 2024.",
+      "sources": [
+        {
+          "titre": "Gabriel Attal · Qui je suis",
+          "url": "https://attalpresident.fr/gabriel-attal",
+          "media": "Site de campagne de Gabriel Attal",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Gabriel Attal",
+          "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2024",
+      "fin": null,
+      "fonction": "Président du groupe Ensemble pour la République (EPR) à l'Assemblée nationale",
+      "details": "Depuis le 13 juillet 2024.",
+      "sources": [
+        {
+          "titre": "Gabriel Attal · Qui je suis",
+          "url": "https://attalpresident.fr/gabriel-attal",
+          "media": "Site de campagne de Gabriel Attal",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Gabriel Attal",
+          "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Gabriel Attal annonce sa candidature pour la présidentielle de 2027",
+          "url": "https://www.france24.com/fr/france/20260522-pr%C3%A9sidentielle-2027-gabriel-attal-annonce-sa-candidature-dans-le-camp-macroniste",
+          "media": "France 24",
+          "date": "2026-05-22"
+        }
+      ]
+    },
+    {
+      "debut": "2024",
+      "fin": null,
+      "fonction": "Secrétaire général de Renaissance",
+      "details": "Depuis le 8 décembre 2024.",
+      "sources": [
+        {
+          "titre": "Gabriel Attal · Qui je suis",
+          "url": "https://attalpresident.fr/gabriel-attal",
+          "media": "Site de campagne de Gabriel Attal",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Gabriel Attal",
+          "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Gabriel Attal annonce sa candidature pour la présidentielle de 2027",
+          "url": "https://www.france24.com/fr/france/20260522-pr%C3%A9sidentielle-2027-gabriel-attal-annonce-sa-candidature-dans-le-camp-macroniste",
+          "media": "France 24",
+          "date": "2026-05-22"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Aucune condamnation ni mise en examen connue au 13 novembre 2026. Une plainte de militants kanak le visant devant la Cour de justice de la République, avec trois autres ministres, a été classée en octobre 2026 ; il est par ailleurs plaignant dans une enquête du parquet de Paris sur des soupçons d'ingérence russe le visant.",
+    "affaires": [
+      {
+        "titre": "Plainte de militants kanak devant la CJR (transferts de détenus de Nouvelle-Calédonie vers la métropole, juin 2024)",
+        "statut": "classement",
+        "role": "visé par une plainte (en tant que Premier ministre au moment des faits)",
+        "resume": "Six militants kanak, dont le dirigeant indépendantiste Christian Tein, ont saisi la commission des requêtes de la Cour de justice de la République d'une plainte visant Gabriel Attal (Premier ministre au moment des faits), Gérald Darmanin, Éric Dupond-Moretti et Sébastien Lecornu pour « actes arbitraires attentatoires à la liberté individuelle », « abus d'autorité aggravé » et « association de malfaiteurs », en lien avec leur transfert vers la métropole en juin 2024. La plainte a été rendue publique le 9 septembre 2026. La commission des requêtes l'a classée (décision rendue publique le vendredi 23 octobre 2026 par l'AFP, citant une source proche du dossier ; la date exacte de la décision n'a pas été publiée), estimant que les faits ne caractérisaient aucune infraction pénale commise par les ministres dans l'exercice de leurs fonctions, les transferts s'inscrivant dans l'exécution de décisions judiciaires ; selon la dépêche de l'AFP, il n'est pas possible d'en faire appel. L'avocat des plaignants, Me François Saint-Pierre, a déclaré regretter cette décision. La procédure est close à l'égard de M. Attal.",
+        "chronologie": [
+          {
+            "date": "2026-09-09",
+            "evenement": "La plainte, déposée devant la commission des requêtes de la CJR, est rendue publique (révélée par Mediapart puis confirmée par un avocat des plaignants).",
+            "sources": [
+              {
+                "titre": "Six militants kanak portent plainte contre Lecornu, Attal, Darmanin et Dupond-Moretti",
+                "url": "https://www.lnc.nc/article/six-militants-kanak-portent-plainte-contre-lecornu-attal-darmanin-et-dupond-moretti",
+                "media": "Les Nouvelles Calédoniennes",
+                "date": "2026-09-10"
+              }
+            ]
+          },
+          {
+            "date": "2026-10-23",
+            "evenement": "Le classement de la plainte par la commission des requêtes de la CJR est rendu public par l'AFP (vendredi 23 octobre 2026), la date exacte de la décision n'étant pas précisée.",
+            "sources": [
+              {
+                "titre": "Nouvelle-Calédonie : la CJR classe une plainte contre Lecornu, Attal et Darmanin",
+                "url": "https://la1ere.franceinfo.fr/nouvelle-caledonie-la-cjr-classe-une-plainte-contre-lecornu-attal-et-darmanin-1751058.html",
+                "media": "Outre-mer La 1ère / AFP",
+                "date": "2026-10-23"
+              },
+              {
+                "titre": "Nouvelle-Calédonie : la Cour de justice de la République classe une plainte contre Sébastien Lecornu, Gabriel Attal et Gérald Darmanin",
+                "url": "https://outremers360.com/bassin-atlantique-appli/nouvelle-caledonie-la-cjr-classe-une-plainte-contre-sebastien-lecornu-gabriel-attal-et-gerald-darmanin",
+                "media": "Outremers360 (AFP)",
+                "date": "2026-10-23"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Six militants kanak portent plainte contre Lecornu, Attal, Darmanin et Dupond-Moretti",
+            "url": "https://www.lnc.nc/article/six-militants-kanak-portent-plainte-contre-lecornu-attal-darmanin-et-dupond-moretti",
+            "media": "Les Nouvelles Calédoniennes",
+            "date": "2026-09-10"
+          },
+          {
+            "titre": "Nouvelle-Calédonie : la CJR classe une plainte contre Lecornu, Attal et Darmanin",
+            "url": "https://la1ere.franceinfo.fr/nouvelle-caledonie-la-cjr-classe-une-plainte-contre-lecornu-attal-et-darmanin-1751058.html",
+            "media": "Outre-mer La 1ère / AFP",
+            "date": "2026-10-23"
+          },
+          {
+            "titre": "Nouvelle-Calédonie : la Cour de justice de la République classe une plainte contre Sébastien Lecornu, Gabriel Attal et Gérald Darmanin",
+            "url": "https://outremers360.com/bassin-atlantique-appli/nouvelle-caledonie-la-cjr-classe-une-plainte-contre-sebastien-lecornu-gabriel-attal-et-gerald-darmanin",
+            "media": "Outremers360 (AFP)",
+            "date": "2026-10-23"
+          }
+        ]
+      },
+      {
+        "titre": "Campagne de désinformation attribuée à des réseaux russes (fausses vidéos sur son état de santé)",
+        "statut": "enquete",
+        "role": "plaignant (personne visée)",
+        "resume": "Des vidéos truquées reprenant l'identité visuelle de médias comme Le Figaro et Libération ont présenté Gabriel Attal comme hospitalisé ou atteint de la maladie de Parkinson. Il a porté plainte le 7 août 2026 pour « ingérence étrangère » en « provenance de réseaux russes ». Le 18 août 2026, le parquet de Paris a indiqué que sa section de protection des libertés fondamentales s'était saisie d'initiative de ces soupçons d'ingérence visant Gabriel Attal et Édouard Philippe, après une première saisine début août concernant Raphaël Glucksmann. Aucun auteur n'a été publiquement identifié ni poursuivi : issue non connue à la date de mise à jour. M. Attal n'est pas mis en cause dans cette procédure.",
+        "chronologie": [
+          {
+            "date": "2026-08-07",
+            "evenement": "Dépôt de plainte de Gabriel Attal pour « ingérence étrangère » en « provenance de réseaux russes ».",
+            "sources": [
+              {
+                "titre": "Soupçons d'ingérence russe visant Attal et Philippe : le parquet de Paris ouvre une enquête",
+                "url": "https://fr.euronews.com/2026/08/18/soupcons-dingerence-russe-visant-attal-et-philippe-le-parquet-de-paris-ouvre-dune-enquete",
+                "media": "Euronews",
+                "date": "2026-08-18"
+              },
+              {
+                "titre": "Présidentielle 2027: le parquet de Paris enquête sur des soupçons d'ingérence russe ciblant Édouard Philippe et Gabriel Attal",
+                "url": "https://lcp.fr/actualites/presidentielle-2027-le-parquet-de-paris-enquete-sur-des-soupcons-d-ingerence-russe",
+                "media": "LCP",
+                "date": "2026-08-18"
+              }
+            ]
+          },
+          {
+            "date": "2026-08-18",
+            "evenement": "Le parquet de Paris annonce s'être saisi d'initiative des soupçons d'ingérence russe visant Gabriel Attal et Édouard Philippe.",
+            "sources": [
+              {
+                "titre": "Présidentielle 2027: le parquet de Paris enquête sur des soupçons d'ingérence russe ciblant Édouard Philippe et Gabriel Attal",
+                "url": "https://lcp.fr/actualites/presidentielle-2027-le-parquet-de-paris-enquete-sur-des-soupcons-d-ingerence-russe",
+                "media": "LCP",
+                "date": "2026-08-18"
+              },
+              {
+                "titre": "Soupçons d'ingérence russe visant Attal et Philippe : le parquet de Paris ouvre une enquête",
+                "url": "https://fr.euronews.com/2026/08/18/soupcons-dingerence-russe-visant-attal-et-philippe-le-parquet-de-paris-ouvre-dune-enquete",
+                "media": "Euronews",
+                "date": "2026-08-18"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Présidentielle 2027: le parquet de Paris enquête sur des soupçons d'ingérence russe ciblant Édouard Philippe et Gabriel Attal",
+            "url": "https://lcp.fr/actualites/presidentielle-2027-le-parquet-de-paris-enquete-sur-des-soupcons-d-ingerence-russe",
+            "media": "LCP",
+            "date": "2026-08-18"
+          },
+          {
+            "titre": "Soupçons d'ingérence russe visant Attal et Philippe : le parquet de Paris ouvre une enquête",
+            "url": "https://fr.euronews.com/2026/08/18/soupcons-dingerence-russe-visant-attal-et-philippe-le-parquet-de-paris-ouvre-dune-enquete",
+            "media": "Euronews",
+            "date": "2026-08-18"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "statut": "Programme complet publié",
+    "resume": "Le site de campagne présente 96 mesures regroupées en six « chantiers capitaux » : école, travail et salaires, frontières, intelligence artificielle, dette de l'État et dette écologique. Gabriel Attal vise un déficit sous 3 % du PIB avant 2032 et l'équilibre des finances publiques en 2037, grâce à environ 150 Md€ d'économies dont les deux tiers sur les dépenses sociales, sans hausse d'impôts, avec 100 000 postes publics en moins hors Éducation, Armées, Justice et Intérieur. Il propose un « droit au brut » de 250 € nets mensuels au niveau du salaire médian, une hausse de 200 à 500 € nets pour les enseignants, la suppression de l'âge légal de départ au profit de la durée de cotisation, des quotas migratoires votés par le Parlement, 200 Md€ sur dix ans pour l'IA et un plan nucléaire « Messmer II ». Aucun chiffrage global indépendant n'était publié au 13 novembre 2026 (l'Institut Montaigne annonce le sien pour le premier trimestre 2027).",
+    "documents": [
+      {
+        "titre": "Programme – Chantiers capitaux (attalpresident.fr)",
+        "url": "https://attalpresident.fr/programme",
+        "media": "Site de campagne de Gabriel Attal",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Dans Le Parisien : Gabriel Attal vise le zéro déficit en 2037",
+        "url": "https://attalpresident.fr/actualites/dans-le-parisien-gabriel-attal-vise-le-zero-deficit-en-2037",
+        "media": "Site de campagne de Gabriel Attal",
+        "date": "2026-07-03"
+      },
+      {
+        "titre": "Gabriel Attal présente un plan de désendettement et un « Messmer II » pour sortir des dépendances françaises",
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-un-plan-de-desendettement-et-un-messmer-ii-pour-sortir-des-dependances-francaises",
+        "media": "Site de campagne de Gabriel Attal",
+        "date": "2026-09-23"
+      },
+      {
+        "titre": "Présidentielle 2027 : Gabriel Attal révèle les premières lignes de son programme",
+        "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-revele-les-premieres-lignes-de-son-programme-magic-CNT000002pzsbo.html",
+        "media": "6Medias (Orange Actu)",
+        "date": "2026-05-24"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "desendettement-150-md-deficit-3-pourcent",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Déficit sous 3 % avant 2032 et zéro déficit en 2037, avec 150 Md€ d'économies",
+        "description": "Ramener le déficit public sous 3 % du PIB avant 2032, équilibrer les comptes sociaux d'ici 2032 et l'ensemble des finances publiques en 2037. Économies évaluées par le candidat « entre 120 et 150 milliards d'euros » dans un entretien au Parisien (juillet 2026), puis fixées à 150 Md€ dans le plan de désendettement présenté le 23 septembre 2026, qui fait foi, dont les deux tiers sur les dépenses sociales, avec un « frein d'urgence » de 20 Md€ dès 2027, une « année blanche » (gel temporaire des prestations sociales hors petites retraites) dès le budget 2028, aucune hausse d'impôts pendant le quinquennat et une loi de programmation économique, fiscale et énergétique sur dix ans.",
+        "chiffres": [
+          "Déficit < 3 % du PIB avant 2032",
+          "Équilibre des finances publiques en 2037",
+          "150 Md€ d'économies (plan du 23 septembre 2026 ; fourchette de 120 à 150 Md€ en juillet 2026), dont 2/3 sur le modèle social",
+          "20 Md€ d'économies dès 2027",
+          "Aucune hausse d'impôts pendant 5 ans"
+        ],
+        "date": "2026-09-23",
+        "sources": [
+          {
+            "titre": "Dans Le Parisien : Gabriel Attal vise le zéro déficit en 2037",
+            "url": "https://attalpresident.fr/actualites/dans-le-parisien-gabriel-attal-vise-le-zero-deficit-en-2037",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-07-03"
+          },
+          {
+            "titre": "Gabriel Attal présente un plan de désendettement et un « Messmer II » pour sortir des dépendances françaises",
+            "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-un-plan-de-desendettement-et-un-messmer-ii-pour-sortir-des-dependances-francaises",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-09-23"
+          },
+          {
+            "titre": "Programme – Ramener le déficit sous 3 % avant 2032",
+            "url": "https://attalpresident.fr/programme/mesures/deficit-sous-trois-pour-cent",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-07-03"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun chiffrage indépendant du plan d'économies ni de la trajectoire n'a été trouvé au 13 novembre 2026, et le candidat ne publie pas de ventilation ligne par ligne ; l'Institut Montaigne annonce son chiffrage des programmes pour le premier trimestre 2027. Le point de départ est cohérent avec les données officielles : déficit de 5,1 % du PIB en 2025 selon l'Insee, 5,4 % prévu en 2026 par le gouvernement. L'objectif de passer sous 3 % avant 2032 est moins ambitieux que la trajectoire gouvernementale, qui vise un retour sous 3 % d'ici 2029.",
+          "sources": [
+            {
+              "titre": "En 2025, le déficit public s'élève à 5,1 % du PIB, la dette publique à 115,6 % du PIB",
+              "url": "https://www.insee.fr/fr/statistiques/8956575",
+              "media": "Insee",
+              "date": "2026-03-27"
+            },
+            {
+              "titre": "Avis n° HCFP - 2026 - 5 relatif aux projets de lois de finances et de financement de la sécurité sociale pour l'année 2027",
+              "url": "https://www.hcfp.fr/sites/default/files/2026-10/Avis%20HCFP%202026-5%20-%20PLF-PLFSS%202027.pdf",
+              "media": "Haut Conseil des finances publiques",
+              "date": "2026-09-25"
+            },
+            {
+              "titre": "Présidentielle 2027 - l'Institut Montaigne dévoile \"Les Repères de Montaigne : 25 recommandations pour la France\"",
+              "url": "https://www.institutmontaigne.org/communiques-de-presse/presidentielle-2027-linstitut-montaigne-devoile-les-reperes-de-montaigne-25-recommandations-pour-la",
+              "media": "Institut Montaigne",
+              "date": "2026-10-06"
+            }
+          ]
+        }
+      },
+      {
+        "id": "100000-postes-en-moins",
+        "theme": "territoires-services-publics",
+        "type": "proposition",
+        "titre": "100 000 postes en moins dans l'État et les collectivités",
+        "description": "Réduire de 100 000 postes les effectifs de l'État et des collectivités, sans licenciement, par des départs volontaires accompagnés d'une prime et par le non-remplacement d'une partie des départs à la retraite ; Éducation nationale, Armées, Justice et Intérieur sont « sanctuarisés ». Mesure complétée par la suppression d'un échelon de collectivité territoriale (« big bang territorial ») et un recours massif à l'IA dans l'administration.",
+        "chiffres": [
+          "100 000 postes en moins",
+          "Aucun poste supprimé dans l'Éducation nationale",
+          "Économies attendues : non chiffrées par mesure"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Programme – Cent mille postes en moins dans l'État et les collectivités",
+            "url": "https://attalpresident.fr/programme/mesures/cent-mille-postes-en-moins",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-07-03"
+          },
+          {
+            "titre": "Présidentielle 2027 : Gabriel Attal promet qu'il n'y aura \"pas de poste supprimé\" dans l'Éducation nationale s'il est élu",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-le-candidat-renaissance-gabriel-attal-promet-qu-il-n-y-aura-pas-de-poste-supprime-dans-l-education-nationale-s-il-est-elu_8278985.html",
+            "media": "franceinfo",
+            "date": "2026-11-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Ni le candidat ni une source indépendante ne chiffrent les économies nettes (primes de départ comprises). L'ordre de grandeur est compatible avec les flux de départs : la DGAFP recense 144 000 nouvelles pensions attribuées en 2025 à des agents de la fonction publique, mais la répartition par versant et hors ministères sanctuarisés, nécessaire pour juger la faisabilité, n'est pas publiée par le candidat.",
+          "sources": [
+            {
+              "titre": "Les départs à la retraite dans la fonction publique en 2025",
+              "url": "https://www.fonction-publique.gouv.fr/thematique/recrutements-mobilite-retraite",
+              "media": "DGAFP – fonction-publique.gouv.fr",
+              "date": "2026-10-15"
+            }
+          ]
+        }
+      },
+      {
+        "id": "droit-au-brut-250-euros",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "« Droit au brut » : 250 € nets de plus par mois au niveau du salaire médian",
+        "description": "Supprimer des cotisations pesant sur le travail pour réduire l'écart entre salaire brut et net, afin d'augmenter de 250 € nets par mois (« l'équivalent d'un treizième mois ») un salarié au salaire médian, présenté comme égal à 2 200 € nets, dès début 2027, sans coût supplémentaire pour l'employeur. Financement annoncé : économies sur le modèle social, d'abord sur l'assurance chômage et les indemnités journalières.",
+        "chiffres": [
+          "+250 € nets par mois au salaire médian",
+          "Salaire médian invoqué : 2 200 € nets",
+          "Coût total : non chiffré par le candidat"
+        ],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "Programme – Droit au brut : un treizième mois pour les classes moyennes qui travaillent",
+            "url": "https://attalpresident.fr/programme/mesures/droit-au-brut",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Présidentielle 2027 : Gabriel Attal révèle les premières lignes de son programme",
+            "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-revele-les-premieres-lignes-de-son-programme-magic-CNT000002pzsbo.html",
+            "media": "6Medias (Orange Actu)",
+            "date": "2026-05-24"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le chiffre de référence est exact : selon l'Insee, le salaire net médian en équivalent temps plein dans le secteur privé était de 2 190 € par mois en 2024. En revanche, le coût de la mesure (qui concernerait des millions de salariés) n'est pas publié : la fiche mesure du site (consultée le 13 novembre 2026) indique seulement que le « choc de salaires » doit être « financé à l'euro près par des économies sur le modèle social », d'abord sur l'assurance chômage et les indemnités journalières, sans montant global ni barème selon le niveau de salaire. Aucun chiffrage indépendant vérifiable n'a été trouvé ; un montant de 40 Md€ circule dans la presse régionale sans auteur ni méthode identifiables. Le financement annoncé n'est donc pas vérifiable.",
+          "sources": [
+            {
+              "titre": "Les salaires dans le secteur privé en 2024 (Insee Première n° 2079)",
+              "url": "https://www.insee.fr/fr/statistiques/8657156",
+              "media": "Insee",
+              "date": "2025-10-23"
+            },
+            {
+              "titre": "Programme – Droit au brut : un treizième mois pour les classes moyennes qui travaillent",
+              "url": "https://attalpresident.fr/programme/mesures/droit-au-brut",
+              "media": "Site de campagne de Gabriel Attal",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "reforme-chomage-5-md",
+        "theme": "emploi-travail",
+        "type": "proposition",
+        "titre": "Reprendre la réforme de l'assurance chômage pour 5 Md€ d'économies",
+        "description": "Reprendre « dès le début du mandat » la réforme de l'assurance chômage engagée lorsqu'il était Premier ministre et interrompue par la dissolution, pour 5 Md€ d'économies et au moins 100 000 emplois créés ; les économies financeraient la baisse des cotisations sur le travail. Le site ne précise pas les paramètres (durée, conditions d'affiliation).",
+        "chiffres": [
+          "5 Md€ d'économies",
+          "Au moins 100 000 emplois créés (selon le candidat)"
+        ],
+        "date": "2026-07-03",
+        "sources": [
+          {
+            "titre": "Programme – Réformer l'assurance chômage et réaliser cinq milliards d'économies",
+            "url": "https://attalpresident.fr/programme/mesures/reforme-assurance-chomage-cinq-milliards",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-07-03"
+          }
+        ],
+        "factCheck": {
+          "verdict": "invérifiable",
+          "analyse": "Les paramètres de la réforme n'étant pas publiés, le montant ne peut pas être vérifié. Pour comparaison, la réforme présentée par le gouvernement Attal en mai 2024 (durée maximale d'indemnisation ramenée de 18 à 15 mois, affiliation de 8 mois sur 20) était chiffrée par le ministère du Travail à environ 3,6 Md€ d'économies et 90 000 retours à l'emploi : les 5 Md€ et 100 000 emplois annoncés supposent donc une version plus large ou des hypothèses différentes.",
+          "sources": [
+            {
+              "titre": "Nouvelles règles de l'assurance chômage : ce qui va changer pour les demandeurs d'emploi",
+              "url": "https://www.publicsenat.fr/actualites/emploi/nouvelles-regles-de-lassurance-chomage-ce-qui-va-changer-pour-les-demandeurs-demploi",
+              "media": "Public Sénat",
+              "date": "2024-05-27"
+            }
+          ]
+        }
+      },
+      {
+        "id": "retraites-suppression-age-legal",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Supprimer l'âge légal de départ au profit de la durée de cotisation, avec une part de capitalisation",
+        "description": "Supprimer l'âge légal de départ à la retraite et faire de la durée de cotisation le critère principal, avec décote et surcote ; ajouter un pilier de capitalisation dont l'épargne finance l'innovation, avec un plan d'épargne retraite de 1 000 € ouvert par l'État à la naissance de chaque enfant et le fléchage de la moitié de l'intéressement vers l'épargne retraite. La durée de cotisation cible n'est pas précisée. Le site de campagne résume la position ainsi : « Les petites pensions protégées, et l'âge légal remplacé par la durée de cotisation » ; au 13 novembre 2026, aucune fiche mesure détaillée sur ce point n'y figure, la fiche consacrée à l'équilibre de la Sécurité sociale évoquant seulement une « nouvelle réforme des retraites ».",
+        "chiffres": [
+          "Âge légal : supprimé",
+          "PER de 1 000 € ouvert par l'État à chaque naissance",
+          "50 % de l'intéressement fléché vers l'épargne retraite"
+        ],
+        "date": "2026-06-18",
+        "sources": [
+          {
+            "titre": "Nos mesures pour les retraités",
+            "url": "https://attalpresident.fr/programme/publics/retraites",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Équilibrer les comptes de la Sécurité sociale",
+            "url": "https://attalpresident.fr/programme/mesures/equilibre-securite-sociale",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Le plan de Gabriel Attal pour les retraites : supprimer l'âge légal et instaurer à la place un modèle hybride",
+            "url": "https://placement.meilleurtaux.com/retraite/actualites/2026-mai/plan-de-gabriel-attal-retraites-supprimer-age-legal-instaurer-place-modele-hybride.html",
+            "media": "Meilleurtaux Placement",
+            "date": "2026-05-07"
+          },
+          {
+            "titre": "Retraites : Édouard Philippe sort du bois et propose un âge de départ à 65 ans",
+            "url": "https://www.publicsenat.fr/actualites/politique/retraites-edouard-philippe-sort-du-bois-et-propose-un-age-de-depart-a-65-ans",
+            "media": "Public Sénat / AFP",
+            "date": "2026-09-29"
+          },
+          {
+            "titre": "Programme – Retraite : une part de capitalisation fléchée vers l'innovation",
+            "url": "https://attalpresident.fr/programme/mesures/capitalisation-startups",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-06-18"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Faute de paramètres publiés (durée de cotisation requise, barème de décote et surcote), l'effet financier ne peut être évalué et aucun chiffrage indépendant n'a été trouvé. Édouard Philippe conteste la soutenabilité d'un système par répartition sans âge légal, mais il s'agit d'une critique politique et non d'une vérification. Le contexte invoqué est exact : l'âge légal est actuellement de 62 ans et 9 mois depuis la suspension de la réforme de 2023. La position (remplacement de l'âge légal par la durée de cotisation) est confirmée par le site de campagne, mais sans paramètres chiffrés.",
+          "sources": [
+            {
+              "titre": "Retraites : Édouard Philippe sort du bois et propose un âge de départ à 65 ans",
+              "url": "https://www.publicsenat.fr/actualites/politique/retraites-edouard-philippe-sort-du-bois-et-propose-un-age-de-depart-a-65-ans",
+              "media": "Public Sénat / AFP",
+              "date": "2026-09-29"
+            },
+            {
+              "titre": "Nos mesures pour les retraités",
+              "url": "https://attalpresident.fr/programme/publics/retraites",
+              "media": "Site de campagne de Gabriel Attal",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "enseignants-200-500-euros",
+        "theme": "education",
+        "type": "proposition",
+        "titre": "200 à 500 € nets de plus par mois pour les enseignants, sans suppression de postes",
+        "description": "Revaloriser les enseignants de 200 € nets par mois, jusqu'à 500 € en milieu de carrière, « dès la rentrée 2027 » selon la fiche mesure du site de campagne (« 200 euros nets par mois pour les enseignants dès 2027 », jusqu'à 500 € en milieu de carrière), mais « dès le budget pour 2028 » dans l'entretien publié par franceinfo le 12 novembre 2026, financé par des économies sur les dépenses sociales ; maintenir le nombre d'enseignants malgré la baisse démographique ; brevet obligatoire pour entrer au lycée, IA intégrée aux programmes dès le collège, rétablissement du redoublement et un seul ministre de l'Éducation pendant cinq ans.",
+        "chiffres": [
+          "+200 à +500 € nets par mois",
+          "0 poste supprimé dans l'Éducation nationale",
+          "Coût : non chiffré par le candidat"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Programme – 200 à 500 euros nets de plus par mois pour les enseignants",
+            "url": "https://attalpresident.fr/programme/mesures/revalorisation-salaires-professeurs",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Présidentielle 2027 : Gabriel Attal promet qu'il n'y aura \"pas de poste supprimé\" dans l'Éducation nationale s'il est élu",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-le-candidat-renaissance-gabriel-attal-promet-qu-il-n-y-aura-pas-de-poste-supprime-dans-l-education-nationale-s-il-est-elu_8278985.html",
+            "media": "franceinfo",
+            "date": "2026-11-12"
+          },
+          {
+            "titre": "Nos mesures pour les enseignants",
+            "url": "https://attalpresident.fr/programme/publics/enseignants",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Ni le coût ni le nombre de bénéficiaires ne sont publiés par le candidat (la fiche mesure indique seulement un financement « notamment par des économies sur les dépenses sociales »), et aucun chiffrage indépendant n'a été trouvé au 13 novembre 2026. Le calendrier reste ambigu : la fiche mesure annonce une hausse « dès la rentrée 2027 », alors que le candidat a évoqué sur franceinfo, le 12 novembre 2026, une mise en œuvre « dès le budget pour 2028 » ; la rentrée de septembre 2027 relève du budget 2027, voté avant l'élection, et nécessiterait donc une loi de finances rectificative.",
+          "sources": [
+            {
+              "titre": "Présidentielle 2027 : Gabriel Attal promet qu'il n'y aura \"pas de poste supprimé\" dans l'Éducation nationale s'il est élu",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-le-candidat-renaissance-gabriel-attal-promet-qu-il-n-y-aura-pas-de-poste-supprime-dans-l-education-nationale-s-il-est-elu_8278985.html",
+              "media": "franceinfo",
+              "date": "2026-11-12"
+            }
+          ]
+        }
+      },
+      {
+        "id": "justice-3000-magistrats-greffiers",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "Recruter 3 000 magistrats et greffiers et accélérer les procédures",
+        "description": "Recruter 3 000 magistrats et greffiers supplémentaires, en priorité pour les plaintes en attente, les affaires impliquant des mineurs et les juridictions les plus chargées ; garantir des premiers actes d'enquête sous 48 heures (pour les crimes sur mineurs selon le site, pour chaque plainte selon l'entretien à franceinfo) et juger les crimes sur mineurs en moins de trois mois ; réécrire le code de procédure pénale en cent jours et supprimer le juge de l'application des peines ; construire davantage de places de prison.",
+        "chiffres": [
+          "3 000 magistrats et greffiers supplémentaires",
+          "Premiers actes d'enquête sous 48 heures",
+          "Code de procédure pénale réécrit en 100 jours"
+        ],
+        "date": "2026-06-12",
+        "sources": [
+          {
+            "titre": "Programme – Recruter 3 000 magistrats et greffiers pour raccourcir les délais de jugement",
+            "url": "https://attalpresident.fr/programme/mesures/trois-mille-magistrats-greffiers",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-06-12"
+          },
+          {
+            "titre": "Présidentielle 2027 : Gabriel Attal promet qu'il n'y aura \"pas de poste supprimé\" dans l'Éducation nationale s'il est élu",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-le-candidat-renaissance-gabriel-attal-promet-qu-il-n-y-aura-pas-de-poste-supprime-dans-l-education-nationale-s-il-est-elu_8278985.html",
+            "media": "franceinfo",
+            "date": "2026-11-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le coût, la répartition magistrats/greffiers et le calendrier ne sont pas précisés, et aucune évaluation indépendante n'a été trouvée. Public Sénat relève que le budget 2026 de la justice a fait l'objet d'un gel de 414 M€ et que des recrutements ont été reportés, ce qui illustre la contrainte budgétaire pesant sur ce type d'engagement.",
+          "sources": [
+            {
+              "titre": "Affaire Lyhanna : une hausse en trompe-l'œil du budget de la Justice ?",
+              "url": "https://www.publicsenat.fr/actualites/institutions/affaire-lyhanna-une-hausse-en-trompe-loeil-du-budget-de-la-justice",
+              "media": "Public Sénat",
+              "date": "2026-06-12"
+            }
+          ]
+        }
+      },
+      {
+        "id": "quotas-migratoires-systeme-a-points",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "Quotas migratoires votés par le Parlement et système à points",
+        "description": "Instaurer une « préférence travail » : des plafonds d'entrées définis avec les partenaires sociaux selon les besoins économiques, par secteur, origine géographique et nationalité, votés par le Parlement et révisés tous les deux ans ; un système à points inspiré du Canada (emploi stable, logement, maîtrise du français, adhésion aux valeurs) ; durcissement du regroupement familial. Le candidat écarte les centres de renvoi dans des pays tiers.",
+        "chiffres": [
+          "Quotas révisés tous les deux ans",
+          "Aucun volume cible annoncé"
+        ],
+        "date": "2026-09-06",
+        "sources": [
+          {
+            "titre": "Programme – Définir des quotas migratoires révisés tous les deux ans",
+            "url": "https://attalpresident.fr/programme/mesures/quotas-migratoires-revises",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-09-06"
+          },
+          {
+            "titre": "Programme – Instaurer un système à points pour l'immigration",
+            "url": "https://attalpresident.fr/programme/mesures/immigration-systeme-a-points",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-05-30"
+          },
+          {
+            "titre": "Présidentielle 2027 : Gabriel Attal révèle les premières lignes de son programme",
+            "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-revele-les-premieres-lignes-de-son-programme-magic-CNT000002pzsbo.html",
+            "media": "6Medias (Orange Actu)",
+            "date": "2026-05-24"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La proposition ne comporte aucun volume chiffré et aucune analyse indépendante de sa faisabilité juridique (application de quotas par nationalité aux motifs familial et humanitaire) n'a été trouvée. Pour mémoire, la DGEF recense 377 462 premiers titres de séjour en 2025, dont seulement 13,5 % pour motif économique, ce qui limite la part de l'immigration directement pilotable par des quotas de travail.",
+          "sources": [
+            {
+              "titre": "Les titres de séjour en 2025 : Les protections subsidiaires ont plus que doublé",
+              "url": "https://www.immigration.interieur.gouv.fr/documentation/etudes-et-statistiques/titres-de-sejour-en-2025-protections-subsidiaires-ont-plus-que-double.html",
+              "media": "Ministère de l'Intérieur (DGEF)",
+              "date": "2026-06-30"
+            }
+          ]
+        }
+      },
+      {
+        "id": "plan-ia-200-md",
+        "theme": "numerique-innovation",
+        "type": "proposition",
+        "titre": "200 Md€ sur dix ans pour l'intelligence artificielle",
+        "description": "Investir 200 Md€ sur dix ans dans l'IA et l'innovation, moitié public (économies sur les arrêts maladie, gel des prestations) et moitié privé (épargne longue, capitalisation retraite, fléchage de l'intéressement), via des contrats et commandes publiques plutôt que des subventions, pour faire de la France la première puissance européenne de l'IA ; former 20 millions de salariés à l'IA d'ici 2030 et multiplier par sept la puissance de calcul européenne.",
+        "chiffres": [
+          "200 Md€ sur 10 ans (50 % public, 50 % privé)",
+          "20 millions de salariés formés à l'IA d'ici 2030"
+        ],
+        "date": "2026-06-19",
+        "sources": [
+          {
+            "titre": "Programme – Investir 200 milliards d'euros pour l'IA",
+            "url": "https://attalpresident.fr/programme/mesures/plan-france-2040",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-06-19"
+          },
+          {
+            "titre": "Programme – Former tous les salariés à l'IA d'ici 2030",
+            "url": "https://attalpresident.fr/programme/mesures/vingt-millions-salaries-ia",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-06-18"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification ni évaluation indépendante du montant, de sa répartition public/privé ou de la capacité à mobiliser 100 Md€ d'épargne privée n'a été trouvée. Le coût et le financement du plan de formation de 20 millions de salariés ne sont pas précisés.",
+          "sources": [
+            {
+              "titre": "Programme – Investir 200 milliards d'euros pour l'IA",
+              "url": "https://attalpresident.fr/programme/mesures/plan-france-2040",
+              "media": "Site de campagne de Gabriel Attal",
+              "date": "2026-06-19"
+            }
+          ]
+        }
+      },
+      {
+        "id": "plan-messmer-2",
+        "theme": "environnement-energie",
+        "type": "proposition",
+        "titre": "Plan « Messmer II » : 14 EPR et réduction de la part des énergies fossiles",
+        "description": "Réduire la part des énergies fossiles d'environ 60 % à 40 % de la consommation finale à court terme, puis sous 30 % en 2035, pour une neutralité carbone en 2050 ; sécuriser la construction de 14 EPR et viser un réacteur construit par an ; prix de l'électricité d'environ 75 €/MWh, contrats sous 50 €/MWh pour les industriels exposés ; prime carburant relevée à 1 000 € sans charges ni impôts.",
+        "chiffres": [
+          "Fossiles : de ~60 % à 40 %, puis < 30 % en 2035",
+          "14 EPR, un réacteur par an",
+          "Électricité à ~75 €/MWh ; < 50 €/MWh pour les industriels exposés",
+          "Prime carburant jusqu'à 1 000 €"
+        ],
+        "date": "2026-09-23",
+        "sources": [
+          {
+            "titre": "Gabriel Attal présente un plan de désendettement et un « Messmer II » pour sortir des dépendances françaises",
+            "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-un-plan-de-desendettement-et-un-messmer-ii-pour-sortir-des-dependances-francaises",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-09-23"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le coût du programme nucléaire et la faisabilité industrielle d'un réacteur par an ne sont pas évalués par une source indépendante consultée. Le point de départ est proche des données officielles : selon le SDES, les énergies fossiles représentent environ 56 % de la consommation finale énergétique en 2025 (pétrole 38 %, gaz 18 %), un peu moins que les « près de 60 % » invoqués.",
+          "sources": [
+            {
+              "titre": "Chiffres clés de l'énergie - Édition 2026",
+              "url": "https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-de-lenergie-edition-2026",
+              "media": "SDES – ministère de la Transition écologique",
+              "date": "2026-09-30"
+            }
+          ]
+        }
+      },
+      {
+        "id": "referendum-annuel-big-bang-territorial",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Journée référendaire annuelle et suppression d'un échelon de collectivité",
+        "description": "Instaurer une journée référendaire par an pour que les Français tranchent les grandes orientations du pays, faciliter les référendums locaux, supprimer un échelon de collectivité territoriale pour lutter contre les doublons (« big bang territorial » dès la rentrée suivant l'élection), faire du maire « l'élu le plus puissant de France » et réformer les nominations aux hautes fonctions de l'État.",
+        "chiffres": [
+          "1 journée référendaire par an",
+          "1 échelon de collectivité supprimé"
+        ],
+        "date": "2026-07-03",
+        "sources": [
+          {
+            "titre": "Programme – Chantiers capitaux (attalpresident.fr)",
+            "url": "https://attalpresident.fr/programme",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Dans Le Parisien : Gabriel Attal vise le zéro déficit en 2037",
+            "url": "https://attalpresident.fr/actualites/dans-le-parisien-gabriel-attal-vise-le-zero-deficit-en-2037",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-07-03"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune analyse indépendante n'a été trouvée sur la faisabilité constitutionnelle d'une journée référendaire annuelle ni sur les économies attendues de la suppression d'un échelon territorial, dont le niveau n'est pas précisé.",
+          "sources": [
+            {
+              "titre": "Programme – Chantiers capitaux (attalpresident.fr)",
+              "url": "https://attalpresident.fr/programme",
+              "media": "Site de campagne de Gabriel Attal",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "dome-de-fer-europeen",
+        "theme": "defense",
+        "type": "proposition",
+        "titre": "Dôme de fer européen et préférence européenne dans la commande de défense",
+        "description": "Créer un « dôme de fer » européen contre les missiles et les drones, instaurer une préférence européenne dans la commande publique de défense, créer des fonds d'investissement dédiés aux PME de la défense, auditer les programmes d'armement et rédiger un nouveau Livre blanc de la défense en 2027.",
+        "chiffres": [
+          "Aucun montant annoncé"
+        ],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "Programme – Chantiers capitaux (attalpresident.fr)",
+            "url": "https://attalpresident.fr/programme",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Proposition non chiffrée ; aucune vérification ni évaluation indépendante de son coût ou de sa faisabilité au niveau européen n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Programme – Chantiers capitaux (attalpresident.fr)",
+              "url": "https://attalpresident.fr/programme",
+              "media": "Site de campagne de Gabriel Attal",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "declaration-deficit-5-4-pourcent-2026",
+        "theme": "economie-fiscalite",
+        "type": "declaration-chiffree",
+        "titre": "« Déficit public attendu à 5,4 % du PIB en 2026 »",
+        "description": "Le plan de désendettement présenté le 23 septembre 2026 s'appuie sur un déficit public attendu à 5,4 % du PIB en 2026.",
+        "chiffres": [
+          "Déficit public 2026 : 5,4 % du PIB"
+        ],
+        "date": "2026-09-23",
+        "sources": [
+          {
+            "titre": "Gabriel Attal présente un plan de désendettement et un « Messmer II » pour sortir des dépendances françaises",
+            "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-un-plan-de-desendettement-et-un-messmer-ii-pour-sortir-des-dependances-francaises",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-09-23"
+          }
+        ],
+        "factCheck": {
+          "verdict": "vrai",
+          "analyse": "Le gouvernement prévoit un déficit public de 5,4 % du PIB en 2026 (contre 5,0 % en loi de finances initiale), après 5,1 % en 2025 ; dans son avis du 25 septembre 2026, le Haut Conseil des finances publiques juge cette prévision « plausible », sous réserve d'aléas significatifs. Il s'agit d'une prévision, non d'un résultat définitif.",
+          "sources": [
+            {
+              "titre": "Avis n° HCFP - 2026 - 5 relatif aux projets de lois de finances et de financement de la sécurité sociale pour l'année 2027",
+              "url": "https://www.hcfp.fr/sites/default/files/2026-10/Avis%20HCFP%202026-5%20-%20PLF-PLFSS%202027.pdf",
+              "media": "Haut Conseil des finances publiques",
+              "date": "2026-09-25"
+            },
+            {
+              "titre": "En 2025, le déficit public s'élève à 5,1 % du PIB, la dette publique à 115,6 % du PIB",
+              "url": "https://www.insee.fr/fr/statistiques/8956575",
+              "media": "Insee",
+              "date": "2026-03-27"
+            }
+          ]
+        }
+      },
+      {
+        "id": "declaration-budget-justice-50-pourcent",
+        "theme": "securite-justice",
+        "type": "declaration-chiffree",
+        "titre": "Budget de la justice « en hausse d'environ 50 % depuis 2016 »",
+        "description": "Pour justifier le recrutement de 3 000 magistrats et greffiers, le site de campagne affirme que le budget de la justice a augmenté d'environ 50 % depuis 2016 sans réduction des délais de jugement.",
+        "chiffres": [
+          "Hausse du budget de la justice : environ 50 % depuis 2016"
+        ],
+        "date": "2026-06-12",
+        "sources": [
+          {
+            "titre": "Programme – Recruter 3 000 magistrats et greffiers pour raccourcir les délais de jugement",
+            "url": "https://attalpresident.fr/programme/mesures/trois-mille-magistrats-greffiers",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-06-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "Selon le rapporteur sénatorial Antoine Lefèvre, cité par Public Sénat, les crédits de la mission Justice ont augmenté de 62 % en euros courants et de 33 % en euros constants depuis 2017 ; en euros constants, ils sont passés d'environ 8 Md€ à 10,8 Md€ en 2026. Le chiffre d'environ 50 % se situe donc entre les deux mesures : il est plausible en euros courants mais surestime la hausse réelle une fois l'inflation déduite.",
+          "sources": [
+            {
+              "titre": "Affaire Lyhanna : une hausse en trompe-l'œil du budget de la Justice ?",
+              "url": "https://www.publicsenat.fr/actualites/institutions/affaire-lyhanna-une-hausse-en-trompe-loeil-du-budget-de-la-justice",
+              "media": "Public Sénat",
+              "date": "2026-06-12"
+            }
+          ]
+        }
+      },
+      {
+        "id": "declaration-dependance-fossiles",
+        "theme": "environnement-energie",
+        "type": "declaration-chiffree",
+        "titre": "Fossiles « près de 60 % » de la consommation finale, pétrole et gaz importés à 99 % et 98 %",
+        "description": "Pour justifier le plan Messmer II, Gabriel Attal affirme que la France importe 99 % de son pétrole et 98 % de son gaz, et que les énergies fossiles représentent près de 60 % de la consommation finale d'énergie.",
+        "chiffres": [
+          "99 % du pétrole importé",
+          "98 % du gaz importé",
+          "Fossiles : près de 60 % de la consommation finale"
+        ],
+        "date": "2026-09-23",
+        "sources": [
+          {
+            "titre": "Gabriel Attal présente un plan de désendettement et un « Messmer II » pour sortir des dépendances françaises",
+            "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-un-plan-de-desendettement-et-un-messmer-ii-pour-sortir-des-dependances-francaises",
+            "media": "Site de campagne de Gabriel Attal",
+            "date": "2026-09-23"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "Selon les Chiffres clés de l'énergie 2026 du SDES, les énergies fossiles représentent environ 56 % de la consommation finale énergétique en 2025 (pétrole 38 %, gaz naturel 18 %, charbon moins de 1 %) : « près de 60 % » arrondit légèrement à la hausse. Le SDES indique que la France importe « la quasi-totalité » des énergies fossiles qu'elle consomme, ce qui est cohérent avec les 99 % et 98 % avancés, sans que ces pourcentages précis aient pu être vérifiés dans la source consultée.",
+          "sources": [
+            {
+              "titre": "Chiffres clés de l'énergie - Édition 2026",
+              "url": "https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-de-lenergie-edition-2026",
+              "media": "SDES – ministère de la Transition écologique",
+              "date": "2026-09-30"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

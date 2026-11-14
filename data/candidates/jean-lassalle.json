@@ -1,0 +1,661 @@
+{
+  "id": "jean-lassalle",
+  "prenom": "Jean",
+  "nom": "Lassalle",
+  "parti": "Résistons !",
+  "partiAbrev": "RES",
+  "famillePolitique": "centre",
+  "couleur": "#2E5AAC",
+  "statutCandidature": "potentiel",
+  "candidature": {
+    "texte": "Jean Lassalle n'a pas officialisé de candidature à la date de mise à jour. Le 10 juillet 2026, il a lancé une cagnotte pour financer une troisième candidature « contre le système », en estimant avoir besoin d'au moins 100 000 € et en annonçant une décision à l'automne. Le 8 octobre 2026, il déclarait : « Je n'ai pas encore pris la décision. Je vais voir ». Début novembre 2026, selon Sud Ouest cité par L'Express, il a réuni environ 50 000 €, a discrètement commencé sa campagne et cherche ses 500 parrainages, notamment au congrès des maires (24-26 novembre). Il revendiquait 250 promesses de parrainage en juillet. LCP et franceinfo le citent parmi les candidatures annoncées, mais faute de déclaration formelle il est classé ici comme candidat potentiel.",
+    "date": "2026-07-10",
+    "sources": [
+      {
+        "titre": "Présidentielle : Jean Lassalle lance une cagnotte pour financer sa candidature",
+        "url": "https://www.europe1.fr/node/970134",
+        "media": "Europe 1 (avec AFP)",
+        "date": "2026-07-10"
+      },
+      {
+        "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour être candidat",
+        "url": "https://www.ici.fr/emissions/l-invite-de-la-redaction-de-ici-bearn-bigorre/jean-lassalle-lance-une-cagnotte-pour-etre-candidat-a-la-presidentielle-de-2027-2094458",
+        "media": "ICI Béarn Bigorre",
+        "date": "2026-07-10"
+      },
+      {
+        "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour pouvoir être de nouveau candidat à l'élection",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-de-nouveau-candidat-a-l-election_8102522.html",
+        "media": "franceinfo",
+        "date": "2026-07-15"
+      },
+      {
+        "titre": "Jean Lassalle : « Agriculteurs, reprenez vos rêves. Parce que les rêves, ça permet de sortir du cauchemar »",
+        "url": "https://www.pleinchamp.com/actualite/jean-lassalle-agriculteurs-reprenez-vos-reves.-parce-que-les-reves-ca-permet-de-sortir-du-cauchemar",
+        "media": "Pleinchamp",
+        "date": "2026-10-08"
+      },
+      {
+        "titre": "Présidentielle 2027 : Jean Lassalle en quête de 500 parrainages",
+        "url": "https://actu.orange.fr/politique/presidentielle-2027-jean-lassalle-en-quete-de-500-parrainages-l-express-via-6medias-CNT000002tCpt5.html",
+        "media": "L'Express via 6Médias (Orange Actu)",
+        "date": "2026-11-08"
+      },
+      {
+        "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-10"
+      },
+      {
+        "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "media": "franceinfo",
+        "date": "2026-11-09"
+      },
+      {
+        "titre": "Candidatures à l'élection présidentielle française de 2027",
+        "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1955-05-03",
+      "lieu": "Lourdios-Ichère (Pyrénées-Atlantiques)",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Jean Lassalle",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-jean-lassalle",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Jean Lassalle",
+          "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Issu d'une famille de bergers, Jean Lassalle a été maire de Lourdios-Ichère pendant quarante ans (1977-2017) et député des Pyrénées-Atlantiques pendant vingt ans (2002-2022). Ancien de l'UDF puis vice-président du MoDem, il quitte ce parti en 2016 et fonde Résistons !, mouvement ruraliste et « antisystème ». Candidat à la présidentielle en 2017 (1,21 %) et 2022 (3,13 %), il conduit une liste aux européennes de 2024 (2,35 %) et est battu aux législatives de 2024. Depuis l'automne 2025, il joue un one-man show autobiographique.",
+    "formation": [
+      {
+        "texte": "Études classiques, puis formation de technicien agricole spécialisé en hydraulique et aménagement du territoire.",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de Jean Lassalle",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-jean-lassalle",
+            "media": "Sud Radio",
+            "date": "2026"
+          },
+          {
+            "titre": "Jean Lassalle",
+            "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Technicien agricole, puis fondateur d'une société de conseil ; depuis 2025, il joue un one-man show autobiographique.",
+        "sources": [
+          {
+            "titre": "Jean Lassalle",
+            "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Présidentielle : Jean Lassalle lance une cagnotte pour financer sa candidature",
+            "url": "https://www.europe1.fr/node/970134",
+            "media": "Europe 1 (avec AFP)",
+            "date": "2026-07-10"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "La biographie et le CV de Jean Lassalle",
+        "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-jean-lassalle",
+        "media": "Sud Radio",
+        "date": "2026"
+      },
+      {
+        "titre": "Jean Lassalle",
+        "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Présidentielle : Jean Lassalle lance une cagnotte pour financer sa candidature",
+        "url": "https://www.europe1.fr/node/970134",
+        "media": "Europe 1 (avec AFP)",
+        "date": "2026-07-10"
+      },
+      {
+        "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "media": "franceinfo",
+        "date": "2026-11-09"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "1977",
+      "fin": "2017",
+      "fonction": "Maire de Lourdios-Ichère (Pyrénées-Atlantiques)",
+      "details": "Du 26 mars 1977 au 16 juillet 2017.",
+      "sources": [
+        {
+          "titre": "Jean Lassalle",
+          "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Présidentielle : Jean Lassalle lance une cagnotte pour financer sa candidature",
+          "url": "https://www.europe1.fr/node/970134",
+          "media": "Europe 1 (avec AFP)",
+          "date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "debut": "1982",
+      "fin": "2015",
+      "fonction": "Conseiller général des Pyrénées-Atlantiques (canton d'Accous)",
+      "details": "Vice-président du conseil général de 1991 à 2001.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Jean Lassalle",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-jean-lassalle",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Jean Lassalle",
+          "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "1989",
+      "fin": "1999",
+      "fonction": "Président du parc national des Pyrénées",
+      "details": "",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Jean Lassalle",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-jean-lassalle",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Jean Lassalle",
+          "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2002",
+      "fin": "2022",
+      "fonction": "Député de la 4e circonscription des Pyrénées-Atlantiques",
+      "details": "Élu en 2002, réélu jusqu'en 2017 ; il ne se représente pas en 2022.",
+      "sources": [
+        {
+          "titre": "Jean Lassalle",
+          "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Présidentielle : Jean Lassalle lance une cagnotte pour financer sa candidature",
+          "url": "https://www.europe1.fr/node/970134",
+          "media": "Europe 1 (avec AFP)",
+          "date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "debut": "2010",
+      "fin": "2016",
+      "fonction": "Vice-président du MoDem",
+      "details": "Quitte le MoDem en 2016 pour fonder Résistons !.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Jean Lassalle",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-jean-lassalle",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Jean Lassalle",
+          "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2016",
+      "fin": null,
+      "fonction": "Fondateur et président de Résistons !",
+      "details": "",
+      "sources": [
+        {
+          "titre": "Jean Lassalle",
+          "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Présidentielle : Jean Lassalle lance une cagnotte pour financer sa candidature",
+          "url": "https://www.europe1.fr/node/970134",
+          "media": "Europe 1 (avec AFP)",
+          "date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "debut": "2017",
+      "fin": "2022",
+      "fonction": "Candidat à l'élection présidentielle (2017, 2022)",
+      "details": "1,21 % en 2017 et 3,13 % en 2022.",
+      "sources": [
+        {
+          "titre": "Résultats de l'élection présidentielle 2017 – France entière",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/presidentielle-2017/FE.php",
+          "media": "Ministère de l'Intérieur (archives des résultats électoraux)",
+          "date": "2017-04-23"
+        },
+        {
+          "titre": "Résultats de l'élection présidentielle 2022 – France entière",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/presidentielle-2022/FE.php",
+          "media": "Ministère de l'Intérieur (archives des résultats électoraux)",
+          "date": "2022-04-10"
+        },
+        {
+          "titre": "Jean Lassalle",
+          "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "media": "franceinfo",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "debut": "2024",
+      "fin": "2024",
+      "fonction": "Tête de liste aux européennes et candidat aux législatives de 2024",
+      "details": "Liste Résistons ! à 2,35 % aux européennes, sans élu ; battu aux législatives dans la 4e circonscription des Pyrénées-Atlantiques.",
+      "sources": [
+        {
+          "titre": "Jean Lassalle",
+          "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Législatives 2024 : Jean Lassalle battu, Iñaki Echaniz réélu dans la 4e circonscription des Pyrénées-Atlantiques",
+          "url": "https://www.francebleu.fr/infos/politique/legislatives-2024-le-depute-sortant-inaki-echaniz-nfp-reelu-dans-la-4e-circonscription-des-pyrenees-atlantiques-8820484",
+          "media": "France Bleu",
+          "date": "2024-07-07"
+        },
+        {
+          "titre": "Présidentielle : Jean Lassalle lance une cagnotte pour financer sa candidature",
+          "url": "https://www.europe1.fr/node/970134",
+          "media": "Europe 1 (avec AFP)",
+          "date": "2026-07-10"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Aucune procédure judiciaire en cours connue le visant à ce jour. Une enquête préliminaire ouverte en 2023 pour viol et agression sexuelle a été classée sans suite en mars 2024.",
+    "sources": [
+      {
+        "titre": "Jean Lassalle",
+        "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "L'enquête pour viol et agression sexuelle visant Jean Lassalle classée sans suite",
+        "url": "https://www.lemonde.fr/politique/article/2024/03/29/l-enquete-pour-viol-et-agression-sexuelle-visant-jean-lassalle-classee-sans-suite_6224878_823448.html",
+        "media": "Le Monde",
+        "date": "2024-03-29"
+      }
+    ],
+    "affaires": [
+      {
+        "titre": "Enquête préliminaire pour viol et agression sexuelle (2023)",
+        "statut": "classement",
+        "role": "visé par l'enquête",
+        "resume": "En juillet 2023, une enquête préliminaire pour viol et agression sexuelle a été ouverte à son encontre, portant selon le parquet sur des faits anciens (2010). Elle a été classée sans suite le 29 mars 2024. Jean Lassalle n'a été ni mis en examen ni poursuivi.",
+        "chronologie": [
+          {
+            "date": "2023-07-21",
+            "evenement": "Révélation de l'ouverture d'une enquête préliminaire pour viol et agression sexuelle.",
+            "sources": [
+              {
+                "titre": "Jean Lassalle, ex-député et candidat à l'élection présidentielle, visé par une enquête préliminaire pour viol",
+                "url": "https://www.lemonde.fr/societe/article/2023/07/21/jean-lassalle-vise-par-une-enquete-preliminaire-pour-viol_6182876_3224.html",
+                "media": "Le Monde",
+                "date": "2023-07-21"
+              },
+              {
+                "titre": "Jean Lassalle visé par une enquête préliminaire pour viol et agressions sexuelles",
+                "url": "https://www.bfmtv.com/police-justice/jean-lassalle-vise-par-une-enquete-preliminaire-pour-viols-et-agressions-sexuelles_AN-202307210063.html",
+                "media": "BFMTV",
+                "date": "2023-07-21"
+              }
+            ]
+          },
+          {
+            "date": "2024-03-29",
+            "evenement": "Classement sans suite de l'enquête.",
+            "sources": [
+              {
+                "titre": "L'enquête pour viol et agression sexuelle visant Jean Lassalle classée sans suite",
+                "url": "https://www.lemonde.fr/politique/article/2024/03/29/l-enquete-pour-viol-et-agression-sexuelle-visant-jean-lassalle-classee-sans-suite_6224878_823448.html",
+                "media": "Le Monde",
+                "date": "2024-03-29"
+              },
+              {
+                "titre": "Jean Lassalle",
+                "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Jean Lassalle, ex-député et candidat à l'élection présidentielle, visé par une enquête préliminaire pour viol",
+            "url": "https://www.lemonde.fr/societe/article/2023/07/21/jean-lassalle-vise-par-une-enquete-preliminaire-pour-viol_6182876_3224.html",
+            "media": "Le Monde",
+            "date": "2023-07-21"
+          },
+          {
+            "titre": "Jean Lassalle visé par une enquête préliminaire pour viol et agressions sexuelles",
+            "url": "https://www.bfmtv.com/police-justice/jean-lassalle-vise-par-une-enquete-preliminaire-pour-viols-et-agressions-sexuelles_AN-202307210063.html",
+            "media": "BFMTV",
+            "date": "2023-07-21"
+          },
+          {
+            "titre": "L'enquête pour viol et agression sexuelle visant Jean Lassalle classée sans suite",
+            "url": "https://www.lemonde.fr/politique/article/2024/03/29/l-enquete-pour-viol-et-agression-sexuelle-visant-jean-lassalle-classee-sans-suite_6224878_823448.html",
+            "media": "Le Monde",
+            "date": "2024-03-29"
+          },
+          {
+            "titre": "Jean Lassalle",
+            "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "statut": "Pas encore de programme",
+    "resume": "Jean Lassalle n'a pas publié de programme pour 2027 ; le site de Résistons ! présente toujours son programme de 2022. Ses prises de position de 2026 portent sur une candidature « contre le système, mais pour la France », la défense d'une agriculture à taille humaine et de la transmission des exploitations, un salaire au niveau du Smic pour le parent qui élève les enfants, et un meilleur financement des petits partis. Les autres mesures ci-dessous viennent de son programme 2022 et sont signalées comme telles.",
+    "documents": [
+      {
+        "titre": "Jean Lassalle – Résistons ! (site de campagne 2022)",
+        "url": "http://resistons-france.fr/",
+        "media": "Résistons ! (site du mouvement)",
+        "date": "2022"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "salaire-parent-au-foyer",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Un salaire au niveau du Smic pour le parent au foyer",
+        "description": "Créer un salaire légal au niveau du Smic « pour celui ou celle » qui gère le foyer ou élève les enfants, mesure défendue notamment pour les familles d'agriculteurs.",
+        "chiffres": [
+          "Montant : niveau du Smic"
+        ],
+        "date": "2026-10-08",
+        "sources": [
+          {
+            "titre": "Jean Lassalle : « Agriculteurs, reprenez vos rêves. Parce que les rêves, ça permet de sortir du cauchemar »",
+            "url": "https://www.pleinchamp.com/actualite/jean-lassalle-agriculteurs-reprenez-vos-reves.-parce-que-les-reves-ca-permet-de-sortir-du-cauchemar",
+            "media": "Pleinchamp",
+            "date": "2026-10-08"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Ni le nombre de bénéficiaires, ni le coût, ni le financement ne sont précisés. Selon le périmètre retenu, le coût pourrait être très élevé. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Jean Lassalle : « Agriculteurs, reprenez vos rêves. Parce que les rêves, ça permet de sortir du cauchemar »",
+              "url": "https://www.pleinchamp.com/actualite/jean-lassalle-agriculteurs-reprenez-vos-reves.-parce-que-les-reves-ca-permet-de-sortir-du-cauchemar",
+              "media": "Pleinchamp",
+              "date": "2026-10-08"
+            }
+          ]
+        }
+      },
+      {
+        "id": "agriculture-taille-humaine",
+        "theme": "agriculture",
+        "type": "proposition",
+        "titre": "Exploitations à taille humaine et transmission",
+        "description": "Défendre des exploitations agricoles à taille humaine, faciliter la transmission des fermes et l'installation des jeunes, qu'il juge entravée par l'endettement (« un paquet de dettes sur le paletot » avant de commencer), et valoriser l'enseignement agricole.",
+        "chiffres": [],
+        "date": "2026-10-08",
+        "sources": [
+          {
+            "titre": "Jean Lassalle : « Agriculteurs, reprenez vos rêves. Parce que les rêves, ça permet de sortir du cauchemar »",
+            "url": "https://www.pleinchamp.com/actualite/jean-lassalle-agriculteurs-reprenez-vos-reves.-parce-que-les-reves-ca-permet-de-sortir-du-cauchemar",
+            "media": "Pleinchamp",
+            "date": "2026-10-08"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Il s'agit d'orientations générales, sans mesure chiffrée ni dispositif précis, ce qui empêche toute vérification. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Jean Lassalle : « Agriculteurs, reprenez vos rêves. Parce que les rêves, ça permet de sortir du cauchemar »",
+              "url": "https://www.pleinchamp.com/actualite/jean-lassalle-agriculteurs-reprenez-vos-reves.-parce-que-les-reves-ca-permet-de-sortir-du-cauchemar",
+              "media": "Pleinchamp",
+              "date": "2026-10-08"
+            }
+          ]
+        }
+      },
+      {
+        "id": "financement-petits-partis",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Mieux financer les petits partis",
+        "description": "Créer une « banque pour les petits partis », car le cadre actuel de financement des campagnes favoriserait les grands partis (« C'est pas la démocratie »). Il chiffre à au moins 100 000 € le budget nécessaire pour lancer officiellement une candidature.",
+        "chiffres": [
+          "Besoin minimal annoncé pour lancer une campagne : 100 000 €"
+        ],
+        "date": "2026-07-10",
+        "sources": [
+          {
+            "titre": "Présidentielle : Jean Lassalle lance une cagnotte pour financer sa candidature",
+            "url": "https://www.europe1.fr/node/970134",
+            "media": "Europe 1 (avec AFP)",
+            "date": "2026-07-10"
+          },
+          {
+            "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour être candidat",
+            "url": "https://www.ici.fr/emissions/l-invite-de-la-redaction-de-ici-bearn-bigorre/jean-lassalle-lance-une-cagnotte-pour-etre-candidat-a-la-presidentielle-de-2027-2094458",
+            "media": "ICI Béarn Bigorre",
+            "date": "2026-07-10"
+          },
+          {
+            "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour pouvoir être de nouveau candidat à l'élection",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-de-nouveau-candidat-a-l-election_8102522.html",
+            "media": "franceinfo",
+            "date": "2026-07-15"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La proposition n'est pas détaillée (statut, garanties, montant). Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Présidentielle : Jean Lassalle lance une cagnotte pour financer sa candidature",
+              "url": "https://www.europe1.fr/node/970134",
+              "media": "Europe 1 (avec AFP)",
+              "date": "2026-07-10"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ric-700000",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Référendum d'initiative citoyenne à partir de 700 000 signataires",
+        "description": "Instaurer un référendum d'initiative citoyenne contraignant dès lors qu'une proposition réunit 700 000 citoyens. Mesure du programme présidentiel 2022 (dernier programme publié) ; pas de programme 2027 à ce jour.",
+        "chiffres": [
+          "Seuil : 700 000 citoyens"
+        ],
+        "date": "2022",
+        "sources": [
+          {
+            "titre": "Jean Lassalle – Résistons ! (site de campagne 2022)",
+            "url": "http://resistons-france.fr/",
+            "media": "Résistons ! (site du mouvement)",
+            "date": "2022"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Cette réforme suppose une révision de la Constitution. Mesure de 2022, non reprise à ce jour pour 2027. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Jean Lassalle – Résistons ! (site de campagne 2022)",
+              "url": "http://resistons-france.fr/",
+              "media": "Résistons ! (site du mouvement)",
+              "date": "2022"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ruralite-3-md",
+        "theme": "territoires-services-publics",
+        "type": "proposition",
+        "titre": "3 Md€ par an pour la ruralité",
+        "description": "Consacrer 3 Md€ par an aux territoires ruraux, ouvrir 2 000 bureaux de police et de gendarmerie aux horaires élargis et recruter 6 000 gendarmes et policiers. Mesure du programme présidentiel 2022 (dernier programme publié) ; pas de programme 2027 à ce jour.",
+        "chiffres": [
+          "Ruralité : 3 Md€/an",
+          "6 000 gendarmes et policiers recrutés",
+          "2 000 bureaux de police et de gendarmerie"
+        ],
+        "date": "2022",
+        "sources": [
+          {
+            "titre": "Jean Lassalle – Résistons ! (site de campagne 2022)",
+            "url": "http://resistons-france.fr/",
+            "media": "Résistons ! (site du mouvement)",
+            "date": "2022"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Mesure de 2022, non reprise à ce jour pour 2027. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Jean Lassalle – Résistons ! (site de campagne 2022)",
+              "url": "http://resistons-france.fr/",
+              "media": "Résistons ! (site du mouvement)",
+              "date": "2022"
+            }
+          ]
+        }
+      },
+      {
+        "id": "sante-100000-soignants",
+        "theme": "sante",
+        "type": "proposition",
+        "titre": "100 000 soignants et 20 000 lits d'hôpital",
+        "description": "Recruter 100 000 infirmiers et aides-soignants sur le quinquennat et ouvrir 20 000 lits d'hôpital. Mesure du programme présidentiel 2022 (dernier programme publié) ; pas de programme 2027 à ce jour.",
+        "chiffres": [
+          "100 000 infirmiers et aides-soignants",
+          "20 000 lits"
+        ],
+        "date": "2022",
+        "sources": [
+          {
+            "titre": "Jean Lassalle – Résistons ! (site de campagne 2022)",
+            "url": "http://resistons-france.fr/",
+            "media": "Résistons ! (site du mouvement)",
+            "date": "2022"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le coût et le financement ne sont pas précisés dans les sources consultées. Mesure de 2022, non reprise à ce jour pour 2027. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Jean Lassalle – Résistons ! (site de campagne 2022)",
+              "url": "http://resistons-france.fr/",
+              "media": "Résistons ! (site du mouvement)",
+              "date": "2022"
+            }
+          ]
+        }
+      },
+      {
+        "id": "eoliennes-accord-maires",
+        "theme": "environnement-energie",
+        "type": "proposition",
+        "titre": "Stopper les éoliennes non approuvées par les maires",
+        "description": "Arrêter les projets éoliens qui n'ont pas reçu l'accord des maires des communes concernées. Mesure du programme présidentiel 2022 (dernier programme publié) ; pas de programme 2027 à ce jour.",
+        "chiffres": [],
+        "date": "2022",
+        "sources": [
+          {
+            "titre": "Jean Lassalle – Résistons ! (site de campagne 2022)",
+            "url": "http://resistons-france.fr/",
+            "media": "Résistons ! (site du mouvement)",
+            "date": "2022"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Mesure de 2022, non reprise à ce jour pour 2027. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Jean Lassalle – Résistons ! (site de campagne 2022)",
+              "url": "http://resistons-france.fr/",
+              "media": "Résistons ! (site du mouvement)",
+              "date": "2022"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

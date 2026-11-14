@@ -1,0 +1,466 @@
+{
+  "id": "francis-lalanne",
+  "prenom": "Francis",
+  "nom": "Lalanne",
+  "parti": "France Libre",
+  "partiAbrev": "FL",
+  "famillePolitique": "divers",
+  "couleur": "#7A6A4F",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Le chanteur Francis Lalanne a annoncé sa candidature le 19 août 2026 par un communiqué relayé par Le Parisien, avec le soutien du mouvement citoyen France Libre, et a lancé sa campagne lors d'un meeting au théâtre Galabru (Paris 18e) le 22 août. Il revendique une orientation « souverainiste et libertarienne » et une « rupture avec le système politique actuel ». L'humoriste Dieudonné, plusieurs fois condamné pour injures raciales et provocation à la haine, est présenté par l'AFP comme son « allié de combat » et lui apporte un « soutien total ». Il était frappé d'une inéligibilité de dix-huit mois à compter du 17 avril 2025, qui a pris fin à la mi-octobre 2026, avant le scrutin. LCP (10/11/2026) le range parmi les candidatures annoncées. Il doit réunir 500 parrainages avant le 12 mars 2027.",
+    "date": "2026-08-19",
+    "sources": [
+      {
+        "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+        "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+        "media": "La Gazette France (AFP)",
+        "date": "2026-08-19"
+      },
+      {
+        "titre": "Francis Lalanne officiellement candidat à la présidentielle 2027",
+        "url": "https://www.lalibre.be/international/europe/2026/08/19/francis-lalanne-officiellement-candidat-a-la-presidentielle-2027-IYHINYS4IJG43AHUFIS2XZVX54/",
+        "media": "La Libre Belgique",
+        "date": "2026-08-19"
+      },
+      {
+        "titre": "Présidentielle 2027 en France : Francis Lalanne se porte officiellement candidat",
+        "url": "https://www.parismatch.be/actualites/monde/2026/08/20/presidentielle-2027-en-france-francis-lalanne-se-porte-officiellement-candidat-MPG3IRWASFFBDB6PSNEI32JVZA/",
+        "media": "Paris Match Belgique",
+        "date": "2026-08-20"
+      },
+      {
+        "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-10"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1958-08-08",
+      "lieu": "Bayonne (Pyrénées-Atlantiques)",
+      "sources": [
+        {
+          "titre": "Francis Lalanne",
+          "url": "https://en.wikipedia.org/wiki/Francis_Lalanne",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Francis Lalanne est un chanteur, auteur-compositeur et poète franco-uruguayen actif depuis 1977, également acteur et écrivain. Il s'est présenté à plusieurs élections depuis une vingtaine d'années, d'abord sous une bannière écologiste. Soutien du mouvement des gilets jaunes, il a conduit la liste « Alliance jaune » aux européennes de 2019 (0,54 %), puis la liste France Libre aux européennes de 2024 (moins de 5 500 voix, 0,02 %). Il s'est fait connaître pendant la crise du Covid par des prises de position contre les mesures sanitaires. À 68 ans, il porte en 2027 un programme de sortie de l'Union européenne et de l'OTAN, de retour au franc et de démocratie directe.",
+    "formation": [],
+    "professionHorsPolitique": [
+      {
+        "texte": "Chanteur, auteur-compositeur et poète depuis 1977 ; acteur (voix française de Quasimodo dans « Le Bossu de Notre-Dame », 1996) et écrivain.",
+        "sources": [
+          {
+            "titre": "Francis Lalanne",
+            "url": "https://en.wikipedia.org/wiki/Francis_Lalanne",
+            "media": "Wikipedia (en)",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Francis Lalanne officiellement candidat à la présidentielle 2027",
+            "url": "https://www.lalibre.be/international/europe/2026/08/19/francis-lalanne-officiellement-candidat-a-la-presidentielle-2027-IYHINYS4IJG43AHUFIS2XZVX54/",
+            "media": "La Libre Belgique",
+            "date": "2026-08-19"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "Francis Lalanne",
+        "url": "https://en.wikipedia.org/wiki/Francis_Lalanne",
+        "media": "Wikipedia (en)",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+        "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+        "media": "La Gazette France (AFP)",
+        "date": "2026-08-19"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "2019",
+      "fin": "2019",
+      "fonction": "Tête de liste « Alliance jaune » aux élections européennes",
+      "details": "La liste obtient 0,54 % des voix.",
+      "sources": [
+        {
+          "titre": "Francis Lalanne",
+          "url": "https://en.wikipedia.org/wiki/Francis_Lalanne",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2024",
+      "fin": "2024",
+      "fonction": "Candidat sur la liste France Libre aux élections européennes",
+      "details": "Moins de 5 500 voix (0,02 %). L'absence de dépôt de compte de campagne lui a valu une inéligibilité de dix-huit mois.",
+      "sources": [
+        {
+          "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+          "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+          "media": "La Gazette France (AFP)",
+          "date": "2026-08-19"
+        },
+        {
+          "titre": "Municipales 2026 à Lyon : la justice confirme l'inéligibilité de Francis Lalanne",
+          "url": "https://www.lyonmag.com/article/150446/municipales-2026-a-lyon-la-justice-confirme-l-ineligibilite-de-francis-lalanne",
+          "media": "LyonMag",
+          "date": "2026-02-26"
+        }
+      ]
+    },
+    {
+      "debut": "2026",
+      "fin": "2026",
+      "fonction": "Tentative de candidature aux municipales à Lyon (8e arrondissement)",
+      "details": "La préfète du Rhône a refusé d'enregistrer sa liste en raison de son inéligibilité ; le tribunal administratif de Lyon a rejeté son recours le 26 février 2026.",
+      "sources": [
+        {
+          "titre": "Municipales 2026 à Lyon : la justice confirme l'inéligibilité de Francis Lalanne",
+          "url": "https://www.lyonmag.com/article/150446/municipales-2026-a-lyon-la-justice-confirme-l-ineligibilite-de-francis-lalanne",
+          "media": "LyonMag",
+          "date": "2026-02-26"
+        },
+        {
+          "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+          "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+          "media": "La Gazette France (AFP)",
+          "date": "2026-08-19"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Condamné en première instance en octobre 2026 pour abandon de famille (appel en cours, présomption d'innocence) ; inéligibilité électorale de dix-huit mois (2025-2026) désormais échue ; une enquête préliminaire de 2021 dont l'issue n'est pas connue.",
+    "affaires": [
+      {
+        "titre": "Abandon de famille (non-paiement d'une pension alimentaire)",
+        "statut": "condamnation-non-definitive",
+        "role": "prévenu",
+        "resume": "Selon La Provence, reprise par Paris Match Belgique, le tribunal judiciaire d'Aix-en-Provence a condamné Francis Lalanne début octobre 2026 à six mois d'emprisonnement avec sursis simple pour abandon de famille et non-paiement d'une pension alimentaire due à son ancienne compagne, ainsi qu'à 6 500 euros de dommages et intérêts avec exécution provisoire. Il a fait appel ; son avocat évoque un « contexte de plaintes réciproques ». La condamnation n'est pas définitive et il reste présumé innocent.",
+        "chronologie": [
+          {
+            "date": "2026-10",
+            "evenement": "Condamnation en première instance à six mois avec sursis par le tribunal judiciaire d'Aix-en-Provence ; appel interjeté.",
+            "sources": [
+              {
+                "titre": "Francis Lalanne, candidat à l'élection présidentielle, condamné à six mois de prison avec sursis pour abandon de famille : le chanteur fait appel",
+                "url": "https://www.parismatch.be/actualites/people/2026/10/12/francis-lalanne-candidat-a-lelection-presidentielle-condamne-a-six-mois-de-prison-avec-sursis-pour-abandon-de-famille-le-chanteur-fait-appel-LAMK53HQ4NBHLLONYDKOUF5E3Y/",
+                "media": "Paris Match Belgique (d'après La Provence)",
+                "date": "2026-10-12"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Francis Lalanne, candidat à l'élection présidentielle, condamné à six mois de prison avec sursis pour abandon de famille : le chanteur fait appel",
+            "url": "https://www.parismatch.be/actualites/people/2026/10/12/francis-lalanne-candidat-a-lelection-presidentielle-condamne-a-six-mois-de-prison-avec-sursis-pour-abandon-de-famille-le-chanteur-fait-appel-LAMK53HQ4NBHLLONYDKOUF5E3Y/",
+            "media": "Paris Match Belgique (d'après La Provence)",
+            "date": "2026-10-12"
+          }
+        ]
+      },
+      {
+        "titre": "Inéligibilité pour absence de compte de campagne (européennes 2024)",
+        "statut": "autre",
+        "role": "candidat sanctionné (sanction électorale)",
+        "resume": "Faute d'avoir déposé son compte de campagne pour les élections européennes de juin 2024, Francis Lalanne a été déclaré inéligible pour dix-huit mois par une décision du Conseil d'État du 17 avril 2025. Cette inéligibilité l'a empêché de se présenter aux municipales de 2026 à Lyon : le tribunal administratif de Lyon a rejeté le 26 février 2026 son recours contre le refus d'enregistrer sa liste. Selon l'AFP, l'inéligibilité a pris fin à la mi-octobre 2026 et ne fait donc pas obstacle à sa candidature présidentielle. Il s'agit d'une sanction électorale et non d'une condamnation pénale.",
+        "chronologie": [
+          {
+            "date": "2025-04-17",
+            "evenement": "Le Conseil d'État le déclare inéligible pour dix-huit mois.",
+            "sources": [
+              {
+                "titre": "Municipales 2026 à Lyon : la justice confirme l'inéligibilité de Francis Lalanne",
+                "url": "https://www.lyonmag.com/article/150446/municipales-2026-a-lyon-la-justice-confirme-l-ineligibilite-de-francis-lalanne",
+                "media": "LyonMag",
+                "date": "2026-02-26"
+              }
+            ]
+          },
+          {
+            "date": "2026-02-26",
+            "evenement": "Le tribunal administratif de Lyon rejette son recours contre le refus d'enregistrer sa liste municipale.",
+            "sources": [
+              {
+                "titre": "Municipales 2026 à Lyon : la justice confirme l'inéligibilité de Francis Lalanne",
+                "url": "https://www.lyonmag.com/article/150446/municipales-2026-a-lyon-la-justice-confirme-l-ineligibilite-de-francis-lalanne",
+                "media": "LyonMag",
+                "date": "2026-02-26"
+              }
+            ]
+          },
+          {
+            "date": "2026-10",
+            "evenement": "Fin de la période d'inéligibilité (mi-octobre 2026 selon l'AFP).",
+            "sources": [
+              {
+                "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+                "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+                "media": "La Gazette France (AFP)",
+                "date": "2026-08-19"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Municipales 2026 à Lyon : la justice confirme l'inéligibilité de Francis Lalanne",
+            "url": "https://www.lyonmag.com/article/150446/municipales-2026-a-lyon-la-justice-confirme-l-ineligibilite-de-francis-lalanne",
+            "media": "LyonMag",
+            "date": "2026-02-26"
+          },
+          {
+            "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+            "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+            "media": "La Gazette France (AFP)",
+            "date": "2026-08-19"
+          }
+        ]
+      },
+      {
+        "titre": "Tribune « J'appelle » publiée sur FranceSoir (2021)",
+        "statut": "enquete",
+        "role": "visé par une enquête préliminaire",
+        "resume": "Après la publication le 22 janvier 2021 sur le site de FranceSoir d'une tribune appelant notamment l'armée à agir contre le gouvernement, le parquet de Paris a ouvert une enquête préliminaire pour « provocation à la commission d'atteintes aux intérêts fondamentaux de la Nation », confiée à la Brigade de répression de la délinquance aux personnes. Francis Lalanne a été entendu en audition libre le 5 février 2021. Aucune information sur l'issue de cette enquête (classement, poursuites) n'a été trouvée ; il est présumé innocent.",
+        "chronologie": [
+          {
+            "date": "2021-01-22",
+            "evenement": "Publication de la tribune « J'appelle » sur FranceSoir.",
+            "sources": [
+              {
+                "titre": "Une enquête contre Francis Lalanne qui a appelé à « mettre l'État hors d'état de nuire »",
+                "url": "https://www.lavenir.net/cnt/dmf20210224_01557798/une-enquete-contre-francis-lalanne-qui-a-appele-a-mettre-l-etat-hors-d-etat-de-nuire",
+                "media": "L'Avenir",
+                "date": "2021-02-24"
+              }
+            ]
+          },
+          {
+            "date": "2021-01",
+            "evenement": "Ouverture d'une enquête préliminaire par le parquet de Paris.",
+            "sources": [
+              {
+                "titre": "Une enquête contre Francis Lalanne qui a appelé à « mettre l'État hors d'état de nuire »",
+                "url": "https://www.lavenir.net/cnt/dmf20210224_01557798/une-enquete-contre-francis-lalanne-qui-a-appele-a-mettre-l-etat-hors-d-etat-de-nuire",
+                "media": "L'Avenir",
+                "date": "2021-02-24"
+              }
+            ]
+          },
+          {
+            "date": "2021-02-05",
+            "evenement": "Audition libre par les enquêteurs.",
+            "sources": [
+              {
+                "titre": "Une enquête contre Francis Lalanne qui a appelé à « mettre l'État hors d'état de nuire »",
+                "url": "https://www.lavenir.net/cnt/dmf20210224_01557798/une-enquete-contre-francis-lalanne-qui-a-appele-a-mettre-l-etat-hors-d-etat-de-nuire",
+                "media": "L'Avenir",
+                "date": "2021-02-24"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Une enquête contre Francis Lalanne qui a appelé à « mettre l'État hors d'état de nuire »",
+            "url": "https://www.lavenir.net/cnt/dmf20210224_01557798/une-enquete-contre-francis-lalanne-qui-a-appele-a-mettre-l-etat-hors-d-etat-de-nuire",
+            "media": "L'Avenir",
+            "date": "2021-02-24"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "statut": "Propositions partielles",
+    "resume": "Francis Lalanne défend la sortie de l'Union européenne (« Frexit ») et de l'OTAN, le retour au franc, la « reprise en main de la souveraineté nationale », un référendum d'initiative citoyenne « en toutes matières », une « réforme profonde de la justice », l'abrogation de lois qu'il juge « liberticides » (lois Pleven, Gayssot et Avia), la fin des obligations médicales et la reconnaissance des médecines alternatives. Aucune mesure n'est chiffrée et son site de campagne annoncé n'était pas accessible à la date de mise à jour.",
+    "documents": [
+      {
+        "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+        "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+        "media": "La Gazette France (AFP)",
+        "date": "2026-08-19"
+      },
+      {
+        "titre": "Francis Lalanne officiellement candidat à la présidentielle 2027",
+        "url": "https://www.lalibre.be/international/europe/2026/08/19/francis-lalanne-officiellement-candidat-a-la-presidentielle-2027-IYHINYS4IJG43AHUFIS2XZVX54/",
+        "media": "La Libre Belgique",
+        "date": "2026-08-19"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "sortie-ue-otan",
+        "theme": "europe-international",
+        "type": "proposition",
+        "titre": "Sortie de l'Union européenne et de l'OTAN",
+        "description": "Sortir de l'Union européenne (« Frexit ») et de l'OTAN, au nom de la « reprise en main de la souveraineté nationale ».",
+        "chiffres": [],
+        "date": "2026-08-19",
+        "sources": [
+          {
+            "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+            "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+            "media": "La Gazette France (AFP)",
+            "date": "2026-08-19"
+          },
+          {
+            "titre": "Francis Lalanne officiellement candidat à la présidentielle 2027",
+            "url": "https://www.lalibre.be/international/europe/2026/08/19/francis-lalanne-officiellement-candidat-a-la-presidentielle-2027-IYHINYS4IJG43AHUFIS2XZVX54/",
+            "media": "La Libre Belgique",
+            "date": "2026-08-19"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le candidat ne précise ni la procédure (article 50 du traité sur l'Union européenne, référendum), ni le calendrier, ni le coût économique de la sortie. Aucune vérification indépendante de cette proposition n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+              "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+              "media": "La Gazette France (AFP)",
+              "date": "2026-08-19"
+            }
+          ]
+        }
+      },
+      {
+        "id": "retour-au-franc",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Retour au franc",
+        "description": "Abandonner l'euro et revenir au franc.",
+        "chiffres": [],
+        "date": "2026-08-19",
+        "sources": [
+          {
+            "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+            "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+            "media": "La Gazette France (AFP)",
+            "date": "2026-08-19"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Les effets d'une sortie de l'euro sur la dette publique, les taux d'intérêt, l'inflation et le pouvoir d'achat ne sont pas évalués par le candidat. Aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+              "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+              "media": "La Gazette France (AFP)",
+              "date": "2026-08-19"
+            }
+          ]
+        }
+      },
+      {
+        "id": "abrogation-lois-pleven-gayssot-avia",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Abroger les lois Pleven, Gayssot et Avia",
+        "description": "Abroger les « lois liberticides qui musèlent le débat public », en citant la loi Pleven (1972, racisme et antisémitisme), la loi Gayssot (1990, négationnisme) et la loi Avia (2020, haine en ligne).",
+        "chiffres": [],
+        "date": "2026-08-19",
+        "sources": [
+          {
+            "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+            "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+            "media": "La Gazette France (AFP)",
+            "date": "2026-08-19"
+          }
+        ],
+        "factCheck": {
+          "verdict": "trompeur",
+          "analyse": "La présentation de la loi Avia comme un texte qui « musèle » le débat public est trompeuse : le Conseil constitutionnel a censuré le 18 juin 2020 l'essentiel de ce texte, notamment l'obligation faite aux plateformes de retirer certains contenus sous 24 heures, au nom de la liberté d'expression ; seule une version très réduite a été promulguée. L'abrogation des lois Pleven et Gayssot relève en revanche du choix politique et ne se prête pas à une vérification factuelle.",
+          "sources": [
+            {
+              "titre": "Haine sur internet : le Conseil constitutionnel censure la loi Avia",
+              "url": "https://lcp.fr/index%2Ephp/actualites/haine-sur-internet-le-conseil-constitutionnel-censure-la-loi-avia-27235",
+              "media": "LCP",
+              "date": "2020-06-18"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ric-toutes-matieres",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Référendum d'initiative citoyenne en toutes matières",
+        "description": "Instaurer un référendum d'initiative citoyenne « en toutes matières » et une démocratie « plus directe et participative », ainsi qu'une « réforme profonde de la justice ».",
+        "chiffres": [],
+        "date": "2026-08-19",
+        "sources": [
+          {
+            "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+            "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+            "media": "La Gazette France (AFP)",
+            "date": "2026-08-19"
+          },
+          {
+            "titre": "Francis Lalanne officiellement candidat à la présidentielle 2027",
+            "url": "https://www.lalibre.be/international/europe/2026/08/19/francis-lalanne-officiellement-candidat-a-la-presidentielle-2027-IYHINYS4IJG43AHUFIS2XZVX54/",
+            "media": "La Libre Belgique",
+            "date": "2026-08-19"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Un RIC en toutes matières supposerait une révision de la Constitution, dont l'article 11 limite aujourd'hui le champ du référendum ; les seuils de déclenchement et les garde-fous ne sont pas précisés. Aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+              "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+              "media": "La Gazette France (AFP)",
+              "date": "2026-08-19"
+            }
+          ]
+        }
+      },
+      {
+        "id": "fin-obligations-medicales",
+        "theme": "sante",
+        "type": "proposition",
+        "titre": "Fin des obligations médicales et reconnaissance des médecines alternatives",
+        "description": "Mettre fin aux « obligations médicales » et faire reconnaître les « médecines alternatives ».",
+        "chiffres": [],
+        "date": "2026-08-19",
+        "sources": [
+          {
+            "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+            "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+            "media": "La Gazette France (AFP)",
+            "date": "2026-08-19"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le candidat ne précise pas quelles obligations seraient supprimées (vaccinations obligatoires des enfants, obligations professionnelles) ni quelles pratiques seraient reconnues, ni selon quels critères d'efficacité. Aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+              "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+              "media": "La Gazette France (AFP)",
+              "date": "2026-08-19"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

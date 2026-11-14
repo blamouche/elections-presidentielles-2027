@@ -1,0 +1,116 @@
+{
+  "id": "florian-philippot",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Florian Philippot fait du Frexit la « clé de voûte » de son projet et propose aussi de quitter l'OTAN. Son programme 2026 demande de « cesser d'entretenir la guerre en Ukraine », juge que les sanctions contre la Russie « se sont retournées contre nous » et appelle à une initiative de paix « par le dialogue et la diplomatie », en Ukraine comme au Moyen-Orient.",
+  "axes": {
+    "europe": {
+      "position": -2,
+      "titre": "Frexit par l'article 50",
+      "resume": "Le « Projet pour la France 2026 » des Patriotes prévoit d'activer l'article 50 du traité sur l'UE dès la victoire présidentielle et de quitter l'euro et Schengen ; le Frexit y est présenté comme « la clé de voûte » du projet. Il a lancé sa candidature le 9 mai 2026 en se présentant comme président du mouvement souverainiste « pour sortir le pays de l'UE et de l'Otan ».",
+      "date": "2026-09",
+      "sources": [
+        {
+          "titre": "Projet pour la France 2026 (v2)",
+          "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+          "media": "Les Patriotes (programme)",
+          "date": "2026-09"
+        },
+        {
+          "titre": "Présidentielle 2027 : le souverainiste Florian Philippot annonce sa candidature à l'Élysée",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-souverainiste-florian-philippot-annonce-sa-candidature-a-l-elysee_7993346.html",
+          "media": "franceinfo",
+          "date": "2026-05-09"
+        },
+        {
+          "titre": "« Je suis candidat » : Florian Philippot se lance pour la présidentielle de 2027",
+          "url": "https://www.sudradio.fr/politique/je-suis-candidat-florian-philippot-se-lance-pour-la-presidentielle-de-2027",
+          "media": "Sud Radio",
+          "date": "2026-05-09"
+        }
+      ]
+    },
+    "otan": {
+      "position": -2,
+      "titre": "Quitter l'OTAN",
+      "resume": "Le programme 2026 affirme que « quitter l'OTAN est l'une des conditions de notre indépendance », jugeant que la voix de la France est assimilée à celle des États-Unis depuis la réintégration du commandement intégré et que la France « n'a pas besoin de l'OTAN » pour sa sécurité, la dissuasion nucléaire étant conservée.",
+      "date": "2026-09",
+      "sources": [
+        {
+          "titre": "Projet pour la France 2026 (v2)",
+          "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+          "media": "Les Patriotes (programme)",
+          "date": "2026-09"
+        },
+        {
+          "titre": "Présidentielle 2027 : le souverainiste Florian Philippot annonce sa candidature à l'Élysée",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-souverainiste-florian-philippot-annonce-sa-candidature-a-l-elysee_7993346.html",
+          "media": "franceinfo",
+          "date": "2026-05-09"
+        }
+      ]
+    },
+    "trump": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration publique récente identifiée dans les sources consultées.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "russie": {
+      "position": -1,
+      "titre": "Sanctions jugées contre-productives",
+      "resume": "Le programme 2026 estime que les sanctions contre la Russie « se sont retournées contre nous, notamment en alimentant l'inflation des prix de l'énergie ». Ce programme ne formule pas explicitement de levée des sanctions ; d’où le cran −1.",
+      "date": "2026-09",
+      "sources": [
+        {
+          "titre": "Projet pour la France 2026 (v2)",
+          "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+          "media": "Les Patriotes (programme)",
+          "date": "2026-09"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": -2,
+      "titre": "Cesser d'« entretenir la guerre »",
+      "resume": "Le programme 2026 demande de « cesser d'entretenir la guerre en Ukraine », reprochant à l'UE le versement de « dizaines de milliards d'euros au régime ukrainien », la supervision de livraisons d'armes et le financement d'armes neuves pour Kiev, et appelle à une initiative de paix « par le dialogue et la diplomatie ».",
+      "date": "2026-09",
+      "sources": [
+        {
+          "titre": "Projet pour la France 2026 (v2)",
+          "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+          "media": "Les Patriotes (programme)",
+          "date": "2026-09"
+        }
+      ]
+    },
+    "chine": {
+      "position": 1,
+      "titre": "Droits de douane supplémentaires après le Frexit",
+      "resume": "Le chiffrage du programme 2026 prévoit, après la sortie de l'UE, des droits de douane supplémentaires de 10 % visant notamment la Chine (estimés à 7 Md€ par an). Aucun discours détaillé sur la Chine n'a été identifié : position classée « réduction des dépendances » plutôt que « fermeté » par prudence.",
+      "date": "2026-09",
+      "sources": [
+        {
+          "titre": "Projet pour la France 2026 (v2)",
+          "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+          "media": "Les Patriotes (programme)",
+          "date": "2026-09"
+        }
+      ]
+    },
+    "proche-orient": {
+      "position": 0,
+      "titre": "Appel à la paix par le dialogue",
+      "resume": "Le programme 2026 demande que la France retrouve « son rôle historique en faveur de la Paix, par le dialogue et la diplomatie », « en Ukraine comme au Moyen-Orient », sans position détaillée sur Israël, Gaza ou la reconnaissance de la Palestine dans les sources consultées.",
+      "date": "2026-09",
+      "sources": [
+        {
+          "titre": "Projet pour la France 2026 (v2)",
+          "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+          "media": "Les Patriotes (programme)",
+          "date": "2026-09"
+        }
+      ]
+    }
+  }
+}

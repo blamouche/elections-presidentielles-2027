@@ -1,0 +1,76 @@
+{
+  "id": "olivier-becht",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Ancien ministre délégué au Commerce extérieur (2022-2024), Olivier Becht défend un « noyau dur » de six à huit États européens capables de « peser face aux États-Unis et à la Chine ». Député, il a voté en mars 2024 pour l'accord de sécurité franco-ukrainien. Ses positions publiques sur la plupart des autres dossiers internationaux restent peu détaillées à la date de mise à jour.",
+  "axes": {
+    "europe": {
+      "position": 1,
+      "titre": "Un « noyau dur » européen de six à huit États",
+      "resume": "Le 11 octobre 2026 sur Sud Radio, il propose « un noyau dur de six, sept ou peut-être huit États capables de peser face aux États-Unis et à la Chine », en insistant sur la puissance économique et financière. Aucune proposition identifiée sur le fédéralisme européen ou le vote à la majorité : le cran +1 est retenu plutôt que +2.",
+      "date": "2026-10-11",
+      "sources": [
+        {
+          "titre": "Olivier Becht : « Je suis candidat à l'élection présidentielle et j'irai jusqu'au bout »",
+          "url": "https://www.sudradio.fr/politique/olivier-becht-je-suis-candidat-a-lelection-presidentielle-et-jirai-jusquau-bout",
+          "media": "Sud Radio",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "otan": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "",
+      "date": "",
+      "sources": []
+    },
+    "trump": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Interrogé le 11 octobre 2026 sur Sud Radio sur les tensions avec Donald Trump, il ne le cite pas et répond qu'il faut faire en sorte que « la voix de la France compte dans le monde ».",
+      "date": "",
+      "sources": []
+    },
+    "russie": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "",
+      "date": "",
+      "sources": []
+    },
+    "ukraine": {
+      "position": 1,
+      "titre": "Vote pour l'accord de sécurité franco-ukrainien",
+      "resume": "Député du Haut-Rhin, il vote pour la déclaration du gouvernement sur l'accord de sécurité franco-ukrainien le 12 mars 2024 (scrutin n° 3461). Interrogé sur la guerre en Ukraine le 11 octobre 2026, il répond de manière générale (protéger les Français des crises extérieures, indépendance économique et énergétique), sans position précise sur l'aide.",
+      "date": "2024-03-12",
+      "sources": [
+        {
+          "titre": "Déclaration du gouvernement sur la stratégie d'aide à l'Ukraine (scrutin n° 3461)",
+          "url": "https://datan.fr/votes/legislature-16/vote_3461",
+          "media": "Datan",
+          "date": "2024-03-12"
+        },
+        {
+          "titre": "Olivier Becht : « Je suis candidat à l'élection présidentielle et j'irai jusqu'au bout »",
+          "url": "https://www.sudradio.fr/politique/olivier-becht-je-suis-candidat-a-lelection-presidentielle-et-jirai-jusquau-bout",
+          "media": "Sud Radio",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    "chine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "La Chine n'est mentionnée que comme puissance face à laquelle l'Europe doit « peser » (Sud Radio, 11 octobre 2026), sans proposition de politique commerciale ou diplomatique.",
+      "date": "",
+      "sources": []
+    },
+    "proche-orient": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "",
+      "date": "",
+      "sources": []
+    }
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "id": "olivier-becht",
+  "prenom": "Olivier",
+  "nom": "Becht",
+  "parti": "Sans étiquette (député apparenté au groupe Ensemble pour la République)",
+  "partiAbrev": "SE",
+  "famillePolitique": "centre",
+  "couleur": "#E07B39",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Olivier Becht, député du Haut-Rhin et ancien ministre délégué au Commerce extérieur, a annoncé sa candidature le 24 septembre 2026 dans Paris Match. Se disant « à l'extrême centre » et sans attache partisane, il présente un « Projet France » de « rupture » et de « refondation complète » de notre modèle, issu selon lui de déplacements dans 101 départements en deux ans. Le 11 octobre 2026, il affirmait « J'irai jusqu'au bout », se disant « plutôt confiant » sur les parrainages sans certitude, et financer sa campagne principalement par des dons privés. LCP (10/11/2026) le cite parmi les candidatures dont la suite reste en suspens. Il doit réunir 500 parrainages avant le 12 mars 2027.",
+    "date": "2026-09-24",
+    "sources": [
+      {
+        "titre": "Qui est Olivier Becht, cet ancien ministre qui se lance dans la course à l'Élysée ?",
+        "url": "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee",
+        "media": "Sud Radio",
+        "date": "2026-10-08"
+      },
+      {
+        "titre": "Olivier Becht : « Je suis candidat à l'élection présidentielle et j'irai jusqu'au bout »",
+        "url": "https://www.sudradio.fr/politique/olivier-becht-je-suis-candidat-a-lelection-presidentielle-et-jirai-jusquau-bout",
+        "media": "Sud Radio",
+        "date": "2026-10-11"
+      },
+      {
+        "titre": "Olivier Becht",
+        "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+        "media": "Wikipédia",
+        "date": "2026-11-05"
+      },
+      {
+        "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-10"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1976-04-28",
+      "lieu": "Strasbourg (Bas-Rhin)",
+      "sources": [
+        {
+          "titre": "La biographie et le CV d'Olivier Becht",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-dolivier-becht",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Olivier Becht",
+          "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+          "media": "Wikipédia",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    "resume": "Énarque et magistrat administratif, Olivier Becht a été maire de Rixheim (Haut-Rhin) de 2008 à 2017 avant d'être élu député de la 5e circonscription du Haut-Rhin en 2017. Cofondateur du parti Agir et président du groupe Agir ensemble à l'Assemblée (2020-2022), il a été ministre délégué chargé du Commerce extérieur, de l'Attractivité et des Français de l'étranger dans le gouvernement Borne (2022-2024). Revenu à l'Assemblée en 2024, apparenté au groupe Ensemble pour la République, il se présente en 2026 comme candidat indépendant « d'extrême centre », avec un projet de refondation du modèle économique, social, sécuritaire et institutionnel.",
+    "formation": [
+      {
+        "texte": "Baccalauréat ES (1995), Institut d'études politiques de Strasbourg (1998), préparation aux concours à Sciences Po Paris (1998-2000), DEA de finances publiques et fiscalité à l'université Paris II (2001), École nationale d'administration (promotion Léopold-Sédar-Senghor, 2002-2004).",
+        "sources": [
+          {
+            "titre": "La biographie et le CV d'Olivier Becht",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-dolivier-becht",
+            "media": "Sud Radio",
+            "date": "2026"
+          },
+          {
+            "titre": "Olivier Becht",
+            "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+            "media": "Wikipédia",
+            "date": "2026-11-05"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Magistrat administratif (conseiller puis premier conseiller au tribunal administratif de Nancy, à partir de 2004) ; enseignant à l'université de Haute-Alsace depuis 2008 (professeur associé).",
+        "sources": [
+          {
+            "titre": "La biographie et le CV d'Olivier Becht",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-dolivier-becht",
+            "media": "Sud Radio",
+            "date": "2026"
+          },
+          {
+            "titre": "Olivier Becht",
+            "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+            "media": "Wikipédia",
+            "date": "2026-11-05"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "La biographie et le CV d'Olivier Becht",
+        "url": "https://www.sudradio.fr/la-biographie-et-le-cv-dolivier-becht",
+        "media": "Sud Radio",
+        "date": "2026"
+      },
+      {
+        "titre": "Olivier Becht",
+        "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+        "media": "Wikipédia",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "2008",
+      "fin": "2017",
+      "fonction": "Maire de Rixheim (Haut-Rhin)",
+      "details": "Du 15 mars 2008 à septembre 2017 ; reste ensuite conseiller municipal.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV d'Olivier Becht",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-dolivier-becht",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Olivier Becht",
+          "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+          "media": "Wikipédia",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "debut": "2010",
+      "fin": "2017",
+      "fonction": "Président délégué de Mulhouse Alsace Agglomération",
+      "details": "",
+      "sources": [
+        {
+          "titre": "La biographie et le CV d'Olivier Becht",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-dolivier-becht",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Olivier Becht",
+          "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+          "media": "Wikipédia",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "debut": "2015",
+      "fin": "2017",
+      "fonction": "Conseiller départemental du Haut-Rhin (canton de Rixheim)",
+      "details": "Également vice-président du conseil départemental.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV d'Olivier Becht",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-dolivier-becht",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Olivier Becht",
+          "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+          "media": "Wikipédia",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "debut": "2017",
+      "fin": "2022",
+      "fonction": "Député de la 5e circonscription du Haut-Rhin",
+      "details": "Élu en 2017 (groupe Les Constructifs puis UDI et indépendants), président du groupe Agir ensemble du 26 mai 2020 au 21 juin 2022 ; réélu en juin 2022 avant d'entrer au gouvernement.",
+      "sources": [
+        {
+          "titre": "Qui est Olivier Becht, cet ancien ministre qui se lance dans la course à l'Élysée ?",
+          "url": "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee",
+          "media": "Sud Radio",
+          "date": "2026-10-08"
+        },
+        {
+          "titre": "Olivier Becht",
+          "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+          "media": "Wikipédia",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "debut": "2022",
+      "fin": "2024",
+      "fonction": "Ministre délégué chargé du Commerce extérieur, de l'Attractivité et des Français de l'étranger",
+      "details": "Du 4 juillet 2022 au 11 janvier 2024 (gouvernement Borne) ; non reconduit dans le gouvernement Attal.",
+      "sources": [
+        {
+          "titre": "Qui est Olivier Becht, cet ancien ministre qui se lance dans la course à l'Élysée ?",
+          "url": "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee",
+          "media": "Sud Radio",
+          "date": "2026-10-08"
+        },
+        {
+          "titre": "Olivier Becht",
+          "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+          "media": "Wikipédia",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "debut": "2024",
+      "fin": null,
+      "fonction": "Député de la 5e circonscription du Haut-Rhin",
+      "details": "Retrouve son siège le 12 février 2024, réélu le 7 juillet 2024 ; apparenté au groupe Ensemble pour la République.",
+      "sources": [
+        {
+          "titre": "Qui est Olivier Becht, cet ancien ministre qui se lance dans la course à l'Élysée ?",
+          "url": "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee",
+          "media": "Sud Radio",
+          "date": "2026-10-08"
+        },
+        {
+          "titre": "Olivier Becht",
+          "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+          "media": "Wikipédia",
+          "date": "2026-11-05"
+        },
+        {
+          "titre": "Olivier Becht : « Je suis candidat à l'élection présidentielle et j'irai jusqu'au bout »",
+          "url": "https://www.sudradio.fr/politique/olivier-becht-je-suis-candidat-a-lelection-presidentielle-et-jirai-jusquau-bout",
+          "media": "Sud Radio",
+          "date": "2026-10-11"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Aucune procédure judiciaire connue le visant à ce jour.",
+    "affaires": []
+  },
+  "programme": {
+    "statut": "Propositions partielles",
+    "resume": "Olivier Becht présente un « Projet France » de refondation : un « nouveau contrat social » avec contrat de travail unique portable et revenu de base conditionné à des devoirs, une « révolution énergétique » fondée sur les carburants de synthèse, la suppression de Parcoursup, des « centres de redressement » encadrés par d'anciens militaires pour les délinquants, davantage de fédéralisme et un « noyau dur » européen de six à huit États. Les mesures ne sont pas chiffrées dans les sources consultées.",
+    "documents": [
+      {
+        "titre": "Olivier Becht : « Je suis candidat à l'élection présidentielle et j'irai jusqu'au bout »",
+        "url": "https://www.sudradio.fr/politique/olivier-becht-je-suis-candidat-a-lelection-presidentielle-et-jirai-jusquau-bout",
+        "media": "Sud Radio",
+        "date": "2026-10-11"
+      },
+      {
+        "titre": "Qui est Olivier Becht, cet ancien ministre qui se lance dans la course à l'Élysée ?",
+        "url": "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee",
+        "media": "Sud Radio",
+        "date": "2026-10-08"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "contrat-social-revenu-base",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Nouveau contrat social : contrat unique portable et revenu de base",
+        "description": "Un « nouveau contrat social qui protège les personnes de la naissance à la mort » : contrat de travail unique qui suit la personne d'un emploi à l'autre, assorti d'un revenu de base conditionné à l'acceptation d'un emploi correspondant à ses qualifications, à une formation vers les métiers en tension ou à 25 heures de bénévolat.",
+        "chiffres": [
+          "Contrepartie possible : 25 heures de bénévolat"
+        ],
+        "date": "2026-10-11",
+        "sources": [
+          {
+            "titre": "Olivier Becht : « Je suis candidat à l'élection présidentielle et j'irai jusqu'au bout »",
+            "url": "https://www.sudradio.fr/politique/olivier-becht-je-suis-candidat-a-lelection-presidentielle-et-jirai-jusquau-bout",
+            "media": "Sud Radio",
+            "date": "2026-10-11"
+          },
+          {
+            "titre": "Qui est Olivier Becht, cet ancien ministre qui se lance dans la course à l'Élysée ?",
+            "url": "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee",
+            "media": "Sud Radio",
+            "date": "2026-10-08"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Ni le montant du revenu de base, ni son coût, ni son articulation avec les minima sociaux existants (RSA, prime d'activité) ne sont précisés. Aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Olivier Becht : « Je suis candidat à l'élection présidentielle et j'irai jusqu'au bout »",
+              "url": "https://www.sudradio.fr/politique/olivier-becht-je-suis-candidat-a-lelection-presidentielle-et-jirai-jusquau-bout",
+              "media": "Sud Radio",
+              "date": "2026-10-11"
+            }
+          ]
+        }
+      },
+      {
+        "id": "suppression-parcoursup",
+        "theme": "education",
+        "type": "proposition",
+        "titre": "Supprimer et remplacer Parcoursup",
+        "description": "Supprimer Parcoursup et le remplacer, redonner du poids aux épreuves du baccalauréat avec un examen de spécialité pour l'orientation ; accroître l'autonomie des établissements et la gestion locale des enseignants, tout en conservant des programmes nationaux, pour « un enseignant devant chaque classe ».",
+        "chiffres": [],
+        "date": "2026-10-11",
+        "sources": [
+          {
+            "titre": "Olivier Becht : « Je suis candidat à l'élection présidentielle et j'irai jusqu'au bout »",
+            "url": "https://www.sudradio.fr/politique/olivier-becht-je-suis-candidat-a-lelection-presidentielle-et-jirai-jusquau-bout",
+            "media": "Sud Radio",
+            "date": "2026-10-11"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le dispositif de remplacement n'est pas décrit. Le chiffre de 3 000 enseignants non affectés avancé par le candidat n'a pas pu être vérifié. Aucune évaluation indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Olivier Becht : « Je suis candidat à l'élection présidentielle et j'irai jusqu'au bout »",
+              "url": "https://www.sudradio.fr/politique/olivier-becht-je-suis-candidat-a-lelection-presidentielle-et-jirai-jusquau-bout",
+              "media": "Sud Radio",
+              "date": "2026-10-11"
+            }
+          ]
+        }
+      },
+      {
+        "id": "centres-de-redressement",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "Des « centres de redressement » encadrés par d'anciens militaires",
+        "description": "Créer des centres de redressement encadrés par d'anciens militaires, où les délinquants travailleraient et apprendraient un métier.",
+        "chiffres": [],
+        "date": "2026-10-08",
+        "sources": [
+          {
+            "titre": "Qui est Olivier Becht, cet ancien ministre qui se lance dans la course à l'Élysée ?",
+            "url": "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee",
+            "media": "Sud Radio",
+            "date": "2026-10-08"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le public visé (mineurs ou majeurs), le cadre juridique (peine, mesure éducative) et le coût ne sont pas précisés. Aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Qui est Olivier Becht, cet ancien ministre qui se lance dans la course à l'Élysée ?",
+              "url": "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee",
+              "media": "Sud Radio",
+              "date": "2026-10-08"
+            }
+          ]
+        }
+      },
+      {
+        "id": "carburants-synthetiques",
+        "theme": "environnement-energie",
+        "type": "proposition",
+        "titre": "« Révolution énergétique » par les carburants de synthèse",
+        "description": "Produire des carburants de synthèse et une énergie française décarbonée pour réduire la dépendance aux importations de pétrole.",
+        "chiffres": [],
+        "date": "2026-10-11",
+        "sources": [
+          {
+            "titre": "Olivier Becht : « Je suis candidat à l'élection présidentielle et j'irai jusqu'au bout »",
+            "url": "https://www.sudradio.fr/politique/olivier-becht-je-suis-candidat-a-lelection-presidentielle-et-jirai-jusquau-bout",
+            "media": "Sud Radio",
+            "date": "2026-10-11"
+          },
+          {
+            "titre": "Qui est Olivier Becht, cet ancien ministre qui se lance dans la course à l'Élysée ?",
+            "url": "https://www.sudradio.fr/politique/qui-est-olivier-becht-cet-ancien-ministre-qui-se-lance-dans-la-course-a-lelysee",
+            "media": "Sud Radio",
+            "date": "2026-10-08"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Les volumes, les coûts de production et les besoins en électricité bas carbone associés ne sont pas précisés. Aucune évaluation indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Olivier Becht : « Je suis candidat à l'élection présidentielle et j'irai jusqu'au bout »",
+              "url": "https://www.sudradio.fr/politique/olivier-becht-je-suis-candidat-a-lelection-presidentielle-et-jirai-jusquau-bout",
+              "media": "Sud Radio",
+              "date": "2026-10-11"
+            }
+          ]
+        }
+      },
+      {
+        "id": "noyau-dur-europeen",
+        "theme": "europe-international",
+        "type": "proposition",
+        "titre": "Un « noyau dur » européen de six à huit États",
+        "description": "Constituer un « noyau dur » de six, sept ou huit États européens capables de tenir tête aux États-Unis et à la Chine ; en interne, davantage de fédéralisme pour donner du pouvoir aux acteurs de terrain, sans régionaliser l'Éducation nationale.",
+        "chiffres": [],
+        "date": "2026-10-11",
+        "sources": [
+          {
+            "titre": "Olivier Becht : « Je suis candidat à l'élection présidentielle et j'irai jusqu'au bout »",
+            "url": "https://www.sudradio.fr/politique/olivier-becht-je-suis-candidat-a-lelection-presidentielle-et-jirai-jusquau-bout",
+            "media": "Sud Radio",
+            "date": "2026-10-11"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le cadre juridique (coopération renforcée, nouveau traité) et les compétences mises en commun ne sont pas précisés. Aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Olivier Becht : « Je suis candidat à l'élection présidentielle et j'irai jusqu'au bout »",
+              "url": "https://www.sudradio.fr/politique/olivier-becht-je-suis-candidat-a-lelection-presidentielle-et-jirai-jusquau-bout",
+              "media": "Sud Radio",
+              "date": "2026-10-11"
+            }
+          ]
+        }
+      },
+      {
+        "id": "deficit-commercial-60-md",
+        "theme": "economie-fiscalite",
+        "type": "declaration-chiffree",
+        "titre": "« Réduit le déficit commercial de plus de 60 milliards d'euros »",
+        "description": "Olivier Becht affirme avoir réduit le déficit commercial de plus de 60 milliards d'euros lorsqu'il était ministre délégué au Commerce extérieur (2022-2024).",
+        "chiffres": [
+          "Solde 2022 : -162,7 Md€",
+          "Solde 2023 : -99,6 Md€"
+        ],
+        "date": "2026-10-11",
+        "sources": [
+          {
+            "titre": "Olivier Becht : « Je suis candidat à l'élection présidentielle et j'irai jusqu'au bout »",
+            "url": "https://www.sudradio.fr/politique/olivier-becht-je-suis-candidat-a-lelection-presidentielle-et-jirai-jusquau-bout",
+            "media": "Sud Radio",
+            "date": "2026-10-11"
+          }
+        ],
+        "factCheck": {
+          "verdict": "trompeur",
+          "analyse": "Le chiffre est exact mais son attribution est trompeuse. Selon les Douanes, le déficit commercial est passé d'un record de -162,7 Md€ en 2022 à -99,6 Md€ en 2023, soit une amélioration d'environ 63 Md€. Mais les Douanes l'attribuent principalement à la hausse du solde des produits énergétiques, c'est-à-dire à la baisse des prix et des volumes d'énergie importée après la flambée de 2022, et non à l'action d'un ministre.",
+          "sources": [
+            {
+              "titre": "Résultats du commerce extérieur de la France pour l'année 2023",
+              "url": "https://www.douane.gouv.fr/actualites/resultats-du-commerce-exterieur-de-la-france-pour-lannee-2023",
+              "media": "Direction générale des douanes et droits indirects",
+              "date": "2024-02-07"
+            }
+          ]
+        }
+      },
+      {
+        "id": "pauvrete-10-millions",
+        "theme": "pouvoir-achat-social",
+        "type": "declaration-chiffree",
+        "titre": "« 10 millions » de personnes sous le seuil de pauvreté",
+        "description": "Pour justifier sa refondation du modèle social, il cite 10 millions de personnes vivant sous le seuil de pauvreté.",
+        "chiffres": [
+          "9,8 millions de personnes pauvres en 2024 (Insee)"
+        ],
+        "date": "2026-10-11",
+        "sources": [
+          {
+            "titre": "Olivier Becht : « Je suis candidat à l'élection présidentielle et j'irai jusqu'au bout »",
+            "url": "https://www.sudradio.fr/politique/olivier-becht-je-suis-candidat-a-lelection-presidentielle-et-jirai-jusquau-bout",
+            "media": "Sud Radio",
+            "date": "2026-10-11"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "Selon l'Insee, 9,8 millions de personnes vivant en logement ordinaire en France métropolitaine étaient sous le seuil de pauvreté monétaire (60 % du niveau de vie médian, soit 1 337 euros par mois) en 2024, soit un taux de 15,4 %, stable par rapport à 2023 et le plus haut depuis 1996. L'arrondi à 10 millions est proche de la réalité.",
+          "sources": [
+            {
+              "titre": "Niveau de vie et pauvreté en 2024 (Insee Première n° 2117)",
+              "url": "https://www.insee.fr/fr/statistiques/9019316",
+              "media": "Insee",
+              "date": "2026-07-09"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

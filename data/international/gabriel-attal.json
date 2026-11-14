@@ -1,0 +1,97 @@
+{
+  "id": "gabriel-attal",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Gabriel Attal défend une Europe qui « assume » la force, avec une préférence européenne dans la commande de défense et un « dôme de fer » européen. Président du groupe d'amitié France-Ukraine, il soutient une adhésion accélérée de l'Ukraine à l'UE et a soutenu en 2025 la saisie des avoirs russes gelés.",
+  "axes": {
+    "europe": {
+      "position": 1,
+      "titre": "Europe puissance, préférence européenne de défense",
+      "resume": "Son programme (2026) prévoit une préférence européenne dans la commande publique de défense, un « dôme de fer » européen, une politique européenne commune de l'IA et le renforcement de la souveraineté européenne sur les équipements militaires ; il refuse le traité Mercosur. Le 22 janvier 2026, il plaide pour une Europe qui « assume d'être puissante quand elle est unie ».",
+      "date": "2026-11-13",
+      "sources": [
+        {
+          "titre": "Programme de Gabriel Attal",
+          "url": "https://attalpresident.fr/programme",
+          "media": "Site de campagne de Gabriel Attal",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Relations États-Unis-UE : « Il faut montrer qu'on sait mordre », lance Gabriel Attal",
+          "url": "https://www.franceinfo.fr/politique/gabriel-attal/relations-etats-unis-ue-il-faut-montrer-qu-on-sait-mordre-lance-gabriel-attal_7757906.html",
+          "media": "franceinfo",
+          "date": "2026-01-22"
+        }
+      ]
+    },
+    "otan": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration identifiée sur l'OTAN en tant que telle ; son programme parle de défense européenne (dôme de fer, préférence européenne) sans se prononcer sur l'Alliance.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "trump": {
+      "position": -1,
+      "titre": "Fermeté face aux pressions de Washington",
+      "resume": "Le 22 janvier 2026, en pleine crise du Groenland et des menaces douanières américaines, il appelle la France et l'Europe à « parler le langage de la force et de montrer qu'on sait mordre » et à se réarmer « pour être craints ». Il ne cite pas nommément Trump dans les propos rapportés, d'où le cran −1.",
+      "date": "2026-01-22",
+      "sources": [
+        {
+          "titre": "Relations États-Unis-UE : « Il faut montrer qu'on sait mordre », lance Gabriel Attal",
+          "url": "https://www.franceinfo.fr/politique/gabriel-attal/relations-etats-unis-ue-il-faut-montrer-qu-on-sait-mordre-lance-gabriel-attal_7757906.html",
+          "media": "franceinfo",
+          "date": "2026-01-22"
+        }
+      ]
+    },
+    "russie": {
+      "position": 2,
+      "titre": "Pour la saisie des avoirs russes gelés",
+      "resume": "En mars 2025, lors d'un débat à l'Assemblée nationale, il a soutenu la saisie des avoirs russes gelés, à laquelle le gouvernement français s'opposait alors.",
+      "date": "2025-03-04",
+      "sources": [
+        {
+          "titre": "France opposes seizing frozen Russian assets: minister",
+          "url": "https://www.enca.com/business/france-opposes-seizing-frozen-russian-assets-minister",
+          "media": "eNCA (dépêche AFP)",
+          "date": "2025-03-04"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": 2,
+      "titre": "Adhésion accélérée de l'Ukraine à l'UE",
+      "resume": "Lors d'un déplacement à Kyiv en février 2025, il estime que l'adhésion à l'UE devrait faire partie des garanties de sécurité de l'Ukraine et annonce une résolution pour accélérer ce processus ; il préside le groupe d'amitié France-Ukraine de l'Assemblée.",
+      "date": "2025-02-26",
+      "sources": [
+        {
+          "titre": "Ukraine's accession to the European Union could become one of the security guarantees for Kyiv",
+          "url": "https://uatv.ua/en/the-french-parliament-will-consider-a-resolution-to-accelerate-ukraine-s-european-integration",
+          "media": "UATV",
+          "date": "2025-02-26"
+        }
+      ]
+    },
+    "chine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration identifiée sur la Chine ; son programme évoque des clauses miroir dans les accords commerciaux sans viser Pékin.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "proche-orient": {
+      "position": 0,
+      "titre": "Cessez-le-feu, reconnaissance « pas un tabou »",
+      "resume": "Le 29 mai 2024, alors Premier ministre, il rappelle que la France a appelé tôt à un cessez-le-feu à Gaza, qualifie les images de Rafah de « terribles », juge la reconnaissance d'un État palestinien « pas un tabou » mais devant être « utile au processus », et affirme que les composants militaires livrés à Israël servent à sa seule défense. Nous n'avons pas trouvé de prise de position plus récente.",
+      "date": "2024-05-29",
+      "sources": [
+        {
+          "titre": "Gaza : la reconnaissance d'un État palestinien « n'est pas un tabou » mais doit être « utile au processus », déclare Gabriel Attal",
+          "url": "https://www.publicsenat.fr/actualites/parlementaire/gaza-la-reconnaissance-dun-etat-palestinien-nest-pas-un-tabou-mais-doit-etre-utile-au-processus-declare-gabriel-attal",
+          "media": "Public Sénat",
+          "date": "2024-05-29"
+        }
+      ]
+    }
+  }
+}

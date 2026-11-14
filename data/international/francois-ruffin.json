@@ -1,0 +1,123 @@
+{
+  "id": "francois-ruffin",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "François Ruffin a exposé sa doctrine européenne dans un texte publié par Le Grand Continent le 25 février 2026 : refus de la « vassalisation » par les États-Unis comme de la pression russe, coopération entre nations volontaires plutôt qu'intégration supranationale, bascule de la politique commerciale « du libre-échange vers la protection ». Ses votes sur l'Ukraine sont partagés (abstention sur la résolution de soutien de mars 2025, cosignature d'un amendement d'aide en novembre 2025).",
+  "axes": {
+    "europe": {
+      "position": -1,
+      "titre": "Coopération entre nations, sortie du libre-échange",
+      "resume": "Dans son texte du 25 février 2026, il défend « une coopération entre des nations volontaires » en matière de défense, refuse le passage à la majorité qualifiée en politique étrangère (« la diplomatie et la défense relèvent des États et doivent le rester ») et veut « faire basculer la politique commerciale du libre-échange vers la protection ». Il reproche à l'intégration européenne de se poursuivre « sans le demos, contre le demos ».",
+      "date": "2026-02-25",
+      "sources": [
+        {
+          "titre": "Pour une déclaration d'indépendance : la doctrine Ruffin sur l'Europe",
+          "url": "https://legrandcontinent.eu/fr/2026/02/25/pour-une-declaration-dindependance-la-doctrine-ruffin-sur-leurope/",
+          "media": "Le Grand Continent",
+          "date": "2026-02-25"
+        }
+      ]
+    },
+    "otan": {
+      "position": -1,
+      "titre": "Distance avec Washington, critique de la réintégration",
+      "resume": "Il critique la réintégration de la France dans le commandement de l'OTAN décidée par Nicolas Sarkozy, cite la sortie du commandement intégré décidée par de Gaulle parmi l'héritage dont « nous héritons », et refuse de mettre « tous nos œufs dans le panier de l'OTAN » (25 février 2026). Il ne formule pas dans ce texte de proposition explicite de sortie ; le cran −1 repose sur la distance affichée avec Washington (refus de la « vassalisation »).",
+      "date": "2026-02-25",
+      "sources": [
+        {
+          "titre": "Pour une déclaration d'indépendance : la doctrine Ruffin sur l'Europe",
+          "url": "https://legrandcontinent.eu/fr/2026/02/25/pour-une-declaration-dindependance-la-doctrine-ruffin-sur-leurope/",
+          "media": "Le Grand Continent",
+          "date": "2026-02-25"
+        }
+      ]
+    },
+    "trump": {
+      "position": -1,
+      "titre": "Critique de Trump, vu comme un « réveil » européen",
+      "resume": "Il écrit que « Donald Trump est une chance pour l'Europe », tout en dénonçant un président qui « viole ouvertement, de façon décomplexée, le droit international ». Il critique la réponse européenne aux droits de douane américains et s'oppose à l'accord commercial UE-États-Unis de 2025.",
+      "date": "2026-02-25",
+      "sources": [
+        {
+          "titre": "Pour une déclaration d'indépendance : la doctrine Ruffin sur l'Europe",
+          "url": "https://legrandcontinent.eu/fr/2026/02/25/pour-une-declaration-dindependance-la-doctrine-ruffin-sur-leurope/",
+          "media": "Le Grand Continent",
+          "date": "2026-02-25"
+        }
+      ]
+    },
+    "russie": {
+      "position": 1,
+      "titre": "Refus de l'impérialisme russe, normalisation après la paix",
+      "resume": "Il refuse à la fois la « vassalisation » par les États-Unis et la « mise sous pression de l'impérialisme russe », et pose comme « préalable » à toute normalisation « une paix respectée et qui s'inscrit dans la durée », dans la perspective d'une Europe « de l'Atlantique jusqu'à l'Oural » (25 février 2026). Il ne propose pas de nouvelles sanctions ; il s'est abstenu le 12 mars 2025 sur la résolution appelant notamment à saisir les avoirs russes gelés.",
+      "date": "2026-02-25",
+      "sources": [
+        {
+          "titre": "Pour une déclaration d'indépendance : la doctrine Ruffin sur l'Europe",
+          "url": "https://legrandcontinent.eu/fr/2026/02/25/pour-une-declaration-dindependance-la-doctrine-ruffin-sur-leurope/",
+          "media": "Le Grand Continent",
+          "date": "2026-02-25"
+        },
+        {
+          "titre": "Renforcement du soutien à l'Ukraine (vote n° 988, 17e législature)",
+          "url": "https://datan.fr/votes/legislature-17/vote_988",
+          "media": "Datan",
+          "date": "2025-03-12"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": 0,
+      "titre": "Votes partagés sur l'aide à l'Ukraine",
+      "resume": "Le 12 mars 2025, il s'abstient sur la résolution de soutien à l'Ukraine (qui appelait aussi à une adhésion rapide à l'UE), alors que son groupe écologiste vote pour. Le 23 novembre 2025, il cosigne avec ce groupe un amendement au budget 2026 augmentant de 100 millions d'euros le fonds de soutien à l'Ukraine. En février 2026, il relève que l'Europe « paie le gros des aides militaires et humanitaires » sans siéger à la table des négociations. Cran 0 retenu faute de position d'ensemble explicite.",
+      "date": "2026-02-25",
+      "sources": [
+        {
+          "titre": "Renforcement du soutien à l'Ukraine (vote n° 988, 17e législature)",
+          "url": "https://datan.fr/votes/legislature-17/vote_988",
+          "media": "Datan",
+          "date": "2025-03-12"
+        },
+        {
+          "titre": "Amendement n° II-3618 au projet de loi de finances pour 2026 (mission Défense)",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1906C/AN/3618.pdf",
+          "media": "Assemblée nationale",
+          "date": "2025-11-23"
+        },
+        {
+          "titre": "Pour une déclaration d'indépendance : la doctrine Ruffin sur l'Europe",
+          "url": "https://legrandcontinent.eu/fr/2026/02/25/pour-une-declaration-dindependance-la-doctrine-ruffin-sur-leurope/",
+          "media": "Le Grand Continent",
+          "date": "2026-02-25"
+        }
+      ]
+    },
+    "chine": {
+      "position": 0,
+      "titre": "Ni adversaire ni allié, mais protection commerciale",
+      "resume": "Il écrit que « les Chinois, et même leurs dirigeants, ne sont pour nous ni des ennemis, ni même des adversaires » et que la France ne prendra « pas parti entre ces deux impérialismes » (États-Unis et Chine), tout en plaidant pour une protection commerciale et une vigilance sur les droits humains (25 février 2026).",
+      "date": "2026-02-25",
+      "sources": [
+        {
+          "titre": "Pour une déclaration d'indépendance : la doctrine Ruffin sur l'Europe",
+          "url": "https://legrandcontinent.eu/fr/2026/02/25/pour-une-declaration-dindependance-la-doctrine-ruffin-sur-leurope/",
+          "media": "Le Grand Continent",
+          "date": "2026-02-25"
+        }
+      ]
+    },
+    "proche-orient": {
+      "position": 1,
+      "titre": "Critique de l'inaction européenne sur Gaza",
+      "resume": "Il dénonce l'absence de réaction de l'UE aux massacres à Gaza et aux violations du droit international en Cisjordanie (« Aucune sanction, pas de suspension de l'accord d'association entre l'Union et Israël ») et salue, tout en la jugeant tardive, la reconnaissance de l'État de Palestine par la France (25 février 2026). Aucun appel explicite à un embargo sur les armes n'a été identifié, d'où le cran +1 plutôt que +2.",
+      "date": "2026-02-25",
+      "sources": [
+        {
+          "titre": "Pour une déclaration d'indépendance : la doctrine Ruffin sur l'Europe",
+          "url": "https://legrandcontinent.eu/fr/2026/02/25/pour-une-declaration-dindependance-la-doctrine-ruffin-sur-leurope/",
+          "media": "Le Grand Continent",
+          "date": "2026-02-25"
+        }
+      ]
+    }
+  }
+}

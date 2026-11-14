@@ -1,0 +1,134 @@
+{
+  "id": "bruno-le-maire",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Ancien ministre de l'Économie (2017-2024), Bruno Le Maire propose une « fédération d'États-nations » à six au sein de l'UE et 1 000 milliards d'euros de dette commune européenne. Il juge que les États-Unis de Donald Trump ont « trahi » l'Europe, veut une défense européenne étudiée « avec l'OTAN et sans l'OTAN », considère la Russie comme « la première menace militaire » tout en proposant de reprendre contact avec Vladimir Poutine, s'oppose à l'adhésion de l'Ukraine à l'UE et prône un rééquilibrage commercial conditionné avec la Chine.",
+  "axes": {
+    "europe": {
+      "position": 1,
+      "titre": "Fédération d'États-nations à six au sein de l'UE",
+      "resume": "Dans Le Grand Continent (12 février 2026), il propose une « Europe des 6 » (France, Allemagne, Italie, Espagne, Pays-Bas, Pologne), l'extension du vote à la majorité qualifiée, la fin des présidences tournantes, un nouveau traité soumis à référendum, et la limitation de la Commission à trois missions. Il propose aussi de « lever 1.000 milliards d'euros de dette commune » (Sud Radio, 1er juillet 2026) ; son manifeste (août 2026) reprend la « fédération d'États-nations » à six. Les éléments d'intégration (vote à la majorité, dette commune) côtoient une logique d'« Union de nations » et un recentrage de la Commission : hésitation avec +2, le cran +1 est retenu.",
+      "date": "2026-08-23",
+      "sources": [
+        {
+          "titre": "Pour une Europe des six : le grand ajustement",
+          "url": "https://legrandcontinent.eu/fr/2026/02/12/ajustement-bruno-le-maire/",
+          "media": "Le Grand Continent",
+          "date": "2026-02-12"
+        },
+        {
+          "titre": "Une UE à six, pas à 27 : meilleur moyen de renforcer l'Europe, assure Bruno Le Maire",
+          "url": "https://fr.euronews.com/my-europe/2026/06/18/une-ue-a-six-pas-a-27-meilleur-moyen-de-renforcer-leurope-assure-bruno-le-maire",
+          "media": "Euronews",
+          "date": "2026-06-18"
+        },
+        {
+          "titre": "Bruno Le Maire : « Nous devons tourner la page de l'État providence »",
+          "url": "https://www.sudradio.fr/linvite-politique/bruno-le-maire-nous-devons-tourner-la-page-de-letat-providence",
+          "media": "Sud Radio",
+          "date": "2026-07-01"
+        },
+        {
+          "titre": "2027 : Le Maire publie un manifeste pour une autre France",
+          "url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france",
+          "media": "La Gazette France (AFP)",
+          "date": "2026-08-23"
+        }
+      ]
+    },
+    "otan": {
+      "position": 1,
+      "titre": "Coopération sans « soumission », défense européenne à bâtir",
+      "resume": "Le 12 février 2026, il écrit que « la coopération militaire avec les États-Unis est un fait » mais que « coopération ne veut pas dire soumission », propose d'étudier une défense européenne « avec l'OTAN et sans l'OTAN » et avertit que toute intervention américaine contre la souveraineté du Groenland « ne pourra conduire qu'à la remise en cause de l'OTAN ». Il ne propose pas de quitter l'Alliance ; hésitation avec 0 (ambivalent).",
+      "date": "2026-02-12",
+      "sources": [
+        {
+          "titre": "Pour une Europe des six : le grand ajustement",
+          "url": "https://legrandcontinent.eu/fr/2026/02/12/ajustement-bruno-le-maire/",
+          "media": "Le Grand Continent",
+          "date": "2026-02-12"
+        }
+      ]
+    },
+    "trump": {
+      "position": -1,
+      "titre": "Critique : les États-Unis ont « trahi » l'Europe",
+      "resume": "Le 12 février 2026, il estime que les États-Unis ont trahi l'Europe, que « la doctrine Trump est une absence de doctrine » et que « le seul art que pratique Donald Trump est celui du deal ». Le 17 juin 2026 (Euronews), il juge les pressions américaines (droits de douane, menaces sur la régulation numérique) « totalement inacceptable[s] entre alliés » : « Nous ne pouvons plus accepter d'être soumis à un chantage ».",
+      "date": "2026-06-18",
+      "sources": [
+        {
+          "titre": "Pour une Europe des six : le grand ajustement",
+          "url": "https://legrandcontinent.eu/fr/2026/02/12/ajustement-bruno-le-maire/",
+          "media": "Le Grand Continent",
+          "date": "2026-02-12"
+        },
+        {
+          "titre": "Une UE à six, pas à 27 : meilleur moyen de renforcer l'Europe, assure Bruno Le Maire",
+          "url": "https://fr.euronews.com/my-europe/2026/06/18/une-ue-a-six-pas-a-27-meilleur-moyen-de-renforcer-leurope-assure-bruno-le-maire",
+          "media": "Euronews",
+          "date": "2026-06-18"
+        }
+      ]
+    },
+    "russie": {
+      "position": 1,
+      "titre": "Menace principale, reprise de contact avec Poutine",
+      "resume": "Ministre de l'Économie, il déclare le 1er mars 2022 : « nous allons livrer une guerre économique et financière totale à la Russie » (terme de « guerre » ensuite jugé inapproprié). Le 12 février 2026, il qualifie la Russie de « première menace militaire pour le continent européen » mais propose que les Européens « reprennent contact avec Vladimir Poutine », « après accord des Ukrainiens ». Pas de position récente identifiée sur les sanctions ou les avoirs gelés.",
+      "date": "2026-02-12",
+      "sources": [
+        {
+          "titre": "Pour une Europe des six : le grand ajustement",
+          "url": "https://legrandcontinent.eu/fr/2026/02/12/ajustement-bruno-le-maire/",
+          "media": "Le Grand Continent",
+          "date": "2026-02-12"
+        },
+        {
+          "titre": "Bruno Le Maire : « Nous allons provoquer l'effondrement de l'économie russe »",
+          "url": "https://www.moneyvox.fr/actu/87509/bruno-le-maire-nous-allons-provoquer-effondrement-de-economie-russe",
+          "media": "MoneyVox",
+          "date": "2022-03-01"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": 0,
+      "titre": "Cessez-le-feu d'abord, pas d'adhésion à l'UE",
+      "resume": "Le 12 février 2026, il fait du cessez-le-feu « la première étape », soutient des garanties de sécurité aériennes et maritimes qui « ne peuvent en aucun cas comprendre la présence de troupes sur le territoire ukrainien », veut que l'Europe participe directement aux négociations et juge que « l'entrée de l'Ukraine dans l'Union européenne serait une erreur », proposant à la place un partenariat stratégique et économique. Il ne se prononce pas sur la poursuite de l'aide militaire : position classée ambivalente.",
+      "date": "2026-02-12",
+      "sources": [
+        {
+          "titre": "Pour une Europe des six : le grand ajustement",
+          "url": "https://legrandcontinent.eu/fr/2026/02/12/ajustement-bruno-le-maire/",
+          "media": "Le Grand Continent",
+          "date": "2026-02-12"
+        }
+      ]
+    },
+    "chine": {
+      "position": 1,
+      "titre": "Partenariat conditionné et protection commerciale",
+      "resume": "Le 12 février 2026, il juge « un pivot vers la Chine […] nécessaire » sous forme de partenariat économique, à condition que les investissements chinois respectent transferts de technologie, emploi européen et gouvernance équilibrée, tout en voulant réduire les dépendances (terres rares) et instaurer un « protectionnisme de rattrapage » (batteries, véhicules électriques). Le 1er juillet 2026, il propose des droits de douane importants sur les véhicules électriques chinois « massivement subventionnés ». Hésitation avec 0 du fait du « pivot » ; le cran +1 reflète les conditions et protections les plus récentes.",
+      "date": "2026-07-01",
+      "sources": [
+        {
+          "titre": "Pour une Europe des six : le grand ajustement",
+          "url": "https://legrandcontinent.eu/fr/2026/02/12/ajustement-bruno-le-maire/",
+          "media": "Le Grand Continent",
+          "date": "2026-02-12"
+        },
+        {
+          "titre": "Bruno Le Maire : « Nous devons tourner la page de l'État providence »",
+          "url": "https://www.sudradio.fr/linvite-politique/bruno-le-maire-nous-devons-tourner-la-page-de-letat-providence",
+          "media": "Sud Radio",
+          "date": "2026-07-01"
+        }
+      ]
+    },
+    "proche-orient": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "",
+      "date": "",
+      "sources": []
+    }
+  }
+}

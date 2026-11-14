@@ -1,0 +1,946 @@
+{
+  "id": "juan-branco",
+  "prenom": "Juan",
+  "nom": "Branco",
+  "parti": "Les Ruches (mouvement citoyen)",
+  "partiAbrev": "Ruches",
+  "famillePolitique": "divers",
+  "couleur": "#C99A06",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "A annoncé le 19 décembre 2025, sur Sud Radio, sa candidature à l'élection présidentielle de 2027, avec un projet revendiquant « plus de 300 propositions ». Sa campagne s'appuie sur « Les Ruches », un mouvement citoyen organisé en cellules départementales, se présentant comme « sans parti, sans chef » et financé par ses membres. LCP le range parmi les candidats déclarés « moins connus du grand public » (liste du 10/11/2026) et Public Sénat parmi les candidats « surprises ». Il doit réunir 500 parrainages d'élus avant le 12 mars 2027.",
+    "date": "2025-12-19",
+    "sources": [
+      {
+        "titre": "L'avocat Juan Branco, candidat à la présidentielle",
+        "url": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle",
+        "media": "Sud Radio",
+        "date": "2025-12-19"
+      },
+      {
+        "titre": "Les Ruches (site du mouvement soutenant Juan Branco)",
+        "url": "https://ruches.org",
+        "media": "Les Ruches (site du mouvement)",
+        "date": "2026"
+      },
+      {
+        "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-10"
+      },
+      {
+        "titre": "Élection présidentielle 2027 : qui sont les candidats déclarés (ou presque) ?",
+        "url": "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque",
+        "media": "Public Sénat",
+        "date": "2026-10-14"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1989-08-26",
+      "lieu": "Estepona (Espagne)",
+      "sources": [
+        {
+          "titre": "Juan Branco",
+          "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Juan Branco est un avocat, docteur en droit et essayiste franco-espagnol (naturalisé français en 2010), fils du producteur de cinéma Paulo Branco. Ancien conseiller juridique de WikiLeaks et de Julian Assange, il s'est fait connaître du grand public avec Crépuscule (2019), pamphlet contre Emmanuel Macron, et par son soutien au mouvement des Gilets jaunes. Passé par Les Verts, la campagne de François Hollande en 2012 puis La France insoumise (candidat aux législatives de 2017), il se présente en 2027 sur une ligne de rupture : RIC, référendums sur l'appartenance à l'UE, à l'euro et à l'OTAN, nationalisations. Mis en examen pour viol depuis novembre 2021, il conteste les faits ; le parquet de Paris a requis en août 2026 son renvoi devant une cour criminelle départementale, décision qui appartient aux juges d'instruction. Il est présumé innocent.",
+    "formation": [
+      {
+        "texte": "École normale supérieure (admis en 2009, diplômé en 2013).",
+        "sources": [
+          {
+            "titre": "\"Complotiste\", \"fasciste\"... Qui est Juan Branco, conseiller juridique de WikiLeaks qui s'est mis à dos la presse française ?",
+            "url": "https://www.lalibre.be/actu/international/complotiste-fasciste-qui-est-juan-branco-conseiller-juridique-de-wikileaks-qui-s-est-mis-a-dos-la-presse-francaise-5cb8b97a7b50a602942c74ab",
+            "media": "La Libre Belgique",
+            "date": "2019-04-19"
+          },
+          {
+            "titre": "Juan Branco",
+            "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "texte": "Sciences Po Paris (master en affaires publiques, 2012) ; maîtrise de lettres modernes (Paris-IV, 2011) ; master de philosophie politique (Paris 1, 2012).",
+        "sources": [
+          {
+            "titre": "\"Complotiste\", \"fasciste\"... Qui est Juan Branco, conseiller juridique de WikiLeaks qui s'est mis à dos la presse française ?",
+            "url": "https://www.lalibre.be/actu/international/complotiste-fasciste-qui-est-juan-branco-conseiller-juridique-de-wikileaks-qui-s-est-mis-a-dos-la-presse-francaise-5cb8b97a7b50a602942c74ab",
+            "media": "La Libre Belgique",
+            "date": "2019-04-19"
+          },
+          {
+            "titre": "Juan Branco",
+            "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "texte": "Doctorat en droit (2014), thèse consacrée à la Cour pénale internationale ; passages à Yale et à l'Institut Max-Planck de Luxembourg.",
+        "sources": [
+          {
+            "titre": "\"Complotiste\", \"fasciste\"... Qui est Juan Branco, conseiller juridique de WikiLeaks qui s'est mis à dos la presse française ?",
+            "url": "https://www.lalibre.be/actu/international/complotiste-fasciste-qui-est-juan-branco-conseiller-juridique-de-wikileaks-qui-s-est-mis-a-dos-la-presse-francaise-5cb8b97a7b50a602942c74ab",
+            "media": "La Libre Belgique",
+            "date": "2019-04-19"
+          },
+          {
+            "titre": "Juan Branco",
+            "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Avocat au barreau de Paris depuis 2017 ; sanctionné le 8 octobre 2024 par la juridiction disciplinaire du barreau de trois ans d'interdiction d'exercice dont 27 mois avec sursis (soit neuf mois ferme), décision confirmée par la cour d'appel de Paris le 16 octobre 2025 et frappée d'un pourvoi en cassation ; conseiller juridique de WikiLeaks et de Julian Assange ; avocat de l'opposant sénégalais Ousmane Sonko (2023).",
+        "sources": [
+          {
+            "titre": "Juridiction disciplinaire de l'Ordre des avocats de Paris, décision du 8 octobre 2024 (dossiers 386422 / 387600), M. Juan Branco",
+            "url": "https://www.avocatparis.org/sites/bdp/files/2025-11/AD_241008_386422_387600_BRANCO.pdf",
+            "media": "Barreau de Paris (décision publiée)",
+            "date": "2024-10-08"
+          },
+          {
+            "titre": "Cour d'appel de Paris, pôle 4 ch. 13, décision du 16 octobre 2025, n° 24/18012 (Branco)",
+            "url": "https://www.avocatparis.org/sites/bdp/files/2025-11/CA_Paris_251016_24-18012_branco_0.pdf",
+            "media": "Barreau de Paris (décision publiée)",
+            "date": "2025-10-16"
+          },
+          {
+            "titre": "Juan Branco",
+            "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "texte": "Collaborateur extérieur du ministère des Affaires étrangères (2012-2013).",
+        "sources": [
+          {
+            "titre": "\"Complotiste\", \"fasciste\"... Qui est Juan Branco, conseiller juridique de WikiLeaks qui s'est mis à dos la presse française ?",
+            "url": "https://www.lalibre.be/actu/international/complotiste-fasciste-qui-est-juan-branco-conseiller-juridique-de-wikileaks-qui-s-est-mis-a-dos-la-presse-francaise-5cb8b97a7b50a602942c74ab",
+            "media": "La Libre Belgique",
+            "date": "2019-04-19"
+          },
+          {
+            "titre": "Juan Branco",
+            "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "texte": "Essayiste : Crépuscule (2019), Assange : l'antisouverain (2020), Abattre l'ennemi (2021), Treize pillards (2022), Coup d'État (2023), entre autres.",
+        "sources": [
+          {
+            "titre": "Juan Branco",
+            "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Les Ruches (site du mouvement soutenant Juan Branco)",
+            "url": "https://ruches.org",
+            "media": "Les Ruches (site du mouvement)",
+            "date": "2026"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "\"Complotiste\", \"fasciste\"... Qui est Juan Branco, conseiller juridique de WikiLeaks qui s'est mis à dos la presse française ?",
+        "url": "https://www.lalibre.be/actu/international/complotiste-fasciste-qui-est-juan-branco-conseiller-juridique-de-wikileaks-qui-s-est-mis-a-dos-la-presse-francaise-5cb8b97a7b50a602942c74ab",
+        "media": "La Libre Belgique",
+        "date": "2019-04-19"
+      },
+      {
+        "titre": "Juan Branco",
+        "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "L'avocat Juan Branco, candidat à la présidentielle",
+        "url": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle",
+        "media": "Sud Radio",
+        "date": "2025-12-19"
+      },
+      {
+        "titre": "Les Ruches (site du mouvement soutenant Juan Branco)",
+        "url": "https://ruches.org",
+        "media": "Les Ruches (site du mouvement)",
+        "date": "2026"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "2008",
+      "fin": "2011",
+      "fonction": "Adhérent des Verts",
+      "details": "Proche de Dominique de Villepin à la fin des années 2000 ; fondateur du think tank Jeune République ; opposant à la loi Hadopi (2009).",
+      "sources": [
+        {
+          "titre": "Juan Branco",
+          "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2012",
+      "fin": "2012",
+      "fonction": "Membre du pôle culture de la campagne présidentielle de François Hollande",
+      "details": "",
+      "sources": [
+        {
+          "titre": "Juan Branco",
+          "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2017",
+      "fin": "2017",
+      "fonction": "Candidat La France insoumise aux élections législatives (12e circonscription de la Seine-Saint-Denis)",
+      "details": "Éliminé au premier tour avec 13,94 % des suffrages exprimés (3 596 voix). Il a ensuite été l'avocat de Jean-Luc Mélenchon jusqu'en octobre 2018, puis a pris ses distances avec LFI (abstention aux européennes de 2019).",
+      "sources": [
+        {
+          "titre": "Résultats des élections législatives 2017 – Seine-Saint-Denis, 12e circonscription",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/legislatives-2017/093/09312.php",
+          "media": "Ministère de l'Intérieur (archives des résultats électoraux)",
+          "date": "2017-06-11"
+        },
+        {
+          "titre": "Juan Branco",
+          "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2018",
+      "fin": "2019",
+      "fonction": "Soutien du mouvement des Gilets jaunes",
+      "details": "",
+      "sources": [
+        {
+          "titre": "Juan Branco, idole des jaunes",
+          "url": "https://www.politis.fr/articles/2019/05/juan-branco-idole-des-jaunes-40384/",
+          "media": "Politis",
+          "date": "2019-05-08"
+        },
+        {
+          "titre": "\"Complotiste\", \"fasciste\"... Qui est Juan Branco, conseiller juridique de WikiLeaks qui s'est mis à dos la presse française ?",
+          "url": "https://www.lalibre.be/actu/international/complotiste-fasciste-qui-est-juan-branco-conseiller-juridique-de-wikileaks-qui-s-est-mis-a-dos-la-presse-francaise-5cb8b97a7b50a602942c74ab",
+          "media": "La Libre Belgique",
+          "date": "2019-04-19"
+        },
+        {
+          "titre": "Juan Branco",
+          "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2025",
+      "fin": null,
+      "fonction": "Candidat à l'élection présidentielle de 2027, soutenu par le mouvement Les Ruches",
+      "details": "Candidature annoncée le 19 décembre 2025.",
+      "sources": [
+        {
+          "titre": "L'avocat Juan Branco, candidat à la présidentielle",
+          "url": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle",
+          "media": "Sud Radio",
+          "date": "2025-12-19"
+        },
+        {
+          "titre": "Les Ruches (site du mouvement soutenant Juan Branco)",
+          "url": "https://ruches.org",
+          "media": "Les Ruches (site du mouvement)",
+          "date": "2026"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Mis en examen pour viol depuis novembre 2021 ; par un réquisitoire du 6 août 2026, le parquet de Paris a requis son renvoi devant une cour criminelle départementale pour ces faits et un non-lieu pour des faits dénoncés par deux autres plaignantes. Aucune ordonnance des juges d'instruction n'est connue au 13/11/2026 ; il conteste les faits et reste présumé innocent. Aucune condamnation pénale connue ; sanction disciplinaire d'avocat confirmée en appel (pourvoi en cassation formé).",
+    "affaires": [
+      {
+        "titre": "Accusations de viol et d'agressions sexuelles (informations judiciaires ouvertes à partir de 2021)",
+        "statut": "mise-en-examen",
+        "role": "mis en examen",
+        "resume": "Une plaignante, alors étudiante de 20 ans, l'accuse de l'avoir violée au printemps 2021 à son domicile après lui avoir fait consommer un médicament opiacé ; il affirme que la relation était consentie. Il a été mis en examen pour viol en novembre 2021. Deux autres femmes l'accusent de viol (faits de 2017) et d'agression sexuelle ; en décembre 2024, Libération a publié les témoignages de quatre femmes dénonçant des faits commis entre 2017 et 2021. Par un réquisitoire définitif daté du 6 août 2026, révélé le 1er septembre 2026 (AFP), le parquet de Paris a requis son renvoi devant la cour criminelle départementale pour le viol de 2021 et un non-lieu pour les faits dénoncés par les deux autres plaignantes (charges jugées insuffisantes ou doute devant profiter au mis en examen). La décision de renvoi appartient aux juges d'instruction ; aucune ordonnance n'est connue au 13/11/2026. Juan Branco conteste les accusations, dénonce un « dossier vide » et bénéficie de la présomption d'innocence.",
+        "chronologie": [
+          {
+            "date": "2021-11",
+            "evenement": "Mise en examen pour viol, après une main courante déposée par la plaignante.",
+            "sources": [
+              {
+                "titre": "Accusé de viol en 2021 : l'avocat Juan Branco fait appel de sa suspension par le barreau de Paris pour violation du secret de l'instruction",
+                "url": "https://www.dakaractu.com/Accuse-de-viol-en-2021-l-avocat-Juan-Branco-fait-appel-de-sa-suspension-par-le-barreau-de-Paris-pour-violation-du-secret_a256148.html",
+                "media": "Dakaractu (d'après Le Figaro)",
+                "date": "2024-11-26"
+              },
+              {
+                "titre": "Juan Branco",
+                "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          },
+          {
+            "date": "2023-06",
+            "evenement": "Mise en examen dans deux autres dossiers (viol présumé de 2017 et agression sexuelle), confirmée par les réquisitions de non-lieu de 2026 ; la date de juin 2023 provient de Wikipédia.",
+            "sources": [
+              {
+                "titre": "Le parquet de Paris demande que l'avocat Juan Branco soit jugé pour viol",
+                "url": "https://www.dakaractu.com/Le-parquet-de-Paris-demande-que-l-avocat-Juan-Branco-soit-juge-pour-viol_a275560.html",
+                "media": "Dakaractu (AFP)",
+                "date": "2026-09-01"
+              },
+              {
+                "titre": "Juan Branco",
+                "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          },
+          {
+            "date": "2024-12",
+            "evenement": "Libération publie les témoignages de quatre femmes l'accusant de viols et d'agressions sexuelles (faits de 2017 à 2021).",
+            "sources": [
+              {
+                "titre": "Accusant l'avocat Juan Branco de viols et d'agressions sexuelles : les témoignages des 4 victimes",
+                "url": "https://www.dakaractu.com/Accusant-l-avocat-Juan-Branco-de-viols-et-d-agressions-sexuelles-les-temoignages-des-4-victimes-Je-lui-ai-demande-d_a256830.html",
+                "media": "Dakaractu (d'après Libération)",
+                "date": "2024-12-16"
+              }
+            ]
+          },
+          {
+            "date": "2025-04-23",
+            "evenement": "Off Investigation indique que l'instruction est close depuis mars 2024 mais que le réquisitoire définitif n'a pas encore été pris.",
+            "sources": [
+              {
+                "titre": "Affaires Juan Branco : vers un non-lieu ?",
+                "url": "https://www.off-investigation.fr/affaires-juan-branco-vers-un-non-lieu/",
+                "media": "Off Investigation",
+                "date": "2025-04-23"
+              }
+            ]
+          },
+          {
+            "date": "2026-08-06",
+            "evenement": "Réquisitoire définitif du parquet de Paris : renvoi devant la cour criminelle départementale requis pour le viol de 2021, non-lieu requis pour les deux autres plaignantes (révélé le 1er septembre 2026).",
+            "sources": [
+              {
+                "titre": "France: le parquet veut que l'avocat franco-espagnol Juan Branco soit jugé pour viol",
+                "url": "https://www.justiceinfo.net/fr/164381-france-le-parquet-veut-que-lavocat-franco-espagnol-juan-branco-soit-juge-pour-viol.html",
+                "media": "Justice Info (AFP)",
+                "date": "2026-09-01"
+              },
+              {
+                "titre": "Le parquet de Paris demande que l'avocat Juan Branco soit jugé pour viol",
+                "url": "https://www.dakaractu.com/Le-parquet-de-Paris-demande-que-l-avocat-Juan-Branco-soit-juge-pour-viol_a275560.html",
+                "media": "Dakaractu (AFP)",
+                "date": "2026-09-01"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "France: le parquet veut que l'avocat franco-espagnol Juan Branco soit jugé pour viol",
+            "url": "https://www.justiceinfo.net/fr/164381-france-le-parquet-veut-que-lavocat-franco-espagnol-juan-branco-soit-juge-pour-viol.html",
+            "media": "Justice Info (AFP)",
+            "date": "2026-09-01"
+          },
+          {
+            "titre": "Le parquet de Paris demande que l'avocat Juan Branco soit jugé pour viol",
+            "url": "https://www.dakaractu.com/Le-parquet-de-Paris-demande-que-l-avocat-Juan-Branco-soit-juge-pour-viol_a275560.html",
+            "media": "Dakaractu (AFP)",
+            "date": "2026-09-01"
+          },
+          {
+            "titre": "Accusé de viol en 2021 : l'avocat Juan Branco fait appel de sa suspension par le barreau de Paris pour violation du secret de l'instruction",
+            "url": "https://www.dakaractu.com/Accuse-de-viol-en-2021-l-avocat-Juan-Branco-fait-appel-de-sa-suspension-par-le-barreau-de-Paris-pour-violation-du-secret_a256148.html",
+            "media": "Dakaractu (d'après Le Figaro)",
+            "date": "2024-11-26"
+          },
+          {
+            "titre": "Accusant l'avocat Juan Branco de viols et d'agressions sexuelles : les témoignages des 4 victimes",
+            "url": "https://www.dakaractu.com/Accusant-l-avocat-Juan-Branco-de-viols-et-d-agressions-sexuelles-les-temoignages-des-4-victimes-Je-lui-ai-demande-d_a256830.html",
+            "media": "Dakaractu (d'après Libération)",
+            "date": "2024-12-16"
+          },
+          {
+            "titre": "Affaires Juan Branco : vers un non-lieu ?",
+            "url": "https://www.off-investigation.fr/affaires-juan-branco-vers-un-non-lieu/",
+            "media": "Off Investigation",
+            "date": "2025-04-23"
+          },
+          {
+            "titre": "Juan Branco",
+            "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "titre": "Sanction disciplinaire du barreau de Paris pour violation du secret de l'enquête",
+        "statut": "autre",
+        "role": "avocat poursuivi disciplinairement",
+        "resume": "Poursuivi par le bâtonnier de Paris pour avoir publié sur les réseaux sociaux des extraits de procès-verbaux du dossier d'instruction dans lequel il est mis en examen (en violation de l'article 114-1 du code de procédure pénale), en nommant plaignantes et témoins, ainsi que pour des attaques contre des magistrats et des tiers, il a été sanctionné le 8 octobre 2024 par la juridiction disciplinaire de l'Ordre de trois ans d'interdiction d'exercice dont 27 mois avec sursis (soit neuf mois ferme, durée retenue par l'AFP), assortis de cinq ans d'inéligibilité aux instances ordinales et d'une formation en déontologie. La cour d'appel de Paris a confirmé cette décision en toutes ses dispositions le 16 octobre 2025 ; l'arrêt est frappé d'un pourvoi en cassation. Auparavant, en juin 2023, la cour d'appel de Paris avait annulé un blâme qui lui avait été infligé en 2021.",
+        "chronologie": [
+          {
+            "date": "2023-06-09",
+            "evenement": "La cour d'appel de Paris annule un blâme infligé par le conseil de discipline (selon Wikipédia ; dépêche AFP non consultable).",
+            "sources": [
+              {
+                "titre": "Juan Branco",
+                "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          },
+          {
+            "date": "2024-10-08",
+            "evenement": "Le conseil de discipline prononce trois ans d'interdiction d'exercice dont 27 mois avec sursis ; appel suspensif.",
+            "sources": [
+              {
+                "titre": "Juridiction disciplinaire de l'Ordre des avocats de Paris, décision du 8 octobre 2024 (dossiers 386422 / 387600), M. Juan Branco",
+                "url": "https://www.avocatparis.org/sites/bdp/files/2025-11/AD_241008_386422_387600_BRANCO.pdf",
+                "media": "Barreau de Paris (décision publiée)",
+                "date": "2024-10-08"
+              },
+              {
+                "titre": "Accusé de viol en 2021 : l'avocat Juan Branco fait appel de sa suspension par le barreau de Paris pour violation du secret de l'instruction",
+                "url": "https://www.dakaractu.com/Accuse-de-viol-en-2021-l-avocat-Juan-Branco-fait-appel-de-sa-suspension-par-le-barreau-de-Paris-pour-violation-du-secret_a256148.html",
+                "media": "Dakaractu (d'après Le Figaro)",
+                "date": "2024-11-26"
+              }
+            ]
+          },
+          {
+            "date": "2025-10-16",
+            "evenement": "La cour d'appel de Paris confirme la décision en toutes ses dispositions ; pourvoi en cassation formé.",
+            "sources": [
+              {
+                "titre": "Cour d'appel de Paris, pôle 4 ch. 13, décision du 16 octobre 2025, n° 24/18012 (Branco)",
+                "url": "https://www.avocatparis.org/sites/bdp/files/2025-11/CA_Paris_251016_24-18012_branco_0.pdf",
+                "media": "Barreau de Paris (décision publiée)",
+                "date": "2025-10-16"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Juridiction disciplinaire de l'Ordre des avocats de Paris, décision du 8 octobre 2024 (dossiers 386422 / 387600), M. Juan Branco",
+            "url": "https://www.avocatparis.org/sites/bdp/files/2025-11/AD_241008_386422_387600_BRANCO.pdf",
+            "media": "Barreau de Paris (décision publiée)",
+            "date": "2024-10-08"
+          },
+          {
+            "titre": "Cour d'appel de Paris, pôle 4 ch. 13, décision du 16 octobre 2025, n° 24/18012 (Branco)",
+            "url": "https://www.avocatparis.org/sites/bdp/files/2025-11/CA_Paris_251016_24-18012_branco_0.pdf",
+            "media": "Barreau de Paris (décision publiée)",
+            "date": "2025-10-16"
+          },
+          {
+            "titre": "Accusé de viol en 2021 : l'avocat Juan Branco fait appel de sa suspension par le barreau de Paris pour violation du secret de l'instruction",
+            "url": "https://www.dakaractu.com/Accuse-de-viol-en-2021-l-avocat-Juan-Branco-fait-appel-de-sa-suspension-par-le-barreau-de-Paris-pour-violation-du-secret_a256148.html",
+            "media": "Dakaractu (d'après Le Figaro)",
+            "date": "2024-11-26"
+          },
+          {
+            "titre": "Juan Branco",
+            "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "titre": "Inculpation au Sénégal (2023)",
+        "statut": "autre",
+        "role": "inculpé (procédure sénégalaise)",
+        "resume": "Avocat de l'opposant Ousmane Sonko, il a fait l'objet en juillet 2023 d'un mandat d'arrêt international émis par le Sénégal. Arrêté en Mauritanie début août 2023 et remis aux autorités sénégalaises, il a été inculpé et écroué à Dakar le 6 août 2023 notamment pour « attentat », « complot », diffusion de fausses nouvelles et actes de nature à compromettre la sécurité publique, puis placé sous contrôle judiciaire le 7 août et expulsé vers la France. Aucune suite judiciaire ultérieure n'a été identifiée dans les sources consultées.",
+        "chronologie": [
+          {
+            "date": "2023-08-06",
+            "evenement": "Inculpation et écrou à Dakar après son arrestation en Mauritanie.",
+            "sources": [
+              {
+                "titre": "L'avocat franco-espagnol Juan Branco, écroué au Sénégal, en passe d'être expulsé vers la France",
+                "url": "https://www.europe1.fr/faits-divers/lavocat-franco-espagnol-juan-branco-ecroue-au-senegal-en-passe-detre-expulse-vers-la-france-4197584",
+                "media": "Europe 1 (AFP)",
+                "date": "2023-08-07"
+              },
+              {
+                "titre": "French lawyer for Senegal opposition leader Sonko released on bail",
+                "url": "https://www.africanews.com/2023/08/08/french-lawyer-for-senegal-opposition-leader-sonko-released-on-bail",
+                "media": "Africanews",
+                "date": "2023-08-08"
+              }
+            ]
+          },
+          {
+            "date": "2023-08-07",
+            "evenement": "Placement sous contrôle judiciaire, libération et expulsion vers la France.",
+            "sources": [
+              {
+                "titre": "L'avocat franco-espagnol Juan Branco, écroué au Sénégal, en passe d'être expulsé vers la France",
+                "url": "https://www.europe1.fr/faits-divers/lavocat-franco-espagnol-juan-branco-ecroue-au-senegal-en-passe-detre-expulse-vers-la-france-4197584",
+                "media": "Europe 1 (AFP)",
+                "date": "2023-08-07"
+              },
+              {
+                "titre": "French lawyer for Senegal opposition leader Sonko released on bail",
+                "url": "https://www.africanews.com/2023/08/08/french-lawyer-for-senegal-opposition-leader-sonko-released-on-bail",
+                "media": "Africanews",
+                "date": "2023-08-08"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "L'avocat franco-espagnol Juan Branco, écroué au Sénégal, en passe d'être expulsé vers la France",
+            "url": "https://www.europe1.fr/faits-divers/lavocat-franco-espagnol-juan-branco-ecroue-au-senegal-en-passe-detre-expulse-vers-la-france-4197584",
+            "media": "Europe 1 (AFP)",
+            "date": "2023-08-07"
+          },
+          {
+            "titre": "French lawyer for Senegal opposition leader Sonko released on bail",
+            "url": "https://www.africanews.com/2023/08/08/french-lawyer-for-senegal-opposition-leader-sonko-released-on-bail",
+            "media": "Africanews",
+            "date": "2023-08-08"
+          },
+          {
+            "titre": "Juan Branco",
+            "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "titre": "Affaire Griveaux (diffusion de vidéos intimes par Piotr Pavlenski)",
+        "statut": "autre",
+        "role": "témoin assisté",
+        "resume": "Conseil de l'artiste Piotr Pavlenski, qui avait diffusé en février 2020 des vidéos intimes de Benjamin Griveaux, il a été placé sous le statut de témoin assisté dans cette enquête (« fin janvier » selon Le Figaro repris par Dakaractu ; février 2021 selon Wikipédia). Aucune poursuite le concernant n'est connue dans ce dossier.",
+        "chronologie": [
+          {
+            "date": "2021-01",
+            "evenement": "Placement sous le statut de témoin assisté (date approximative, année donnée par Wikipédia).",
+            "sources": [
+              {
+                "titre": "Accusé de viol en 2021 : l'avocat Juan Branco fait appel de sa suspension par le barreau de Paris pour violation du secret de l'instruction",
+                "url": "https://www.dakaractu.com/Accuse-de-viol-en-2021-l-avocat-Juan-Branco-fait-appel-de-sa-suspension-par-le-barreau-de-Paris-pour-violation-du-secret_a256148.html",
+                "media": "Dakaractu (d'après Le Figaro)",
+                "date": "2024-11-26"
+              },
+              {
+                "titre": "Juan Branco",
+                "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Accusé de viol en 2021 : l'avocat Juan Branco fait appel de sa suspension par le barreau de Paris pour violation du secret de l'instruction",
+            "url": "https://www.dakaractu.com/Accuse-de-viol-en-2021-l-avocat-Juan-Branco-fait-appel-de-sa-suspension-par-le-barreau-de-Paris-pour-violation-du-secret_a256148.html",
+            "media": "Dakaractu (d'après Le Figaro)",
+            "date": "2024-11-26"
+          },
+          {
+            "titre": "Juan Branco",
+            "url": "https://fr.wikipedia.org/wiki/Juan_Branco",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "statut": "Programme complet publié",
+    "resume": "Le projet « La Voie », publié sur le site des Ruches, revendique plus de 280 mesures en six piliers : souveraineté populaire (RIC « en toutes matières », mandats révocables, septennat, suppression du poste de Premier ministre et du 49.3), justice sociale (Smic à 1 500 € net, RSA dès 18 ans sans condition, rétablissement de l'ISF), nationalisations (électricité, eau, santé, télécoms, autoroutes), référendums sur l'appartenance à l'UE, à l'euro et à l'OTAN, refonte de la police et doublement des budgets d'éducation et de recherche. Le programme n'est pas chiffré et présente des incohérences internes (nombre de taxes supprimées, durée du service national).",
+    "documents": [
+      {
+        "titre": "Le Projet 2027 — Programme en 6 piliers",
+        "url": "https://ruches.org/le-projet",
+        "media": "Ruches Françaises (site du mouvement)",
+        "date": "2026"
+      },
+      {
+        "titre": "Les Ruches (site du mouvement soutenant Juan Branco)",
+        "url": "https://ruches.org",
+        "media": "Les Ruches (site du mouvement)",
+        "date": "2026"
+      },
+      {
+        "titre": "L'avocat Juan Branco, candidat à la présidentielle",
+        "url": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle",
+        "media": "Sud Radio",
+        "date": "2025-12-19"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "ric-mandats-revocables",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "RIC « en toutes matières » et mandats révocables",
+        "description": "Créer un référendum d'initiative citoyenne « en toutes matières », instaurer des mandats révocables (et un possible mandat impératif) à tous les niveaux, sur le modèle suisse revendiqué.",
+        "chiffres": [],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Le Projet 2027 — Programme en 6 piliers",
+            "url": "https://ruches.org/le-projet",
+            "media": "Ruches Françaises (site du mouvement)",
+            "date": "2026"
+          },
+          {
+            "titre": "L'avocat Juan Branco, candidat à la présidentielle",
+            "url": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle",
+            "media": "Sud Radio",
+            "date": "2025-12-19"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification par un fact-checkeur reconnu n'a été trouvée au 13/11/2026. La mise en œuvre supposerait une révision de la Constitution, dont le candidat n'a pas détaillé la procédure.",
+          "sources": [
+            {
+              "titre": "Le Projet 2027 — Programme en 6 piliers",
+              "url": "https://ruches.org/le-projet",
+              "media": "Ruches Françaises (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "septennat-suppression-premier-ministre-49-3",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Septennat, suppression du Premier ministre et du 49.3",
+        "description": "Porter le mandat présidentiel à 7 ans avec une limite de trois mandats, supprimer le poste de Premier ministre (Matignon devenant un « ministère de la présidence »), abroger l'article 49.3, fusionner Conseil constitutionnel, Cour de cassation et Conseil d'État dans une « Cour des peuples » et créer un « Défenseur des peuples » élu pour neuf ans.",
+        "chiffres": [
+          "Mandat présidentiel : 7 ans, 3 mandats maximum",
+          "Défenseur des peuples élu pour 9 ans"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Le Projet 2027 — Programme en 6 piliers",
+            "url": "https://ruches.org/le-projet",
+            "media": "Ruches Françaises (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification par un fact-checkeur reconnu n'a été trouvée au 13/11/2026. Ces mesures relèvent d'une révision constitutionnelle ; aucune analyse indépendante de leur faisabilité n'a été publiée.",
+          "sources": [
+            {
+              "titre": "Le Projet 2027 — Programme en 6 piliers",
+              "url": "https://ruches.org/le-projet",
+              "media": "Ruches Françaises (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "referendums-ue-euro",
+        "theme": "europe-international",
+        "type": "proposition",
+        "titre": "Référendums sur l'appartenance à l'UE et à l'euro",
+        "description": "Organiser des référendums sur l'appartenance à l'Union européenne et à l'euro, et sur une sortie du Conseil de l'Europe et/ou de l'espace Schengen ; il appelle à « se préparer à la sortie de l'Union européenne », qu'il qualifie de « monstre bureaucratique ». Créer une Union des pays francophones remplaçant l'OIF.",
+        "chiffres": [],
+        "date": "2025-12-19",
+        "sources": [
+          {
+            "titre": "Le Projet 2027 — Programme en 6 piliers",
+            "url": "https://ruches.org/le-projet",
+            "media": "Ruches Françaises (site du mouvement)",
+            "date": "2026"
+          },
+          {
+            "titre": "L'avocat Juan Branco, candidat à la présidentielle",
+            "url": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle",
+            "media": "Sud Radio",
+            "date": "2025-12-19"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification par un fact-checkeur reconnu n'a été trouvée au 13/11/2026. Une sortie de l'UE passerait par la procédure de retrait prévue par les traités ; ses effets économiques n'ont pas été chiffrés par le candidat.",
+          "sources": [
+            {
+              "titre": "Le Projet 2027 — Programme en 6 piliers",
+              "url": "https://ruches.org/le-projet",
+              "media": "Ruches Françaises (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "sortie-otan-defense-drones",
+        "theme": "defense",
+        "type": "proposition",
+        "titre": "Référendum sur l'OTAN, fin des livraisons d'armes à l'Ukraine, 1 million de drones par an",
+        "description": "Référendum sur la sortie de l'OTAN (commandement intégré ou traité), arrêt des livraisons d'armes à l'Ukraine, capacité de production de 1 million de drones par an d'ici 2032 (5 millions en cas de conflit, dont 20 % d'intercepteurs), objectifs de 300 avions de combat, 300 chars de nouvelle génération et 100 hélicoptères Tigre III ; référendum sur un service national obligatoire.",
+        "chiffres": [
+          "1 million de drones/an en 2032 (5 millions en cas de conflit)",
+          "300 avions de combat, 20 ravitailleurs, 300 chars, 100 Tigre III"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Le Projet 2027 — Programme en 6 piliers",
+            "url": "https://ruches.org/le-projet",
+            "media": "Ruches Françaises (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "invérifiable",
+          "analyse": "Le programme ne chiffre pas le coût de ces objectifs capacitaires et se contredit sur la durée du service national (12 mois civils dans une section, 18 mois civils ou 12 mois militaires dans une autre ; 6 mois communs puis option selon une autre présentation). Aucune vérification indépendante disponible.",
+          "sources": [
+            {
+              "titre": "Le Projet 2027 — Programme en 6 piliers",
+              "url": "https://ruches.org/le-projet",
+              "media": "Ruches Françaises (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "nationalisations-reseaux",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Nationaliser l'électricité, l'eau, la santé, les télécoms et les autoroutes",
+        "description": "Nationalisation du marché de l'électricité, de l'eau, de la santé, des télécoms et des autoroutes ; sortie du marché européen de l'électricité et expropriation de la distribution d'électricité ; élection du gouverneur de la Banque de France.",
+        "chiffres": [],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Le Projet 2027 — Programme en 6 piliers",
+            "url": "https://ruches.org/le-projet",
+            "media": "Ruches Françaises (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification par un fact-checkeur reconnu n'a été trouvée au 13/11/2026. Le coût des indemnisations liées aux expropriations et nationalisations n'est pas évalué dans le programme.",
+          "sources": [
+            {
+              "titre": "Le Projet 2027 — Programme en 6 piliers",
+              "url": "https://ruches.org/le-projet",
+              "media": "Ruches Françaises (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "smic-1500-rsa-18-ans",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Smic à 1 500 € net et RSA dès 18 ans sans condition",
+        "description": "Porter le Smic à 1 500 € net, étendre le RSA dès 18 ans de façon inconditionnelle avec attribution automatique des minima sociaux, et baisser les cotisations salariales financées par une TVA sociale sur les biens non essentiels.",
+        "chiffres": [
+          "Smic : 1 500 € net"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Le Projet 2027 — Programme en 6 piliers",
+            "url": "https://ruches.org/le-projet",
+            "media": "Ruches Françaises (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification par un fact-checkeur reconnu n'a été trouvée au 13/11/2026. Ni le coût pour les entreprises et les finances publiques ni le calendrier n'ont été chiffrés par le candidat.",
+          "sources": [
+            {
+              "titre": "Le Projet 2027 — Programme en 6 piliers",
+              "url": "https://ruches.org/le-projet",
+              "media": "Ruches Françaises (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "fiscalite-isf-succession-tva-luxe",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Rétablir l'ISF, taxer les très grosses successions, TVA luxe +10 points",
+        "description": "Rétablir l'ISF ; supprimer les droits de succession pour 90 % des foyers mais rendre la taxation « confiscatoire » au-delà de 100 M€ (hausse progressive dès 40 M€) ; relever de dix points la TVA sur les produits de luxe ; supprimer un grand nombre de taxes et prélèvements.",
+        "chiffres": [
+          "Taxation successorale confiscatoire au-delà de 100 M€",
+          "TVA luxe : +10 points",
+          "Taxes supprimées : 267 selon une section, « plus de 300 » selon une autre"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Le Projet 2027 — Programme en 6 piliers",
+            "url": "https://ruches.org/le-projet",
+            "media": "Ruches Françaises (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "invérifiable",
+          "analyse": "Le programme se contredit sur le nombre de taxes supprimées (267 dans la partie économie, « plus de 300 » dans les priorités) et ne présente aucun chiffrage du rendement de l'ISF ou de la TVA luxe ni du coût des suppressions. L'effet budgétaire net ne peut donc pas être évalué.",
+          "sources": [
+            {
+              "titre": "Le Projet 2027 — Programme en 6 piliers",
+              "url": "https://ruches.org/le-projet",
+              "media": "Ruches Françaises (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "education-recherche-budgets",
+        "theme": "education",
+        "type": "proposition",
+        "titre": "Doubler les budgets de l'éducation et de la recherche",
+        "description": "Doubler les budgets de recherche et d'enseignement ; hausse immédiate de 30 % des budgets des universités et de la recherche publique financée par la suppression du crédit d'impôt recherche (CIR) ; gratuité réelle de l'université ; au moins 13 h 30 de français par semaine en CP ; examen d'entrée en sixième ; suppression de Parcoursup et du SNU.",
+        "chiffres": [
+          "Budgets éducation et recherche : x2",
+          "Universités et recherche : +30 % immédiatement",
+          "13 h 30 de français par semaine en CP"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Le Projet 2027 — Programme en 6 piliers",
+            "url": "https://ruches.org/le-projet",
+            "media": "Ruches Françaises (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification par un fact-checkeur reconnu n'a été trouvée au 13/11/2026. Le coût d'un doublement des budgets d'éducation et de recherche n'est pas chiffré, ni sa compatibilité avec l'économie attendue de la suppression du CIR.",
+          "sources": [
+            {
+              "titre": "Le Projet 2027 — Programme en 6 piliers",
+              "url": "https://ruches.org/le-projet",
+              "media": "Ruches Françaises (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "sante-securite-sociale-unique",
+        "theme": "sante",
+        "type": "proposition",
+        "titre": "Absorber les complémentaires dans une Sécurité sociale unique",
+        "description": "Créer un service public de santé universel en supprimant les complémentaires santé et mutuelles, absorbées dans la Sécurité sociale ; plan d'urgence d'éradication des déserts médicaux ; suppression des agences régionales de santé ; référendum sur la suppression des dépassements d'honoraires ; fin de la tarification à l'acte à l'hôpital ; industrie pharmaceutique publique.",
+        "chiffres": [],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Le Projet 2027 — Programme en 6 piliers",
+            "url": "https://ruches.org/le-projet",
+            "media": "Ruches Françaises (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification par un fact-checkeur reconnu n'a été trouvée au 13/11/2026. Le transfert du financement des complémentaires vers la Sécurité sociale et son effet sur les prélèvements obligatoires ne sont pas chiffrés.",
+          "sources": [
+            {
+              "titre": "Le Projet 2027 — Programme en 6 piliers",
+              "url": "https://ruches.org/le-projet",
+              "media": "Ruches Françaises (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "police-municipalisation-suppression-bac",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "Municipaliser la police nationale et supprimer les BAC",
+        "description": "Municipaliser la police nationale (hors police judiciaire et unités de maintien de l'ordre), supprimer les brigades anticriminalité au profit d'une police de proximité, instaurer un récépissé de contrôle d'identité et l'affichage obligatoire du matricule ; doubler le nombre d'agents des douanes avec un objectif de contrôle de 10 % des marchandises.",
+        "chiffres": [
+          "Douaniers : x2",
+          "Objectif : 10 % des marchandises contrôlées"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Le Projet 2027 — Programme en 6 piliers",
+            "url": "https://ruches.org/le-projet",
+            "media": "Ruches Françaises (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification par un fact-checkeur reconnu n'a été trouvée au 13/11/2026. Le coût et l'organisation de la municipalisation de la police ne sont pas détaillés.",
+          "sources": [
+            {
+              "titre": "Le Projet 2027 — Programme en 6 piliers",
+              "url": "https://ruches.org/le-projet",
+              "media": "Ruches Françaises (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

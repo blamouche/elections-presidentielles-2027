@@ -1,0 +1,703 @@
+{
+  "id": "anasse-kazib",
+  "prenom": "Anasse",
+  "nom": "Kazib",
+  "parti": "Révolution permanente",
+  "partiAbrev": "RP",
+  "famillePolitique": "extreme-gauche",
+  "couleur": "#E30613",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Candidature annoncée le 1er juin 2026 par Révolution permanente (« une candidature ouvrière, communiste et révolutionnaire »). Selon un communiqué du parti cité par Le Courrier de l'Atlas, la campagne de collecte des parrainages était engagée depuis environ un mois et avait reçu le soutien de dizaines de maires. En 2022, sa candidature n'avait pas été retenue faute des 500 parrainages ; ils doivent être réunis avant le 12 mars 2027.",
+    "date": "2026-06-01",
+    "sources": [
+      {
+        "titre": "Anasse Kazib 2027 : une candidature ouvrière, communiste et révolutionnaire à la présidentielle",
+        "url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2027-une-candidature-ouvriere-communiste-et-revolutionnaire-a-la-presidentielle",
+        "media": "Révolution permanente (site officiel)",
+        "date": "2026-06-01"
+      },
+      {
+        "titre": "Cinq choses à savoir sur Anasse Kazib, cheminot candidat aux présidentielles",
+        "url": "https://www.lecourrierdelatlas.com/cinq-choses-a-savoir-sur-candidat-cheminot-anasse-kazib/",
+        "media": "Le Courrier de l'Atlas",
+        "date": "2026-06-23"
+      },
+      {
+        "titre": "Présidentielle 2027 : le point sur toutes les candidatures",
+        "url": "https://www.sudradio.fr/politique/presidentielle-2027-le-point-sur-toutes-les-candidatures",
+        "media": "Sud Radio",
+        "date": "2026-08-24"
+      },
+      {
+        "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-10"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1987",
+      "lieu": "Sarcelles (Val-d'Oise)",
+      "sources": [
+        {
+          "titre": "Cinq choses à savoir sur Anasse Kazib, cheminot candidat aux présidentielles",
+          "url": "https://www.lecourrierdelatlas.com/cinq-choses-a-savoir-sur-candidat-cheminot-anasse-kazib/",
+          "media": "Le Courrier de l'Atlas",
+          "date": "2026-06-23"
+        },
+        {
+          "titre": "Anasse Kazib",
+          "url": "https://en.wikipedia.org/wiki/Anasse_Kazib",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Anasse Kazib est cheminot, aiguilleur à la SNCF à la gare de triage du Bourget depuis 2012, délégué syndical SUD-Rail depuis 2015 et porte-parole de Révolution permanente. Il a été chroniqueur régulier des « Grandes Gueules » sur RMC de 2018 à 2020. Pré-candidat à la présidentielle de 2022, il n'avait pas obtenu les 500 parrainages ; il a recueilli 3,67 % aux législatives de 2024 en Seine-Saint-Denis. Il est poursuivi pour apologie du terrorisme pour des publications du 7 octobre 2023, procès renvoyé après une question prioritaire de constitutionnalité, et reste présumé innocent.",
+    "formation": [],
+    "professionHorsPolitique": [
+      {
+        "texte": "Coursier pour des laboratoires de chimie, puis aiguilleur à la SNCF (gare de triage du Bourget) depuis 2012 ; délégué syndical SUD-Rail depuis 2015.",
+        "sources": [
+          {
+            "titre": "Anasse Kazib",
+            "url": "https://en.wikipedia.org/wiki/Anasse_Kazib",
+            "media": "Wikipedia (en)",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Cinq choses à savoir sur Anasse Kazib, cheminot candidat aux présidentielles",
+            "url": "https://www.lecourrierdelatlas.com/cinq-choses-a-savoir-sur-candidat-cheminot-anasse-kazib/",
+            "media": "Le Courrier de l'Atlas",
+            "date": "2026-06-23"
+          }
+        ]
+      },
+      {
+        "texte": "Chroniqueur régulier de l'émission « Les Grandes Gueules » (RMC) de 2018 à 2020.",
+        "sources": [
+          {
+            "titre": "Cinq choses à savoir sur Anasse Kazib, cheminot candidat aux présidentielles",
+            "url": "https://www.lecourrierdelatlas.com/cinq-choses-a-savoir-sur-candidat-cheminot-anasse-kazib/",
+            "media": "Le Courrier de l'Atlas",
+            "date": "2026-06-23"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "Anasse Kazib",
+        "url": "https://en.wikipedia.org/wiki/Anasse_Kazib",
+        "media": "Wikipedia (en)",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Cinq choses à savoir sur Anasse Kazib, cheminot candidat aux présidentielles",
+        "url": "https://www.lecourrierdelatlas.com/cinq-choses-a-savoir-sur-candidat-cheminot-anasse-kazib/",
+        "media": "Le Courrier de l'Atlas",
+        "date": "2026-06-23"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "2021",
+      "fin": "2022",
+      "fonction": "Pré-candidat de Révolution permanente à l'élection présidentielle de 2022",
+      "details": "Pré-candidature annoncée en avril 2021 ; candidature déposée le 16 février 2022 avec 122 parrainages (160 validés selon son organisation), insuffisants pour figurer sur la liste officielle.",
+      "sources": [
+        {
+          "titre": "Anasse Kazib",
+          "url": "https://en.wikipedia.org/wiki/Anasse_Kazib",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Cinq choses à savoir sur Anasse Kazib, cheminot candidat aux présidentielles",
+          "url": "https://www.lecourrierdelatlas.com/cinq-choses-a-savoir-sur-candidat-cheminot-anasse-kazib/",
+          "media": "Le Courrier de l'Atlas",
+          "date": "2026-06-23"
+        }
+      ]
+    },
+    {
+      "debut": "2024",
+      "fin": "2024",
+      "fonction": "Candidat aux élections législatives (2e circonscription de la Seine-Saint-Denis)",
+      "details": "Candidat de Révolution permanente, avec l'avocate Elsa Marcel pour suppléante : 3,67 % au premier tour.",
+      "sources": [
+        {
+          "titre": "Résultats des élections législatives 2024 – Seine-Saint-Denis, 2e circonscription",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/legislatives2024/ensemble_geographique/11/93/9302/index.php",
+          "media": "Ministère de l'Intérieur (archives des résultats électoraux)",
+          "date": "2024-06-30"
+        },
+        {
+          "titre": "Anasse Kazib",
+          "url": "https://en.wikipedia.org/wiki/Anasse_Kazib",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2026",
+      "fin": null,
+      "fonction": "Candidat de Révolution permanente à l'élection présidentielle de 2027",
+      "details": "Candidature annoncée le 1er juin 2026.",
+      "sources": [
+        {
+          "titre": "Anasse Kazib 2027 : une candidature ouvrière, communiste et révolutionnaire à la présidentielle",
+          "url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2027-une-candidature-ouvriere-communiste-et-revolutionnaire-a-la-presidentielle",
+          "media": "Révolution permanente (site officiel)",
+          "date": "2026-06-01"
+        },
+        {
+          "titre": "Cinq choses à savoir sur Anasse Kazib, cheminot candidat aux présidentielles",
+          "url": "https://www.lecourrierdelatlas.com/cinq-choses-a-savoir-sur-candidat-cheminot-anasse-kazib/",
+          "media": "Le Courrier de l'Atlas",
+          "date": "2026-06-23"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Anasse Kazib est prévenu dans une procédure pour apologie du terrorisme dont le procès, renvoyé une première fois en juin 2025, a de nouveau été suspendu le 25 juin 2026 par la transmission d'une question prioritaire de constitutionnalité à la Cour de cassation ; aucune décision sur le fond n'est connue au 13/11/2026. Il est en outre visé par une plainte pour injure raciste publique. Aucune condamnation : il est présumé innocent.",
+    "affaires": [
+      {
+        "titre": "Apologie du terrorisme (publications du 7 octobre 2023)",
+        "statut": "proces-en-cours",
+        "role": "prévenu",
+        "resume": "Il est poursuivi devant la 24e chambre correctionnelle du tribunal judiciaire de Paris pour apologie du terrorisme en raison de publications sur X du 7 octobre 2023, jour de l'attaque du Hamas contre Israël (trois retweets, dont l'un saluant la « résistance palestinienne », et une réponse à Ursula von der Leyen, selon l'AFP). La procédure découle d'une plainte déposée en janvier 2024 par l'association Jeunesse française juive, qui visait une quarantaine de personnalités. L'enquête a été ouverte par le parquet de Paris en avril 2024. L'audience du 18 juin 2025 a été renvoyée d'office au 25 juin 2026 en raison d'un rôle trop chargé. Le 25 juin 2026, le tribunal a transmis à la Cour de cassation une QPC soulevée par la défense, qui conteste notamment la recevabilité de la constitution de partie civile de l'association ; le procès est suspendu dans l'attente de la décision de la Cour de cassation sur un éventuel renvoi au Conseil constitutionnel ; aucune nouvelle date d'audience n'était connue au 13/11/2026. Il encourt jusqu'à sept ans d'emprisonnement et 100 000 € d'amende. Il dénonce des « poursuites politiques » liées à son soutien à la Palestine. Présomption d'innocence.",
+        "chronologie": [
+          {
+            "date": "2023-10-07",
+            "evenement": "Publications sur X visées par la procédure.",
+            "sources": [
+              {
+                "titre": "Conflit israélo-palestinien : le procès du militant Anasse Kazib pour apologie du terrorisme reporté",
+                "url": "https://www.lagazettefrance.fr/article/conflit-israelo-palestinien-le-proces-du-militant-anasse-kazib-pour-apologie-du-terrorisme-reporte",
+                "media": "La Gazette France (AFP)",
+                "date": "2025-06-18"
+              },
+              {
+                "titre": "Procès d'Anasse Kazib à Paris : jugé pour apologie du terrorisme ce jeudi 25 juin",
+                "url": "https://info.fr/proces-anasse-kazib-paris-apologie-terrorisme-25/",
+                "media": "info.fr",
+                "date": "2026-06-25"
+              }
+            ]
+          },
+          {
+            "date": "2024-01",
+            "evenement": "Plainte de l'association Jeunesse française juive visant 41 personnalités, dont Anasse Kazib.",
+            "sources": [
+              {
+                "titre": "Conflit israélo-palestinien : le procès du militant Anasse Kazib pour apologie du terrorisme reporté",
+                "url": "https://www.lagazettefrance.fr/article/conflit-israelo-palestinien-le-proces-du-militant-anasse-kazib-pour-apologie-du-terrorisme-reporte",
+                "media": "La Gazette France (AFP)",
+                "date": "2025-06-18"
+              },
+              {
+                "titre": "« On ne peut pas accepter de se faire réprimer alors qu'un génocide se passe sous nos yeux »",
+                "url": "https://www.politis.fr/articles/2025/06/anasse-kazib-on-ne-peut-pas-accepter-de-se-faire-reprimer-genocide-se-passe-sous-nos-yeux/",
+                "media": "Politis",
+                "date": "2025-06-16"
+              }
+            ]
+          },
+          {
+            "date": "2024-04",
+            "evenement": "Ouverture d'une enquête par le parquet de Paris.",
+            "sources": [
+              {
+                "titre": "Le procès d'Anasse Kazib pour apologie du terrorisme renvoyé",
+                "url": "https://lecourrierdelatlas.com/proces-anasse-kazib-apologie-terrorisme-renvoye/",
+                "media": "Le Courrier de l'Atlas",
+                "date": "2026-06-26"
+              },
+              {
+                "titre": "Cinq choses à savoir sur Anasse Kazib, cheminot candidat aux présidentielles",
+                "url": "https://www.lecourrierdelatlas.com/cinq-choses-a-savoir-sur-candidat-cheminot-anasse-kazib/",
+                "media": "Le Courrier de l'Atlas",
+                "date": "2026-06-23"
+              }
+            ]
+          },
+          {
+            "date": "2025-06-18",
+            "evenement": "Audience prévue au tribunal correctionnel de Paris, renvoyée d'office au 25 juin 2026 (audience trop chargée).",
+            "sources": [
+              {
+                "titre": "Conflit israélo-palestinien : le procès du militant Anasse Kazib pour apologie du terrorisme reporté",
+                "url": "https://www.lagazettefrance.fr/article/conflit-israelo-palestinien-le-proces-du-militant-anasse-kazib-pour-apologie-du-terrorisme-reporte",
+                "media": "La Gazette France (AFP)",
+                "date": "2025-06-18"
+              },
+              {
+                "titre": "Procès d'Anasse Kazib à Paris : jugé pour apologie du terrorisme ce jeudi 25 juin",
+                "url": "https://info.fr/proces-anasse-kazib-paris-apologie-terrorisme-25/",
+                "media": "info.fr",
+                "date": "2026-06-25"
+              }
+            ]
+          },
+          {
+            "date": "2026-06-25",
+            "evenement": "Audience devant la 24e chambre correctionnelle : transmission d'une QPC à la Cour de cassation, procès suspendu dans l'attente de sa décision.",
+            "sources": [
+              {
+                "titre": "Le procès d'Anasse Kazib pour apologie du terrorisme renvoyé",
+                "url": "https://lecourrierdelatlas.com/proces-anasse-kazib-apologie-terrorisme-renvoye/",
+                "media": "Le Courrier de l'Atlas",
+                "date": "2026-06-26"
+              },
+              {
+                "titre": "Procès d'Anasse Kazib : Jean-Luc Mélenchon présent au rassemblement de soutien devant le tribunal de Paris",
+                "url": "https://info.fr/proces-anasse-kazib-jean-luc-melenchon-rassemblement-soutien-tribunal-paris/",
+                "media": "info.fr",
+                "date": "2026-06-25"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Le procès d'Anasse Kazib pour apologie du terrorisme renvoyé",
+            "url": "https://lecourrierdelatlas.com/proces-anasse-kazib-apologie-terrorisme-renvoye/",
+            "media": "Le Courrier de l'Atlas",
+            "date": "2026-06-26"
+          },
+          {
+            "titre": "Conflit israélo-palestinien : le procès du militant Anasse Kazib pour apologie du terrorisme reporté",
+            "url": "https://www.lagazettefrance.fr/article/conflit-israelo-palestinien-le-proces-du-militant-anasse-kazib-pour-apologie-du-terrorisme-reporte",
+            "media": "La Gazette France (AFP)",
+            "date": "2025-06-18"
+          },
+          {
+            "titre": "Procès d'Anasse Kazib à Paris : jugé pour apologie du terrorisme ce jeudi 25 juin",
+            "url": "https://info.fr/proces-anasse-kazib-paris-apologie-terrorisme-25/",
+            "media": "info.fr",
+            "date": "2026-06-25"
+          },
+          {
+            "titre": "Cinq choses à savoir sur Anasse Kazib, cheminot candidat aux présidentielles",
+            "url": "https://www.lecourrierdelatlas.com/cinq-choses-a-savoir-sur-candidat-cheminot-anasse-kazib/",
+            "media": "Le Courrier de l'Atlas",
+            "date": "2026-06-23"
+          }
+        ]
+      },
+      {
+        "titre": "Plainte pour injure raciste publique (propos visant Radouan Kourak)",
+        "statut": "autre",
+        "role": "visé par une plainte avec constitution de partie civile",
+        "resume": "Selon Économie Matin (2 juin 2026), des propos tenus en juin 2025 par Anasse Kazib à l'encontre du journaliste et entrepreneur Radouan Kourak ont donné lieu à une plainte avec constitution de partie civile pour injure raciste publique. Le stade de la procédure (mise en examen, renvoi, date d'audience) n'est pas connu ; l'information n'a été retrouvée que dans une seule source. Présomption d'innocence.",
+        "chronologie": [
+          {
+            "date": "2025-06",
+            "evenement": "Propos visés par la plainte.",
+            "sources": [
+              {
+                "titre": "Candidat à la présidentielle, Anasse Kazib rattrapé par ses propos racistes visant Radouan Kourak",
+                "url": "https://www.economiematin.fr/candidat-a-la-presidentielle-anasse-kazib-rattrape-par-ses-propos-racistes-visant-radouan-kourak",
+                "media": "Économie Matin",
+                "date": "2026-06-02"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Candidat à la présidentielle, Anasse Kazib rattrapé par ses propos racistes visant Radouan Kourak",
+            "url": "https://www.economiematin.fr/candidat-a-la-presidentielle-anasse-kazib-rattrape-par-ses-propos-racistes-visant-radouan-kourak",
+            "media": "Économie Matin",
+            "date": "2026-06-02"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "statut": "Propositions partielles",
+    "resume": "Le site de campagne présente des mesures préliminaires, le programme étant « en cours d'élaboration ». Elles comprennent un SMIC à 2 000 € net et +500 € pour tous les salaires, retraite à 60 ans (55 ans pour les métiers pénibles), semaine de 28 heures sans baisse de salaire et interdiction des licenciements, expropriation des banques, des logements vides et des secteurs stratégiques sous contrôle des travailleurs. Sur le plan institutionnel, il veut en finir avec la Ve République, le Sénat et la fonction présidentielle. Il défend la régularisation de tous les sans-papiers, le démantèlement de l'industrie d'armement et le retrait des troupes françaises à l'étranger, et une « écologie révolutionnaire » passant par l'expropriation de TotalEnergies.",
+    "documents": [
+      {
+        "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+        "url": "https://anasse2027.fr/programme",
+        "media": "Site de campagne d'Anasse Kazib",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Anasse Kazib 2027 : une candidature ouvrière, communiste et révolutionnaire à la présidentielle",
+        "url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2027-une-candidature-ouvriere-communiste-et-revolutionnaire-a-la-presidentielle",
+        "media": "Révolution permanente (site officiel)",
+        "date": "2026-06-01"
+      },
+      {
+        "titre": "« Avec la grève, on touche le grand patronat au portefeuille » : Anasse Kazib, candidat à la présidentielle",
+        "url": "https://reporterre.net/Avec-la-greve-on-touche-le-grand-patronat-au-portefeuille-Anasse-Kazib-candidat-a-la",
+        "media": "Reporterre",
+        "date": "2026-11-04"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "kazib-smic-2000",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "SMIC à 2 000 € net et +500 € pour tous les salaires",
+        "description": "Porter le SMIC à 2 000 € net, augmenter tous les salaires de 500 €, revaloriser les allocations et indexer les salaires sur l'inflation ; revenu étudiant « à hauteur du SMIC » financé par le patronat.",
+        "chiffres": [
+          "SMIC : 2 000 € net / mois",
+          "+500 € par mois pour tous les salaires",
+          "Revenu étudiant au niveau du SMIC"
+        ],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+            "url": "https://anasse2027.fr/programme",
+            "media": "Site de campagne d'Anasse Kazib",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Programme présenté comme « en cours d'élaboration » (mesures préliminaires). Aucun chiffrage ni vérification indépendante trouvé. Repère : le SMIC net mensuel (35 h) est d'environ 1 478 € depuis le 1er juin 2026 (1 867,02 € brut) ; 2 000 € net représenteraient une hausse d'environ 35 %.",
+          "sources": [
+            {
+              "titre": "Montant SMIC 2026 taux horaire net et brut (mis à jour le 07/10/2026)",
+              "url": "https://www.legisocial.fr/reperes-sociaux/montant-smic-2026-taux-horaire-net-brut.html",
+              "media": "LégiSocial",
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      },
+      {
+        "id": "kazib-retraite-60",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Retraite à 60 ans, 55 ans pour les métiers pénibles, sans condition d'annuités",
+        "description": "« Retraite à 60 ans et 55 ans pour les métiers pénibles, sans conditions d'annuité ».",
+        "chiffres": [
+          "Âge de départ : 60 ans (55 ans pour les métiers pénibles)",
+          "Aucune durée de cotisation exigée"
+        ],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+            "url": "https://anasse2027.fr/programme",
+            "media": "Site de campagne d'Anasse Kazib",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Programme présenté comme « en cours d'élaboration » (mesures préliminaires). Aucun chiffrage indépendant de cette mesure trouvé. Ordre de grandeur : en 2022, l'Institut Montaigne chiffrait à 85,8 Md€ par an le retour à la retraite à 60 ans avec 40 annuités proposé par Jean-Luc Mélenchon ; la mesure d'Anasse Kazib, sans condition de durée de cotisation et avec un départ à 55 ans pour les métiers pénibles, irait plus loin, mais n'a pas été évaluée.",
+          "sources": [
+            {
+              "titre": "Jean-Luc Mélenchon : synthèse de ses propositions décryptées par l'Institut Montaigne (présidentielle 2022)",
+              "url": "https://www.institutmontaigne.org/presidentielle-2022/jean-luc-melenchon/synthese/",
+              "media": "Institut Montaigne",
+              "date": "2022-01"
+            }
+          ]
+        }
+      },
+      {
+        "id": "kazib-28h-licenciements",
+        "theme": "emploi-travail",
+        "type": "proposition",
+        "titre": "Semaine de 28 heures sans baisse de salaire et interdiction des licenciements",
+        "description": "« Répartition du travail pour une semaine de 28h sans baisse de salaire » et « interdiction des licenciements ».",
+        "chiffres": [
+          "Durée hebdomadaire : 28 heures (contre 35 heures légales)"
+        ],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+            "url": "https://anasse2027.fr/programme",
+            "media": "Site de campagne d'Anasse Kazib",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Programme présenté comme « en cours d'élaboration » (mesures préliminaires). Aucun chiffrage ni vérification indépendante trouvé pour cette mesure, ni sur son coût pour les employeurs publics et privés, ni sur la compatibilité d'une interdiction générale des licenciements avec la liberté d'entreprendre.",
+          "sources": [
+            {
+              "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+              "url": "https://anasse2027.fr/programme",
+              "media": "Site de campagne d'Anasse Kazib",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "kazib-logement",
+        "theme": "logement",
+        "type": "proposition",
+        "titre": "Exproprier les logements vides, plafonner et geler les loyers",
+        "description": "« Expropriation des logements vides, plafonnement et gel des loyers ».",
+        "chiffres": [],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+            "url": "https://anasse2027.fr/programme",
+            "media": "Site de campagne d'Anasse Kazib",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Programme présenté comme « en cours d'élaboration » (mesures préliminaires). Aucune vérification indépendante trouvée. Le programme ne précise ni les modalités d'indemnisation des propriétaires, ni le nombre de logements visés ; or l'article 17 de la Déclaration de 1789 conditionne toute privation de propriété à une « juste et préalable indemnité ».",
+          "sources": [
+            {
+              "titre": "Déclaration des droits de l'homme et du citoyen de 1789 (article 17)",
+              "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789",
+              "media": "Conseil constitutionnel",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "kazib-banques",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Exproprier les groupes bancaires, prêts à taux zéro et fin des agios",
+        "description": "« Expropriation des groupes bancaires », avec des prêts à taux zéro et la fin des agios ; expropriation des secteurs stratégiques (dont la santé) sous contrôle des travailleurs.",
+        "chiffres": [
+          "Taux des prêts : 0 %"
+        ],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+            "url": "https://anasse2027.fr/programme",
+            "media": "Site de campagne d'Anasse Kazib",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "« Avec la grève, on touche le grand patronat au portefeuille » : Anasse Kazib, candidat à la présidentielle",
+            "url": "https://reporterre.net/Avec-la-greve-on-touche-le-grand-patronat-au-portefeuille-Anasse-Kazib-candidat-a-la",
+            "media": "Reporterre",
+            "date": "2026-11-04"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Programme présenté comme « en cours d'élaboration » (mesures préliminaires). Aucun chiffrage ni vérification indépendante trouvé ; le programme n'indique pas si les actionnaires seraient indemnisés, condition posée par l'article 17 de la Déclaration de 1789 en cas de privation de propriété.",
+          "sources": [
+            {
+              "titre": "Déclaration des droits de l'homme et du citoyen de 1789 (article 17)",
+              "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789",
+              "media": "Conseil constitutionnel",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "kazib-ecologie-total",
+        "theme": "environnement-energie",
+        "type": "proposition",
+        "titre": "Exproprier TotalEnergies pour une planification écologique, transports gratuits",
+        "description": "« On ne peut pas prévoir une véritable planification écologique sans exproprier Total » : expropriation des secteurs stratégiques sous contrôle des travailleurs, gratuité des transports publics et développement du fret ferroviaire ; le programme prévoit aussi l'expropriation des grands groupes automobiles et métallurgiques pour réorienter la production vers les transports collectifs.",
+        "chiffres": [],
+        "date": "2026-11-04",
+        "sources": [
+          {
+            "titre": "« Avec la grève, on touche le grand patronat au portefeuille » : Anasse Kazib, candidat à la présidentielle",
+            "url": "https://reporterre.net/Avec-la-greve-on-touche-le-grand-patronat-au-portefeuille-Anasse-Kazib-candidat-a-la",
+            "media": "Reporterre",
+            "date": "2026-11-04"
+          },
+          {
+            "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+            "url": "https://anasse2027.fr/programme",
+            "media": "Site de campagne d'Anasse Kazib",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun chiffrage ni vérification indépendante trouvé ; le candidat ne précise ni le coût de rachat éventuel, ni celui de la gratuité des transports publics.",
+          "sources": [
+            {
+              "titre": "« Avec la grève, on touche le grand patronat au portefeuille » : Anasse Kazib, candidat à la présidentielle",
+              "url": "https://reporterre.net/Avec-la-greve-on-touche-le-grand-patronat-au-portefeuille-Anasse-Kazib-candidat-a-la",
+              "media": "Reporterre",
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      },
+      {
+        "id": "kazib-institutions",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "En finir avec la Ve République, le Sénat et la fonction présidentielle",
+        "description": "« Fin de la Ve République, du Sénat et de la figure présidentielle », au profit d'une assemblée unique dont les élus seraient révocables, base d'un « gouvernement des travailleurs ».",
+        "chiffres": [],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+            "url": "https://anasse2027.fr/programme",
+            "media": "Site de campagne d'Anasse Kazib",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "« Avec la grève, on touche le grand patronat au portefeuille » : Anasse Kazib, candidat à la présidentielle",
+            "url": "https://reporterre.net/Avec-la-greve-on-touche-le-grand-patronat-au-portefeuille-Anasse-Kazib-candidat-a-la",
+            "media": "Reporterre",
+            "date": "2026-11-04"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Programme présenté comme « en cours d'élaboration » (mesures préliminaires). Aucune vérification indépendante trouvée ; la procédure envisagée (révision constitutionnelle, assemblée constituante ou autre) n'est pas précisée.",
+          "sources": [
+            {
+              "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+              "url": "https://anasse2027.fr/programme",
+              "media": "Site de campagne d'Anasse Kazib",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "kazib-regularisation",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "Régulariser tous les sans-papiers, liberté de circulation et d'installation",
+        "description": "« Régularisation de tous les sans-papiers, liberté de circulation et d'installation ».",
+        "chiffres": [],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+            "url": "https://anasse2027.fr/programme",
+            "media": "Site de campagne d'Anasse Kazib",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Programme présenté comme « en cours d'élaboration » (mesures préliminaires). Aucune vérification indépendante trouvée ; ni le nombre de personnes concernées ni la compatibilité avec le droit européen ne sont abordés.",
+          "sources": [
+            {
+              "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+              "url": "https://anasse2027.fr/programme",
+              "media": "Site de campagne d'Anasse Kazib",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "kazib-antimilitarisme",
+        "theme": "defense",
+        "type": "proposition",
+        "titre": "Démanteler l'industrie de guerre et retirer les troupes françaises à l'étranger",
+        "description": "« Pas un euro pour la guerre, démantèlement de la machine de guerre française » et « retrait des troupes françaises à l'étranger ».",
+        "chiffres": [],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+            "url": "https://anasse2027.fr/programme",
+            "media": "Site de campagne d'Anasse Kazib",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Programme présenté comme « en cours d'élaboration » (mesures préliminaires). Position non chiffrée (ni économies attendues ni conséquences sur l'emploi dans l'industrie de défense) ; aucune vérification indépendante trouvée.",
+          "sources": [
+            {
+              "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+              "url": "https://anasse2027.fr/programme",
+              "media": "Site de campagne d'Anasse Kazib",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "kazib-police",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "Dissoudre les corps spéciaux de police",
+        "description": "« Dissolution des corps spéciaux de police » ; le programme ne liste pas les unités concernées.",
+        "chiffres": [],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+            "url": "https://anasse2027.fr/programme",
+            "media": "Site de campagne d'Anasse Kazib",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Programme présenté comme « en cours d'élaboration » (mesures préliminaires). Mesure non détaillée (unités visées non précisées) ; aucune vérification indépendante trouvée.",
+          "sources": [
+            {
+              "titre": "Programme — Anasse Kazib 2027 (mesures préliminaires, programme « en cours d'élaboration » ; consulté le 13/11/2026)",
+              "url": "https://anasse2027.fr/programme",
+              "media": "Site de campagne d'Anasse Kazib",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "kazib-211-md-aides",
+        "theme": "economie-fiscalite",
+        "type": "declaration-chiffree",
+        "titre": "« 211 milliards d'euros d'aides aux entreprises » chaque année",
+        "description": "Pour financer ses mesures pour l'éducation (« des dizaines de milliards »), le candidat affirme que l'argent existe, citant 211 Md€ d'aides annuelles aux entreprises et plus de 20 Md€ perdus chaque année à cause de la fraude à la TVA.",
+        "chiffres": [
+          "Aides aux entreprises : 211 Md€ par an (selon le candidat)",
+          "Fraude à la TVA : plus de 20 Md€ par an (selon le candidat)"
+        ],
+        "date": "2026-11-04",
+        "sources": [
+          {
+            "titre": "« Avec la grève, on touche le grand patronat au portefeuille » : Anasse Kazib, candidat à la présidentielle",
+            "url": "https://reporterre.net/Avec-la-greve-on-touche-le-grand-patronat-au-portefeuille-Anasse-Kazib-candidat-a-la",
+            "media": "Reporterre",
+            "date": "2026-11-04"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "Vérification maison. Le chiffre de 211 Md€ est celui de la commission d'enquête du Sénat (2025), qui l'a calculé pour l'année 2023 en le présentant comme un « plancher ». Il additionne des éléments hétérogènes (75 Md€ d'allègements de cotisations, 88 Md€ de dépenses fiscales au sens large, 41 Md€ de prêts et garanties de Bpifrance, 7 Md€ de subventions) et il est contesté par le gouvernement et le Medef ; au sens strict, le Sénat retient environ 108 Md€. Le chiffre de la fraude à la TVA n'a pas été vérifié.",
+          "sources": [
+            {
+              "titre": "211 milliards d'euros d'aides publiques aux entreprises : sur quoi repose le calcul de la commission d'enquête du Sénat",
+              "url": "https://www.publicsenat.fr/actualites/economie/211-milliards-deuros-daides-publiques-aux-entreprises-sur-quoi-repose-le-calcul-de-la-commission-denquete-du-senat",
+              "media": "Public Sénat",
+              "date": "2025-09-15"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

@@ -1,0 +1,1513 @@
+{
+  "id": "marine-le-pen",
+  "prenom": "Marine",
+  "nom": "Le Pen",
+  "parti": "Rassemblement national",
+  "partiAbrev": "RN",
+  "famillePolitique": "extreme-droite",
+  "couleur": "#0D2C54",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Candidature annoncée le 7 juillet 2026 au journal de 20 heures de TF1 (« Ce soir, je suis candidate à l'élection présidentielle »), quelques heures après sa condamnation en appel dans l'affaire des assistants parlementaires européens du FN ; elle a annoncé le même soir un pourvoi en cassation, qui suspend l'exécution de la peine, et a indiqué que Jordan Bardella mènerait campagne à ses côtés et serait son Premier ministre en cas de victoire. La Cour de cassation a indiqué pouvoir statuer « au plus tard début avril 2027 » ; des questions prioritaires de constitutionnalité doivent être examinées le 16 décembre 2026. Son éligibilité fait l'objet d'un débat juridique ; c'est le Conseil constitutionnel qui arrêtera la liste des candidats (au plus tard le 26 mars 2027). Slogan de campagne : « Pour la France, la Renaissance ».",
+    "date": "2026-07-07",
+    "sources": [
+      {
+        "titre": "« Ce soir, je suis candidate à l'élection présidentielle » : malgré sa condamnation, Marine Le Pen se lance et se pourvoit en cassation",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-marine-le-pen-est-candidate-et-se-pourvoit-en-cassation",
+        "media": "Public Sénat",
+        "date": "2026-07-07"
+      },
+      {
+        "titre": "Condamnation de Marine Le Pen : la Cour de cassation se prononcera \"au plus tard début avril 2027\"",
+        "url": "https://www.france24.com/fr/france/20260708-condamnation-de-marine-le-pen-la-cour-de-cassation-se-prononcera-au-plus-tard-d%C3%A9but-avril-2027",
+        "media": "France 24 (AFP)",
+        "date": "2026-07-08"
+      },
+      {
+        "titre": "Affaire des assistants parlementaires du RN : la Cour de cassation fixera le sort de Marine Le Pen le 16 décembre",
+        "url": "https://actu.orange.fr/politique/affaire-des-assistants-parlementaires-du-rn-la-cour-de-cassation-fixera-le-sort-de-marine-le-pen-le-16-decembre-l-express-via-6medias-CNT000002t1bDR.html",
+        "media": "L'Express via 6Medias (Orange Actu)",
+        "date": "2026-10-17"
+      },
+      {
+        "titre": "Affaire des assistants parlementaires du FN : la défense de Marine Le Pen dévoile ses arguments à la Cour de cassation",
+        "url": "https://www.leclubdesjuristes.com/?p=18085",
+        "media": "Le Club des Juristes",
+        "date": "2026-10-28"
+      },
+      {
+        "titre": "Marine Le Pen est-elle vraiment inéligible à l'élection présidentielle, comme l'affirme un magistrat honoraire de la Cour de cassation ?",
+        "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-est-elle-vraiment-ineligible-a-l-election-presidentielle-comme-l-affirme-un-magistrat-honoraire-de-la-cour-de-cassation_8257378.html",
+        "media": "franceinfo",
+        "date": "2026-10-30"
+      },
+      {
+        "titre": "Marine Le Pen",
+        "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1968-08-05",
+      "lieu": "Neuilly-sur-Seine (Hauts-de-Seine)",
+      "sources": [
+        {
+          "titre": "8ème législature | Marine LE PEN | Députés | Parlement européen",
+          "url": "https://www.europarl.europa.eu/meps/fr/28210/MARINE_LE+PEN/history/8",
+          "media": "Parlement européen",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Marine Le Pen - Activité parlementaire",
+          "url": "https://datan.fr/deputes/pas-de-calais-62/depute_marine-lepen",
+          "media": "Datan",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "LE PEN MARINE (1968- )",
+          "url": "https://www.universalis.fr/encyclopedie/marine-le-pen/",
+          "media": "Encyclopædia Universalis",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Marine Le Pen",
+          "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Avocate de formation, fille de Jean-Marie Le Pen, Marine Le Pen a présidé le Front national, devenu Rassemblement national, de 2011 à 2021. Députée du Pas-de-Calais depuis 2017 et ancienne députée européenne (2004-2017), elle a présidé le groupe RN à l'Assemblée nationale de 2022 à octobre 2026, date à laquelle Sébastien Chenu lui a succédé pour lui permettre de se consacrer à la campagne. Candidate aux présidentielles de 2012, 2017 et 2022 (qualifiée au second tour en 2017 et 2022 face à Emmanuel Macron), elle est candidate pour 2027. Condamnée en première instance (mars 2025) puis en appel (juillet 2026) pour détournement de fonds publics dans l'affaire des assistants parlementaires européens du FN, elle a formé un pourvoi en cassation : la condamnation n'est pas définitive.",
+    "formation": [
+      {
+        "texte": "Maîtrise en droit (1990) puis DEA de droit pénal (1991) à l'université Paris II Panthéon-Assas.",
+        "sources": [
+          {
+            "titre": "La biographie de Marine Le Pen",
+            "url": "https://www.sudradio.fr/la-biographie-de-marine-le-pen",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "LE PEN MARINE (1968- )",
+            "url": "https://www.universalis.fr/encyclopedie/marine-le-pen/",
+            "media": "Encyclopædia Universalis",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Marine Le Pen",
+            "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "texte": "Certificat d'aptitude à la profession d'avocat (CAPA) obtenu en 1992 à l'École de formation professionnelle des barreaux de Paris.",
+        "sources": [
+          {
+            "titre": "La biographie de Marine Le Pen",
+            "url": "https://www.sudradio.fr/la-biographie-de-marine-le-pen",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Marine Le Pen",
+            "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Avocate inscrite au barreau de Paris de 1992 à 1998 (installée à son compte en 1994), avant d'entrer au service juridique du Front national le 1er janvier 1998.",
+        "sources": [
+          {
+            "titre": "La biographie de Marine Le Pen",
+            "url": "https://www.sudradio.fr/la-biographie-de-marine-le-pen",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Marion Le Pen dite Marine Le Pen",
+            "url": "https://www.larousse.fr/encyclopedie/personnage/wd/185781",
+            "media": "Encyclopédie Larousse",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Marine Le Pen - Activité parlementaire",
+            "url": "https://datan.fr/deputes/pas-de-calais-62/depute_marine-lepen",
+            "media": "Datan",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Marine Le Pen",
+            "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "Marine Le Pen",
+        "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Qui est Sébastien Chenu, qui va succéder à Marine Le Pen à la présidence du groupe RN à l'Assemblée?",
+        "url": "https://lcp.fr/actualites/qui-est-sebastien-chenu-qui-va-succeder-a-marine-le-pen-a-la-presidence-du-groupe-rn-a-l",
+        "media": "LCP",
+        "date": "2026-10-24"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "1998",
+      "fin": "2004",
+      "fonction": "Conseillère régionale du Nord-Pas-de-Calais",
+      "details": "Mandat du 21 mars 1998 au 28 mars 2004.",
+      "sources": [
+        {
+          "titre": "Marion Le Pen dite Marine Le Pen",
+          "url": "https://www.larousse.fr/encyclopedie/personnage/wd/185781",
+          "media": "Encyclopédie Larousse",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "LE PEN MARINE (1968- )",
+          "url": "https://www.universalis.fr/encyclopedie/marine-le-pen/",
+          "media": "Encyclopædia Universalis",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "La biographie de Marine Le Pen",
+          "url": "https://www.sudradio.fr/la-biographie-de-marine-le-pen",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Marine Le Pen",
+          "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2003",
+      "fin": "2011",
+      "fonction": "Vice-présidente du Front national",
+      "details": "Nommée vice-présidente en 2003, puis vice-présidente exécutive en novembre 2007, jusqu'à son accession à la présidence du parti en janvier 2011.",
+      "sources": [
+        {
+          "titre": "Marion Le Pen dite Marine Le Pen",
+          "url": "https://www.larousse.fr/encyclopedie/personnage/wd/185781",
+          "media": "Encyclopédie Larousse",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Marine Le Pen",
+          "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2004",
+      "fin": "2010",
+      "fonction": "Conseillère régionale d'Île-de-France",
+      "details": "Mandat du 28 mars 2004 au 21 mars 2010.",
+      "sources": [
+        {
+          "titre": "Résultats des élections régionales 2004 – Île-de-France",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/regionales_2004/011/011.php",
+          "media": "Ministère de l'Intérieur",
+          "date": "2004-03-28"
+        },
+        {
+          "titre": "La biographie de Marine Le Pen",
+          "url": "https://www.sudradio.fr/la-biographie-de-marine-le-pen",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Marine Le Pen",
+          "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2004",
+      "fin": "2017",
+      "fonction": "Députée européenne",
+      "details": "Du 20 juillet 2004 au 18 juin 2017 ; co-présidente du groupe Europe des nations et des libertés du 16 juin 2015 au 18 juin 2017.",
+      "sources": [
+        {
+          "titre": "6ème législature | Marine LE PEN | Députés | Parlement européen",
+          "url": "https://www.europarl.europa.eu/meps/fr/28210/MARINE_LE+PEN/history/6",
+          "media": "Parlement européen",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "8ème législature | Marine LE PEN | Députés | Parlement européen",
+          "url": "https://www.europarl.europa.eu/meps/fr/28210/MARINE_LE+PEN/history/8",
+          "media": "Parlement européen",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Marion Le Pen dite Marine Le Pen",
+          "url": "https://www.larousse.fr/encyclopedie/personnage/wd/185781",
+          "media": "Encyclopédie Larousse",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Marine Le Pen",
+          "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2008",
+      "fin": "2011",
+      "fonction": "Conseillère municipale d'Hénin-Beaumont (Pas-de-Calais)",
+      "details": "Élue en mars 2008, réélue lors des municipales partielles de juin-juillet 2009 ; démission le 24 février 2011 au titre du non-cumul des mandats.",
+      "sources": [
+        {
+          "titre": "Marion Le Pen dite Marine Le Pen",
+          "url": "https://www.larousse.fr/encyclopedie/personnage/wd/185781",
+          "media": "Encyclopédie Larousse",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "La biographie de Marine Le Pen",
+          "url": "https://www.sudradio.fr/la-biographie-de-marine-le-pen",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Marine Le Pen",
+          "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2010",
+      "fin": "2021",
+      "fonction": "Conseillère régionale du Nord-Pas-de-Calais puis des Hauts-de-France",
+      "details": "Mandat du 26 mars 2010 au 2 juillet 2021.",
+      "sources": [
+        {
+          "titre": "Résultats des élections régionales 2010 – Nord-Pas-de-Calais",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/regionales_2010/031/031.php",
+          "media": "Ministère de l'Intérieur",
+          "date": "2010-03-21"
+        },
+        {
+          "titre": "Résultats des élections régionales 2015 – Nord-Pas-de-Calais-Picardie",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/regionales-2015/32/32.php",
+          "media": "Ministère de l'Intérieur",
+          "date": "2015-12-13"
+        },
+        {
+          "titre": "La biographie de Marine Le Pen",
+          "url": "https://www.sudradio.fr/la-biographie-de-marine-le-pen",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Marine Le Pen",
+          "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2011",
+      "fin": "2021",
+      "fonction": "Présidente du Front national, devenu Rassemblement national en 2018",
+      "details": "Élue le 16 janvier 2011, réélue en 2014, 2018 et 2021 ; présidence quittée le 13 septembre 2021 (Jordan Bardella lui succède).",
+      "sources": [
+        {
+          "titre": "Marion Le Pen dite Marine Le Pen",
+          "url": "https://www.larousse.fr/encyclopedie/personnage/wd/185781",
+          "media": "Encyclopédie Larousse",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "La biographie de Marine Le Pen",
+          "url": "https://www.sudradio.fr/la-biographie-de-marine-le-pen",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Islamisme : « Il y a des quartiers qui ont été verrouillés par des barbus », dénonce Bruno Retailleau",
+          "url": "https://www.publicsenat.fr/actualites/societe/islamisme-il-y-a-des-quartiers-qui-ont-ete-verrouilles-par-des-barbus-denonce",
+          "media": "Public Sénat",
+          "date": "2022-02-02"
+        },
+        {
+          "titre": "Marine Le Pen",
+          "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2012",
+      "fin": "2022",
+      "fonction": "Candidate à l'élection présidentielle (2012, 2017, 2022)",
+      "details": "2012 : 3e au premier tour (17,90 %). 2017 : 2e au premier tour (21,30 %), battue au second tour par Emmanuel Macron (33,90 %). 2022 : 23,15 % au premier tour, battue au second tour par Emmanuel Macron (41,45 %).",
+      "sources": [
+        {
+          "titre": "Résultats de l'élection présidentielle 2012 (France entière)",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/PR2012/FE.php",
+          "media": "Ministère de l'Intérieur",
+          "date": "2012-05-06"
+        },
+        {
+          "titre": "Résultats de l'élection présidentielle 2017 (France entière)",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/presidentielle-2017/FE.php",
+          "media": "Ministère de l'Intérieur",
+          "date": "2017-05-07"
+        },
+        {
+          "titre": "Résultats de l'élection présidentielle 2022 (France entière)",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/presidentielle-2022/FE.php",
+          "media": "Ministère de l'Intérieur",
+          "date": "2022-04-24"
+        },
+        {
+          "titre": "Marine Le Pen",
+          "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2017",
+      "fin": null,
+      "fonction": "Députée de la 11e circonscription du Pas-de-Calais",
+      "details": "En fonction depuis le 21 juin 2017 ; réélue en juin 2022 et en juin 2024 (dès le premier tour en 2024).",
+      "sources": [
+        {
+          "titre": "Marine Le Pen - Activité parlementaire",
+          "url": "https://datan.fr/deputes/pas-de-calais-62/depute_marine-lepen",
+          "media": "Datan",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "La biographie de Marine Le Pen",
+          "url": "https://www.sudradio.fr/la-biographie-de-marine-le-pen",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Marine Le Pen",
+          "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2021",
+      "fin": "2025",
+      "fonction": "Conseillère départementale du Pas-de-Calais (canton d'Hénin-Beaumont-2)",
+      "details": "Élue en 2021. Déclarée démissionnaire d'office par arrêté du préfet du Pas-de-Calais du 10 avril 2025, à la suite de la peine d'inéligibilité avec exécution provisoire prononcée le 31 mars 2025 ; démission d'office confirmée par le tribunal administratif de Lille puis par le Conseil d'État le 10 novembre 2025 (n° 505770).",
+      "sources": [
+        {
+          "titre": "Exécution provisoire d'une peine d'inéligibilité : le Conseil d'État confirme la démission d'office de Mme Marine Le Pen de son mandat de conseillère départementale",
+          "url": "https://conseil-etat.fr/site/actualites/execution-provisoire-d-une-peine-d-ineligibilite-le-conseil-d-etat-confirme-la-demission-d-office-de-mme-marine-le-pen-de-son-mandat-de-conseille",
+          "media": "Conseil d'État",
+          "date": "2025-11-10"
+        },
+        {
+          "titre": "Marine Le Pen",
+          "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2022",
+      "fin": "2026",
+      "fonction": "Présidente du groupe Rassemblement national à l'Assemblée nationale",
+      "details": "Présidente du groupe à partir de juin 2022, réélue le 10 juillet 2024. Sébastien Chenu a annoncé le 24 octobre 2026 lui succéder, Marine Le Pen se mettant en retrait « campagne présidentielle oblige » (fin de fonction indiquée au 27 octobre 2026 par Wikipédia).",
+      "sources": [
+        {
+          "titre": "Qui est Sébastien Chenu, qui va succéder à Marine Le Pen à la présidence du groupe RN à l'Assemblée?",
+          "url": "https://lcp.fr/actualites/qui-est-sebastien-chenu-qui-va-succeder-a-marine-le-pen-a-la-presidence-du-groupe-rn-a-l",
+          "media": "LCP",
+          "date": "2026-10-24"
+        },
+        {
+          "titre": "Marine Le Pen",
+          "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Condamnée en première instance (31 mars 2025) puis en appel (7 juillet 2026) pour détournement de fonds publics dans l'affaire des assistants parlementaires européens du FN ; pourvoi en cassation pendant, la condamnation n'est donc pas définitive et elle reste présumée innocente jusqu'à l'arrêt de la Cour de cassation. Relaxée en 2021 dans l'affaire des images d'exactions de Daech.",
+    "affaires": [
+      {
+        "titre": "Affaire des assistants parlementaires européens du Front national",
+        "statut": "condamnation-non-definitive",
+        "role": "prévenue",
+        "resume": "Il est reproché au Front national (devenu RN) et à plusieurs de ses élus d'avoir rémunéré avec des fonds du Parlement européen des assistants parlementaires travaillant en réalité pour le parti, entre 2004 et 2016. Le 31 mars 2025, le tribunal correctionnel de Paris a condamné Marine Le Pen pour détournement de fonds publics à quatre ans d'emprisonnement dont deux ans ferme aménageables sous bracelet électronique, 100 000 euros d'amende et cinq ans d'inéligibilité avec exécution provisoire ; le parti a été condamné à 2 millions d'euros d'amende dont 1 million avec sursis. Le procès en appel s'est tenu devant la cour d'appel de Paris du 13 janvier au 12 février 2026 (Marine Le Pen, le RN et onze autres prévenus). Le parquet général a requis le 3 février 2026 quatre ans de prison dont un ferme et cinq ans d'inéligibilité sans exécution provisoire. Le 7 juillet 2026, la cour d'appel de Paris l'a déclarée coupable (emplois de Guillaume L'Huillier, Micheline Bruna, Thierry Légier et Catherine Griset notamment, préjudice total du Parlement européen évalué à 2,8 millions d'euros pour 2004-2016) et l'a condamnée à trois ans d'emprisonnement dont deux avec sursis (l'année ferme sous forme de détention à domicile sous surveillance électronique), 100 000 euros d'amende et 45 mois d'inéligibilité dont 30 avec sursis, soit 15 mois ferme considérés comme déjà exécutés depuis le 31 mars 2025 ; le RN a été condamné à 2 millions d'euros d'amende dont 1 million avec sursis et à la confiscation d'un million d'euros. Marine Le Pen a formé un pourvoi en cassation (13 pourvois enregistrés entre le 7 et le 17 juillet 2026), qui suspend l'exécution de l'arrêt. Le parquet général a renoncé le 15 juillet 2026 à former un pourvoi. La Cour de cassation a indiqué pouvoir statuer « au plus tard début avril 2027 » ; les mémoires ont été déposés le 15 octobre 2026 et la Cour a désigné deux conseillers rapporteurs et deux avocats généraux. Une dizaine de QPC déposées par la défense (contestant notamment l'application du délit de détournement de fonds publics aux députés européens) seront examinées à l'audience de la chambre criminelle du 16 décembre 2026, la décision sur leur transmission étant « en principe rendue le jour-même » ; en cas de transmission au Conseil constitutionnel, une décision serait attendue au plus tard le 16 mars 2027, selon Le Club des juristes. La date de l'audience sur le fond des pourvois n'est pas connue au 13 novembre 2026 ; la Cour maintient l'objectif d'une décision avant le premier tour. Des juristes divergent sur l'effet du pourvoi sur son éligibilité : le magistrat honoraire Didier Guérin estime que l'exécution provisoire de première instance s'applique de nouveau, le procureur général près la Cour de cassation Rémy Heitz soutient le contraire ; le Conseil constitutionnel, qui arrête la liste des candidats, tranchera. Au 13 novembre 2026, la condamnation n'est pas définitive.",
+        "chronologie": [
+          {
+            "date": "2015-03-24",
+            "evenement": "Ouverture d'une enquête préliminaire par le parquet de Paris, après la saisine de l'Olaf par le Parlement européen (9 mars 2015).",
+            "sources": [
+              {
+                "titre": "Procès de Marine Le Pen : retour sur plus de dix ans d'affaire avant la décision en appel",
+                "url": "https://lcp.fr/actualites/proces-de-marine-le-pen-retour-sur-plus-de-dix-ans-d-affaire-avant-la-decision-en-appel",
+                "media": "LCP",
+                "date": "2026-07"
+              }
+            ]
+          },
+          {
+            "date": "2016",
+            "evenement": "Ouverture d'une information judiciaire.",
+            "sources": [
+              {
+                "titre": "Procès de Marine Le Pen : retour sur plus de dix ans d'affaire avant la décision en appel",
+                "url": "https://lcp.fr/actualites/proces-de-marine-le-pen-retour-sur-plus-de-dix-ans-d-affaire-avant-la-decision-en-appel",
+                "media": "LCP",
+                "date": "2026-07"
+              }
+            ]
+          },
+          {
+            "date": "2017",
+            "evenement": "Mise en examen de Marine Le Pen (entre juin et décembre 2017, selon LCP).",
+            "sources": [
+              {
+                "titre": "Procès de Marine Le Pen : retour sur plus de dix ans d'affaire avant la décision en appel",
+                "url": "https://lcp.fr/actualites/proces-de-marine-le-pen-retour-sur-plus-de-dix-ans-d-affaire-avant-la-decision-en-appel",
+                "media": "LCP",
+                "date": "2026-07"
+              }
+            ]
+          },
+          {
+            "date": "2023-12-08",
+            "evenement": "Ordonnance de renvoi devant le tribunal correctionnel de Paris.",
+            "sources": [
+              {
+                "titre": "Procès de Marine Le Pen : retour sur plus de dix ans d'affaire avant la décision en appel",
+                "url": "https://lcp.fr/actualites/proces-de-marine-le-pen-retour-sur-plus-de-dix-ans-d-affaire-avant-la-decision-en-appel",
+                "media": "LCP",
+                "date": "2026-07"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-30",
+            "evenement": "Ouverture du procès en première instance (jusqu'au 27 novembre 2024).",
+            "sources": [
+              {
+                "titre": "Procès de Marine Le Pen : retour sur plus de dix ans d'affaire avant la décision en appel",
+                "url": "https://lcp.fr/actualites/proces-de-marine-le-pen-retour-sur-plus-de-dix-ans-d-affaire-avant-la-decision-en-appel",
+                "media": "LCP",
+                "date": "2026-07"
+              }
+            ]
+          },
+          {
+            "date": "2025-03-31",
+            "evenement": "Jugement du tribunal correctionnel de Paris : 4 ans d'emprisonnement dont 2 ferme (aménageables sous bracelet), 100 000 € d'amende, 5 ans d'inéligibilité avec exécution provisoire.",
+            "sources": [
+              {
+                "titre": "Inéligibilité, exécution provisoire, appel… Quatre questions pour comprendre la condamnation de Marine Le Pen",
+                "url": "https://www.publicsenat.fr/actualites/politique/inegibilite-execution-provisoire-appel-quatre-questions-pour-comprendre-la-condamnation-de-marine-le-pen",
+                "media": "Public Sénat",
+                "date": "2025-03-31"
+              }
+            ]
+          },
+          {
+            "date": "2025-04-10",
+            "evenement": "Arrêté du préfet du Pas-de-Calais la déclarant démissionnaire d'office de son mandat de conseillère départementale, en conséquence de l'inéligibilité avec exécution provisoire.",
+            "sources": [
+              {
+                "titre": "Exécution provisoire d'une peine d'inéligibilité : le Conseil d'État confirme la démission d'office de Mme Marine Le Pen de son mandat de conseillère départementale",
+                "url": "https://conseil-etat.fr/site/actualites/execution-provisoire-d-une-peine-d-ineligibilite-le-conseil-d-etat-confirme-la-demission-d-office-de-mme-marine-le-pen-de-son-mandat-de-conseille",
+                "media": "Conseil d'État",
+                "date": "2025-11-10"
+              }
+            ]
+          },
+          {
+            "date": "2026-01-13",
+            "evenement": "Ouverture du procès en appel devant la cour d'appel de Paris (audiences jusqu'au 12 février 2026) ; 13 prévenus dont Marine Le Pen et le RN.",
+            "sources": [
+              {
+                "titre": "France : ouverture du procès en appel du RN, Marine Le Pen joue son avenir présidentiel",
+                "url": "https://www.parismatch.be/actualites/monde/2026/01/13/france-ouverture-du-proces-en-appel-du-rn-marine-le-pen-joue-son-avenir-presidentiel-QXHZVX5XRVAMJGO44VDW4NPJGA/",
+                "media": "Paris Match Belgique (AFP)",
+                "date": "2026-01-13"
+              },
+              {
+                "titre": "Marine Le Pen sera jugée en appel du 13 janvier au 12 février 2026, dans l'affaire des assistants parlementaires du FN",
+                "url": "https://www.publicsenat.fr/actualites/politique/marine-le-pen-sera-jugee-en-appel-du-13-janvier-au-12-fevrier-2026-dans-laffaire-des-assistants-parlementaires-du-fn",
+                "media": "Public Sénat",
+                "date": "2025-09-08"
+              }
+            ]
+          },
+          {
+            "date": "2026-02-03",
+            "evenement": "Réquisitions du parquet général en appel : 4 ans de prison dont 1 ferme et 5 ans d'inéligibilité, sans exécution provisoire.",
+            "sources": [
+              {
+                "titre": "Procès en appel des assistants FN : le parquet requiert quatre ans de prison, dont un ferme",
+                "url": "https://www.publicsenat.fr/actualites/politique/proces-en-appel-des-assistants-fn-le-parquet-requiert-quatre-ans-de-prison-dont-un-ferme-et-cinq-ans-dineligibilite-contre-marine-le-pen-mais-sans-application-immediate",
+                "media": "Public Sénat",
+                "date": "2026-02-03"
+              }
+            ]
+          },
+          {
+            "date": "2026-07-07",
+            "evenement": "Arrêt de la cour d'appel de Paris : 3 ans d'emprisonnement dont 2 avec sursis (1 an sous bracelet électronique), 100 000 € d'amende, 45 mois d'inéligibilité dont 30 avec sursis (15 mois ferme déjà exécutés).",
+            "sources": [
+              {
+                "titre": "Marine Le Pen condamnée en appel : ce qu'il faut retenir de la décision de justice",
+                "url": "https://www.leclubdesjuristes.com/justice/affaire-des-assistants-parlementaires-du-fn-coup-darret-a-la-candidature-de-marine-le-pen-16827/",
+                "media": "Le Club des Juristes",
+                "date": "2026-07-07"
+              },
+              {
+                "titre": "Inéligibilité, détournements: ce que dit la décision condamnant Marine Le Pen en appel",
+                "url": "https://www.france24.com/fr/info-en-continu/20260707-in%C3%A9ligibilit%C3%A9-d%C3%A9tournements-ce-que-dit-la-d%C3%A9cision-condamnant-marine-le-pen-en-appel",
+                "media": "France 24 (AFP)",
+                "date": "2026-07-07"
+              },
+              {
+                "titre": "Peine réduite en appel pour Marine Le Pen, condamnée à 15 mois ferme d'inéligibilité",
+                "url": "https://www.rts.ch/info/monde/2026/article/condamnee-en-appel-marine-le-pen-pourra-se-presenter-en-2027-29296439.html",
+                "media": "RTS",
+                "date": "2026-07-07"
+              }
+            ]
+          },
+          {
+            "date": "2026-07-07",
+            "evenement": "Annonce au 20 heures de TF1 d'un pourvoi en cassation (suspensif) et de sa candidature à la présidentielle.",
+            "sources": [
+              {
+                "titre": "« Ce soir, je suis candidate à l'élection présidentielle » : malgré sa condamnation, Marine Le Pen se lance et se pourvoit en cassation",
+                "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-marine-le-pen-est-candidate-et-se-pourvoit-en-cassation",
+                "media": "Public Sénat",
+                "date": "2026-07-07"
+              }
+            ]
+          },
+          {
+            "date": "2026-07-08",
+            "evenement": "Communiqué de la Cour de cassation : la chambre criminelle pourrait rendre son arrêt « au plus tard début avril 2027 », sous réserve de facteurs procéduraux.",
+            "sources": [
+              {
+                "titre": "Condamnation de Marine Le Pen : la Cour de cassation se prononcera \"au plus tard début avril 2027\"",
+                "url": "https://www.france24.com/fr/france/20260708-condamnation-de-marine-le-pen-la-cour-de-cassation-se-prononcera-au-plus-tard-d%C3%A9but-avril-2027",
+                "media": "France 24 (AFP)",
+                "date": "2026-07-08"
+              }
+            ]
+          },
+          {
+            "date": "2026-07-15",
+            "evenement": "Le parquet général de la cour d'appel de Paris annonce qu'il ne formera pas de pourvoi en cassation.",
+            "sources": [
+              {
+                "titre": "Affaire des assistants parlementaires du FN : le parquet renonce à un pourvoi en cassation",
+                "url": "https://www.leclubdesjuristes.com/?p=16990",
+                "media": "Le Club des Juristes",
+                "date": "2026-07-16"
+              }
+            ]
+          },
+          {
+            "date": "2026-07-17",
+            "evenement": "Fin de l'enregistrement des pourvois : 13 pourvois en cassation enregistrés entre le 7 et le 17 juillet 2026.",
+            "sources": [
+              {
+                "titre": "Les avocats de Marine Le Pen ont jusqu'au 15 octobre pour justifier le pourvoi dans l'affaire des assistants d'eurodéputés FN",
+                "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/les-avocats-de-marine-le-pen-ont-jusqu-au-15-octobre-pour-justifier-le-pourvoi-dans-l-affaire-des-assistants-d-eurodeputes-fn_8177831.html",
+                "media": "franceinfo",
+                "date": "2026-09-04"
+              }
+            ]
+          },
+          {
+            "date": "2026-10-15",
+            "evenement": "Dépôt des mémoires ampliatifs en cassation (le délai supplémentaire demandé a été refusé) ; la Cour désigne deux conseillers rapporteurs et deux avocats généraux.",
+            "sources": [
+              {
+                "titre": "Les avocats de Marine Le Pen ont jusqu'au 15 octobre pour justifier le pourvoi dans l'affaire des assistants d'eurodéputés FN",
+                "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/les-avocats-de-marine-le-pen-ont-jusqu-au-15-octobre-pour-justifier-le-pourvoi-dans-l-affaire-des-assistants-d-eurodeputes-fn_8177831.html",
+                "media": "franceinfo",
+                "date": "2026-09-04"
+              },
+              {
+                "titre": "Affaire des assistants parlementaires du FN : la défense de Marine Le Pen dévoile ses arguments à la Cour de cassation",
+                "url": "https://www.leclubdesjuristes.com/?p=18085",
+                "media": "Le Club des Juristes",
+                "date": "2026-10-28"
+              }
+            ]
+          },
+          {
+            "date": "2026-10-28",
+            "evenement": "Entretien au Monde du magistrat honoraire Didier Guérin estimant Marine Le Pen « actuellement inéligible » ; position contestée par d'autres juristes et par sa défense, qui saisit le Conseil supérieur de la magistrature.",
+            "sources": [
+              {
+                "titre": "Présidentielle 2027 : le débat sur l'inéligibilité de Marine Le Pen relancé",
+                "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-debat-sur-lineligibilite-de-marine-le-pen-relance",
+                "media": "Public Sénat",
+                "date": "2026-11-02"
+              },
+              {
+                "titre": "Marine Le Pen est-elle vraiment inéligible à l'élection présidentielle, comme l'affirme un magistrat honoraire de la Cour de cassation ?",
+                "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-est-elle-vraiment-ineligible-a-l-election-presidentielle-comme-l-affirme-un-magistrat-honoraire-de-la-cour-de-cassation_8257378.html",
+                "media": "franceinfo",
+                "date": "2026-10-30"
+              }
+            ]
+          },
+          {
+            "date": "2026-12-16",
+            "evenement": "À venir : audience de la chambre criminelle de la Cour de cassation sur une dizaine de QPC déposées par la défense ; décision sur leur transmission « en principe rendue le jour-même ».",
+            "sources": [
+              {
+                "titre": "Affaire des assistants parlementaires du FN : la défense de Marine Le Pen dévoile ses arguments à la Cour de cassation",
+                "url": "https://www.leclubdesjuristes.com/?p=18085",
+                "media": "Le Club des Juristes",
+                "date": "2026-10-28"
+              },
+              {
+                "titre": "Affaire des assistants parlementaires du RN : la Cour de cassation fixera le sort de Marine Le Pen le 16 décembre",
+                "url": "https://actu.orange.fr/politique/affaire-des-assistants-parlementaires-du-rn-la-cour-de-cassation-fixera-le-sort-de-marine-le-pen-le-16-decembre-l-express-via-6medias-CNT000002t1bDR.html",
+                "media": "L'Express via 6Medias (Orange Actu)",
+                "date": "2026-10-17"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Marine Le Pen condamnée à 1 an ferme sous bracelet électronique, et à 45 mois d'inéligibilité, dont 30 mois avec sursis : le fil de la journée et les réactions politiques",
+            "url": "https://www.publicsenat.fr/actualites/politique/direct-suivez-le-delibere-du-proces-en-appel-de-marine-le-pen",
+            "media": "Public Sénat",
+            "date": "2026-07-07"
+          },
+          {
+            "titre": "Marine Le Pen condamnée en appel : ce qu'il faut retenir de la décision de justice",
+            "url": "https://www.leclubdesjuristes.com/justice/affaire-des-assistants-parlementaires-du-fn-coup-darret-a-la-candidature-de-marine-le-pen-16827/",
+            "media": "Le Club des Juristes",
+            "date": "2026-07-07"
+          },
+          {
+            "titre": "Les avocats de Marine Le Pen ont jusqu'au 15 octobre pour justifier le pourvoi dans l'affaire des assistants d'eurodéputés FN",
+            "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/les-avocats-de-marine-le-pen-ont-jusqu-au-15-octobre-pour-justifier-le-pourvoi-dans-l-affaire-des-assistants-d-eurodeputes-fn_8177831.html",
+            "media": "franceinfo",
+            "date": "2026-09-04"
+          },
+          {
+            "titre": "Marine Le Pen est-elle vraiment inéligible à l'élection présidentielle, comme l'affirme un magistrat honoraire de la Cour de cassation ?",
+            "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-est-elle-vraiment-ineligible-a-l-election-presidentielle-comme-l-affirme-un-magistrat-honoraire-de-la-cour-de-cassation_8257378.html",
+            "media": "franceinfo",
+            "date": "2026-10-30"
+          },
+          {
+            "titre": "Affaire des assistants parlementaires du FN : la défense de Marine Le Pen dévoile ses arguments à la Cour de cassation",
+            "url": "https://www.leclubdesjuristes.com/?p=18085",
+            "media": "Le Club des Juristes",
+            "date": "2026-10-28"
+          },
+          {
+            "titre": "Procès de Marine Le Pen : retour sur plus de dix ans d'affaire avant la décision en appel",
+            "url": "https://lcp.fr/actualites/proces-de-marine-le-pen-retour-sur-plus-de-dix-ans-d-affaire-avant-la-decision-en-appel",
+            "media": "LCP",
+            "date": "2026-07"
+          }
+        ]
+      },
+      {
+        "titre": "Contestation de la démission d'office du mandat de conseillère départementale",
+        "statut": "autre",
+        "role": "requérante (contentieux administratif)",
+        "resume": "Procédure administrative consécutive à l'inéligibilité avec exécution provisoire prononcée le 31 mars 2025. Marine Le Pen a contesté l'arrêté préfectoral du 10 avril 2025 la déclarant démissionnaire d'office de son mandat de conseillère départementale du Pas-de-Calais. Le tribunal administratif de Lille a rejeté son recours et refusé de transmettre sa QPC ; le Conseil d'État a rejeté son appel et sa QPC le 10 novembre 2025 (n° 505770), en s'appuyant sur la décision du Conseil constitutionnel du 28 mars 2025 relative aux conseillers municipaux. Décision définitive. Elle a conservé son mandat de députée.",
+        "chronologie": [
+          {
+            "date": "2025-04-10",
+            "evenement": "Arrêté du préfet du Pas-de-Calais la déclarant démissionnaire d'office.",
+            "sources": [
+              {
+                "titre": "Exécution provisoire d'une peine d'inéligibilité : le Conseil d'État confirme la démission d'office de Mme Marine Le Pen de son mandat de conseillère départementale",
+                "url": "https://conseil-etat.fr/site/actualites/execution-provisoire-d-une-peine-d-ineligibilite-le-conseil-d-etat-confirme-la-demission-d-office-de-mme-marine-le-pen-de-son-mandat-de-conseille",
+                "media": "Conseil d'État",
+                "date": "2025-11-10"
+              }
+            ]
+          },
+          {
+            "date": "2025-11-10",
+            "evenement": "Le Conseil d'État rejette l'appel et la QPC (décision n° 505770).",
+            "sources": [
+              {
+                "titre": "Exécution provisoire d'une peine d'inéligibilité : le Conseil d'État confirme la démission d'office de Mme Marine Le Pen de son mandat de conseillère départementale",
+                "url": "https://conseil-etat.fr/site/actualites/execution-provisoire-d-une-peine-d-ineligibilite-le-conseil-d-etat-confirme-la-demission-d-office-de-mme-marine-le-pen-de-son-mandat-de-conseille",
+                "media": "Conseil d'État",
+                "date": "2025-11-10"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Exécution provisoire d'une peine d'inéligibilité : le Conseil d'État confirme la démission d'office de Mme Marine Le Pen de son mandat de conseillère départementale",
+            "url": "https://conseil-etat.fr/site/actualites/execution-provisoire-d-une-peine-d-ineligibilite-le-conseil-d-etat-confirme-la-demission-d-office-de-mme-marine-le-pen-de-son-mandat-de-conseille",
+            "media": "Conseil d'État",
+            "date": "2025-11-10"
+          }
+        ]
+      },
+      {
+        "titre": "Diffusion d'images d'exactions de l'État islamique sur Twitter (2015)",
+        "statut": "relaxe",
+        "role": "prévenue",
+        "resume": "En décembre 2015, Marine Le Pen a publié sur Twitter des photos d'exactions de l'organisation État islamique en réponse à une comparaison de son parti avec ce groupe ; une enquête pour « diffusion d'images violentes » a été ouverte le 16 décembre 2015. Le Parlement européen a levé son immunité en mars 2017. Le parquet avait requis 5 000 euros d'amende. Le tribunal correctionnel de Nanterre l'a relaxée le 4 mai 2021, comme Gilbert Collard, poursuivi pour les mêmes faits. Les sources consultées ne mentionnent pas d'appel du parquet.",
+        "chronologie": [
+          {
+            "date": "2015-12-16",
+            "evenement": "Ouverture d'une enquête pour diffusion d'images violentes.",
+            "sources": [
+              {
+                "titre": "Jugés pour avoir diffusé des photos d'exactions du groupe Etat islamique, Marine Le Pen et Gilbert Collard ont été relaxés",
+                "url": "https://www.franceinfo.fr/politique/front-national/photos-de-l-ei-publiees-par-marine-le-pen/",
+                "media": "franceinfo",
+                "date": "2021-05-04"
+              }
+            ]
+          },
+          {
+            "date": "2017-03-02",
+            "evenement": "Levée de son immunité de députée européenne.",
+            "sources": [
+              {
+                "titre": "Diffusion d'images d'exactions de Daech : l'immunité de Marine Le Pen levée",
+                "url": "https://www.parismatch.be/actualites/politique/2017/03/02/diffusion-dimages-dexactions-de-daech-limmunite-de-marine-le-pen-levee-SL2E2LS2BND7LN2QREDGHDXLVU/",
+                "media": "Paris Match Belgique",
+                "date": "2017-03-02"
+              }
+            ]
+          },
+          {
+            "date": "2021-05-04",
+            "evenement": "Relaxe par le tribunal correctionnel de Nanterre.",
+            "sources": [
+              {
+                "titre": "Jugés pour avoir diffusé des photos d'exactions du groupe Etat islamique, Marine Le Pen et Gilbert Collard ont été relaxés",
+                "url": "https://www.franceinfo.fr/politique/front-national/photos-de-l-ei-publiees-par-marine-le-pen/",
+                "media": "franceinfo",
+                "date": "2021-05-04"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Jugés pour avoir diffusé des photos d'exactions du groupe Etat islamique, Marine Le Pen et Gilbert Collard ont été relaxés",
+            "url": "https://www.franceinfo.fr/politique/front-national/photos-de-l-ei-publiees-par-marine-le-pen/",
+            "media": "franceinfo",
+            "date": "2021-05-04"
+          }
+        ]
+      },
+      {
+        "titre": "Faux tract attribué au Front de gauche (législatives 2012)",
+        "statut": "relaxe",
+        "role": "prévenue",
+        "resume": "Poursuivie par Jean-Luc Mélenchon, son adversaire aux législatives de 2012 à Hénin-Beaumont, pour la diffusion fin mai 2012 d'un faux tract à son effigie assorti d'un texte en arabe, Marine Le Pen a été reconnue coupable par le tribunal correctionnel de Béthune et condamnée en avril 2014 à 10 000 euros d'amende (Politis). Elle a ensuite été relaxée par la cour d'appel de Douai : cette relaxe est rapportée par Public Sénat en février 2017 (propos de son avocat) et datée de 2015 par Wikipédia ; l'arrêt lui-même n'a pas pu être consulté.",
+        "chronologie": [
+          {
+            "date": "2014-04-03",
+            "evenement": "Condamnation par le tribunal correctionnel de Béthune à 10 000 euros d'amende.",
+            "sources": [
+              {
+                "titre": "Faux tract : Mélenchon fait condamner Marine Le Pen",
+                "url": "https://www.politis.fr/articles/2014/04/faux-tract-melenchon-fait-condamner-marine-le-pen-26463/",
+                "media": "Politis",
+                "date": "2014-04-03"
+              },
+              {
+                "titre": "Marine Le Pen",
+                "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          },
+          {
+            "date": "2015",
+            "evenement": "Relaxe par la cour d'appel de Douai (date selon Wikipédia ; relaxe rappelée par son avocat dans Public Sénat en 2017).",
+            "sources": [
+              {
+                "titre": "Marine Le Pen perd son procès contre l'avocate de Mélenchon",
+                "url": "https://www.publicsenat.fr/actualites/politique/marine-le-pen-perd-son-proces-contre-l-avocate-de-melenchon-55200",
+                "media": "Public Sénat",
+                "date": "2017-02-15"
+              },
+              {
+                "titre": "Marine Le Pen",
+                "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Faux tract : Mélenchon fait condamner Marine Le Pen",
+            "url": "https://www.politis.fr/articles/2014/04/faux-tract-melenchon-fait-condamner-marine-le-pen-26463/",
+            "media": "Politis",
+            "date": "2014-04-03"
+          },
+          {
+            "titre": "Marine Le Pen perd son procès contre l'avocate de Mélenchon",
+            "url": "https://www.publicsenat.fr/actualites/politique/marine-le-pen-perd-son-proces-contre-l-avocate-de-melenchon-55200",
+            "media": "Public Sénat",
+            "date": "2017-02-15"
+          },
+          {
+            "titre": "Marine Le Pen",
+            "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "statut": "Propositions partielles",
+    "resume": "Pas encore de programme complet publié au 13 novembre 2026. Les grandes lignes connues sont : un plan budgétaire quinquennal présenté le 6 octobre 2026 avec Jordan Bardella (140 Md€ d'économies d'ici 2032, déficit sous 3 % en 2030), fondé notamment sur la « priorité nationale » dans l'accès aux prestations et une baisse de la contribution française au budget de l'UE, finançant des baisses de TVA (énergie, produits de première nécessité) ; une révision de la Constitution par référendum (article 11) pour mettre en œuvre sa politique migratoire ; un plan logement (abrogation de la loi SRU, suppression du ZAN, priorité nationale dans le logement social) ; un âge légal de retraite entre 60 et 62 ans, dont le détail doit être présenté le 17 novembre 2026.",
+    "documents": [
+      {
+        "titre": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+        "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html",
+        "media": "franceinfo",
+        "date": "2026-10-08"
+      },
+      {
+        "titre": "Marine Le Pen a présenté son \"contre-budget\" pour dégager 140 milliards d'euros d'économies",
+        "url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
+        "media": "Planet.fr",
+        "date": "2026-10-06"
+      },
+      {
+        "titre": "Présidentielles 2027 – comparateur des programmes",
+        "url": "https://www.ifrap.org/comparateurs/presidentielles-2027",
+        "media": "Fondation iFRAP",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "REPORTAGE. \"Nous nous devons plus que jamais de mener la bataille sociale\" : en meeting à Hénin-Beaumont, Marine Le Pen tente de retrouver les accents de sa campagne présidentielle de 2022",
+        "url": "https://www.franceinfo.fr/politique/marine-le-pen/reportage-nous-nous-devons-plus-que-jamais-de-mener-la-bataille-sociale-en-meeting-a-henin-beaumont-marine-le-pen-tente-de-retrouver-les-accents-de-sa-campagne-presidentielle-de-2022_8189702.html",
+        "media": "franceinfo",
+        "date": "2026-09-13"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "plan-budgetaire-140-md",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "140 milliards d'euros d'économies d'ici 2032 et déficit sous 3 % en 2030",
+        "description": "Plan budgétaire quinquennal présenté le 6 octobre 2026 au siège du RN avec Jordan Bardella : 140 Md€ de baisses nettes de dépenses publiques en 2032 par rapport à 2026, retour à l'équilibre primaire en 18 mois, déficit sous 3 % du PIB dès 2030, dette contenue à 112 % du PIB et dépenses publiques sous 50 % du PIB d'ici 2032. Économies annoncées : État (24 Md€), Sécurité sociale (20 Md€), priorité nationale et restriction des prestations aux étrangers (15 Md€ en 2027, 29 Md€ à terme), contribution au budget de l'UE ; en parallèle, 30 Md€ d'allègements fiscaux sur le quinquennat et une taxe sur les rachats d'actions censée rapporter 11,4 Md€ en 2027.",
+        "chiffres": [
+          "Économies : 140 Md€ en 2032 (4,7 % du PIB de 2025)",
+          "Déficit : < 3 % du PIB en 2030 (contre 5,4 % prévus en 2026)",
+          "Dette : 112 % du PIB",
+          "Hypothèses de croissance RN : 1,8 % (2028), 1,7 % (2029), 1,8 % (2030)",
+          "Allègements fiscaux : 30 Md€ sur le quinquennat"
+        ],
+        "date": "2026-10-06",
+        "sources": [
+          {
+            "titre": "140 milliards d'euros d'économies d'ici 2032 : l'effort radical proposé par Marine Le Pen pour redresser les finances publiques",
+            "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+            "media": "Public Sénat",
+            "date": "2026-10-06"
+          },
+          {
+            "titre": "Marine Le Pen a présenté son \"contre-budget\" pour dégager 140 milliards d'euros d'économies",
+            "url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
+            "media": "Planet.fr",
+            "date": "2026-10-06"
+          },
+          {
+            "titre": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+            "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html",
+            "media": "franceinfo",
+            "date": "2026-10-08"
+          }
+        ],
+        "factCheck": {
+          "verdict": "trompeur",
+          "analyse": "Le montant affiché repose sur des hypothèses plus favorables que les prévisions officielles : le RN table sur 1,8 % de croissance en 2028 et 1,7 % en 2029, quand le Haut Conseil des finances publiques prévoit 1,2 % ces deux années. L'économiste Mathieu Plane juge le scénario « pas du tout crédible » sur le plan macroéconomique, notant que le plan prévoit 66 Md€ de coupes en six mois en 2027, du jamais-vu, et qu'il suppose une baisse des taux d'intérêt « très discutable ». Plusieurs postes dépendent d'obstacles juridiques (priorité nationale) ou de l'accord des 26 autres États membres (contribution à l'UE), et la ventilation publiée (environ 82 Md€ identifiés sur 140) n'explique pas l'intégralité des économies. Aucun chiffrage indépendant complet n'était publié au 13 novembre 2026. Selon Public Sénat, le montant de 140 Md€ dépasse de 15 Md€ celui annoncé fin août devant le Medef, et le plan prévoit 3,4 Md€ d'économies en 2027 sur les agences et opérateurs de l'État, quand une commission d'enquête sénatoriale avait chiffré ce gisement à 500 M€ ; la dette passerait de 121 % du PIB en 2027 à 112 % en 2032.",
+          "sources": [
+            {
+              "titre": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+              "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html",
+              "media": "franceinfo",
+              "date": "2026-10-08"
+            },
+            {
+              "titre": "Marine Le Pen a présenté son \"contre-budget\" pour dégager 140 milliards d'euros d'économies",
+              "url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
+              "media": "Planet.fr",
+              "date": "2026-10-06"
+            },
+            {
+              "titre": "140 milliards d'euros d'économies d'ici 2032 : l'effort radical proposé par Marine Le Pen pour redresser les finances publiques",
+              "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+              "media": "Public Sénat",
+              "date": "2026-10-06"
+            }
+          ]
+        }
+      },
+      {
+        "id": "baisse-contribution-ue",
+        "theme": "europe-international",
+        "type": "proposition",
+        "titre": "Réduire la contribution de la France au budget de l'UE",
+        "description": "Diminuer la contribution française au budget européen dans le cadre du plan budgétaire présenté le 6 octobre 2026 : 11,1 Md€ dès 2027 puis jusqu'à 20 Md€ par an selon franceinfo, 9 Md€ selon Jordan Bardella cité par Public Sénat.",
+        "chiffres": [
+          "Économie annoncée : 11,1 Md€ dès 2027, jusqu'à 20 Md€/an ensuite (franceinfo) ; 9 Md€ (Jordan Bardella, cité par Public Sénat)",
+          "Contribution estimée par le gouvernement : 31,2 Md€"
+        ],
+        "date": "2026-10-06",
+        "sources": [
+          {
+            "titre": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+            "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html",
+            "media": "franceinfo",
+            "date": "2026-10-08"
+          },
+          {
+            "titre": "140 milliards d'euros d'économies d'ici 2032 : l'effort radical proposé par Marine Le Pen pour redresser les finances publiques",
+            "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+            "media": "Public Sénat",
+            "date": "2026-10-06"
+          }
+        ],
+        "factCheck": {
+          "verdict": "trompeur",
+          "analyse": "La mesure est présentée comme une économie budgétaire acquise, alors qu'une baisse de la contribution nécessiterait l'accord des 26 autres États membres et une renégociation des règles européennes, sans garantie de succès selon l'économiste Nathalie Janson et le ministre de l'Économie Roland Lescure. Une réduction des versements toucherait aussi les retours dont bénéficie la France (agriculteurs, entreprises, laboratoires financés par des programmes européens). Le compte rendu de Public Sénat du 6 octobre 2026 attribue à Jordan Bardella un montant de 9 Md€ d'économies sur la contribution à l'UE, sans préciser l'horizon, ce qui rejoint le chiffre de Planet.fr ; l'écart avec les 11,1 Md€ « dès 2027 » rapportés par franceinfo n'a pas pu être résolu faute de document chiffré publié par le RN. Sur la faisabilité, des économistes interrogés par Public Sénat dès 2024 (Jacques Le Cacheux, Eulalia Rubio) rappelaient que le cadre financier pluriannuel ne peut être modifié qu'à l'unanimité au Conseil et qu'un rabais pour la France reporterait la charge sur les autres États membres, ce qui rend la renégociation « presque impossible » avant la prochaine négociation.",
+          "sources": [
+            {
+              "titre": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+              "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html",
+              "media": "franceinfo",
+              "date": "2026-10-08"
+            },
+            {
+              "titre": "Marine Le Pen a présenté son \"contre-budget\" pour dégager 140 milliards d'euros d'économies",
+              "url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
+              "media": "Planet.fr",
+              "date": "2026-10-06"
+            },
+            {
+              "titre": "140 milliards d'euros d'économies d'ici 2032 : l'effort radical proposé par Marine Le Pen pour redresser les finances publiques",
+              "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+              "media": "Public Sénat",
+              "date": "2026-10-06"
+            },
+            {
+              "titre": "Diminuer la part française au budget de l'Union, la promesse incertaine du Rassemblement national",
+              "url": "https://www.publicsenat.fr/actualites/politique/diminuer-la-part-francaise-au-budget-de-lunion-la-promesse-incertaine-du-rassemblement-national",
+              "media": "Public Sénat",
+              "date": "2024-06-25"
+            }
+          ]
+        }
+      },
+      {
+        "id": "priorite-nationale-prestations",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "« Priorité nationale » dans l'accès aux prestations sociales",
+        "description": "Réserver les prestations de solidarité aux étrangers ayant travaillé cinq ans en France et durcir l'accès des étrangers aux prestations, avec une économie attendue de 15 Md€ en 2027 (12 à 15 Md€ selon d'autres comptes rendus) et 29 Md€ en année pleine.",
+        "chiffres": [
+          "Économie annoncée : 15 Md€ en 2027",
+          "Économie annoncée à terme : 29 Md€/an",
+          "Condition : 5 ans de travail en France"
+        ],
+        "date": "2026-10-06",
+        "sources": [
+          {
+            "titre": "140 milliards d'euros d'économies d'ici 2032 : l'effort radical proposé par Marine Le Pen pour redresser les finances publiques",
+            "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+            "media": "Public Sénat",
+            "date": "2026-10-06"
+          },
+          {
+            "titre": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+            "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html",
+            "media": "franceinfo",
+            "date": "2026-10-08"
+          },
+          {
+            "titre": "Marine Le Pen a présenté son \"contre-budget\" pour dégager 140 milliards d'euros d'économies",
+            "url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
+            "media": "Planet.fr",
+            "date": "2026-10-06"
+          }
+        ],
+        "factCheck": {
+          "verdict": "trompeur",
+          "analyse": "Faisabilité juridique : en avril 2024, le Conseil constitutionnel a censuré une proposition de référendum d'initiative partagée des Républicains conditionnant l'accès des étrangers aux prestations sociales, jugeant ces conditions disproportionnées ; la mesure suppose donc une révision constitutionnelle (article 89, avec accord des deux chambres) et se heurte aussi, selon Planet.fr, au droit européen. Chiffrage : en 2024, l'Institut Montaigne chiffrait les principales mesures comparables du RN (allocations familiales réservées aux foyers dont un parent est français : 3,8 Md€ ; RSA conditionné à 5 ans de présence : 2,6 Md€ ; remplacement de l'AME : 0,7 Md€) à environ 7 Md€ d'économies par an, loin des 29 Md€ annoncés, même si le périmètre 2026 n'est pas détaillé. L'économiste Mathieu Plane rappelle que plusieurs études jugent neutre l'effet de l'immigration sur les finances publiques.",
+          "sources": [
+            {
+              "titre": "Préférence nationale : l'impossible inscription dans la Constitution",
+              "url": "https://lessurligneurs.eu/preference-nationale-limpossible-inscription-dans-la-constitution/",
+              "media": "Les Surligneurs",
+              "date": "2024-06-28"
+            },
+            {
+              "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+              "media": "Institut Montaigne",
+              "date": "2024"
+            },
+            {
+              "titre": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+              "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html",
+              "media": "franceinfo",
+              "date": "2026-10-08"
+            }
+          ]
+        }
+      },
+      {
+        "id": "tva-energie-5-5",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "TVA à 5,5 % sur l'électricité, le gaz et les carburants",
+        "description": "Ramener la TVA de 20 % à 5,5 % sur l'électricité, le gaz et les carburants. Le contre-budget RN chiffre la mesure à environ 11 Md€ (10,96 Md€), Jordan Bardella a évoqué 12 Md€.",
+        "chiffres": [
+          "Taux : de 20 % à 5,5 %",
+          "Coût selon le RN : 10,96 Md€ (contre-budget) ; 12 Md€ (Jordan Bardella)",
+          "Coût selon Bercy : 17 Md€ (baisse de TVA et de TICPE)",
+          "Coût estimé par Gabriel Attal (cité par l'AFP) : 12 à 15 Md€"
+        ],
+        "date": "2026-10-06",
+        "sources": [
+          {
+            "titre": "Marine Le Pen a présenté son \"contre-budget\" pour dégager 140 milliards d'euros d'économies",
+            "url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
+            "media": "Planet.fr",
+            "date": "2026-10-06"
+          },
+          {
+            "titre": "La flambée des carburants bouscule Attal et Philippe dans la présidentielle",
+            "url": "https://www.connaissancedesenergies.org/afp/la-campagne-dattal-et-de-philippe-percutee-par-la-crise-des-carburants-260922",
+            "media": "Connaissance des Énergies (AFP)",
+            "date": "2026-09-22"
+          }
+        ],
+        "factCheck": {
+          "verdict": "trompeur",
+          "analyse": "Droit européen : la directive TVA de 2006 révisée en 2022 autorise des taux réduits pour l'électricité et le gaz, mais pas pour les carburants ; le ministère chargé des Comptes publics indique que « l'application des taux réduits de TVA est interdite pour les carburants et les combustibles », ce qui rend illégale une baisse unilatérale sur les carburants sans modification du droit de l'UE. Coût : les estimations divergent selon le périmètre (Bercy 17 Md€ avec la TICPE, Gabriel Attal, cité par l'AFP, 12 à 15 Md€) ; l'Institut Montaigne chiffrait en 2022 une mesure comparable (carburants, électricité, gaz, fioul) entre 8,2 et 12,4 Md€/an et 11,3 Md€ en 2024, si bien que le chiffrage du RN (environ 11 Md€) se situe dans le bas de la fourchette. La partie électricité-gaz est faisable, la partie carburants ne l'est pas en l'état du droit.",
+          "sources": [
+            {
+              "titre": "Baisser la TVA sur les carburants à 5,5%, une idée contraire au droit européen",
+              "url": "https://www.moneyvox.fr/votre-argent/actualites/107946/baisser-la-tva-sur-les-carburants-a-5-5-une-idee-contraire-au-droit-europeen",
+              "media": "MoneyVox (AFP)",
+              "date": "2026-03-11"
+            },
+            {
+              "titre": "Baisser la TVA de 20 à 5,5 % pour les carburants, l'électricité, le gaz et le fioul domestique",
+              "url": "https://www.institutmontaigne.org/presidentielle-2022/marine-le-pen/baisser-la-tva-de-20-a-55-pour-les-carburants-lelectricite-le-gaz-et-le-fioul-domestique",
+              "media": "Institut Montaigne",
+              "date": "2022"
+            },
+            {
+              "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+              "media": "Institut Montaigne",
+              "date": "2024"
+            },
+            {
+              "titre": "La flambée des carburants bouscule Attal et Philippe dans la présidentielle",
+              "url": "https://www.connaissancedesenergies.org/afp/la-campagne-dattal-et-de-philippe-percutee-par-la-crise-des-carburants-260922",
+              "media": "Connaissance des Énergies (AFP)",
+              "date": "2026-09-22"
+            }
+          ]
+        }
+      },
+      {
+        "id": "tva-produits-premiere-necessite",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Suppression de la TVA sur 100 produits de première nécessité",
+        "description": "Exonérer de TVA un panier de 100 produits de première nécessité, mesure incluse dans le plan budgétaire du 6 octobre 2026.",
+        "chiffres": [
+          "100 produits concernés"
+        ],
+        "date": "2026-10-06",
+        "sources": [
+          {
+            "titre": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+            "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html",
+            "media": "franceinfo",
+            "date": "2026-10-08"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La liste des produits et le coût de la version 2026 n'ont pas été publiés dans les sources consultées. À titre de comparaison, l'Institut Montaigne chiffrait en 2024 à 6,7 Md€/an la mesure du RN de suppression de la TVA sur les produits de première nécessité « en cas de forte inflation », dont le périmètre n'est pas forcément identique.",
+          "sources": [
+            {
+              "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+              "media": "Institut Montaigne",
+              "date": "2024"
+            }
+          ]
+        }
+      },
+      {
+        "id": "retraites-60-62-ans",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Âge légal de départ entre 60 et 62 ans",
+        "description": "Maintenir un âge légal compris entre 60 et 62 ans selon l'âge d'entrée sur le marché du travail (départ à 60 ans pour ceux ayant commencé avant 20 ans), avec 40 à 42 annuités pour une pension à taux plein ; financement annoncé par 15 à 20 Md€ d'économies sur des mesures jugées injustes ou inefficaces du système actuel et par la hausse du taux d'emploi. Une composante de capitalisation est évoquée dans le plan budgétaire. Présentation détaillée annoncée pour le 17 novembre 2026.",
+        "chiffres": [
+          "Âge légal : 60 à 62 ans",
+          "Durée de cotisation : 40 à 42 annuités",
+          "Économies annoncées pour financer la réforme : 15 à 20 Md€"
+        ],
+        "date": "2026-10-14",
+        "sources": [
+          {
+            "titre": "Marine Le Pen présentera \"de manière extrêmement précise\" sa réforme des retraites le 17 novembre",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/marine-le-pen-presentera-de-maniere-extremement-precise-sa-reforme-des-retraites-le-17-novembre_8237821.html",
+            "media": "franceinfo (AFP)",
+            "date": "2026-10-14"
+          },
+          {
+            "titre": "Marine Le Pen a présenté son \"contre-budget\" pour dégager 140 milliards d'euros d'économies",
+            "url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
+            "media": "Planet.fr",
+            "date": "2026-10-06"
+          },
+          {
+            "titre": "140 milliards d'euros d'économies d'ici 2032 : l'effort radical proposé par Marine Le Pen pour redresser les finances publiques",
+            "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+            "media": "Public Sénat",
+            "date": "2026-10-06"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La réforme détaillée et son chiffrage n'étaient pas publiés au 13 novembre 2026 (présentation prévue le 17 novembre), ce qui empêche une vérification. Ordres de grandeur disponibles : en 2024, l'Institut Montaigne estimait à 34,7 Md€/an le coût de la mesure du RN d'abrogation de la réforme de 2023 avec départ à 60 ans après 40 annuités pour les carrières commencées avant 20 ans ; la Cour des comptes estimait à environ 13 Md€ à l'horizon 2035 le coût d'un simple gel de l'âge légal à 63 ans. L'écart avec les 15 à 20 Md€ d'économies annoncés devra être examiné une fois le projet publié. Le plan budgétaire du 6 octobre 2026 présente ces 15 à 20 Md€ comme des « corrections de mesures injustes » et prévoit un « pilier de capitalisation », sans détail publié (Public Sénat).",
+          "sources": [
+            {
+              "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+              "media": "Institut Montaigne",
+              "date": "2024"
+            },
+            {
+              "titre": "Crise politique : combien coûterait une suspension de la réforme des retraites ?",
+              "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/crise-politique-combien-couterait-une-suspension-de-la-reforme-des-retraites_7541602.html",
+              "media": "franceinfo",
+              "date": "2025-10-09"
+            },
+            {
+              "titre": "140 milliards d'euros d'économies d'ici 2032 : l'effort radical proposé par Marine Le Pen pour redresser les finances publiques",
+              "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+              "media": "Public Sénat",
+              "date": "2026-10-06"
+            }
+          ]
+        }
+      },
+      {
+        "id": "referendum-article-11-immigration",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Réviser la Constitution par référendum (article 11) pour appliquer sa politique migratoire",
+        "description": "Proposition phare : soumettre dès son élection une révision constitutionnelle au référendum en s'appuyant sur l'article 11, en contournant le Parlement, afin de mettre en œuvre sa politique migratoire. Marine Le Pen soutient que si les Français décident de modifier la Constitution, « personne ne peut les en empêcher ».",
+        "chiffres": [],
+        "date": "2026-11-11",
+        "sources": [
+          {
+            "titre": "Plus de cent constitutionnalistes critiquent le référendum pour changer la Constitution tel que proposé par Marine Le Pen",
+            "url": "https://www.franceinfo.fr/politique/marine-le-pen/plus-de-cent-constitutionnalistes-critiquent-le-referendum-pour-changer-la-constitution-tel-que-propose-par-marine-le-pen_8278388.html",
+            "media": "franceinfo",
+            "date": "2026-11-11"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-faux",
+          "analyse": "Plus de cent constitutionnalistes ont jugé la démarche irrégulière dans une tribune au Monde du 11 novembre 2026 : l'article 89 impose un vote en termes identiques par l'Assemblée et le Sénat avant référendum ou Congrès, et l'article 11 ne vise que des projets de loi. Le précédent de 1962 (de Gaulle) est invoqué par le RN, mais le contexte juridique a changé : depuis la décision Hauchemaille (2000), le Conseil constitutionnel contrôle les décrets de convocation d'un référendum et pourrait l'annuler. Le président du Conseil constitutionnel, Richard Ferrand, a lui-même jugé à la mi-octobre 2026 que l'article 89 était la seule voie de révision. L'affirmation selon laquelle « personne ne peut » empêcher une telle révision est donc contredite par l'état du droit tel que l'analysent la majorité des spécialistes.",
+          "sources": [
+            {
+              "titre": "Plus de cent constitutionnalistes critiquent le référendum pour changer la Constitution tel que proposé par Marine Le Pen",
+              "url": "https://www.franceinfo.fr/politique/marine-le-pen/plus-de-cent-constitutionnalistes-critiquent-le-referendum-pour-changer-la-constitution-tel-que-propose-par-marine-le-pen_8278388.html",
+              "media": "franceinfo",
+              "date": "2026-11-11"
+            },
+            {
+              "titre": "Préférence nationale : l'impossible inscription dans la Constitution",
+              "url": "https://lessurligneurs.eu/preference-nationale-limpossible-inscription-dans-la-constitution/",
+              "media": "Les Surligneurs",
+              "date": "2024-06-28"
+            }
+          ]
+        }
+      },
+      {
+        "id": "plan-logement-sru-zan",
+        "theme": "logement",
+        "type": "proposition",
+        "titre": "Plan logement : abrogation de la loi SRU, fin du ZAN, priorité nationale dans le logement social",
+        "description": "Présenté lors de sa rentrée à Hénin-Beaumont le 13 septembre 2026 : libérer la construction (mise à disposition gratuite de foncier public aux promoteurs, notamment via bail emphytéotique ; suppression de la règle « zéro artificialisation nette »), abroger la loi SRU et l'obligation de 20 à 25 % de logements sociaux, appliquer la « priorité nationale » dans l'attribution des logements sociaux et des APL, loi anti-squat, expulsion des logements sociaux des familles de délinquants, faciliter l'accès au crédit immobilier. Le comparateur iFRAP mentionne aussi le plafonnement des APL à 90 % du loyer et le remplacement de MaPrimeRénov' par des prêts à taux zéro.",
+        "chiffres": [
+          "APL plafonnées à 90 % du loyer (selon le comparateur iFRAP)"
+        ],
+        "date": "2026-09-13",
+        "sources": [
+          {
+            "titre": "REPORTAGE. \"Nous nous devons plus que jamais de mener la bataille sociale\" : en meeting à Hénin-Beaumont, Marine Le Pen tente de retrouver les accents de sa campagne présidentielle de 2022",
+            "url": "https://www.franceinfo.fr/politique/marine-le-pen/reportage-nous-nous-devons-plus-que-jamais-de-mener-la-bataille-sociale-en-meeting-a-henin-beaumont-marine-le-pen-tente-de-retrouver-les-accents-de-sa-campagne-presidentielle-de-2022_8189702.html",
+            "media": "franceinfo",
+            "date": "2026-09-13"
+          },
+          {
+            "titre": "Logement : qu'est-ce que la loi SRU, qu'entend abroger Marine Le Pen en cas de victoire à la présidentielle ?",
+            "url": "https://www.cnews.fr/france/2026-09-13/logement-quest-ce-que-la-loi-sru-quentend-abroger-marine-le-pen-en-cas-de",
+            "media": "CNews",
+            "date": "2026-09-13"
+          },
+          {
+            "titre": "Présidentielles 2027 – comparateur des programmes",
+            "url": "https://www.ifrap.org/comparateurs/presidentielles-2027",
+            "media": "Fondation iFRAP",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun chiffrage ni vérification indépendante de ce plan n'a été trouvé. Le volet « priorité nationale » dans l'accès au logement social et aux APL soulève les mêmes difficultés constitutionnelles que pour les prestations sociales (principe d'égalité, décision du Conseil constitutionnel d'avril 2024 sur l'accès des étrangers aux prestations), et nécessiterait vraisemblablement une révision constitutionnelle.",
+          "sources": [
+            {
+              "titre": "Préférence nationale : l'impossible inscription dans la Constitution",
+              "url": "https://lessurligneurs.eu/preference-nationale-limpossible-inscription-dans-la-constitution/",
+              "media": "Les Surligneurs",
+              "date": "2024-06-28"
+            }
+          ]
+        }
+      },
+      {
+        "id": "prisons-et-forces-de-l-ordre",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "30 000 places de prison supplémentaires et 7 000 policiers et gendarmes",
+        "description": "Construire 30 000 places de prison supplémentaires et créer 7 000 postes de policiers et gendarmes (mesures recensées par le comparateur de la Fondation iFRAP).",
+        "chiffres": [
+          "30 000 places de prison",
+          "7 000 postes de policiers et gendarmes"
+        ],
+        "date": "2026-11",
+        "sources": [
+          {
+            "titre": "Présidentielles 2027 – comparateur des programmes",
+            "url": "https://www.ifrap.org/comparateurs/presidentielles-2027",
+            "media": "Fondation iFRAP",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun coût n'est annoncé et aucune vérification indépendante n'a été trouvée. Contexte : au 1er septembre 2026, les prisons comptaient 90 020 détenus pour 63 348 places opérationnelles (densité de 142,1 %), soit un écart d'environ 26 700 détenus au-delà des places disponibles, ordre de grandeur cohérent avec l'objectif de 30 000 places. En 2024, l'Institut Montaigne chiffrait la mesure prisons du RN (horizon 2027) à 1,5 Md€/an.",
+          "sources": [
+            {
+              "titre": "Prisons : avec 90 020 détenus en France au 1er septembre, la population carcérale bat un nouveau record",
+              "url": "https://www.ouest-france.fr/societe/prison/prisons-avec-90-020-detenus-en-france-au-1er-septembre-la-population-carcerale-bat-un-nouveau-record-4c798c92-beff-11f1-bc1c-de747933f8a6",
+              "media": "Ouest-France (AFP)",
+              "date": "2026-09"
+            },
+            {
+              "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+              "media": "Institut Montaigne",
+              "date": "2024"
+            }
+          ]
+        }
+      },
+      {
+        "id": "exoneration-ir-moins-de-30-ans",
+        "theme": "emploi-travail",
+        "type": "proposition",
+        "titre": "Exonération d'impôt sur le revenu des jeunes actifs de moins de 30 ans",
+        "description": "Exonérer d'impôt sur le revenu les jeunes actifs jusqu'à 30 ans, pour des revenus allant jusqu'à 4 fois le SMIC (version recensée par le comparateur iFRAP pour 2027 ; la version 2022 visait tous les moins de 30 ans).",
+        "chiffres": [
+          "Jusqu'à 30 ans",
+          "Plafond : 4 SMIC"
+        ],
+        "date": "2026-11",
+        "sources": [
+          {
+            "titre": "Présidentielles 2027 – comparateur des programmes",
+            "url": "https://www.ifrap.org/comparateurs/presidentielles-2027",
+            "media": "Fondation iFRAP",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La version 2027 (plafonnée à 4 SMIC) n'a pas été chiffrée par un organisme indépendant dans les sources consultées. Pour la version 2022 (tous les moins de 30 ans), le camp RN avançait environ 2 Md€/an, quand l'Institut Montaigne estimait le coût à 3,7 Md€/an et jugeait la mesure « probablement inconstitutionnelle » au regard du principe d'égalité devant les charges publiques (article 13 de la Déclaration de 1789). Le plafond de 4 SMIC réduit le coût sans lever entièrement l'objection d'égalité fondée sur l'âge.",
+          "sources": [
+            {
+              "titre": "Exonérer tous les jeunes de moins de 30 ans d'impôt sur le revenu",
+              "url": "https://www.institutmontaigne.org/presidentielle-2022/marine-le-pen/exonerer-tous-les-jeunes-de-moins-de-30-ans-dimpot-sur-le-revenu/",
+              "media": "Institut Montaigne",
+              "date": "2022"
+            }
+          ]
+        }
+      },
+      {
+        "id": "sante-suppression-ars",
+        "theme": "sante",
+        "type": "proposition",
+        "titre": "Supprimer les ARS et former 10 000 soignants supplémentaires",
+        "description": "Confier la tutelle des hôpitaux aux préfets de région et supprimer les agences régionales de santé, ouvrir au moins 10 000 places supplémentaires en IFSI et centres de formation d'aides-soignants, moratoire sur les fermetures de lits, retour à une dotation globale pour l'hôpital public, remboursement à 100 % des soins dentaires (mesures recensées par le comparateur iFRAP).",
+        "chiffres": [
+          "Au moins 10 000 places supplémentaires en formation de soignants"
+        ],
+        "date": "2026-11",
+        "sources": [
+          {
+            "titre": "Présidentielles 2027 – comparateur des programmes",
+            "url": "https://www.ifrap.org/comparateurs/presidentielles-2027",
+            "media": "Fondation iFRAP",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Pas de chiffrage du candidat ni de vérification indépendante de la version 2027. En 2024, l'Institut Montaigne estimait à 3,6 Md€/an l'économie attendue de la mesure du RN « supprimer les ARS et réduire à 10 % les postes administratifs dans les hôpitaux », sans se prononcer sur les mesures de recrutement.",
+          "sources": [
+            {
+              "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+              "media": "Institut Montaigne",
+              "date": "2024"
+            }
+          ]
+        }
+      },
+      {
+        "id": "pas-de-discriminations-cbs",
+        "theme": "institutions-democratie",
+        "type": "declaration-chiffree",
+        "titre": "« Pas de discriminations en France », « pays le moins raciste au monde »",
+        "description": "Dans un entretien à la chaîne américaine CBS diffusé début novembre 2026, Marine Le Pen a affirmé qu'il n'y avait pas de discriminations en France et que la France était « le pays le moins raciste au monde ».",
+        "chiffres": [],
+        "date": "2026-11-09",
+        "sources": [
+          {
+            "titre": "\"Pas de discriminations en France\" : les affirmations de Marine Le Pen sur la chaîne américaine CBS à l'épreuve des chiffres",
+            "url": "https://www.franceinfo.fr/politique/marine-le-pen/pas-de-discriminations-en-france-les-affirmations-de-marine-le-pen-sur-la-chaine-americaine-cbs-a-l-epreuve-des-chiffres_8275217.html",
+            "media": "franceinfo",
+            "date": "2026-11-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-faux",
+          "analyse": "franceinfo, sans donner de verdict formel, oppose plusieurs données à ces affirmations : le ministère de l'Intérieur a recensé 9 737 crimes et délits à caractère raciste en 2025, en hausse ; selon une étude du ministère citée par la CNCDH, 1,7 million de personnes s'estiment chaque année victimes d'un acte raciste ; le baromètre Cegos 2025 indique que 18 % des salariés en France disent avoir été pénalisés en raison de leurs origines (12 % en moyenne européenne). L'affirmation d'une absence de discriminations est contredite par ces données ; le classement « pays le moins raciste au monde » ne repose sur aucune comparaison internationale vérifiée.",
+          "sources": [
+            {
+              "titre": "\"Pas de discriminations en France\" : les affirmations de Marine Le Pen sur la chaîne américaine CBS à l'épreuve des chiffres",
+              "url": "https://www.franceinfo.fr/politique/marine-le-pen/pas-de-discriminations-en-france-les-affirmations-de-marine-le-pen-sur-la-chaine-americaine-cbs-a-l-epreuve-des-chiffres_8275217.html",
+              "media": "franceinfo",
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      },
+      {
+        "id": "interdiction-voile-espace-public",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Interdire le voile islamique dans l'espace public, éventuellement par référendum",
+        "description": "Mesure présente dans le programme de Marine Le Pen depuis 2012 et reprise pour 2027 selon le député RN Jean-Philippe Tanguy (31 août 2026) : sanctionner par une amende le port du voile dans l'espace public. Face au risque de censure par le Conseil constitutionnel, un référendum est envisagé ; Jordan Bardella a indiqué le même jour que la mesure serait soumise à un référendum sur « l'idéologie islamiste » au cours du quinquennat, en se montrant prudent sur les amendes.",
+        "chiffres": [],
+        "date": "2026-08-31",
+        "sources": [
+          {
+            "titre": "Sanctionner le port du voile par une amende : le RN maintient sa proposition polémique et inconstitutionnelle",
+            "url": "https://www.publicsenat.fr/actualites/politique/sanctionner-le-port-du-voile-par-une-amende-le-rn-maintient-sa-proposition-polemique-et-inconstitutionnelle",
+            "media": "Public Sénat",
+            "date": "2026-08-31"
+          },
+          {
+            "titre": "Port du voile dans l'espace public : Jordan Bardella propose un référendum sur « l'idéologie islamiste »",
+            "url": "https://fr.euronews.com/my-europe/2026/08/31/port-du-voile-dans-lespace-public-jordan-bardella-propose-un-referendum-sur-lideologie-isl",
+            "media": "Euronews (AFP)",
+            "date": "2026-08-31"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun fact-check formel ni chiffrage n'a été trouvé ; la question porte sur la faisabilité juridique. Selon plusieurs juristes cités par Public Sénat (31 août 2026), une interdiction générale du voile dans l'espace public heurterait la liberté religieuse, l'égalité devant la loi et la liberté d'expression (Déclaration de 1789) ; la laïcité impose la neutralité de l'État, pas celle des usagers dans l'espace public (Serge Slama). Le référendum de l'article 11 ne couvre pas les libertés publiques (Mathieu Carpentier), et une telle loi violerait selon Nicolas Hervieu les articles 9 et 14 de la Convention européenne des droits de l'homme, ce qui permettrait aux juges d'écarter la sanction (article 55 de la Constitution). La loi du 11 octobre 2010 interdit déjà la dissimulation du visage dans l'espace public, sans viser une religion.",
+          "sources": [
+            {
+              "titre": "Sanctionner le port du voile par une amende : le RN maintient sa proposition polémique et inconstitutionnelle",
+              "url": "https://www.publicsenat.fr/actualites/politique/sanctionner-le-port-du-voile-par-une-amende-le-rn-maintient-sa-proposition-polemique-et-inconstitutionnelle",
+              "media": "Public Sénat",
+              "date": "2026-08-31"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

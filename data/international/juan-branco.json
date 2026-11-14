@@ -1,0 +1,83 @@
+{
+  "id": "juan-branco",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Juan Branco (Les Ruches) propose des référendums sur l'appartenance à l'UE, à l'euro et à l'OTAN, et dit qu'il faut « se préparer à la sortie de l'Union européenne ». Son programme prévoit l'arrêt des livraisons d'armes à l'Ukraine, une Union des pays francophones et l'intégration aux BRICS « en tant que tête de file » de celle-ci. Aucune position n'a été identifiée sur Donald Trump, la Russie, la Chine ou le Proche-Orient.",
+  "axes": {
+    "europe": {
+      "position": -2,
+      "titre": "Préparer la sortie de l'UE",
+      "resume": "Le 19 décembre 2025 sur Sud Radio, il a déclaré qu'« il faut se préparer à la sortie de l'Union européenne », qualifiée de « monstre bureaucratique ». Son programme prévoit des référendums sur l'appartenance à l'UE et à l'euro, la « sortie de l'Union européenne, de l'euro, du Conseil de l'Europe et/ou de l'espace Schengen » et une « Union des peuples européens ».",
+      "date": "2025-12-19",
+      "sources": [
+        {
+          "titre": "L'avocat Juan Branco, candidat à la présidentielle",
+          "url": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle",
+          "media": "Sud Radio",
+          "date": "2025-12-19"
+        },
+        {
+          "titre": "Le Projet 2027 — Programme en 6 piliers",
+          "url": "https://ruches.org/le-projet",
+          "media": "Ruches Françaises (site du mouvement)",
+          "date": "2026"
+        }
+      ]
+    },
+    "otan": {
+      "position": -1,
+      "titre": "Référendum sur la sortie de l'OTAN",
+      "resume": "Son programme prévoit un « référendum sur la sortie de l'OTAN », la « sortie de l'OTAN (commandement intégré ou du Traité) » et l'abandon de l'interopérabilité systématique avec les systèmes OTAN. Le programme laisse ouverte la portée de la sortie : le cran −1 (commandement intégré) est retenu par prudence plutôt que −2.",
+      "date": "2026",
+      "sources": [
+        {
+          "titre": "Le Projet 2027 — Programme en 6 piliers",
+          "url": "https://ruches.org/le-projet",
+          "media": "Ruches Françaises (site du mouvement)",
+          "date": "2026"
+        }
+      ]
+    },
+    "trump": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration de Juan Branco sur Donald Trump n'a été retrouvée ; son programme propose de doubler les organes normatifs américains et de développer des alternatives aux GAFAM et à Starlink, sans viser l'administration Trump.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "russie": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Son programme ne contient pas de mesure sur la Russie (sanctions, dialogue) et aucune déclaration récente n'a été retrouvée.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "ukraine": {
+      "position": -2,
+      "titre": "Arrêt des livraisons d'armes",
+      "resume": "Son programme prévoit l'« arrêt des livraisons d'armes à l'Ukraine ».",
+      "date": "2026",
+      "sources": [
+        {
+          "titre": "Le Projet 2027 — Programme en 6 piliers",
+          "url": "https://ruches.org/le-projet",
+          "media": "Ruches Françaises (site du mouvement)",
+          "date": "2026"
+        }
+      ]
+    },
+    "chine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune mesure ou déclaration spécifique sur la Chine n'a été retrouvée ; son programme prévoit l'intégration de la France aux BRICS en tant que tête de file d'une Union des pays francophones.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "proche-orient": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration de Juan Branco sur Israël et la Palestine n'a été retrouvée dans les sources consultées.",
+      "date": "2026-11-13",
+      "sources": []
+    }
+  }
+}

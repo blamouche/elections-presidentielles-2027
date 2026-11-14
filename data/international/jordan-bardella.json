@@ -1,0 +1,195 @@
+{
+  "id": "jordan-bardella",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Jordan Bardella porte la ligne internationale du RN qu'il partage avec Marine Le Pen : maintien dans l'UE avec un « rapport de force » avec Bruxelles, baisse de la contribution française, réduction de l'aide financière à l'Ukraine et opposition à son adhésion à l'UE et à l'OTAN. Il qualifie la Russie de « menace » tout en se montrant réservé sur certaines sanctions, et a affiché un soutien appuyé à Israël lors de sa visite de mars 2025. Face à Donald Trump, il alterne approbation et critiques (Groenland).",
+  "axes": {
+    "europe": {
+      "position": -1,
+      "titre": "Rapport de force avec Bruxelles, contribution divisée",
+      "resume": "Il a co-présenté le 6 octobre 2026 le plan budgétaire du RN prévoyant une baisse de la contribution française au budget européen (9 Md€ selon lui, cité par Public Sénat). Selon l'Ifri, il envisage de diviser par deux cette contribution (Les Échos, 15 juin 2026) et le RN, qui n'entend plus sortir de l'UE, veut la « transformer de l'intérieur » en affirmant la primauté du droit national.",
+      "date": "2026-10-06",
+      "sources": [
+        {
+          "titre": "140 milliards d'euros d'économies d'ici 2032 : l'effort radical proposé par Marine Le Pen pour redresser les finances publiques",
+          "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+          "media": "Public Sénat",
+          "date": "2026-10-06"
+        },
+        {
+          "titre": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+          "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html",
+          "media": "franceinfo",
+          "date": "2026-10-08"
+        },
+        {
+          "titre": "Une politique étrangère souverainiste ? Le monde vu par les députés du RN",
+          "url": "https://www.ifri.org/sites/default/files/2026-09/ifri_hecker_politique_etrangere_rn_2026.pdf",
+          "media": "Ifri (Marc Hecker)",
+          "date": "2026-10"
+        }
+      ]
+    },
+    "otan": {
+      "position": -1,
+      "titre": "Sortie du commandement intégré, pas pendant la guerre",
+      "resume": "En juin 2024, il déclare que « la France ne doit pas quitter le commandement militaire de l'OTAN alors que nous sommes en guerre », revenant sur la priorité du programme 2022. La ligne du RN rappelée par Marine Le Pen le 22 mai 2026 reste la sortie du commandement intégré dans le quinquennat, sans sortie de l'Alliance. Aucune déclaration personnelle plus récente n'a été identifiée.",
+      "date": "2026-05-22",
+      "sources": [
+        {
+          "titre": "Le dirigeant de l'extrême droite en France recule sur le retrait de l'OTAN",
+          "url": "https://www.noovo.info/nouvelle/le-dirigeant-de-lextreme-droite-en-france-recule-sur-le-retrait-de-lotan.html",
+          "media": "Noovo Info (AP)",
+          "date": "2024-06-19"
+        },
+        {
+          "titre": "Une politique étrangère souverainiste ? Le monde vu par les députés du RN",
+          "url": "https://www.ifri.org/sites/default/files/2026-09/ifri_hecker_politique_etrangere_rn_2026.pdf",
+          "media": "Ifri (Marc Hecker)",
+          "date": "2026-10"
+        }
+      ]
+    },
+    "trump": {
+      "position": 0,
+      "titre": "Approbation puis critiques sur le Groenland",
+      "resume": "En janvier 2025, il juge l'élection de Trump « une bonne chose pour les Américains » ; le 11 mars 2025, il estime que la suspension de l'aide américaine à l'Ukraine met en œuvre « un engagement de sa campagne électorale », tout en la jugant « brutale ». En janvier 2026, face à la menace d'annexion du Groenland, il appelle l'UE au « rapport de force » et à suspendre l'accord commercial avec les États-Unis (« la soumission serait une faute historique »).",
+      "date": "2026-01-26",
+      "sources": [
+        {
+          "titre": "Face à Trump, l'extrême droite française, dans tous ses états, désunie",
+          "url": "https://www.lagazettefrance.fr/article/face-a-trump-l-extreme-droite-francaise-dans-tous-ses-etats-desunie",
+          "media": "La Gazette France (AFP)",
+          "date": "2026-01-26"
+        },
+        {
+          "titre": "Tensions avec Trump : Le Parlement européen gèle la ratification de l'accord commercial avec les Etats-Unis",
+          "url": "https://www.brut.media/fr/articles/tensions-avec-trump-le-parlement-europeen-gele-la-ratification-de-laccord-commercial-avec-les-etats-unis",
+          "media": "Brut",
+          "date": "2026-01"
+        },
+        {
+          "titre": "En suspendant l'aide à l'Ukraine, Donald Trump met en œuvre « un engagement de sa campagne électorale », affirme Jordan Bardella",
+          "url": "https://www.publicsenat.fr/actualites/international/en-suspendant-laide-a-lukraine-donald-trump-met-en-oeuvre-un-engagement-de-sa-campagne-electorale-affirme-jordan-bardella",
+          "media": "Public Sénat",
+          "date": "2025-03-11"
+        },
+        {
+          "titre": "Une politique étrangère souverainiste ? Le monde vu par les députés du RN",
+          "url": "https://www.ifri.org/sites/default/files/2026-09/ifri_hecker_politique_etrangere_rn_2026.pdf",
+          "media": "Ifri (Marc Hecker)",
+          "date": "2026-10"
+        }
+      ]
+    },
+    "russie": {
+      "position": 0,
+      "titre": "Russie « menace », réserves sur les sanctions",
+      "resume": "Il désigne la Russie comme « l'agresseur » (mars 2025) et comme une « menace multidimensionnelle » (entretiens de 2025-2026 cités par l'Ifri) ; le 19 septembre 2026, il cosigne un communiqué dénonçant les pressions russes et une « démarche hostile ». Le RN s'est toutefois abstenu fin 2025 sur la saisie des avoirs russes gelés et ses députés critiquent les sanctions énergétiques jugées « à double tranchant ». Position classée ambivalente.",
+      "date": "2026-09-19",
+      "sources": [
+        {
+          "titre": "En suspendant l'aide à l'Ukraine, Donald Trump met en œuvre « un engagement de sa campagne électorale », affirme Jordan Bardella",
+          "url": "https://www.publicsenat.fr/actualites/international/en-suspendant-laide-a-lukraine-donald-trump-met-en-oeuvre-un-engagement-de-sa-campagne-electorale-affirme-jordan-bardella",
+          "media": "Public Sénat",
+          "date": "2025-03-11"
+        },
+        {
+          "titre": "Le RN hausse le ton face à la Russie mais est accusé de « double discours »",
+          "url": "https://www.dhnet.be/dernieres-depeches/2026/09/19/le-rn-hausse-le-ton-face-a-la-russie-mais-est-accuse-de-double-discours-D5MBKUCBQVAQLCMK5OZQKS2IIQ/",
+          "media": "DH (AFP)",
+          "date": "2026-09-19"
+        },
+        {
+          "titre": "Marine Le Pen peut-elle vraiment rompre avec Poutine ?",
+          "url": "https://legrandcontinent.eu/fr/2026/09/28/marine-le-pen-peut-elle-vraiment-rompre-avec-poutine/",
+          "media": "Le Grand Continent",
+          "date": "2026-09-28"
+        },
+        {
+          "titre": "Une politique étrangère souverainiste ? Le monde vu par les députés du RN",
+          "url": "https://www.ifri.org/sites/default/files/2026-09/ifri_hecker_politique_etrangere_rn_2026.pdf",
+          "media": "Ifri (Marc Hecker)",
+          "date": "2026-10"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": -1,
+      "titre": "Aide réduite, opposé aux adhésions UE et OTAN",
+      "resume": "Le 11 mars 2025, il affirme que « tout notre soutien est allé (...) au peuple ukrainien » mais qu'une adhésion de l'Ukraine à l'UE « déstabiliserait profondément nos économies » et qu'une adhésion à l'OTAN risquerait d'aggraver les tensions. Il s'oppose à l'envoi de troupes (2024). Le communiqué RN du 19 septembre 2026 qu'il cosigne veut un débat sur « le niveau du soutien financier », et le RN a refusé en 2026 le prêt européen de 90 Md€.",
+      "date": "2026-09-19",
+      "sources": [
+        {
+          "titre": "En suspendant l'aide à l'Ukraine, Donald Trump met en œuvre « un engagement de sa campagne électorale », affirme Jordan Bardella",
+          "url": "https://www.publicsenat.fr/actualites/international/en-suspendant-laide-a-lukraine-donald-trump-met-en-oeuvre-un-engagement-de-sa-campagne-electorale-affirme-jordan-bardella",
+          "media": "Public Sénat",
+          "date": "2025-03-11"
+        },
+        {
+          "titre": "Le RN hausse le ton face à la Russie mais est accusé de « double discours »",
+          "url": "https://www.dhnet.be/dernieres-depeches/2026/09/19/le-rn-hausse-le-ton-face-a-la-russie-mais-est-accuse-de-double-discours-D5MBKUCBQVAQLCMK5OZQKS2IIQ/",
+          "media": "DH (AFP)",
+          "date": "2026-09-19"
+        },
+        {
+          "titre": "Marine Le Pen peut-elle vraiment rompre avec Poutine ?",
+          "url": "https://legrandcontinent.eu/fr/2026/09/28/marine-le-pen-peut-elle-vraiment-rompre-avec-poutine/",
+          "media": "Le Grand Continent",
+          "date": "2026-09-28"
+        },
+        {
+          "titre": "Le dirigeant de l'extrême droite en France recule sur le retrait de l'OTAN",
+          "url": "https://www.noovo.info/nouvelle/le-dirigeant-de-lextreme-droite-en-france-recule-sur-le-retrait-de-lotan.html",
+          "media": "Noovo Info (AP)",
+          "date": "2024-06-19"
+        }
+      ]
+    },
+    "chine": {
+      "position": 1,
+      "titre": "Méfiance envers la dépendance à Pékin",
+      "resume": "Aucune déclaration récente de Jordan Bardella centrée sur la Chine n'a été identifiée. L'Ifri (octobre 2026) relève chez les députés RN la dénonciation du « dumping massif » chinois et de la dépendance aux métaux rares (2025) ; le programme économique qu'il défend repose sur un protectionnisme de « juste échange ». Position de groupe, à confirmer.",
+      "date": "2025-06-17",
+      "sources": [
+        {
+          "titre": "Une politique étrangère souverainiste ? Le monde vu par les députés du RN",
+          "url": "https://www.ifri.org/sites/default/files/2026-09/ifri_hecker_politique_etrangere_rn_2026.pdf",
+          "media": "Ifri (Marc Hecker)",
+          "date": "2026-10"
+        }
+      ]
+    },
+    "proche-orient": {
+      "position": -1,
+      "titre": "Soutien affiché à Israël, deux États « horizon »",
+      "resume": "En mai 2024, il dit épouser la position historique des deux États mais juge que reconnaître un État palestinien « ce serait légitimer le Hamas ». En visite en Israël en mars 2025 à l'invitation du gouvernement, il affirme que les deux pays ont « les mêmes adversaires » et refuse de commenter « des opérations militaires qui sont en cours » à Gaza. En juillet 2025, il qualifie de « précipitée » l'annonce de la reconnaissance de la Palestine.",
+      "date": "2025-07-25",
+      "sources": [
+        {
+          "titre": "Drapeau palestinien à l'Assemblée : « Reconnaître un État palestinien aujourd'hui, ce serait légitimer le Hamas », estime Jordan Bardella",
+          "url": "https://www.publicsenat.fr/actualites/politique/drapeau-palestinien-a-lassemblee-reconnaitre-un-etat-palestinien-aujourdhui-ce-serait-legitimer-le-hamas-estime-jordan-bardella",
+          "media": "Public Sénat",
+          "date": "2024-05-29"
+        },
+        {
+          "titre": "Bardella à Jérusalem : l'extrême droite française affiche son soutien à Israël",
+          "url": "https://www.lagazettefrance.fr/article/bardella-a-jerusalem-l-extreme-droite-francaise-affiche-son-soutien-a-israel",
+          "media": "La Gazette France (AFP)",
+          "date": "2025-03-27"
+        },
+        {
+          "titre": "Etat de Palestine : les principales réactions à l'annonce de Macron",
+          "url": "https://lcp.fr/actualites/etat-de-palestine-les-principales-reactions-a-l-annonce-de-macron-391199",
+          "media": "LCP",
+          "date": "2025-07-25"
+        },
+        {
+          "titre": "Une politique étrangère souverainiste ? Le monde vu par les députés du RN",
+          "url": "https://www.ifri.org/sites/default/files/2026-09/ifri_hecker_politique_etrangere_rn_2026.pdf",
+          "media": "Ifri (Marc Hecker)",
+          "date": "2026-10"
+        }
+      ]
+    }
+  }
+}

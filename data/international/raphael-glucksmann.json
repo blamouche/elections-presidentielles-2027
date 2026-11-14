@@ -1,0 +1,153 @@
+{
+  "id": "raphael-glucksmann",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Raphaël Glucksmann défend une Europe fédérale et puissante, dotée d'une défense commune financée par l'emprunt, et une ligne de fermeté envers la Russie et la Chine. Il s'oppose à Donald Trump tout en restant attaché à l'alliance avec les États-Unis, selon l'analyse de l'IRIS (juillet 2026).",
+  "axes": {
+    "europe": {
+      "position": 2,
+      "titre": "Fin de l'unanimité, avancée fédérale assumée",
+      "resume": "Dans sa doctrine de campagne européenne (mai 2024), il défend « la fin de l'unanimité » au Conseil, estime qu'« sans avancée fédérale assumée » aucune puissance européenne n'est possible, et propose un droit d'initiative et un pouvoir fiscal pour le Parlement européen ainsi qu'un fonds de défense de 100 Md€ financé par un emprunt commun.",
+      "date": "2024-05-16",
+      "sources": [
+        {
+          "titre": "Bâtir l'Europe de 2030 : la doctrine Glucksmann",
+          "url": "https://legrandcontinent.eu/fr/2024/05/16/batir-leurope-de-2030-la-doctrine-glucksmann-gc/",
+          "media": "Le Grand Continent",
+          "date": "2024-05-16"
+        }
+      ]
+    },
+    "otan": {
+      "position": 1,
+      "titre": "Alliance américaine maintenue, autonomie européenne",
+      "resume": "En 2024, il appelle l'Europe à « devenir adulte » et à ne plus dépendre du parapluie de sécurité américain, sans proposer de quitter l'OTAN. L'IRIS (juillet 2026) relève chez lui un attachement à l'alliance avec les États-Unis.",
+      "date": "2026-07-23",
+      "sources": [
+        {
+          "titre": "Bâtir l'Europe de 2030 : la doctrine Glucksmann",
+          "url": "https://legrandcontinent.eu/fr/2024/05/16/batir-leurope-de-2030-la-doctrine-glucksmann-gc/",
+          "media": "Le Grand Continent",
+          "date": "2024-05-16"
+        },
+        {
+          "titre": "Glucksmann, ambiguïtés géopolitiques",
+          "url": "https://www.iris-france.org/glucksmann-ambiguites-geopolitiques/",
+          "media": "IRIS (Pascal Boniface)",
+          "date": "2026-07-23"
+        }
+      ]
+    },
+    "trump": {
+      "position": -2,
+      "titre": "Opposition frontale à Donald Trump",
+      "resume": "Le 16 mars 2025, lors d'une convention de Place publique, il a demandé aux Américains « ayant choisi de passer du côté des tyrans » de rendre la statue de la Liberté, en critiquant le revirement de Washington sur l'Ukraine ; la porte-parole de la Maison-Blanche lui a répondu publiquement. L'IRIS (2026) note son opposition à Trump.",
+      "date": "2025-03-17",
+      "sources": [
+        {
+          "titre": "Les États-Unis devraient rendre la statue de la Liberté à la France, selon un eurodéputé",
+          "url": "https://fr.euronews.com/2025/03/17/les-etats-unis-devraient-rendre-la-statue-de-la-liberte-a-la-france-selon-un-eurodepute",
+          "media": "Euronews",
+          "date": "2025-03-17"
+        },
+        {
+          "titre": "White House slams French MEP's call to return Statue of Liberty",
+          "url": "https://www.euronews.com/2025/03/18/white-house-slams-french-meps-call-to-return-statue-of-liberty",
+          "media": "Euronews",
+          "date": "2025-03-18"
+        },
+        {
+          "titre": "Glucksmann, ambiguïtés géopolitiques",
+          "url": "https://www.iris-france.org/glucksmann-ambiguites-geopolitiques/",
+          "media": "IRIS (Pascal Boniface)",
+          "date": "2026-07-23"
+        }
+      ]
+    },
+    "russie": {
+      "position": 2,
+      "titre": "Fermeté et saisie des avoirs russes gelés",
+      "resume": "En 2024, il présente la guerre de Poutine comme visant « l'Europe elle-même », critique le veto hongrois sur les sanctions et dénonce le refus de saisir les « 206 milliards d'avoirs publics russes gelés ». L'IRIS (2026) résume sa ligne comme une fermeté face à la Russie.",
+      "date": "2026-07-23",
+      "sources": [
+        {
+          "titre": "Bâtir l'Europe de 2030 : la doctrine Glucksmann",
+          "url": "https://legrandcontinent.eu/fr/2024/05/16/batir-leurope-de-2030-la-doctrine-glucksmann-gc/",
+          "media": "Le Grand Continent",
+          "date": "2024-05-16"
+        },
+        {
+          "titre": "Glucksmann, ambiguïtés géopolitiques",
+          "url": "https://www.iris-france.org/glucksmann-ambiguites-geopolitiques/",
+          "media": "IRIS (Pascal Boniface)",
+          "date": "2026-07-23"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": 2,
+      "titre": "Aide accrue et élargissement à l'Ukraine",
+      "resume": "Il qualifie l'Ukraine de « première ligne de défense » européenne, propose en 2024 un fonds de défense de 100 Md€ par emprunt commun avec priorité aux commandes ukrainiennes, et soutient l'élargissement de l'UE à l'Ukraine couplé à une réforme institutionnelle.",
+      "date": "2024-05-16",
+      "sources": [
+        {
+          "titre": "Bâtir l'Europe de 2030 : la doctrine Glucksmann",
+          "url": "https://legrandcontinent.eu/fr/2024/05/16/batir-leurope-de-2030-la-doctrine-glucksmann-gc/",
+          "media": "Le Grand Continent",
+          "date": "2024-05-16"
+        },
+        {
+          "titre": "Glucksmann, ambiguïtés géopolitiques",
+          "url": "https://www.iris-france.org/glucksmann-ambiguites-geopolitiques/",
+          "media": "IRIS (Pascal Boniface)",
+          "date": "2026-07-23"
+        }
+      ]
+    },
+    "chine": {
+      "position": 2,
+      "titre": "Fermeté envers Pékin, « Buy European Act »",
+      "resume": "Engagé sur la cause ouïghoure, il fait partie des eurodéputés sanctionnés par Pékin en mars 2021 (interdiction d'entrée en Chine), sanction qu'il a qualifiée d'honneur. En 2024, il souligne la dépendance européenne aux chaînes de valeur chinoises et propose un « Buy European Act ». L'IRIS (2026) décrit une ligne de fermeté face à la Chine.",
+      "date": "2026-07-23",
+      "sources": [
+        {
+          "titre": "La Chine prend des sanctions contre dix Européens, dont un député belge",
+          "url": "https://www.lalibre.be/international/asie/2021/03/05/la-chine-prend-des-sanctions-contre-dix-europeens-dont-un-depute-belge-MQGU4O6W5VDPHDDKPSJFI2QAUM/",
+          "media": "La Libre Belgique",
+          "date": "2021-03"
+        },
+        {
+          "titre": "Bâtir l'Europe de 2030 : la doctrine Glucksmann",
+          "url": "https://legrandcontinent.eu/fr/2024/05/16/batir-leurope-de-2030-la-doctrine-glucksmann-gc/",
+          "media": "Le Grand Continent",
+          "date": "2024-05-16"
+        },
+        {
+          "titre": "Glucksmann, ambiguïtés géopolitiques",
+          "url": "https://www.iris-france.org/glucksmann-ambiguites-geopolitiques/",
+          "media": "IRIS (Pascal Boniface)",
+          "date": "2026-07-23"
+        }
+      ]
+    },
+    "proche-orient": {
+      "position": 1,
+      "titre": "Critique du gouvernement israélien, soutien à un État palestinien",
+      "resume": "En avril 2024, il a décrit un gouvernement israélien « en train de raser » Gaza, demandé plus de pression sur lui et soutenu la démarche de reconnaissance d'un État palestinien portée par l'Espagne ; la demande de suspension de l'accord d'association UE-Israël était alors formulée par Olivier Faure (PS), pas par lui. Nous n'avons pas trouvé de déclaration de sa part sur un embargo ou des sanctions ; l'IRIS (2026) juge son engagement sur Gaza moins marqué que sur l'Ukraine ou les Ouïghours, d'où le cran +1.",
+      "date": "2024-04-26",
+      "sources": [
+        {
+          "titre": "France : le PS réclame la suspension de l'accord d'association UE-Israël",
+          "url": "https://fr.hespress.com/364408-france-le-ps-reclame-la-suspension-de-laccord-dassociation-ue-israel.html",
+          "media": "Hespress (dépêche AFP)",
+          "date": "2024-04-26"
+        },
+        {
+          "titre": "Glucksmann, ambiguïtés géopolitiques",
+          "url": "https://www.iris-france.org/glucksmann-ambiguites-geopolitiques/",
+          "media": "IRIS (Pascal Boniface)",
+          "date": "2026-07-23"
+        }
+      ]
+    }
+  }
+}

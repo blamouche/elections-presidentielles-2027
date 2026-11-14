@@ -1,0 +1,1169 @@
+<title>Comparateur Présidentielle 2027</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Programmes, parcours, affaires judiciaires et fact-checking des candidats à l'élection présidentielle française de 2027, chaque information reliée à sa source.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500..900&family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout : bandeau civique compact en tête, puis une colonne de lecture large ; les vues "outil" (comparateur, fact-check) passent en pleine largeur. */
+:root {
+  --bg: #F4F5F9;
+  --surface: #FFFFFF;
+  --surface-2: #ECEEF5;
+  --ink: #151A2E;
+  --muted: #586079;
+  --line: #D9DCE7;
+  --accent: #2B3BAE;
+  --accent-ink: #FFFFFF;
+  --accent-soft: #E3E7FB;
+  --ok: #17784A;   --ok-soft: #DDF2E6;
+  --lime: #577F12; --lime-soft: #EBF3D9;
+  --warn: #A66A00; --warn-soft: #FBF0D6;
+  --orange: #BC4E12; --orange-soft: #FBE5D8;
+  --crit: #B3261E; --crit-soft: #FADCD9;
+  --neutral: #646B82; --neutral-soft: #E7E9F0;
+  --font-display: "Archivo", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+  --font-body: "Public Sans", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --font-data: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --radius: 6px;
+  --maxw: 1180px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0D1020; --surface: #151A2E; --surface-2: #1C2238; --ink: #E7E9F3; --muted: #9AA1BC; --line: #2A3150;
+    --accent: #93A0FF; --accent-ink: #0D1020; --accent-soft: #232A5C;
+    --ok: #5FD39A; --ok-soft: #12382A; --lime: #A9D45A; --lime-soft: #2A3814; --warn: #F2B84B; --warn-soft: #3D2E0C;
+    --orange: #FF9A5C; --orange-soft: #42240F; --crit: #FF8078; --crit-soft: #47191A; --neutral: #A5ABC2; --neutral-soft: #262C45;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0D1020; --surface: #151A2E; --surface-2: #1C2238; --ink: #E7E9F3; --muted: #9AA1BC; --line: #2A3150;
+  --accent: #93A0FF; --accent-ink: #0D1020; --accent-soft: #232A5C;
+  --ok: #5FD39A; --ok-soft: #12382A; --lime: #A9D45A; --lime-soft: #2A3814; --warn: #F2B84B; --warn-soft: #3D2E0C;
+  --orange: #FF9A5C; --orange-soft: #42240F; --crit: #FF8078; --crit-soft: #47191A; --neutral: #A5ABC2; --neutral-soft: #262C45;
+  color-scheme: dark;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 15px; line-height: 1.55; margin: 0; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--surface); }
+a { color: var(--accent); text-underline-offset: 2px; }
+a:hover { text-decoration-thickness: 2px; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+h1, h2, h3, h4 { font-family: var(--font-display); font-stretch: 85%; line-height: 1.15; text-wrap: balance; margin: 0; letter-spacing: -0.01em; }
+h1 { font-size: clamp(1.9rem, 4.4vw, 3rem); font-weight: 800; }
+h2 { font-size: clamp(1.35rem, 2.6vw, 1.8rem); font-weight: 750; }
+h3 { font-size: 1.12rem; font-weight: 700; font-stretch: 92%; }
+p { margin: 0; }
+.wrap { max-width: var(--maxw); margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.eyebrow { font-family: var(--font-data); font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.muted { color: var(--muted); }
+.mono { font-family: var(--font-data); font-variant-numeric: tabular-nums; }
+.prose { max-width: 68ch; }
+button { font: inherit; color: inherit; }
+
+/* ---------- Bandeau ---------- */
+.top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--surface); border-bottom: 1px solid var(--line); }
+.top .wrap { display: flex; align-items: center; gap: 12px 24px; flex-wrap: wrap; padding-block: 10px; }
+.brand { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--ink); margin-right: auto; }
+.brand-mark { display: grid; grid-template-columns: repeat(3, 6px); gap: 2px; height: 22px; }
+.brand-mark span { background: var(--ink); border-radius: 1px; }
+.brand-mark span:nth-child(2) { background: var(--accent); }
+.brand b { font-family: var(--font-display); font-stretch: 75%; font-weight: 850; font-size: 1.15rem; letter-spacing: 0.01em; text-transform: uppercase; }
+.nav { display: flex; gap: 4px; flex-wrap: wrap; }
+.nav a { text-decoration: none; color: var(--muted); font-weight: 600; font-size: 0.92rem; padding: 6px 10px; border-radius: var(--radius); }
+.nav a:hover { color: var(--ink); background: var(--surface-2); }
+.nav a[aria-current="page"] { color: var(--accent-ink); background: var(--accent); }
+.nav .count { font-family: var(--font-data); font-size: 0.75rem; margin-left: 4px; }
+.countdown { font-family: var(--font-data); font-size: 0.78rem; color: var(--muted); white-space: nowrap; }
+.countdown b { color: var(--ink); font-weight: 500; }
+@media (max-width: 560px) { .countdown { white-space: normal; } }
+/* Mobile : barre du haut compacte (navigation sur une ligne défilante) pour laisser la place au contenu. */
+@media (max-width: 640px) { .top .wrap { gap: 4px 12px; padding-block: 8px; } .brand b { font-size: 1rem; } .nav { flex-wrap: nowrap; overflow-x: auto; width: 100%; scrollbar-width: none; } .nav::-webkit-scrollbar { display: none; } .nav a { white-space: nowrap; padding: 5px 9px; font-size: 0.88rem; } .countdown { font-size: 0.72rem; } }
+
+main { padding-block: 28px 56px; }
+.view { display: grid; gap: 28px; }
+
+/* ---------- Accueil ---------- */
+.intro { display: grid; gap: 18px; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); align-items: end; }
+.intro p { color: var(--muted); font-size: 1.05rem; margin-top: 10px; }
+.kpis { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+.kpi { background: var(--surface); padding: 12px 14px; }
+.kpi .n { font-family: var(--font-display); font-stretch: 75%; font-weight: 800; font-size: 1.9rem; line-height: 1; font-variant-numeric: tabular-nums; }
+.kpi .l { font-size: 0.8rem; color: var(--muted); margin-top: 4px; }
+@media (max-width: 760px) { .intro { grid-template-columns: minmax(0, 1fr); } }
+
+.toolbar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.chip { border: 1px solid var(--line); background: var(--surface); padding: 5px 11px; border-radius: 999px; font-size: 0.85rem; font-weight: 500; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; }
+.chip:hover { border-color: var(--muted); }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.chip .dot { width: 9px; height: 9px; border-radius: 2px; flex: none; }
+.chip .n { font-family: var(--font-data); font-size: 0.72rem; opacity: 0.75; }
+
+.grid-cands { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(270px, 100%), 1fr)); gap: 14px; }
+.ccard { position: relative; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 16px 14px; display: grid; gap: 10px; align-content: start; }
+.ccard:hover { border-color: var(--muted); }
+.ccard .stripe { position: absolute; left: 0; top: 0; bottom: 0; width: 4px; border-radius: var(--radius) 0 0 var(--radius); }
+.ccard-head { display: flex; gap: 12px; align-items: center; }
+.avatar { width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center; font-family: var(--font-display); font-weight: 800; font-stretch: 80%; color: #fff; flex: none; font-size: 1rem; letter-spacing: 0.02em; }
+.ccard h3 a { color: var(--ink); text-decoration: none; }
+.ccard h3 a::after { content: ""; position: absolute; inset: 0; }
+.ccard .party { font-size: 0.85rem; color: var(--muted); }
+.ccard .meta { display: flex; justify-content: space-between; gap: 8px; font-size: 0.82rem; color: var(--muted); flex-wrap: wrap; }
+.ccard .jud { font-size: 0.82rem; display: flex; gap: 6px; align-items: baseline; }
+.cmp-toggle { position: relative; z-index: 1; justify-self: start; border: 1px dashed var(--line); background: transparent; border-radius: var(--radius); padding: 4px 9px; font-size: 0.8rem; cursor: pointer; color: var(--muted); }
+.cmp-toggle[aria-pressed="true"] { border-style: solid; border-color: var(--accent); color: var(--accent); background: var(--accent-soft); }
+
+.pill { display: inline-flex; align-items: center; gap: 5px; font-size: 0.74rem; font-weight: 600; padding: 2px 8px; border-radius: 999px; white-space: nowrap; background: var(--neutral-soft); color: var(--neutral); }
+.pill.ok { background: var(--ok-soft); color: var(--ok); }
+.pill.lime { background: var(--lime-soft); color: var(--lime); }
+.pill.warn { background: var(--warn-soft); color: var(--warn); }
+.pill.orange { background: var(--orange-soft); color: var(--orange); }
+.pill.crit { background: var(--crit-soft); color: var(--crit); }
+.pill.accent { background: var(--accent-soft); color: var(--accent); }
+
+/* Barre de répartition des verdicts */
+.vbar { display: flex; height: 6px; border-radius: 3px; overflow: hidden; background: var(--surface-2); }
+.vbar span { display: block; height: 100%; }
+.c-ok { background: var(--ok); } .c-lime { background: var(--lime); } .c-warn { background: var(--warn); }
+.c-orange { background: var(--orange); } .c-crit { background: var(--crit); } .c-neutral { background: var(--neutral); opacity: 0.45; }
+
+/* ---------- Fiche candidat ---------- */
+.back { font-size: 0.88rem; text-decoration: none; }
+.chead { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 18px; align-items: center; padding-bottom: 20px; border-bottom: 1px solid var(--line); }
+.chead .avatar { width: 72px; height: 72px; font-size: 1.6rem; }
+img.avatar { object-fit: cover; object-position: center 22%; background: var(--surface-2); }
+.avatar.sm { width: 26px; height: 26px; font-size: 0.7rem; vertical-align: middle; margin-right: 6px; display: inline-grid; }
+.portrait-fig { margin: 0; display: grid; gap: 6px; width: 132px; align-self: start; }
+.portrait { width: 132px; aspect-ratio: 4 / 5; object-fit: cover; object-position: center 20%; border-radius: var(--radius); border-bottom: 4px solid; background: var(--surface-2); display: block; }
+.portrait-fig figcaption { font-size: 0.68rem; line-height: 1.35; color: var(--muted); overflow-wrap: anywhere; }
+.portrait-fig figcaption a { color: inherit; }
+.sites { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.site { display: inline-grid; text-decoration: none; border: 1px solid var(--line); border-radius: var(--radius); padding: 5px 10px; background: var(--surface); line-height: 1.25; }
+.site span { font-size: 0.68rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; font-family: var(--font-data); }
+.site b { font-size: 0.88rem; color: var(--accent); }
+.site b::after { content: " ↗"; font-weight: 400; }
+.site:hover { border-color: var(--accent); }
+.chead .sub { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; margin-top: 8px; color: var(--muted); }
+.tabs { display: flex; gap: 2px; border-bottom: 1px solid var(--line); overflow-x: auto; }
+.tabs a { padding: 9px 14px; text-decoration: none; color: var(--muted); font-weight: 600; font-size: 0.92rem; border-bottom: 2px solid transparent; margin-bottom: -1px; white-space: nowrap; }
+.tabs a[aria-current="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+.tabs .n { font-family: var(--font-data); font-size: 0.72rem; margin-left: 4px; }
+
+.section { display: grid; gap: 14px; }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px; display: grid; gap: 10px; }
+.cols-2 { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 14px; }
+@media (max-width: 760px) { .cols-2 { grid-template-columns: minmax(0, 1fr); } .chead .avatar { width: 56px; height: 56px; font-size: 1.2rem; } .portrait-fig, .portrait { width: 92px; } }
+.cols-3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(300px, 100%), 1fr)); gap: 14px; align-items: start; }
+.autres li { display: grid; gap: 3px; padding-bottom: 8px; border-bottom: 1px solid var(--line); font-size: 0.9rem; }
+.autres li:last-child { border-bottom: 0; padding-bottom: 0; }
+.dl { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: 6px 16px; }
+.dl dt { color: var(--muted); font-size: 0.85rem; }
+.dl dd { margin: 0; }
+ul.plain { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+
+/* Sources */
+.srcs { display: flex; flex-wrap: wrap; gap: 4px 6px; align-items: center; font-size: 0.78rem; }
+.srcs .lbl { color: var(--muted); font-family: var(--font-data); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; }
+.src { display: inline-flex; gap: 4px; align-items: baseline; text-decoration: none; border: 1px solid var(--line); border-radius: 4px; padding: 1px 6px; color: var(--ink); max-width: 100%; }
+.src:hover { border-color: var(--accent); color: var(--accent); }
+.src .m { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 22ch; }
+.src time { color: var(--muted); font-family: var(--font-data); font-size: 0.7rem; }
+.src::after { content: "↗"; font-size: 0.7rem; color: var(--muted); }
+
+/* Timeline parcours */
+.timeline { list-style: none; margin: 0; padding: 0; display: grid; }
+.timeline li { display: grid; grid-template-columns: 116px minmax(0, 1fr); gap: 14px; padding: 12px 0; border-top: 1px solid var(--line); }
+.timeline li:first-child { border-top: 0; }
+.timeline .when { font-family: var(--font-data); font-size: 0.82rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.timeline .what { display: grid; gap: 4px; }
+.timeline .now { color: var(--accent); font-weight: 600; }
+@media (max-width: 520px) { .timeline li { grid-template-columns: minmax(0, 1fr); gap: 4px; } }
+
+/* Judiciaire */
+.notice { border: 1px solid var(--line); background: var(--surface-2); border-radius: var(--radius); padding: 10px 14px; font-size: 0.88rem; color: var(--muted); }
+.case { background: var(--surface); border: 1px solid var(--line); border-left-width: 4px; border-radius: var(--radius); padding: 16px 18px; display: grid; gap: 10px; }
+.case.crit { border-left-color: var(--crit); } .case.warn { border-left-color: var(--warn); } .case.ok { border-left-color: var(--ok); } .case.neutral { border-left-color: var(--neutral); }
+.case-head { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; justify-content: space-between; }
+.chrono { list-style: none; padding: 0; margin: 4px 0 0; display: grid; gap: 8px; border-left: 2px solid var(--line); padding-left: 14px; }
+.chrono li { display: grid; gap: 3px; position: relative; }
+.chrono li::before { content: ""; position: absolute; left: -19px; top: 7px; width: 8px; height: 8px; border-radius: 50%; background: var(--surface); border: 2px solid var(--muted); }
+.chrono .d { font-family: var(--font-data); font-size: 0.78rem; color: var(--muted); }
+
+/* Propositions */
+.theme-block { display: grid; gap: 10px; }
+.theme-block > h3 { display: flex; align-items: baseline; gap: 8px; }
+.theme-block > h3 .n { font-family: var(--font-data); font-size: 0.75rem; color: var(--muted); font-weight: 400; }
+.props { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(420px, 100%), 1fr)); gap: 12px; }
+.prop { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); display: grid; grid-template-rows: auto 1fr auto; overflow: hidden; }
+.prop-body { padding: 14px 16px 12px; display: grid; gap: 8px; align-content: start; }
+.prop-top { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.prop h4 { font-family: var(--font-body); font-size: 1rem; font-weight: 700; line-height: 1.3; letter-spacing: 0; }
+.prop .desc { font-size: 0.92rem; }
+.figs { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+.figs li { font-family: var(--font-data); font-size: 0.8rem; background: var(--surface-2); border-radius: 4px; padding: 3px 8px; font-variant-numeric: tabular-nums; }
+.fc { border-top: 1px solid var(--line); background: var(--surface-2); padding: 12px 16px; display: grid; gap: 8px; font-size: 0.88rem; }
+.fc-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
+.fc-head .eyebrow { font-size: 0.66rem; }
+
+/* Jauge de verdict : 5 crans du faux au vrai */
+.verdict { display: inline-flex; align-items: center; gap: 8px; font-weight: 700; font-size: 0.85rem; }
+.gauge { display: inline-grid; grid-template-columns: repeat(5, 10px); gap: 2px; }
+.gauge i { height: 6px; border-radius: 1px; background: var(--line); }
+.gauge i.on { background: currentColor; }
+.t-ok { color: var(--ok); } .t-lime { color: var(--lime); } .t-warn { color: var(--warn); } .t-orange { color: var(--orange); } .t-crit { color: var(--crit); } .t-neutral { color: var(--neutral); }
+
+/* ---------- Comparateur ---------- */
+.picker { display: grid; gap: 10px; }
+.picker .row { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.picker .row > .eyebrow { width: 100%; }
+.linkbtn { background: none; border: 0; color: var(--accent); cursor: pointer; font-size: 0.82rem; padding: 2px 4px; text-decoration: underline; text-underline-offset: 2px; }
+.matrix-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
+table.matrix { --c0: 180px; --cw: 250px; border-collapse: separate; border-spacing: 0; width: 100%; min-width: calc(var(--c0) + var(--ncols) * var(--cw)); table-layout: fixed; }
+.matrix colgroup .c0 { width: var(--c0); }
+.matrix th, .matrix td { vertical-align: top; text-align: left; padding: 12px; border-bottom: 1px solid var(--line); border-left: 1px solid var(--line); overflow-wrap: anywhere; }
+.matrix thead th { position: sticky; top: 0; background: var(--surface); z-index: 2; font-family: var(--font-display); font-stretch: 88%; font-size: 1rem; box-shadow: 0 1px 0 var(--line); }
+.matrix thead th .party { display: block; font-family: var(--font-body); font-weight: 500; font-size: 0.78rem; color: var(--muted); font-stretch: 100%; }
+.matrix th:first-child, .matrix td:first-child { border-left: 0; }
+.matrix tbody th { background: var(--surface-2); font-family: var(--font-display); font-stretch: 88%; font-size: 0.95rem; position: sticky; left: 0; z-index: 1; box-shadow: 1px 0 0 var(--line); }
+.matrix thead th:first-child { left: 0; z-index: 3; box-shadow: 1px 1px 0 var(--line); }
+/* Comparateur : défilement interne pour garder les noms (en haut) et les thèmes (à gauche) visibles. */
+.cmp-wrap { max-height: calc(100vh - 110px); max-height: calc(100dvh - 110px); overflow: auto; overscroll-behavior: contain; }
+.matrix tbody th > .lbl-sticky { position: sticky; top: 76px; display: block; }
+.cmp-hint { font-size: 0.82rem; color: var(--muted); margin: 0 0 8px; }
+@media (max-width: 640px) { table.matrix { --c0: 112px; --cw: 230px; } .matrix th, .matrix td { padding: 10px; } .matrix tbody th { font-size: 0.85rem; } .cmp-wrap { max-height: calc(100dvh - 150px); } }
+.cell { display: grid; grid-template-columns: minmax(0, 1fr); gap: 10px; min-width: 0; }
+.mini { display: grid; grid-template-columns: minmax(0, 1fr); gap: 5px; padding-bottom: 10px; border-bottom: 1px dashed var(--line); min-width: 0; }
+.mini > * { min-width: 0; }
+.mini:last-child { border-bottom: 0; padding-bottom: 0; }
+.mini b { font-size: 0.9rem; line-height: 1.3; }
+.mini .figs li { font-size: 0.74rem; }
+.mini .srcs { min-width: 0; }
+.mini .src { min-width: 0; overflow-wrap: normal; }
+.mini .src time { white-space: nowrap; }
+.mini .src .m { min-width: 0; max-width: 100%; }
+.empty { color: var(--muted); font-size: 0.85rem; font-style: italic; }
+.thdot { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: 1px; }
+
+/* ---------- Carte ---------- */
+.map-wrap { position: relative; overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 8px 4px; }
+.map-wrap svg { display: block; width: 100%; min-width: 880px; height: auto; font-family: var(--font-body); }
+.map-wrap .gl { stroke: var(--line); stroke-width: 1; }
+.map-wrap .tick { fill: var(--muted); font-family: var(--font-data); font-size: 11px; }
+.map-wrap .axislbl { fill: var(--muted); font-size: 12px; }
+.map-wrap .bandsep { stroke: var(--line); stroke-dasharray: 3 4; }
+.map-wrap .bandsep.strong { stroke-dasharray: none; stroke: var(--muted); opacity: 0.4; }
+.map-wrap .bandlbl { fill: var(--ink); font-family: var(--font-display); font-stretch: 85%; font-weight: 700; font-size: 13px; }
+.map-wrap .strip { fill: var(--surface-2); }
+.map-wrap .striplbl { fill: var(--muted); font-size: 12px; }
+.map-wrap .ring { fill: currentColor; }
+.map-wrap .gapring { fill: var(--surface); }
+.map-wrap .badge { fill: currentColor; stroke: var(--surface); stroke-width: 2; }
+.map-wrap .badgetxt { fill: var(--surface); font-family: var(--font-data); font-size: 10px; font-weight: 500; }
+.map-wrap .ini { fill: #fff; font-family: var(--font-display); font-weight: 800; font-size: 13px; }
+.map-wrap .ptlbl { fill: var(--ink); font-size: 11.5px; font-weight: 600; paint-order: stroke; stroke: var(--surface); stroke-width: 3px; stroke-linejoin: round; }
+.map-wrap .hit { fill: transparent; }
+.map-wrap .pt { cursor: pointer; }
+.map-wrap .pt:hover .ptlbl, .map-wrap .pt:focus .ptlbl { fill: var(--accent); }
+.map-wrap .pt:focus { outline: none; }
+.map-wrap .pt:focus-visible .gapring { stroke: var(--accent); stroke-width: 2; }
+.map-legend { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 0.82rem; color: var(--muted); align-items: center; }
+.map-legend span { display: inline-flex; align-items: center; gap: 6px; }
+.map-legend .ring { fill: none; stroke: currentColor; stroke-width: 3; }
+.map-tip { position: absolute; z-index: 3; pointer-events: none; display: grid; gap: 2px; background: var(--ink); color: var(--bg); padding: 8px 10px; border-radius: var(--radius); font-size: 0.8rem; max-width: 280px; box-shadow: 0 4px 14px rgba(0,0,0,.18); }
+.map-tip .muted { color: inherit; opacity: 0.7; }
+table.datatable { width: 100%; border-collapse: collapse; font-size: 0.88rem; min-width: 720px; }
+.datatable th, .datatable td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+.datatable thead th { font-family: var(--font-data); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 500; }
+.datatable .num { text-align: right; font-family: var(--font-data); font-variant-numeric: tabular-nums; }
+.datatable tbody th a { color: var(--ink); }
+
+/* ---------- International ---------- */
+.track { display: inline-grid; grid-template-columns: repeat(5, 1fr); gap: 3px; width: 110px; align-items: center; position: relative; flex: none; }
+.track::before { content: ""; position: absolute; left: 4px; right: 4px; top: 50%; height: 2px; background: var(--line); }
+.track i { position: relative; justify-self: center; width: 8px; height: 8px; border-radius: 50%; background: var(--surface); border: 2px solid var(--line); }
+.track i:nth-child(3) { border-color: var(--muted); }
+.track i.on { width: 14px; height: 14px; background: var(--accent); border-color: var(--surface); box-shadow: 0 0 0 2px var(--accent); }
+.track.sm { width: 84px; }
+.track.sm i { width: 6px; height: 6px; }
+.track.sm i.on { width: 11px; height: 11px; }
+.poles { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); gap: 12px; align-items: center; font-size: 0.78rem; color: var(--muted); }
+.poles span:last-child { text-align: right; }
+.intl-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(420px, 100%), 1fr)); gap: 12px; }
+.intl-head { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
+.axis-pick { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; font-size: 0.88rem; }
+.axis-pick select { width: auto; min-width: 200px; }
+.map-wrap .cell { fill: var(--surface); stroke: var(--line); }
+.map-wrap .cell.mid { fill: var(--surface-2); }
+.map-wrap .ring2 { fill: none; stroke-width: 2.5; }
+.map-wrap .ptlbl.sm { font-size: 10px; stroke-width: 2.5px; }
+.intl-matrix { min-width: 1080px; }
+.intl-matrix td { vertical-align: top; min-width: 120px; }
+.intl-matrix .cap { display: block; font-size: 0.74rem; color: var(--muted); margin-top: 4px; line-height: 1.3; }
+.intl-matrix th[scope="row"] { white-space: nowrap; position: sticky; left: 0; background: var(--surface); z-index: 1; }
+
+/* ---------- Fact-check ---------- */
+.filters { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 1fr) minmax(0, 1fr); gap: 10px; }
+@media (max-width: 760px) { .filters { grid-template-columns: minmax(0, 1fr); } }
+input[type="search"], select { width: 100%; font: inherit; font-size: 0.92rem; padding: 8px 10px; border-radius: var(--radius); border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+.fclist { display: grid; gap: 12px; }
+.fcrow { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); overflow: hidden; }
+.fcrow > div { padding: 14px 16px; display: grid; gap: 8px; align-content: start; }
+.fcrow > div + div { background: var(--surface-2); border-left: 1px solid var(--line); }
+.who { display: flex; align-items: center; gap: 8px; font-size: 0.85rem; font-weight: 600; flex-wrap: wrap; }
+.who a { color: var(--ink); }
+@media (max-width: 760px) { .fcrow { grid-template-columns: minmax(0, 1fr); } .fcrow > div + div { border-left: 0; border-top: 1px solid var(--line); } }
+.dist { display: grid; gap: 6px; }
+.dist .vbar { height: 12px; border-radius: 4px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 0.8rem; color: var(--muted); }
+.legend span { display: inline-flex; align-items: center; gap: 5px; }
+.legend i { width: 10px; height: 10px; border-radius: 2px; display: inline-block; }
+
+/* ---------- Sources & méthode ---------- */
+.scale { display: grid; gap: 8px; }
+.scale > div { display: grid; grid-template-columns: 160px minmax(0, 1fr); gap: 12px; align-items: baseline; font-size: 0.9rem; }
+@media (max-width: 520px) { .scale > div { grid-template-columns: minmax(0, 1fr); gap: 2px; } }
+.srcindex { display: grid; gap: 6px; }
+.srcindex details { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 8px 14px; }
+.srcindex summary { cursor: pointer; font-weight: 600; display: flex; justify-content: space-between; gap: 10px; }
+.srcindex summary .n { font-family: var(--font-data); font-size: 0.78rem; color: var(--muted); font-weight: 400; }
+.srcindex ul { list-style: none; margin: 8px 0 4px; padding: 0; display: grid; gap: 6px; font-size: 0.88rem; }
+.srcindex li { display: grid; gap: 2px; }
+.srcindex li .meta { font-size: 0.78rem; color: var(--muted); }
+.howto { counter-reset: s; list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+.howto li { counter-increment: s; display: grid; grid-template-columns: 26px minmax(0, 1fr); gap: 10px; align-items: baseline; }
+.howto li::before { content: counter(s); font-family: var(--font-data); font-size: 0.8rem; width: 22px; height: 22px; display: grid; place-items: center; border-radius: 50%; background: var(--accent-soft); color: var(--accent); }
+
+.dl-btn { display: inline-flex; align-items: center; gap: 6px; font: 600 0.82rem var(--font-body); color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 5px 10px; cursor: pointer; white-space: nowrap; }
+.dl-btn:hover { border-color: var(--accent); color: var(--accent); }
+.dl-btn:disabled { opacity: 0.6; cursor: progress; }
+.dl-btn svg { width: 14px; height: 14px; flex: none; }
+.top .dl-btn { margin-left: auto; }
+.dl-msg { font-size: 0.78rem; color: var(--muted); }
+@media (max-width: 640px) { .top .dl-btn { display: none; } }
+footer { border-top: 1px solid var(--line); padding-block: 18px 28px; font-size: 0.82rem; color: var(--muted); }
+footer .wrap { display: flex; flex-wrap: wrap; gap: 8px 20px; justify-content: space-between; }
+
+@media (prefers-reduced-motion: no-preference) {
+  .view { animation: rise 0.25s ease-out; }
+  @keyframes rise { from { transform: translateY(4px); } to { transform: none; } }
+}
+</style>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#accueil" aria-label="Accueil"><span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span><b>Comparateur Présidentielle 2027</b></a>
+    <nav class="nav" id="nav" aria-label="Sections"></nav>
+    <span class="countdown" id="countdown"></span>
+    <button type="button" class="dl-btn" data-dl title="Un seul fichier HTML, consultable hors connexion et facile à partager"><svg viewBox="0 0 16 16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v8M4.5 6.5 8 10l3.5-3.5M3 13h10"/></svg>Version portable</button>
+  </div>
+</header>
+<main class="wrap" id="app" tabindex="-1"></main>
+<footer><div class="wrap" id="footer"></div></footer>
+
+<script>
+// Version portable : le fichier se « recopie » lui-même. On capture le document tel que chargé,
+// avant que le script ne modifie le DOM (le script est le dernier élément de la page).
+const PORTABLE = /*__PORTABLE__*/false;
+const SELF_HTML = PORTABLE ? "<!doctype html>\n" + document.documentElement.outerHTML : null;
+document.documentElement.lang = "fr";
+const DATA = /*__DATA__*/null || { generatedAt: "", candidats: [], documents: [] };
+
+const THEMES = {
+  "economie-fiscalite": "Économie & fiscalité",
+  "emploi-travail": "Emploi & travail",
+  "retraites": "Retraites",
+  "pouvoir-achat-social": "Pouvoir d'achat & social",
+  "sante": "Santé",
+  "education": "Éducation",
+  "securite-justice": "Sécurité & justice",
+  "immigration": "Immigration",
+  "environnement-energie": "Environnement & énergie",
+  "agriculture": "Agriculture",
+  "logement": "Logement",
+  "europe-international": "Europe & international",
+  "defense": "Défense",
+  "institutions-democratie": "Institutions & démocratie",
+  "numerique-innovation": "Numérique & innovation",
+  "culture": "Culture",
+  "territoires-services-publics": "Territoires & services publics",
+};
+// Ordre de la jauge : rank 5 = vrai … 1 = faux ; 0 = pas de position sur l'échelle.
+const VERDICTS = {
+  "vrai":        { label: "Vrai",          tone: "ok",      rank: 5, def: "Les chiffres ou le chiffrage sont exacts et cohérents avec les données de référence." },
+  "plutot-vrai": { label: "Plutôt vrai",   tone: "lime",    rank: 4, def: "Globalement exact, avec des imprécisions ou des hypothèses discutables." },
+  "trompeur":    { label: "Trompeur",      tone: "warn",    rank: 3, def: "Les chiffres sont exacts mais présentés de façon à induire en erreur, ou le chiffrage omet des coûts importants." },
+  "plutot-faux": { label: "Plutôt faux",   tone: "orange",  rank: 2, def: "Largement inexact ou sous-estimé par rapport aux estimations indépendantes." },
+  "faux":        { label: "Faux",          tone: "crit",    rank: 1, def: "Contredit par les données officielles ou juridiquement impossible en l'état." },
+  "inverifiable":{ label: "Invérifiable",  tone: "neutral", rank: 0, def: "Aucune donnée publique ne permet de trancher (projection, intention, chiffre sans base)." },
+  "non-verifie": { label: "Non vérifié",   tone: "neutral", rank: 0, def: "Pas encore de vérification disponible ; l'analyse indique pourquoi." },
+};
+const VERDICT_ORDER = ["vrai", "plutot-vrai", "trompeur", "plutot-faux", "faux", "inverifiable", "non-verifie"];
+const JUD = {
+  "condamnation-definitive":     { label: "Condamnation définitive", tone: "crit" },
+  "condamnation-non-definitive": { label: "Condamnation non définitive", tone: "crit" },
+  "proces-en-cours":             { label: "Procès en cours", tone: "warn" },
+  "mise-en-examen":              { label: "Mise en examen", tone: "warn" },
+  "enquete":                     { label: "Enquête", tone: "warn" },
+  "relaxe":                      { label: "Relaxe", tone: "ok" },
+  "non-lieu":                    { label: "Non-lieu", tone: "ok" },
+  "classement":                  { label: "Classement sans suite", tone: "ok" },
+  "autre":                       { label: "Autre procédure", tone: "neutral" },
+};
+const FAMILLES = {
+  "extreme-gauche": "Extrême gauche", "gauche": "Gauche", "ecologiste": "Écologistes", "centre": "Centre",
+  "droite": "Droite", "extreme-droite": "Extrême droite", "divers": "Divers",
+};
+const STATUTS = { declare: ["Candidat déclaré", "accent"], potentiel: ["Candidature potentielle", "neutral"], incertain: ["Candidature incertaine", "warn"], retire: ["Retiré", "neutral"] };
+const FIRST_ROUND = new Date("2027-04-18T08:00:00+02:00");
+const MONTHS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
+
+/* ---------- Utilitaires ---------- */
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const norm = (s) => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().trim();
+const vkey = (v) => { const k = norm(v).replace(/\s+/g, "-"); return VERDICTS[k] ? k : "non-verifie"; };
+const safeUrl = (u) => /^https?:\/\//i.test(u || "") ? u : null;
+function fmtDate(d) {
+  if (!d) return "";
+  const m = String(d).match(/^(\d{4})(?:-(\d{2}))?(?:-(\d{2}))?/);
+  if (!m) return esc(d);
+  if (m[3]) return `${+m[3]} ${MONTHS[+m[2] - 1]} ${m[1]}`;
+  if (m[2]) return `${MONTHS[+m[2] - 1]} ${m[1]}`;
+  return m[1];
+}
+function shortDate(d) {
+  const m = String(d || "").match(/^(\d{4})(?:-(\d{2}))?(?:-(\d{2}))?/);
+  if (!m) return "";
+  return [m[3], m[2], m[1]].filter(Boolean).join("/");
+}
+const initials = (c) => ((c.prenom || "")[0] || "") + ((c.nom || "").replace(/^(de |le |la )/i, "")[0] || "");
+const fullName = (c) => `${c.prenom || ""} ${c.nom || ""}`.trim();
+const avatar = (c, cls = "") => c.photo
+  ? `<img class="avatar ${cls}" src="${c.photo.src}" alt="" style="box-shadow:0 0 0 2px ${esc(c.couleur || "#555")}">`
+  : `<span class="avatar ${cls}" style="background:${esc(c.couleur || "#555")}" aria-hidden="true">${esc(initials(c))}</span>`;
+const pill = (label, tone) => `<span class="pill ${tone || ""}">${esc(label)}</span>`;
+
+function hostOf(url) { try { return new URL(url).hostname.replace(/^www\./, ""); } catch { return ""; } }
+function srcLinks(sources, label = "Sources") {
+  const list = (sources || []).filter((s) => safeUrl(s.url));
+  if (!list.length) return "";
+  return `<div class="srcs"><span class="lbl">${esc(label)}</span>${list.map((s) =>
+    `<a class="src" href="${esc(s.url)}" target="_blank" rel="noopener noreferrer" title="${esc(s.titre || s.url)}"><span class="m">${esc(s.media || hostOf(s.url))}</span>${s.date ? `<time>${esc(shortDate(s.date))}</time>` : ""}</a>`).join("")}</div>`;
+}
+function verdictBadge(v) {
+  const k = vkey(v), V = VERDICTS[k];
+  const gauge = V.rank ? `<span class="gauge" aria-hidden="true">${[1, 2, 3, 4, 5].map((i) => `<i class="${i <= V.rank ? "on" : ""}"></i>`).join("")}</span>` : "";
+  return `<span class="verdict t-${V.tone}" title="${esc(V.def)}">${gauge}${esc(V.label)}</span>`;
+}
+function verdictBar(props) {
+  const counts = {};
+  props.forEach((p) => { const k = vkey(p.factCheck?.verdict); counts[k] = (counts[k] || 0) + 1; });
+  const total = props.length || 1;
+  return `<div class="vbar" role="img" aria-label="${esc(VERDICT_ORDER.filter((k) => counts[k]).map((k) => `${counts[k]} ${VERDICTS[k].label}`).join(", ") || "aucune proposition")}">${
+    VERDICT_ORDER.filter((k) => counts[k]).map((k) => `<span class="c-${VERDICTS[k].tone}" style="width:${(counts[k] / total) * 100}%"></span>`).join("")}</div>`;
+}
+const legend = () => `<div class="legend">${VERDICT_ORDER.map((k) => `<span><i class="c-${VERDICTS[k].tone}"></i>${VERDICTS[k].label}</span>`).join("")}</div>`;
+
+/* ---------- Données dérivées ---------- */
+const FAM_ORDER = Object.keys(FAMILLES);
+const CANDS = [...DATA.candidats].sort((a, b) =>
+  (FAM_ORDER.indexOf(a.famillePolitique) - FAM_ORDER.indexOf(b.famillePolitique)) || norm(a.nom).localeCompare(norm(b.nom)));
+const BY_ID = Object.fromEntries(CANDS.map((c) => [c.id, c]));
+const props = (c) => c.programme?.propositions || [];
+const ALL_PROPS = CANDS.flatMap((c) => props(c).map((p) => ({ c, p })));
+const checked = (list) => list.filter((p) => !["non-verifie"].includes(vkey(p.factCheck?.verdict))).length;
+// Le candidat est-il mis en cause (et non plaignant, victime ou requérant) ?
+const misEnCause = (a) => !/victime|plaignant|demandeur|requérant/i.test(a.role || "");
+function judSummary(c) {
+  const all = c.judiciaire?.affaires || [];
+  const a = all.filter(misEnCause), other = all.length - a.length;
+  const otherTxt = other ? ` · ${other} comme plaignant ou victime` : "";
+  if (!a.length) return { text: "Aucune procédure le visant" + otherTxt, tone: "ok" };
+  const def = a.filter((x) => x.statut === "condamnation-definitive").length;
+  const nd = a.filter((x) => x.statut === "condamnation-non-definitive").length;
+  const open = a.filter((x) => ["proces-en-cours", "mise-en-examen", "enquete"].includes(x.statut)).length;
+  const parts = [];
+  if (def) parts.push(`${def} condamnation${def > 1 ? "s" : ""} définitive${def > 1 ? "s" : ""}`);
+  if (nd) parts.push(`${nd} non définitive${nd > 1 ? "s" : ""}`);
+  if (open) parts.push(`${open} en cours`);
+  return { text: `${a.length} procédure${a.length > 1 ? "s" : ""} le visant${parts.length ? " · " + parts.join(", ") : ""}${otherTxt}`, tone: def || nd ? "crit" : open ? "warn" : "neutral" };
+}
+
+/* ---------- État (sélection du comparateur mémorisée localement) ---------- */
+const store = {
+  get(k, d) { try { const v = localStorage.getItem("p27:" + k); return v ? JSON.parse(v) : d; } catch { return d; } },
+  set(k, v) { try { localStorage.setItem("p27:" + k, JSON.stringify(v)); } catch {} },
+};
+const defaultCompare = CANDS.filter((c) => c.statutCandidature === "declare").sort((a, b) => props(b).length - props(a).length).slice(0, 3).map((c) => c.id);
+const state = {
+  famille: null,
+  statut: null,
+  compare: new Set((store.get("compare", null) || defaultCompare).filter((id) => BY_ID[id])),
+  cmpThemes: null, // null = tous les thèmes couverts
+  fc: { q: "", cand: "", theme: "", verdicts: new Set() },
+  progTheme: null,
+};
+const saveCompare = () => store.set("compare", [...state.compare]);
+
+/* ---------- Routage (#accueil, #comparer, #fact-check, #sources, #c-<id>[--onglet]) ---------- */
+function route() {
+  const h = decodeURIComponent(location.hash.slice(1));
+  if (h.startsWith("c-")) {
+    const [id, tab] = h.slice(2).split("--");
+    if (BY_ID[id]) return { view: "candidat", id, tab: tab || "programme" };
+  }
+  if (["comparer", "carte", "international", "fact-check", "sources"].includes(h)) return { view: h };
+  return { view: "accueil" };
+}
+let lastView = "";
+function render() {
+  const r = route();
+  const app = document.getElementById("app");
+  const html = r.view === "candidat" ? viewCandidat(BY_ID[r.id], r.tab)
+    : r.view === "comparer" ? viewComparer()
+    : r.view === "carte" ? viewCarte()
+    : r.view === "international" ? viewInternational()
+    : r.view === "fact-check" ? viewFactcheck()
+    : r.view === "sources" ? viewSources()
+    : viewAccueil();
+  app.innerHTML = `<div class="view">${html}</div>`;
+  renderNav(r.view);
+  const key = r.view + (r.id || "");
+  if (key !== lastView) { window.scrollTo(0, 0); lastView = key; }
+  document.title = r.view === "candidat" ? `${fullName(BY_ID[r.id])} · Comparateur Présidentielle 2027` : "Comparateur Présidentielle 2027";
+}
+function renderNav(view) {
+  const items = [["accueil", "Candidats"], ["comparer", "Comparer", state.compare.size || ""], ["carte", "Carte"], ["international", "International"], ["fact-check", "Fact-check"], ["sources", "Sources & méthode"]];
+  const cur = view === "candidat" ? "accueil" : view;
+  document.getElementById("nav").innerHTML = items.map(([h, l, n]) =>
+    `<a href="#${h}" ${cur === h ? 'aria-current="page"' : ""}>${l}${n ? `<span class="count">${n}</span>` : ""}</a>`).join("");
+}
+
+/* ---------- Vue : accueil ---------- */
+function viewAccueil() {
+  const fams = FAM_ORDER.filter((f) => CANDS.some((c) => c.famillePolitique === f));
+  const isDecl = (c) => c.statutCandidature === "declare";
+  const byStatut = (c) => !state.statut || (state.statut === "declare" ? isDecl(c) : !isDecl(c));
+  const list = CANDS.filter((c) => byStatut(c) && (!state.famille || c.famillePolitique === state.famille));
+  const nDecl = CANDS.filter(isDecl).length;
+  const nChecked = checked(ALL_PROPS.map((x) => x.p));
+  const nAff = CANDS.reduce((n, c) => n + (c.judiciaire?.affaires || []).filter(misEnCause).length, 0);
+  return `
+  <section class="intro">
+    <div>
+      <p class="eyebrow">Élection présidentielle · 1er tour le 18 avril 2027</p>
+      <h1>Ce que proposent les candidats, et ce que valent leurs chiffres</h1>
+      <p class="prose">Programmes, parcours et affaires judiciaires de ${CANDS.length} candidats et prétendants. Chaque information renvoie à sa source ; chaque proposition chiffrée est confrontée aux vérifications disponibles.</p>
+    </div>
+    <div class="kpis">
+      <div class="kpi"><div class="n">${CANDS.length}</div><div class="l">candidats suivis</div></div>
+      <div class="kpi"><div class="n">${ALL_PROPS.length}</div><div class="l">propositions et déclarations</div></div>
+      <div class="kpi"><div class="n">${nChecked}</div><div class="l">avec un verdict de vérification</div></div>
+      <div class="kpi"><div class="n">${nAff}</div><div class="l">procédures visant un candidat</div></div>
+    </div>
+  </section>
+  <section class="section" aria-label="Candidats">
+    <div class="toolbar" role="group" aria-label="Filtrer par statut de candidature">
+      <button class="chip" data-act="statut" data-v="" aria-pressed="${!state.statut}">Tous <span class="n">${CANDS.length}</span></button>
+      <button class="chip" data-act="statut" data-v="declare" aria-pressed="${state.statut === "declare"}">Candidats déclarés <span class="n">${nDecl}</span></button>
+      <button class="chip" data-act="statut" data-v="autre" aria-pressed="${state.statut === "autre"}">Potentiels ou incertains <span class="n">${CANDS.length - nDecl}</span></button>
+    </div>
+    <div class="toolbar" role="group" aria-label="Filtrer par famille politique">
+      <button class="chip" data-act="fam" data-v="" aria-pressed="${!state.famille}">Toutes les familles</button>
+      ${fams.map((f) => `<button class="chip" data-act="fam" data-v="${f}" aria-pressed="${state.famille === f}">${FAMILLES[f]} <span class="n">${CANDS.filter((c) => byStatut(c) && c.famillePolitique === f).length}</span></button>`).join("")}
+    </div>
+    ${list.length ? "" : `<p class="empty">Aucun candidat ne correspond à ces filtres.</p>`}
+    ${CANDS.length ? `<div class="grid-cands">${list.map(candCard).join("")}</div>` : `<p class="empty">Aucune fiche candidat pour l'instant.</p>`}
+  </section>
+  ${autresSection()}`;
+}
+function autresSection() {
+  const A = DATA.autres; if (!A) return "";
+  const block = (title, items) => items?.length ? `<div class="panel"><h3>${title}</h3><ul class="plain autres">${items.map((x) =>
+    `<li><div><strong>${esc(x.nom)}</strong> <span class="muted">· ${esc(x.parti)}</span></div><span>${esc(x.detail)}</span>${srcLinks(x.sources)}</li>`).join("")}</ul></div>` : "";
+  return `<section class="section" aria-label="Autres candidatures">
+    <h2>Autres candidatures recensées</h2>
+    <p class="muted prose">Personnes sans fiche détaillée à ce stade : petites candidatures, noms évoqués et retraits. Liste à jour au ${esc(fmtDate(A.miseAJour))}.</p>
+    <div class="cols-3">${block("Déclarées", A.declarees)}${block("Évoquées", A.evoquees)}${block("Ont renoncé ou ne sont pas candidats", A.retirees)}</div>
+  </section>`;
+}
+function candCard(c) {
+  const ps = props(c), j = judSummary(c), st = STATUTS[c.statutCandidature] || STATUTS.incertain;
+  const on = state.compare.has(c.id);
+  return `<article class="ccard">
+    <span class="stripe" style="background:${esc(c.couleur)}"></span>
+    <div class="ccard-head">${avatar(c)}<div><h3><a href="#c-${esc(c.id)}">${esc(fullName(c))}</a></h3><div class="party">${esc(c.parti)}${c.partiAbrev ? ` (${esc(c.partiAbrev)})` : ""}</div></div></div>
+    <div>${pill(st[0], st[1])}</div>
+    <div class="meta"><span>${ps.length} proposition${ps.length > 1 ? "s" : ""}</span><span>${checked(ps)} vérifiée${checked(ps) > 1 ? "s" : ""}</span></div>
+    ${verdictBar(ps)}
+    <div class="jud"><span class="verdict t-${j.tone}" style="font-weight:600">⚖</span><span>${esc(j.text)}</span></div>
+    <button class="cmp-toggle" data-act="cmp" data-v="${esc(c.id)}" aria-pressed="${on}">${on ? "✓ Dans le comparateur" : "+ Comparer"}</button>
+  </article>`;
+}
+
+/* ---------- Vue : fiche candidat ---------- */
+function viewCandidat(c, tab) {
+  const ps = props(c), aff = c.judiciaire?.affaires || [], st = STATUTS[c.statutCandidature] || STATUTS.incertain;
+  const tabs = [["programme", "Programme", ps.length], ["profil", "Profil & parcours", ""], ["judiciaire", "Judiciaire", aff.length], ["international", "International", ""], ["sources", "Sources", collectSources(c).length]];
+  if (!tabs.some(([t]) => t === tab)) tab = "programme";
+  const body = tab === "profil" ? tabProfil(c) : tab === "judiciaire" ? tabJudiciaire(c) : tab === "international" ? tabInternational(c) : tab === "sources" ? tabSources(c) : tabProgramme(c);
+  const on = state.compare.has(c.id);
+  return `
+  <a class="back" href="#accueil">← Tous les candidats</a>
+  <section class="chead">
+    ${c.photo ? `<figure class="portrait-fig">
+      <img class="portrait" src="${c.photo.src}" alt="Portrait de ${esc(fullName(c))}" style="border-color:${esc(c.couleur)}">
+      <figcaption><a href="${esc(c.photo.page)}" target="_blank" rel="noopener noreferrer">Photo : ${esc(c.photo.auteur)}</a>${c.photo.licenceUrl ? `, <a href="${esc(c.photo.licenceUrl)}" target="_blank" rel="noopener noreferrer">${esc(c.photo.licence)}</a>` : `, ${esc(c.photo.licence)}`}</figcaption>
+    </figure>` : avatar(c)}
+    <div>
+      <p class="eyebrow">${esc(FAMILLES[c.famillePolitique] || "")}</p>
+      <h1>${esc(fullName(c))}</h1>
+      <div class="sub"><span>${esc(c.parti)}</span>${pill(st[0], st[1])}
+        <button class="cmp-toggle" data-act="cmp" data-v="${esc(c.id)}" aria-pressed="${on}">${on ? "✓ Dans le comparateur" : "+ Comparer"}</button>
+        <span class="mono" style="font-size:.75rem">Fiche à jour au ${esc(fmtDate(c.derniereMiseAJour))}</span></div>
+      <div class="sites">${(c.sites || []).length
+        ? c.sites.filter((s) => safeUrl(s.url)).map((s) => `<a class="site" href="${esc(s.url)}" target="_blank" rel="noopener noreferrer"><span>${esc(s.label)}</span><b>${esc(hostOf(s.url))}</b></a>`).join("")
+        : `<span class="muted" style="font-size:.85rem">Aucun site officiel de campagne identifié</span>`}</div>
+      ${c.candidature?.texte ? `<p class="prose" style="margin-top:10px">${esc(c.candidature.texte)}</p>${srcLinks(c.candidature.sources)}` : ""}
+    </div>
+  </section>
+  <nav class="tabs" aria-label="Rubriques de la fiche">
+    ${tabs.map(([t, l, n]) => `<a href="#c-${esc(c.id)}--${t}" aria-current="${t === tab}">${l}${n !== "" ? `<span class="n">${n}</span>` : ""}</a>`).join("")}
+  </nav>
+  ${body}`;
+}
+function tabProgramme(c) {
+  const ps = props(c), prog = c.programme || {};
+  const themes = Object.keys(THEMES).filter((t) => ps.some((p) => p.theme === t));
+  const sel = themes.includes(state.progTheme) ? state.progTheme : null;
+  const shown = themes.filter((t) => !sel || t === sel);
+  return `
+  <section class="cols-2">
+    <div class="panel"><p class="eyebrow">Statut du programme</p><h3>${esc(prog.statut || "Non renseigné")}</h3>${prog.resume ? `<p>${esc(prog.resume)}</p>` : ""}${srcLinks(prog.documents, "Documents")}</div>
+    <div class="panel"><p class="eyebrow">Vérification des propositions</p>${verdictBar(ps)}${legend()}
+      <p class="muted" style="font-size:.85rem">${checked(ps)} sur ${ps.length} disposent d'un verdict. Le verdict porte sur le chiffrage, la faisabilité et l'exactitude des chiffres invoqués, pas sur l'opportunité politique de la mesure.</p></div>
+  </section>
+  ${ps.length ? `
+  <div class="toolbar" role="group" aria-label="Filtrer par thème">
+    <button class="chip" data-act="ptheme" data-v="" aria-pressed="${!sel}">Tous les thèmes <span class="n">${ps.length}</span></button>
+    ${themes.map((t) => `<button class="chip" data-act="ptheme" data-v="${t}" aria-pressed="${sel === t}">${THEMES[t]} <span class="n">${ps.filter((p) => p.theme === t).length}</span></button>`).join("")}
+  </div>
+  ${shown.map((t) => `<section class="theme-block"><h3>${THEMES[t]} <span class="n">${ps.filter((p) => p.theme === t).length}</span></h3>
+    <div class="props">${ps.filter((p) => p.theme === t).map((p) => propCard(p)).join("")}</div></section>`).join("")}`
+  : `<p class="empty">Aucune proposition recensée pour l'instant.</p>`}`;
+}
+function propCard(p) {
+  const fc = p.factCheck || {};
+  return `<article class="prop" id="p-${esc(p.id)}">
+    <div class="prop-body">
+      <div class="prop-top">${pill(p.type === "declaration-chiffree" ? "Déclaration chiffrée" : "Proposition", p.type === "declaration-chiffree" ? "warn" : "accent")}${p.date ? `<span class="mono muted" style="font-size:.75rem">${esc(fmtDate(p.date))}</span>` : ""}</div>
+      <h4>${esc(p.titre)}</h4>
+      ${p.description ? `<p class="desc">${esc(p.description)}</p>` : ""}
+      ${(p.chiffres || []).length ? `<ul class="figs">${p.chiffres.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
+    </div>
+    <div style="padding:0 16px 12px">${srcLinks(p.sources)}</div>
+    <div class="fc">
+      <div class="fc-head"><span class="eyebrow">Fact-check</span>${verdictBadge(fc.verdict)}</div>
+      ${fc.analyse ? `<p>${esc(fc.analyse)}</p>` : ""}
+      ${srcLinks(fc.sources, "Vérifié via")}
+    </div>
+  </article>`;
+}
+function tabProfil(c) {
+  const pr = c.profil || {}, n = pr.naissance || {};
+  const parcours = [...(c.parcoursPolitique || [])].sort((a, b) => String(b.debut).localeCompare(String(a.debut)));
+  return `
+  <section class="cols-2">
+    <div class="panel">
+      <p class="eyebrow">Profil</p>
+      ${pr.resume ? `<p>${esc(pr.resume)}</p>` : ""}
+      <dl class="dl">
+        ${n.date || n.lieu ? `<dt>Naissance</dt><dd>${esc(fmtDate(n.date))}${n.lieu ? `, ${esc(n.lieu)}` : ""}${n.date ? ` <span class="muted">(${age(n.date)} ans)</span>` : ""}</dd>` : ""}
+        <dt>Parti</dt><dd>${esc(c.parti)}</dd>
+      </dl>
+      ${srcLinks([...(n.sources || []), ...(pr.sources || [])])}
+    </div>
+    <div class="panel">
+      <p class="eyebrow">Formation</p>
+      <ul class="plain">${(pr.formation || []).map((f) => `<li>${esc(f.texte)}${srcLinks(f.sources)}</li>`).join("") || `<li class="empty">Non renseigné</li>`}</ul>
+      <p class="eyebrow" style="margin-top:8px">Activité hors politique</p>
+      <ul class="plain">${(pr.professionHorsPolitique || []).map((f) => `<li>${esc(f.texte)}${srcLinks(f.sources)}</li>`).join("") || `<li class="empty">Non renseigné</li>`}</ul>
+    </div>
+  </section>
+  <section class="section">
+    <h2>Parcours politique</h2>
+    <div class="panel"><ol class="timeline">${parcours.map((p) => `<li>
+      <div class="when">${esc(p.debut || "?")} – ${p.fin ? esc(p.fin) : `<span class="now">en cours</span>`}</div>
+      <div class="what"><strong>${esc(p.fonction)}</strong>${p.details ? `<span class="muted">${esc(p.details)}</span>` : ""}${srcLinks(p.sources)}</div>
+    </li>`).join("") || `<li class="empty">Non renseigné</li>`}</ol></div>
+  </section>`;
+}
+function age(d) {
+  const b = new Date(d); if (isNaN(b)) return "?";
+  const now = new Date(); let a = now.getFullYear() - b.getFullYear();
+  if (now < new Date(now.getFullYear(), b.getMonth(), b.getDate())) a--;
+  return a;
+}
+function tabJudiciaire(c) {
+  const j = c.judiciaire || {}, aff = j.affaires || [];
+  const order = Object.keys(JUD);
+  const sorted = [...aff].sort((a, b) => (misEnCause(b) - misEnCause(a)) || (order.indexOf(a.statut) - order.indexOf(b.statut)));
+  return `
+  <p class="notice">Toute personne mise en cause est présumée innocente tant qu'une condamnation définitive n'a pas été prononcée. Seules les procédures judiciaires sont listées, pas les polémiques. Le statut est celui connu à la date de mise à jour de la fiche.</p>
+  ${j.note ? `<div class="panel"><p class="eyebrow">Synthèse</p><p>${esc(j.note)}</p>${srcLinks(j.sources)}</div>` : ""}
+  ${sorted.map((a) => { const J = misEnCause(a) ? (JUD[a.statut] || JUD.autre) : { label: JUD[a.statut]?.label || "Procédure", tone: "neutral" }; return `<article class="case ${J.tone}">
+    <div class="case-head"><h3>${esc(a.titre)}</h3><span>${misEnCause(a) ? "" : pill("Plaignant ou victime", "accent") + " "}${pill(J.label, J.tone)}${a.role ? ` <span class="muted" style="font-size:.82rem">${esc(a.role)}</span>` : ""}</span></div>
+    ${a.resume ? `<p>${esc(a.resume)}</p>` : ""}
+    ${(a.chronologie || []).length ? `<ol class="chrono">${[...a.chronologie].sort((x, y) => String(x.date).localeCompare(String(y.date))).map((e) => `<li><span class="d">${esc(fmtDate(e.date))}</span><span>${esc(e.evenement)}</span>${srcLinks(e.sources)}</li>`).join("")}</ol>` : ""}
+    ${srcLinks(a.sources)}
+  </article>`; }).join("") || `<p class="empty">Aucune procédure judiciaire recensée.</p>`}`;
+}
+function collectSources(c) {
+  const out = new Map();
+  const add = (list, where) => (list || []).forEach((s) => {
+    if (!safeUrl(s.url)) return;
+    const e = out.get(s.url) || { ...s, where: new Set() };
+    e.where.add(where); out.set(s.url, e);
+  });
+  add(c.candidature?.sources, "Candidature");
+  add(c.profil?.sources, "Profil"); add(c.profil?.naissance?.sources, "Profil");
+  (c.profil?.formation || []).forEach((f) => add(f.sources, "Profil"));
+  (c.profil?.professionHorsPolitique || []).forEach((f) => add(f.sources, "Profil"));
+  (c.parcoursPolitique || []).forEach((p) => add(p.sources, "Parcours"));
+  add(c.judiciaire?.sources, "Judiciaire");
+  (c.judiciaire?.affaires || []).forEach((a) => { add(a.sources, "Judiciaire"); (a.chronologie || []).forEach((e) => add(e.sources, "Judiciaire")); });
+  add(c.programme?.documents, "Programme");
+  props(c).forEach((p) => { add(p.sources, "Programme"); add(p.factCheck?.sources, "Fact-check"); });
+  Object.values(c.international?.axes || {}).forEach((a) => add(a.sources, "International"));
+  return [...out.values()];
+}
+function sourceIndex(list, extra) {
+  const byMedia = new Map();
+  list.forEach((s) => { const m = s.media || hostOf(s.url); if (!byMedia.has(m)) byMedia.set(m, []); byMedia.get(m).push(s); });
+  const groups = [...byMedia.entries()].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]));
+  return `<div class="srcindex">${groups.map(([m, items]) => `<details><summary><span>${esc(m)}</span><span class="n">${items.length}</span></summary><ul>${
+    items.sort((a, b) => String(b.date || "").localeCompare(String(a.date || ""))).map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.titre || s.url)}</a><span class="meta">${s.date ? esc(fmtDate(s.date)) + " · " : ""}${extra ? extra(s) : [...s.where].join(", ")}</span></li>`).join("")}</ul></details>`).join("")}</div>`;
+}
+function tabSources(c) {
+  const list = collectSources(c);
+  return `<p class="muted">${list.length} sources distinctes utilisées pour cette fiche, regroupées par média.</p>${sourceIndex(list)}`;
+}
+
+/* ---------- Vue : comparateur ---------- */
+function viewComparer() {
+  const sel = CANDS.filter((c) => state.compare.has(c.id));
+  const covered = Object.keys(THEMES).filter((t) => sel.some((c) => props(c).some((p) => p.theme === t)));
+  const themes = state.cmpThemes ? covered.filter((t) => state.cmpThemes.has(t)) : covered;
+  const picker = `
+  <div class="panel picker">
+    <div class="row"><span class="eyebrow">Candidats (2 ou plus)</span>
+      ${CANDS.map((c) => `<button class="chip" data-act="cmp" data-v="${esc(c.id)}" aria-pressed="${state.compare.has(c.id)}"><span class="dot" style="background:${esc(c.couleur)}"></span>${esc(fullName(c))}</button>`).join("")}
+      ${state.compare.size ? `<button class="linkbtn" data-act="cmp-clear">Tout retirer</button>` : ""}
+    </div>
+    ${covered.length ? `<div class="row"><span class="eyebrow">Thématiques</span>
+      ${covered.map((t) => `<button class="chip" data-act="ctheme" data-v="${t}" aria-pressed="${!state.cmpThemes || state.cmpThemes.has(t)}">${THEMES[t]}</button>`).join("")}
+      <button class="linkbtn" data-act="ctheme-all">Tous</button><button class="linkbtn" data-act="ctheme-none">Aucun</button>
+    </div>` : ""}
+  </div>`;
+  if (sel.length < 2) return `<header><p class="eyebrow">Comparateur</p><h1>Comparer les candidats par thématique</h1></header>${picker}<p class="empty">Choisissez au moins deux candidats pour afficher la comparaison.</p>`;
+  const rows = themes.map((t) => `<tr><th scope="row"><span class="lbl-sticky">${THEMES[t]}</span></th>${sel.map((c) => {
+    const items = props(c).filter((p) => p.theme === t);
+    return `<td><div class="cell">${items.map((p) => `<div class="mini">
+      <b><a href="#c-${esc(c.id)}" style="color:inherit;text-decoration:none">${esc(p.titre)}</a></b>
+      ${(p.chiffres || []).length ? `<ul class="figs">${p.chiffres.slice(0, 2).map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
+      <div>${verdictBadge(p.factCheck?.verdict)}</div>
+      ${srcLinks([...(p.sources || []).slice(0, 1), ...(p.factCheck?.sources || []).slice(0, 1)], "")}
+    </div>`).join("") || `<span class="empty">Aucune proposition recensée</span>`}</div></td>`;
+  }).join("")}</tr>`).join("");
+  return `
+  <header><p class="eyebrow">Comparateur</p><h1>Comparer les candidats par thématique</h1></header>
+  ${picker}
+  <section class="section">
+    <h2>Fiabilité des chiffres avancés</h2>
+    <div class="panel dist">${sel.map((c) => `<div style="display:grid;grid-template-columns:minmax(0,180px) minmax(0,1fr) auto;gap:12px;align-items:center">
+      <span><span class="thdot" style="background:${esc(c.couleur)}"></span>${esc(fullName(c))}</span>${verdictBar(props(c))}<span class="mono muted" style="font-size:.78rem">${checked(props(c))}/${props(c).length}</span></div>`).join("")}${legend()}</div>
+  </section>
+  <section class="section">
+    <h2>Propositions par thématique</h2>
+    ${themes.length ? `${sel.length > 3 ? `<p class="cmp-hint">Faites défiler le tableau horizontalement pour voir tous les candidats ; les noms et les thèmes restent affichés.</p>` : ""}<div class="matrix-wrap cmp-wrap" tabindex="0" aria-label="Tableau comparatif, défilable"><table class="matrix" style="--ncols:${sel.length}">
+      <colgroup><col class="c0">${sel.map(() => "<col>").join("")}</colgroup>
+      <thead><tr><th scope="col">Thème</th>${sel.map((c) => `<th scope="col">${avatar(c, "sm")}${esc(fullName(c))}<span class="party">${esc(c.partiAbrev || c.parti)}</span></th>`).join("")}</tr></thead>
+      <tbody>${rows}</tbody></table></div>` : `<p class="empty">Aucune thématique sélectionnée.</p>`}
+  </section>`;
+}
+
+/* ---------- Vue : carte (positionnement × fiabilité × judiciaire) ---------- */
+const CRED_W = { "vrai": 100, "plutot-vrai": 75, "trompeur": 40, "plutot-faux": 20, "faux": 0 };
+const MIN_VERDICTS = 3;
+function credibility(c) {
+  const ks = props(c).map((p) => vkey(p.factCheck?.verdict)).filter((k) => k in CRED_W);
+  return { n: ks.length, score: ks.length ? Math.round(ks.reduce((a, k) => a + CRED_W[k], 0) / ks.length) : null };
+}
+// Niveau judiciaire = situation la plus grave parmi les procédures où le candidat est mis en cause.
+const JUD_LEVELS = [
+  { label: "Aucune procédure en cours ni condamnation", tone: "ok", icon: "✓" },
+  { label: "Procédure en cours (enquête, mise en examen, procès)", tone: "warn", icon: "!" },
+  { label: "Condamnation non définitive", tone: "orange", icon: "!!" },
+  { label: "Condamnation définitive", tone: "crit", icon: "⚖" },
+];
+function judLevel(c) {
+  const a = (c.judiciaire?.affaires || []).filter(misEnCause);
+  const lvl = (s) => s === "condamnation-definitive" ? 3 : s === "condamnation-non-definitive" ? 2 : ["enquete", "mise-en-examen", "proces-en-cours"].includes(s) ? 1 : 0;
+  return { level: a.reduce((m, x) => Math.max(m, lvl(x.statut)), 0), count: a.filter((x) => lvl(x.statut) > 0).length };
+}
+function viewCarte() {
+  const isDecl = (c) => c.statutCandidature === "declare";
+  const list = CANDS.filter((c) => !state.statut || (state.statut === "declare" ? isDecl(c) : !isDecl(c)));
+  const BANDS = ["extreme-gauche", "gauche", "ecologiste", "centre", "droite", "extreme-droite", "divers"];
+  const W = 1200, L = 64, R = 1190, GAP = 18, TOP = 34, Y0 = 420, STRIP = 470;
+  const bw = (R - L - GAP) / BANDS.length;
+  const bandX = (i) => L + i * bw + (i === BANDS.length - 1 ? GAP : 0);
+  const y = (score) => Y0 - (score / 100) * (Y0 - TOP);
+  // Placement : y = indice ; x = centre de bande, décalé pour éviter les chevauchements (point + étiquette).
+  const pts = [];
+  BANDS.forEach((band, bi) => {
+    const cx = bandX(bi) + bw / 2;
+    const members = list.filter((c) => (BANDS.includes(c.famillePolitique) ? c.famillePolitique : "divers") === band)
+      .map((c) => ({ c, cred: credibility(c), jud: judLevel(c) }));
+    const ranked = members.filter((m) => m.cred.n >= MIN_VERDICTS).sort((a, b) => b.cred.score - a.cred.score);
+    const unranked = members.filter((m) => m.cred.n < MIN_VERDICTS);
+    // Points proches en hauteur (point + étiquette) : regroupés puis répartis dans la largeur de la bande.
+    const clusters = [];
+    ranked.forEach((m) => {
+      const ty = y(m.cred.score), last = clusters[clusters.length - 1];
+      if (last && ty - last[last.length - 1].ty < 66) last.push({ m, ty }); else clusters.push([{ m, ty }]);
+    });
+    const spread = { 1: [0], 2: [-36, 36], 3: [-56, 0, 56], 4: [-60, -20, 20, 60] };
+    clusters.forEach((cl) => cl.forEach(({ m, ty }, i) => {
+      const k = Math.min(cl.length, 4), dx = (spread[k] || spread[4])[i % 4];
+      pts.push({ ...m, x: cx + dx, y: ty + (i >= 4 ? 28 : 0), ranked: true, above: k > 1 && i % 2 === 1 });
+    }));
+    unranked.forEach((m, i) => pts.push({ ...m, x: cx + (unranked.length === 1 ? 0 : i % 2 ? 38 : -38), y: STRIP + 36 + Math.floor(i / 2) * 76 + (i % 2 ? 32 : 0), ranked: false }));
+  });
+  const height = Math.max(STRIP + 90, ...pts.map((p) => p.y + 42));
+  const r = 17;
+  const grid = [0, 25, 50, 75, 100].map((v) => `<line x1="${L}" x2="${R}" y1="${y(v)}" y2="${y(v)}" class="gl"/><text x="${L - 10}" y="${y(v) + 4}" class="tick" text-anchor="end">${v}</text>`).join("");
+  const bands = BANDS.map((b, i) => `${i ? `<line x1="${bandX(i)}" x2="${bandX(i)}" y1="${TOP - 14}" y2="${height - 8}" class="bandsep${i === BANDS.length - 1 ? " strong" : ""}"/>` : ""}
+    <text x="${bandX(i) + bw / 2}" y="${TOP - 18}" class="bandlbl" text-anchor="middle">${esc(b === "divers" ? "Hors axe" : FAMILLES[b])}</text>`).join("");
+  const dots = pts.map((p, i) => {
+    const c = p.c, J = JUD_LEVELS[p.jud.level];
+    const tip = `${fullName(c)}|${c.parti}|${p.cred.n >= MIN_VERDICTS ? `Indice de fiabilité : ${p.cred.score}/100 (${p.cred.n} verdicts)` : `Pas assez de vérifications (${p.cred.n} verdict${p.cred.n > 1 ? "s" : ""})`}|${J.label}${p.jud.count ? ` · ${p.jud.count} procédure${p.jud.count > 1 ? "s" : ""} en cours ou condamnation${p.jud.count > 1 ? "s" : ""}` : ""}`;
+    const face = c.photo
+      ? `<clipPath id="cp${i}"><circle cx="${p.x}" cy="${p.y}" r="${r}"/></clipPath><image href="${c.photo.src}" x="${p.x - r}" y="${p.y - r}" width="${2 * r}" height="${2 * r}" preserveAspectRatio="xMidYMin slice" clip-path="url(#cp${i})"/>`
+      : `<circle cx="${p.x}" cy="${p.y}" r="${r}" fill="${esc(c.couleur)}"/><text x="${p.x}" y="${p.y + 5}" text-anchor="middle" class="ini">${esc(initials(c))}</text>`;
+    return `<a href="#c-${esc(c.id)}" class="pt" data-tip="${esc(tip)}" aria-label="${esc(tip.replace(/\|/g, ", "))}">
+      <circle cx="${p.x}" cy="${p.y}" r="${r + 4}" class="ring t-${J.tone}"/>
+      <circle cx="${p.x}" cy="${p.y}" r="${r + 1.5}" class="gapring"/>
+      ${face}
+      ${p.jud.count ? `<circle cx="${p.x + r - 1}" cy="${p.y - r + 1}" r="8" class="badge t-${J.tone}"/><text x="${p.x + r - 1}" y="${p.y - r + 5}" text-anchor="middle" class="badgetxt">${p.jud.count}</text>` : ""}
+      <text x="${p.x}" y="${p.above ? p.y - r - 9 : p.y + r + 16}" text-anchor="middle" class="ptlbl">${esc(c.nom)}</text>
+      <circle cx="${p.x}" cy="${p.y + 8}" r="30" class="hit"/>
+    </a>`;
+  }).join("");
+  const nUn = pts.filter((p) => !p.ranked).length;
+  const svg = `<svg viewBox="0 0 ${W} ${height}" role="img" aria-label="Carte des candidats : positionnement gauche-droite, indice de fiabilité des chiffres et situation judiciaire">
+    ${bands}${grid}
+    <text x="16" y="${(TOP + Y0) / 2}" class="axislbl" transform="rotate(-90 16 ${(TOP + Y0) / 2})" text-anchor="middle">Indice de fiabilité des chiffres (0-100)</text>
+    <rect x="${L}" y="${STRIP - 8}" width="${R - L}" height="${height - STRIP}" class="strip"/>
+    <text x="${L + 8}" y="${STRIP + 8}" class="striplbl">Moins de ${MIN_VERDICTS} verdicts : pas d'indice calculé (${nUn})</text>
+    ${dots}
+  </svg>`;
+  const rows = pts.slice().sort((a, b) => FAM_ORDER.indexOf(a.c.famillePolitique) - FAM_ORDER.indexOf(b.c.famillePolitique) || (b.cred.score ?? -1) - (a.cred.score ?? -1)).map((p) => {
+    const J = JUD_LEVELS[p.jud.level];
+    return `<tr><th scope="row"><a href="#c-${esc(p.c.id)}">${esc(fullName(p.c))}</a></th><td>${esc(FAMILLES[p.c.famillePolitique] || "")}</td>
+      <td class="num">${p.cred.n >= MIN_VERDICTS ? p.cred.score : "–"}</td><td class="num">${p.cred.n}</td><td style="min-width:120px">${verdictBar(props(p.c))}</td>
+      <td><span class="verdict t-${J.tone}" style="font-size:.82rem"><span aria-hidden="true">${J.icon}</span>${esc(J.label)}</span></td><td class="num">${p.jud.count}</td></tr>`;
+  }).join("");
+  return `
+  <header class="section"><p class="eyebrow">Carte</p><h1>Positionnement, fiabilité des chiffres et situation judiciaire</h1>
+    <p class="prose muted">Chaque candidat est placé selon sa famille politique (axe horizontal) et l'indice de fiabilité de ses chiffres vérifiés (axe vertical). La couleur de l'anneau indique la situation judiciaire la plus grave ; la pastille, le nombre de procédures en cours ou de condamnations. Cliquez sur un candidat pour ouvrir sa fiche.</p></header>
+  <div class="toolbar" role="group" aria-label="Filtrer par statut de candidature">
+    <button class="chip" data-act="statut" data-v="" aria-pressed="${!state.statut}">Tous <span class="n">${CANDS.length}</span></button>
+    <button class="chip" data-act="statut" data-v="declare" aria-pressed="${state.statut === "declare"}">Candidats déclarés</button>
+    <button class="chip" data-act="statut" data-v="autre" aria-pressed="${state.statut === "autre"}">Potentiels ou incertains</button>
+  </div>
+  <div class="map-legend">
+    ${JUD_LEVELS.map((J) => `<span><svg width="18" height="18" aria-hidden="true"><circle cx="9" cy="9" r="6.5" class="ring t-${J.tone}"/></svg>${esc(J.label)}</span>`).join("")}
+  </div>
+  <div class="map-wrap" id="map-wrap">${svg}<div class="map-tip" id="map-tip" hidden></div></div>
+  <div class="cols-2">
+    <div class="panel"><h3>Comment est calculé l'indice de fiabilité</h3>
+      <p style="font-size:.9rem">Moyenne des verdicts obtenus par les propositions et déclarations chiffrées du candidat : vrai = 100, plutôt vrai = 75, trompeur = 40, plutôt faux = 20, faux = 0. Les verdicts « invérifiable » et « non vérifié » ne comptent pas. En dessous de ${MIN_VERDICTS} verdicts, aucun indice n'est calculé.</p>
+      <p class="muted" style="font-size:.85rem">L'indice dépend des affirmations qui ont été vérifiées, pas de l'ensemble du discours d'un candidat. Il est indicatif et évoluera à mesure que les fact-checkeurs publient.</p></div>
+    <div class="panel"><h3>Positionnement et judiciaire</h3>
+      <p style="font-size:.9rem">L'axe horizontal suit la famille politique retenue par la presse de référence et le classement du ministère de l'Intérieur ; « Hors axe » regroupe les candidats qui ne se rattachent pas au clivage gauche-droite. Seules comptent les procédures où le candidat est mis en cause (pas celles où il est plaignant ou victime) ; une relaxe, un non-lieu ou un classement ne pèsent pas.</p></div>
+  </div>
+  <section class="section"><h2>Les données de la carte</h2>
+    <div class="matrix-wrap"><table class="datatable">
+      <thead><tr><th scope="col">Candidat</th><th scope="col">Famille</th><th scope="col" class="num">Indice</th><th scope="col" class="num">Verdicts</th><th scope="col">Répartition</th><th scope="col">Judiciaire</th><th scope="col" class="num">En cours ou condamnations</th></tr></thead>
+      <tbody>${rows}</tbody></table></div>
+  </section>`;
+}
+// Infobulle de la carte (souris et clavier).
+function showTip(a) {
+  const tip = document.getElementById("map-tip"), wrap = document.getElementById("map-wrap");
+  if (!tip || !wrap) return;
+  const [name, party, cred, jud] = a.dataset.tip.split("|");
+  tip.innerHTML = `<strong>${esc(name)}</strong><span class="muted">${esc(party)}</span><span>${esc(cred)}</span><span>${esc(jud)}</span>`;
+  tip.hidden = false;
+  const rb = a.querySelector(".ring, .ring2").getBoundingClientRect(), wb = wrap.getBoundingClientRect();
+  let left = rb.left - wb.left + wrap.scrollLeft + rb.width / 2 - tip.offsetWidth / 2;
+  left = Math.max(wrap.scrollLeft + 6, Math.min(left, wrap.scrollLeft + wrap.clientWidth - tip.offsetWidth - 6));
+  let top = rb.top - wb.top - tip.offsetHeight - 8;
+  if (top < 4) top = rb.bottom - wb.top + 8;
+  tip.style.left = left + "px"; tip.style.top = top + "px";
+}
+const hideTip = () => { const t = document.getElementById("map-tip"); if (t) t.hidden = true; };
+document.addEventListener("mouseover", (e) => { const a = e.target.closest?.(".pt"); a ? showTip(a) : hideTip(); });
+document.addEventListener("focusin", (e) => { const a = e.target.closest?.(".pt"); a ? showTip(a) : hideTip(); });
+
+/* ---------- Politique extérieure ---------- */
+const INTL_AXES = [
+  { id: "europe", label: "Union européenne", a: "Sortie de l'UE", b: "Fédéralisme européen" },
+  { id: "otan", label: "OTAN et États-Unis", a: "Sortie de l'OTAN", b: "Atlantisme renforcé" },
+  { id: "trump", label: "Donald Trump", a: "Opposition frontale", b: "Soutien affiché" },
+  { id: "russie", label: "Russie et Poutine", a: "Rapprochement, levée des sanctions", b: "Fermeté, sanctions renforcées" },
+  { id: "ukraine", label: "Ukraine", a: "Arrêt de l'aide militaire", b: "Aide militaire accrue" },
+  { id: "chine", label: "Chine", a: "Coopération renforcée", b: "Fermeté commerciale" },
+  { id: "proche-orient", label: "Israël et Palestine", a: "Soutien au gouvernement israélien", b: "Sanctions contre Israël" },
+];
+const AXIS = Object.fromEntries(INTL_AXES.map((x) => [x.id, x]));
+const ipos = (c, ax) => { const v = c.international?.axes?.[ax]?.position; return Number.isInteger(v) ? v : null; };
+const hasIntl = (c) => !!c.international;
+function track(pos, small) {
+  return `<span class="track${small ? " sm" : ""}" aria-hidden="true">${[-2, -1, 0, 1, 2].map((v) => `<i class="${v === pos ? "on" : ""}"></i>`).join("")}</span>`;
+}
+function tabInternational(c) {
+  const I = c.international;
+  if (!I) return `<p class="empty">Positions de politique extérieure pas encore recensées pour ce candidat.</p>`;
+  return `
+  ${I.resume ? `<div class="panel"><p class="eyebrow">Vision internationale</p><p class="prose">${esc(I.resume)}</p></div>` : ""}
+  <div class="intl-list">${INTL_AXES.map((ax) => {
+    const a = I.axes?.[ax.id] || {}, pos = Number.isInteger(a.position) ? a.position : null;
+    return `<article class="panel intl-axis">
+      <div class="intl-head"><h3>${esc(ax.label)}</h3>${a.date ? `<span class="mono muted" style="font-size:.75rem">${esc(fmtDate(a.date))}</span>` : ""}</div>
+      <div class="poles"><span>${esc(ax.a)}</span>${track(pos)}<span>${esc(ax.b)}</span></div>
+      <p><strong>${esc(a.titre || "Pas de position publique identifiée")}</strong></p>
+      ${a.resume ? `<p style="font-size:.92rem">${esc(a.resume)}</p>` : ""}
+      ${srcLinks(a.sources)}
+    </article>`;
+  }).join("")}</div>`;
+}
+function viewInternational() {
+  const isDecl = (c) => c.statutCandidature === "declare";
+  const list = CANDS.filter(hasIntl).filter((c) => !state.statut || (state.statut === "declare" ? isDecl(c) : !isDecl(c)));
+  const ax = state.intlX || "europe", ay = state.intlY || "russie";
+  const X = AXIS[ax], Y = AXIS[ay];
+  // Carte 5 × 5 : chaque case regroupe les candidats qui partagent la même position sur les deux axes.
+  const cells = {};
+  const placed = list.filter((c) => ipos(c, ax) !== null && ipos(c, ay) !== null);
+  placed.forEach((c) => { const k = ipos(c, ax) + "," + ipos(c, ay); (cells[k] = cells[k] || []).push(c); });
+  const PER_ROW = 3, CW = 210, L = 70, T = 14;
+  const rowsNeeded = (yv) => Math.max(1, ...[-2, -1, 0, 1, 2].map((xv) => Math.ceil((cells[xv + "," + yv] || []).length / PER_ROW)));
+  const rowH = {}; [-2, -1, 0, 1, 2].forEach((yv) => { rowH[yv] = 22 + rowsNeeded(yv) * 62; });
+  const yTop = {}; let acc = T; [2, 1, 0, -1, -2].forEach((yv) => { yTop[yv] = acc; acc += rowH[yv]; });
+  const W = L + 5 * CW + 10, H = acc + 46;
+  const xLeft = (xv) => L + (xv + 2) * CW;
+  let svg = "";
+  [-2, -1, 0, 1, 2].forEach((yv) => [-2, -1, 0, 1, 2].forEach((xv) => {
+    svg += `<rect x="${xLeft(xv) + 1}" y="${yTop[yv] + 1}" width="${CW - 2}" height="${rowH[yv] - 2}" class="cell${xv === 0 || yv === 0 ? " mid" : ""}"/>`;
+    (cells[xv + "," + yv] || []).forEach((c, i) => {
+      const n = (cells[xv + "," + yv] || []).length, row = Math.floor(i / PER_ROW), inRow = Math.min(PER_ROW, n - row * PER_ROW), col = i % PER_ROW;
+      const cx = xLeft(xv) + CW / 2 + (col - (inRow - 1) / 2) * 64, cy = yTop[yv] + 28 + row * 62, r = 14;
+      const tip = `${fullName(c)}|${c.parti}|${X.label} : ${c.international.axes[ax].titre}|${Y.label} : ${c.international.axes[ay].titre}`;
+      svg += `<a href="#c-${esc(c.id)}--international" class="pt" data-tip="${esc(tip)}" aria-label="${esc(tip.replace(/\|/g, ", "))}">
+        <circle cx="${cx}" cy="${cy}" r="${r + 2}" class="gapring"/>
+        ${c.photo ? `<clipPath id="ic${c.id}"><circle cx="${cx}" cy="${cy}" r="${r}"/></clipPath><image href="${c.photo.src}" x="${cx - r}" y="${cy - r}" width="${2 * r}" height="${2 * r}" preserveAspectRatio="xMidYMin slice" clip-path="url(#ic${c.id})"/>`
+          : `<circle cx="${cx}" cy="${cy}" r="${r}" fill="${esc(c.couleur)}"/><text x="${cx}" y="${cy + 4}" text-anchor="middle" class="ini" style="font-size:10px">${esc(initials(c))}</text>`}
+        <circle cx="${cx}" cy="${cy}" r="${r + 1}" class="ring2" style="stroke:${esc(c.couleur)}"/>
+        <text x="${cx}" y="${cy + r + 12 + (col % 2) * 11}" text-anchor="middle" class="ptlbl sm">${esc(c.nom)}</text>
+        <rect x="${cx - 24}" y="${cy - 18}" width="48" height="46" class="hit"/>
+      </a>`;
+    });
+  }));
+  const stepsX = ["−2", "−1", "0", "+1", "+2"];
+  svg += [-2, -1, 0, 1, 2].map((xv, i) => `<text x="${xLeft(xv) + CW / 2}" y="${acc + 16}" text-anchor="middle" class="tick">${stepsX[i]}</text>`).join("");
+  svg += `<text x="${L}" y="${acc + 36}" class="axislbl">← ${esc(X.a)}</text><text x="${L + 5 * CW}" y="${acc + 36}" class="axislbl" text-anchor="end">${esc(X.b)} →</text>`;
+  svg += [2, 1, 0, -1, -2].map((yv) => `<text x="${L - 10}" y="${yTop[yv] + rowH[yv] / 2 + 4}" text-anchor="end" class="tick">${yv > 0 ? "+" + yv : yv < 0 ? "−" + -yv : "0"}</text>`).join("");
+  svg += `<text x="18" y="${(T + acc) / 2}" class="axislbl" text-anchor="middle" transform="rotate(-90 18 ${(T + acc) / 2})">${esc(Y.a)} ↔ ${esc(Y.b)}</text>`;
+  const missing = list.filter((c) => !placed.includes(c));
+  const opts = (sel) => INTL_AXES.map((x) => `<option value="${x.id}" ${x.id === sel ? "selected" : ""}>${esc(x.label)}</option>`).join("");
+  const matrix = `<div class="matrix-wrap"><table class="datatable intl-matrix">
+    <thead><tr><th scope="col">Candidat</th>${INTL_AXES.map((x) => `<th scope="col" title="${esc(x.a)} ↔ ${esc(x.b)}">${esc(x.label)}</th>`).join("")}</tr></thead>
+    <tbody>${list.map((c) => `<tr><th scope="row"><a href="#c-${esc(c.id)}--international">${avatar(c, "sm")}${esc(fullName(c))}</a></th>${INTL_AXES.map((x) => {
+      const a = c.international.axes?.[x.id] || {}, pos = Number.isInteger(a.position) ? a.position : null;
+      return `<td title="${esc((a.titre || "") + (a.resume ? " — " + a.resume : ""))}">${track(pos, true)}<span class="cap">${esc(a.titre || "Non identifiée")}</span></td>`;
+    }).join("")}</tr>`).join("")}</tbody></table></div>`;
+  return `
+  <header class="section"><p class="eyebrow">International</p><h1>Positions de politique extérieure</h1>
+    <p class="prose muted">Europe, OTAN et États-Unis, Donald Trump, Russie, Ukraine, Chine, Proche-Orient : chaque position est placée sur une échelle de −2 à +2 entre deux pôles, d'après les déclarations, votes et propositions du candidat, avec leurs sources. L'échelle décrit une position, elle ne la juge pas.</p></header>
+  <div class="toolbar" role="group" aria-label="Filtrer par statut de candidature">
+    <button class="chip" data-act="statut" data-v="" aria-pressed="${!state.statut}">Tous</button>
+    <button class="chip" data-act="statut" data-v="declare" aria-pressed="${state.statut === "declare"}">Candidats déclarés</button>
+    <button class="chip" data-act="statut" data-v="autre" aria-pressed="${state.statut === "autre"}">Potentiels ou incertains</button>
+  </div>
+  ${list.length ? `
+  <section class="section">
+    <h2>Carte</h2>
+    <div class="axis-pick">
+      <label for="intl-x">Axe horizontal</label><select id="intl-x">${opts(ax)}</select>
+      <label for="intl-y">Axe vertical</label><select id="intl-y">${opts(ay)}</select>
+    </div>
+    <div class="map-wrap" id="map-wrap"><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Carte : ${esc(X.label)} et ${esc(Y.label)}">${svg}</svg><div class="map-tip" id="map-tip" hidden></div></div>
+    ${missing.length ? `<p class="muted" style="font-size:.85rem">Sans position identifiée sur l'un des deux axes : ${missing.map((c) => `<a href="#c-${esc(c.id)}--international">${esc(fullName(c))}</a>`).join(", ")}.</p>` : ""}
+  </section>
+  <section class="section">
+    <h2>Toutes les positions</h2>
+    <p class="muted" style="font-size:.85rem">Le point indique la position sur l'échelle de −2 (pôle de gauche) à +2 (pôle de droite) ; survolez une case pour le détail, cliquez sur un nom pour les sources.</p>
+    <div class="legend">${INTL_AXES.map((x) => `<span><strong>${esc(x.label)}</strong> : ${esc(x.a)} ↔ ${esc(x.b)}</span>`).join("")}</div>
+    ${matrix}
+  </section>` : `<p class="empty">Positions de politique extérieure en cours de recensement.</p>`}`;
+}
+
+/* ---------- Vue : fact-check ---------- */
+function viewFactcheck() {
+  const f = state.fc, q = norm(f.q);
+  const list = ALL_PROPS.filter(({ c, p }) =>
+    (!f.cand || c.id === f.cand) && (!f.theme || p.theme === f.theme) &&
+    (!f.verdicts.size || f.verdicts.has(vkey(p.factCheck?.verdict))) &&
+    (!q || norm([p.titre, p.description, ...(p.chiffres || []), p.factCheck?.analyse, fullName(c)].join(" ")).includes(q)));
+  const counts = {}; ALL_PROPS.forEach(({ p }) => { const k = vkey(p.factCheck?.verdict); counts[k] = (counts[k] || 0) + 1; });
+  return `
+  <header class="section"><p class="eyebrow">Fact-check</p><h1>Toutes les annonces chiffrées, vérifiées</h1>
+    <p class="prose muted">Chaque proposition ou déclaration est confrontée aux vérifications publiées par les fact-checkeurs et aux données officielles (INSEE, Cour des comptes, budgets votés…). Le lien de la déclaration d'origine et celui de la vérification sont donnés séparément.</p></header>
+  <div class="panel dist">${verdictBar(ALL_PROPS.map((x) => x.p))}${legend()}</div>
+  <div class="filters">
+    <input type="search" id="fc-q" placeholder="Rechercher un mot, un chiffre, un candidat…" value="${esc(f.q)}" aria-label="Rechercher">
+    <select id="fc-cand" aria-label="Candidat"><option value="">Tous les candidats</option>${CANDS.map((c) => `<option value="${esc(c.id)}" ${f.cand === c.id ? "selected" : ""}>${esc(fullName(c))}</option>`).join("")}</select>
+    <select id="fc-theme" aria-label="Thème"><option value="">Tous les thèmes</option>${Object.entries(THEMES).map(([k, l]) => `<option value="${k}" ${f.theme === k ? "selected" : ""}>${l}</option>`).join("")}</select>
+  </div>
+  <div class="toolbar" role="group" aria-label="Filtrer par verdict">
+    ${VERDICT_ORDER.filter((k) => counts[k]).map((k) => `<button class="chip" data-act="fcv" data-v="${k}" aria-pressed="${f.verdicts.has(k)}"><span class="dot c-${VERDICTS[k].tone}"></span>${VERDICTS[k].label}<span class="n">${counts[k]}</span></button>`).join("")}
+  </div>
+  <p class="mono muted" style="font-size:.8rem" id="fc-count">${list.length} résultat${list.length > 1 ? "s" : ""}</p>
+  <div class="fclist">${list.map(({ c, p }) => `<article class="fcrow">
+    <div>
+      <div class="who"><span class="thdot" style="background:${esc(c.couleur)}"></span><a href="#c-${esc(c.id)}">${esc(fullName(c))}</a><span class="muted" style="font-weight:400">· ${esc(THEMES[p.theme] || p.theme)}${p.date ? " · " + esc(fmtDate(p.date)) : ""}</span></div>
+      <strong>${esc(p.titre)}</strong>
+      ${p.description ? `<p style="font-size:.9rem">${esc(p.description)}</p>` : ""}
+      ${(p.chiffres || []).length ? `<ul class="figs">${p.chiffres.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
+      ${srcLinks(p.sources, "Déclaration")}
+    </div>
+    <div>${verdictBadge(p.factCheck?.verdict)}${p.factCheck?.analyse ? `<p style="font-size:.9rem">${esc(p.factCheck.analyse)}</p>` : ""}${srcLinks(p.factCheck?.sources, "Vérification")}</div>
+  </article>`).join("") || `<p class="empty">Aucun résultat pour ces filtres.</p>`}</div>`;
+}
+
+/* ---------- Vue : sources & méthode ---------- */
+function viewSources() {
+  const all = new Map();
+  CANDS.forEach((c) => collectSources(c).forEach((s) => {
+    const e = all.get(s.url) || { ...s, cands: new Set() }; e.cands.add(fullName(c)); all.set(s.url, e);
+  }));
+  const docs = DATA.documents || [];
+  return `
+  <header class="section"><p class="eyebrow">Sources & méthode</p><h1>D'où viennent les informations</h1></header>
+  <section class="cols-2">
+    <div class="panel"><h3>Méthode</h3>
+      <p>Les fiches sont constituées par recherche documentaire assistée par IA puis relues : sites des candidats et des partis, Assemblée nationale, Sénat, Parlement européen, décisions de justice, presse nationale et fact-checkeurs (AFP Factuel, Les Décodeurs, CheckNews, franceinfo, Institut Montaigne, iFRAP, OFCE, Cour des comptes, INSEE).</p>
+      <p>Règle de base : aucune information sans lien vers sa source. Si un point n'a pas pu être sourcé, il n'apparaît pas. Les données sont figées à la date de mise à jour indiquée sur chaque fiche ; en cas de doute, la source fait foi.</p>
+      <p class="muted" style="font-size:.88rem">Portraits : photos sous licence libre issues de Wikimedia Commons, auteur et licence indiqués sous chaque photo. Les sites officiels ont été vérifiés le 13 novembre 2026.</p>
+      <p class="muted" style="font-size:.88rem">Ce site n'est affilié à aucun parti ni candidat. L'ordre d'affichage suit les familles politiques de gauche à droite, puis l'ordre alphabétique.</p>
+    </div>
+    <div class="panel"><h3>Échelle des verdicts</h3>
+      <div class="scale">${VERDICT_ORDER.map((k) => `<div>${verdictBadge(k)}<span>${esc(VERDICTS[k].def)}</span></div>`).join("")}</div>
+    </div>
+  </section>
+  <section class="section">
+    <h2>Documents et URLs ajoutés</h2>
+    <div class="panel">
+      <p>Pour enrichir l'analyse, transmettez un programme, un discours, un article ou une URL dans la conversation qui génère ce site. Le document est alors :</p>
+      <ol class="howto"><li>archivé dans la liste ci-dessous avec son lien ;</li><li>analysé pour en extraire les propositions et les chiffres par thème ;</li><li>vérifié auprès des fact-checkeurs et des données officielles ;</li><li>intégré aux fiches et au comparateur, puis la page est republiée.</li></ol>
+    </div>
+    ${docs.length ? `<div class="srcindex">${docs.map((d) => `<details open><summary><span>${esc(d.titre)}</span><span class="n">${esc(fmtDate(d.ajouteLe))}</span></summary>
+      <ul><li>${d.url && safeUrl(d.url) ? `<a href="${esc(d.url)}" target="_blank" rel="noopener noreferrer">${esc(d.url)}</a>` : esc(d.fichier || "")}
+      <span class="meta">${esc(d.type === "url" ? "URL" : "Document")}${(d.candidats || []).length ? " · " + d.candidats.map((id) => esc(BY_ID[id] ? fullName(BY_ID[id]) : id)).join(", ") : ""}</span>
+      ${d.resume ? `<span>${esc(d.resume)}</span>` : ""}</li></ul></details>`).join("")}</div>`
+      : `<p class="empty">Aucun document ajouté pour l'instant : les fiches reposent sur la recherche initiale.</p>`}
+  </section>
+  <section class="section">
+    <h2>Index des sources <span class="mono muted" style="font-size:.9rem;font-weight:400">${all.size}</span></h2>
+    ${sourceIndex([...all.values()], (s) => [...s.cands].join(", "))}
+  </section>`;
+}
+
+/* ---------- Interactions ---------- */
+document.addEventListener("click", (e) => {
+  const b = e.target.closest("[data-act]"); if (!b) return;
+  const v = b.dataset.v;
+  switch (b.dataset.act) {
+    case "fam": state.famille = v || null; break;
+    case "statut": state.statut = v || null; break;
+    case "cmp": state.compare.has(v) ? state.compare.delete(v) : state.compare.add(v); saveCompare(); break;
+    case "cmp-clear": state.compare.clear(); saveCompare(); break;
+    case "ctheme": {
+      const covered = Object.keys(THEMES);
+      if (!state.cmpThemes) state.cmpThemes = new Set(covered);
+      state.cmpThemes.has(v) ? state.cmpThemes.delete(v) : state.cmpThemes.add(v); break;
+    }
+    case "ctheme-all": state.cmpThemes = null; break;
+    case "ctheme-none": state.cmpThemes = new Set(); break;
+    case "ptheme": state.progTheme = v || null; break;
+    case "fcv": state.fc.verdicts.has(v) ? state.fc.verdicts.delete(v) : state.fc.verdicts.add(v); break;
+    default: return;
+  }
+  render();
+});
+document.addEventListener("input", (e) => {
+  if (e.target.id === "fc-q") {
+    state.fc.q = e.target.value;
+    const pos = e.target.selectionStart; render();
+    const el = document.getElementById("fc-q"); el.focus(); try { el.setSelectionRange(pos, pos); } catch {}
+  }
+});
+document.addEventListener("change", (e) => {
+  if (e.target.id === "fc-cand") { state.fc.cand = e.target.value; render(); }
+  if (e.target.id === "fc-theme") { state.fc.theme = e.target.value; render(); }
+  if (e.target.id === "intl-x") { state.intlX = e.target.value; render(); }
+  if (e.target.id === "intl-y") { state.intlY = e.target.value; render(); }
+});
+window.addEventListener("hashchange", render);
+
+const days = Math.ceil((FIRST_ROUND - new Date()) / 86400000);
+document.getElementById("countdown").innerHTML = days > 0 ? `<b>J-${days}</b> avant le 1er tour · parrainages clos le 12 mars 2027` : "1er tour : 18 avril 2027";
+document.getElementById("footer").innerHTML = `<span>Données mises à jour le ${esc(fmtDate(DATA.generatedAt))} · ${CANDS.length} candidats · ${ALL_PROPS.length} propositions</span><span>Chaque information renvoie à sa source. Signalez une erreur dans la conversation de génération du site.</span>
+  <span><button type="button" class="dl-btn" data-dl><svg viewBox="0 0 16 16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v8M4.5 6.5 8 10l3.5-3.5M3 13h10"/></svg>Télécharger la version portable</button> <span class="dl-msg" id="dl-msg">Un seul fichier HTML (~3 Mo), consultable hors connexion.</span></span>`;
+
+/* ---------- Téléchargement de la version portable ---------- */
+// Dans le fichier portable : il se recopie lui-même (SELF_HTML).
+// Dans l'Artifact claude.ai : le fichier portable est publié à côté de la page ; on le récupère
+// puis on le propose via la capacité « downloads » (les téléchargements directs y sont bloqués).
+const PORTABLE_FILE = "presidentielle-2027-portable.html";
+const DOWNLOADS = (!PORTABLE && window.claude && typeof window.claude.use === "function")
+  ? window.claude.use("downloads").catch(() => null) : Promise.resolve(null);
+function dlMsg(t) { const m = document.getElementById("dl-msg"); if (m) m.textContent = t; }
+function saveBlob(blob, name) {
+  const url = URL.createObjectURL(blob), a = document.createElement("a");
+  a.href = url; a.download = name; document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 10000);
+}
+async function downloadPortable() {
+  const name = `comparateur-presidentielle-2027_${DATA.generatedAt || "donnees"}.html`;
+  if (PORTABLE) { saveBlob(new Blob([SELF_HTML], { type: "text/html" }), name); return; }
+  const btns = [...document.querySelectorAll("[data-dl]")];
+  btns.forEach((b) => (b.disabled = true));
+  dlMsg("Préparation du fichier…");
+  try {
+    const res = await fetch(PORTABLE_FILE);
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const blob = await res.blob();
+    const dl = await DOWNLOADS;
+    if (dl) { await dl.save({ filename: name, data: blob }); dlMsg("Fichier enregistré."); }
+    else { saveBlob(blob, name); dlMsg("Téléchargement lancé."); }
+  } catch (e) {
+    dlMsg(e && e.code === "declined" ? "Téléchargement annulé." : "Téléchargement indisponible ici : ouvrez la page dans un navigateur ou demandez le fichier à la personne qui vous l'a partagée.");
+  } finally { btns.forEach((b) => (b.disabled = false)); }
+}
+document.addEventListener("click", (e) => { if (e.target.closest("[data-dl]")) downloadPortable(); });
+render();
+</script>

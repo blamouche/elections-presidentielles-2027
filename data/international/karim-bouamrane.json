@@ -1,0 +1,82 @@
+{
+  "id": "karim-bouamrane",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Maire socialiste de Saint-Ouen, Karim Bouamrane présente dans son manifeste l'Europe comme « notre bien commun le plus précieux » et promet d'augmenter l'effort de défense. Sur le Proche-Orient, il a salué la reconnaissance de l'État de Palestine en 2025 tout en prévoyant d'afficher aussi le drapeau israélien, et avait refusé en 2024 de prendre position sur la guerre à Gaza. Aucune position publique détaillée n'a été identifiée sur l'OTAN, les États-Unis, la Russie, l'Ukraine ou la Chine.",
+  "axes": {
+    "europe": {
+      "position": 1,
+      "titre": "Une « Europe qui nous protège »",
+      "resume": "Son manifeste de campagne (2026) affirme vouloir « une France forte qui construit une Europe qui nous protège » et qualifie l'Europe de « notre bien commun le plus précieux » ; il promet aussi : « J'augmenterai l'effort de défense ». Aucune proposition institutionnelle précise (traités, fédéralisme, vote à la majorité) n'a été identifiée.",
+      "date": "2026",
+      "sources": [
+        {
+          "titre": "Manifeste – La France humaine et forte",
+          "url": "https://karimbouamrane2027.org/manifeste.html",
+          "media": "Site de campagne de Karim Bouamrane",
+          "date": "2026"
+        }
+      ]
+    },
+    "otan": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "",
+      "date": "",
+      "sources": []
+    },
+    "trump": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "",
+      "date": "",
+      "sources": []
+    },
+    "russie": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "",
+      "date": "",
+      "sources": []
+    },
+    "ukraine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Son manifeste note seulement que « la guerre est revenue sur le sol européen », sans position précise sur l'aide à l'Ukraine.",
+      "date": "",
+      "sources": []
+    },
+    "chine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "",
+      "date": "",
+      "sources": []
+    },
+    "proche-orient": {
+      "position": 0,
+      "titre": "Reconnaissance des deux États",
+      "resume": "Le 22 septembre 2025, jour de la reconnaissance de l'État de Palestine par la France, il annonce sur X pavoiser la mairie de Saint-Ouen du drapeau palestinien (« Many of us have campaigned for years for this day to come », cité par Al Jazeera) et prévoit d'afficher aussi le drapeau israélien pour marquer son soutien à « la reconnaissance des deux États ». En octobre 2024, sur France 2, il avait choisi de ne pas s'exprimer sur le conflit et déploré son importation en France « à des fins électoralistes ». Hésitation avec +1 (soutien à l'État palestinien) ; le cran 0 est retenu faute de critique explicite du gouvernement israélien.",
+      "date": "2025-09-22",
+      "sources": [
+        {
+          "titre": "French towns fly Palestinian flag despite gov't ban before recognition",
+          "url": "https://www.aljazeera.com/amp/news/2025/9/22/french-towns-fly-palestinian-flag-despite-govt-ban-before-recognition",
+          "media": "Al Jazeera",
+          "date": "2025-09-22"
+        },
+        {
+          "titre": "France : des mairies défient et font flotter le drapeau palestinien",
+          "url": "https://www.tunisienumerique.com/france-des-mairies-defient-et-font-flotter-le-drapeau-palestinien/",
+          "media": "Tunisie Numérique",
+          "date": "2025-09-22"
+        },
+        {
+          "titre": "« Muslim d'apparence » : le chercheur Pascal Boniface déclenche une polémique politique",
+          "url": "https://www.europe1.fr/node/242578",
+          "media": "Europe 1",
+          "date": "2024-10-21"
+        }
+      ]
+    }
+  }
+}

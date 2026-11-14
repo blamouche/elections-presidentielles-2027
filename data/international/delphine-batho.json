@@ -1,0 +1,152 @@
+{
+  "id": "delphine-batho",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Présidente de Génération écologie, Delphine Batho soutient l'Ukraine depuis 2022 (livraisons d'armes, sanctions, vote pour l'accord de sécurité franco-ukrainien en 2024) et appelle à une défense européenne autonome des États-Unis. Elle renvoie dos à dos Donald Trump et Vladimir Poutine (« Ni Trump, ni Poutine », mars 2025) et lie sécurité et sortie des dépendances aux énergies fossiles importées.",
+  "axes": {
+    "europe": {
+      "position": 1,
+      "titre": "Défense européenne autonome, réforme avant élargissement",
+      "resume": "Le 10 décembre 2025, un texte de Génération écologie signé par sa coordinatrice nationale Delphine Batho juge « vital » l'effort de défense pour bâtir une défense européenne autonome sur le plan stratégique ; le 5 mars 2025, le mouvement demandait une défense européenne « strictement indépendante des États-Unis ». En mars 2022, elle estimait que l'Ukraine avait le droit de vouloir adhérer à l'UE, tout en se disant défavorable à un nouvel élargissement sans réforme démocratique préalable de l'Union. Pas de prise de position identifiée sur le fédéralisme ou le vote à la majorité.",
+      "date": "2025-12-10",
+      "sources": [
+        {
+          "titre": "Oui à la défense contre les menaces du nouveau Yalta des prédateurs",
+          "url": "https://www.generationecologie.fr/2025/12/10/oui-la-defense-contre-les-menaces-du-nouveau-yalta-des-predateurs/",
+          "media": "Génération écologie",
+          "date": "2025-12-10"
+        },
+        {
+          "titre": "Ni Trump, ni Poutine : en tant qu'écologistes, nous prendrons toute notre part à l'effort de défense du pays et de l'Europe",
+          "url": "https://www.generationecologie.fr/2025/03/05/ni-trump-ni-poutine-en-tant-quecologistes-nous-prendrons-toute-notre-part-a-leffort-de-defense-du-pays-et-de-leurope/",
+          "media": "Génération écologie",
+          "date": "2025-03-05"
+        },
+        {
+          "titre": "Ukraine : le débat qui secoue la gauche",
+          "url": "https://www.politis.fr/articles/2022/03/ukraine-le-debat-qui-secoue-la-gauche-44163/",
+          "media": "Politis",
+          "date": "2022-03-08"
+        }
+      ]
+    },
+    "otan": {
+      "position": -1,
+      "titre": "Défense européenne indépendante des États-Unis",
+      "resume": "Le 13 mars 2025, elle déclare : « l'OTAN, c'est terminé », évoquant « un renversement d'alliance et une trahison des États-Unis » ; le 5 mars 2025, Génération écologie réclame une défense européenne « strictement indépendante des États-Unis ». Il s'agit d'un constat et non d'une proposition de sortie de l'OTAN ou du commandement intégré : le cran −1 (distance forte avec Washington) est retenu plutôt que −2, avec une hésitation possible avec 0.",
+      "date": "2025-03-15",
+      "sources": [
+        {
+          "titre": "Que doivent penser les écologistes de la guerre ?",
+          "url": "https://www.generationecologie.fr/2025/03/15/que-doivent-penser-les-ecologistes-de-la-guerre-3/",
+          "media": "Génération écologie",
+          "date": "2025-03-15"
+        },
+        {
+          "titre": "Ni Trump, ni Poutine : en tant qu'écologistes, nous prendrons toute notre part à l'effort de défense du pays et de l'Europe",
+          "url": "https://www.generationecologie.fr/2025/03/05/ni-trump-ni-poutine-en-tant-quecologistes-nous-prendrons-toute-notre-part-a-leffort-de-defense-du-pays-et-de-leurope/",
+          "media": "Génération écologie",
+          "date": "2025-03-05"
+        }
+      ]
+    },
+    "trump": {
+      "position": -1,
+      "titre": "Critique du « renversement d'alliance » de Trump",
+      "resume": "Le communiqué « Ni Trump, ni Poutine » du 5 mars 2025, signé par Delphine Batho, reproche à Donald Trump un « renversement d'alliance » et l'abandon de l'Ukraine ; le 10 décembre 2025, Génération écologie dénonce une « nouvelle stratégie agressive » des États-Unis vis-à-vis de l'Union européenne et la « trahison de l'Ukraine ». Hésitation avec −2 (opposition frontale) ; le cran le plus prudent est retenu.",
+      "date": "2025-12-10",
+      "sources": [
+        {
+          "titre": "Ni Trump, ni Poutine : en tant qu'écologistes, nous prendrons toute notre part à l'effort de défense du pays et de l'Europe",
+          "url": "https://www.generationecologie.fr/2025/03/05/ni-trump-ni-poutine-en-tant-quecologistes-nous-prendrons-toute-notre-part-a-leffort-de-defense-du-pays-et-de-leurope/",
+          "media": "Génération écologie",
+          "date": "2025-03-05"
+        },
+        {
+          "titre": "Oui à la défense contre les menaces du nouveau Yalta des prédateurs",
+          "url": "https://www.generationecologie.fr/2025/12/10/oui-la-defense-contre-les-menaces-du-nouveau-yalta-des-predateurs/",
+          "media": "Génération écologie",
+          "date": "2025-12-10"
+        }
+      ]
+    },
+    "russie": {
+      "position": 2,
+      "titre": "Sanctions effectives, avoirs russes mobilisés",
+      "resume": "En mars 2022, elle soutient les sanctions contre la Russie, qualifie Vladimir Poutine de « dictateur » et refuse un cessez-le-feu « aux conditions de Poutine ». Le 24 février 2026, Génération écologie (texte de son porte-parole Quentin Guillemain) demande de « rendre effectives les sanctions économiques », notamment sur l'énergie et les engrais, et estime que les avoirs russes gelés « doivent être mobilisés pour la reconstruction de l'Ukraine ». En mars 2025, le mouvement partageait le diagnostic de « la menace que représente la Russie de Poutine ».",
+      "date": "2026-02-24",
+      "sources": [
+        {
+          "titre": "Слава Україні ! Soutien indéfectible à la résistance de l'Ukraine",
+          "url": "https://www.generationecologie.fr/2026/02/24/soutien-indefectible-a-la-resistance-de-lukraine/",
+          "media": "Génération écologie",
+          "date": "2026-02-24"
+        },
+        {
+          "titre": "Ukraine : le débat qui secoue la gauche",
+          "url": "https://www.politis.fr/articles/2022/03/ukraine-le-debat-qui-secoue-la-gauche-44163/",
+          "media": "Politis",
+          "date": "2022-03-08"
+        },
+        {
+          "titre": "Ni Trump, ni Poutine : en tant qu'écologistes, nous prendrons toute notre part à l'effort de défense du pays et de l'Europe",
+          "url": "https://www.generationecologie.fr/2025/03/05/ni-trump-ni-poutine-en-tant-quecologistes-nous-prendrons-toute-notre-part-a-leffort-de-defense-du-pays-et-de-leurope/",
+          "media": "Génération écologie",
+          "date": "2025-03-05"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": 2,
+      "titre": "Soutien militaire renforcé et garanties de sécurité",
+      "resume": "Elle défend dès mars 2022 les livraisons d'armes à l'Ukraine. Députée, elle vote pour la déclaration du gouvernement sur l'accord de sécurité franco-ukrainien le 12 mars 2024 (scrutin n° 3461, adopté par 372 voix contre 99). Le 24 février 2026, Génération écologie appelle à « maintenir et à renforcer le soutien à l'Ukraine, sur les plans humanitaire, civil, financier et militaire » et à une paix impliquant le retrait des troupes russes et la garantie de la sécurité du peuple ukrainien.",
+      "date": "2026-02-24",
+      "sources": [
+        {
+          "titre": "Слава Україні ! Soutien indéfectible à la résistance de l'Ukraine",
+          "url": "https://www.generationecologie.fr/2026/02/24/soutien-indefectible-a-la-resistance-de-lukraine/",
+          "media": "Génération écologie",
+          "date": "2026-02-24"
+        },
+        {
+          "titre": "Déclaration du gouvernement sur la stratégie d'aide à l'Ukraine (scrutin n° 3461)",
+          "url": "https://datan.fr/votes/legislature-16/vote_3461",
+          "media": "Datan",
+          "date": "2024-03-12"
+        },
+        {
+          "titre": "Ukraine : l'Assemblée nationale approuve largement l'accord de sécurité entre la France et l'Ukraine",
+          "url": "https://lcp.fr/actualites/ukraine-l-assemblee-nationale-approuve-largement-l-accord-de-securite-entre-la-france-et",
+          "media": "LCP",
+          "date": "2024-03-12"
+        },
+        {
+          "titre": "Ukraine : le débat qui secoue la gauche",
+          "url": "https://www.politis.fr/articles/2022/03/ukraine-le-debat-qui-secoue-la-gauche-44163/",
+          "media": "Politis",
+          "date": "2022-03-08"
+        }
+      ]
+    },
+    "chine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Seule mention trouvée : un constat sur l'augmentation de l'arsenal chinois (13 mars 2025), sans proposition de politique envers la Chine.",
+      "date": "",
+      "sources": []
+    },
+    "proche-orient": {
+      "position": 1,
+      "titre": "Critique des « crimes de guerre » de Netanyahou",
+      "resume": "Le 13 mars 2025, lors d'une soirée de Génération écologie, elle cite « les crimes de guerre de Netanyahou contre la population civile à Gaza » parmi les signes de l'effondrement du droit international. Aucune proposition identifiée sur des sanctions, un embargo ou la reconnaissance de l'État de Palestine ; position fondée sur cette seule déclaration.",
+      "date": "2025-03-15",
+      "sources": [
+        {
+          "titre": "Que doivent penser les écologistes de la guerre ?",
+          "url": "https://www.generationecologie.fr/2025/03/15/que-doivent-penser-les-ecologistes-de-la-guerre-3/",
+          "media": "Génération écologie",
+          "date": "2025-03-15"
+        }
+      ]
+    }
+  }
+}

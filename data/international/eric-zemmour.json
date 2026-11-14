@@ -1,0 +1,153 @@
+{
+  "id": "eric-zemmour",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Éric Zemmour défend une « Europe des nations et de la civilisation » sans sortie de l'UE, avec primauté du droit national, suppression de la Commission et refus de tout élargissement, ainsi qu'un protectionnisme marqué face à la Chine. Il revendique son soutien de longue date à Donald Trump et un soutien appuyé à Israël. Sur l'Ukraine et la Russie, il privilégie la négociation et refuse l'entrée de l'Ukraine dans l'OTAN ; ses déclarations détaillées sur ces sujets datent surtout de 2022-2025.",
+  "axes": {
+    "europe": {
+      "position": -1,
+      "titre": "Europe des nations, primauté du droit national",
+      "resume": "Le programme de Reconquête pour les européennes de 2024 propose de supprimer la Commission (remplacée par un secrétariat sous l'autorité du Conseil), de modifier l'article 55 de la Constitution pour « sanctuariser la primauté du droit national sur le droit européen », de refuser tout nouvel élargissement et toute armée européenne. Il ne propose pas de sortie de l'UE. Le programme présidentiel 2027 n'était pas publié dans les sources consultées.",
+      "date": "2024",
+      "sources": [
+        {
+          "titre": "Notre projet pour l'Europe des nations et de la civilisation (programme Reconquête, européennes 2024)",
+          "url": "https://assets.ericzemmour.fr/document/Programme%20Reconqu%C3%AAte%20Europ%C3%A9ennes%202024.pdf",
+          "media": "Reconquête (programme)",
+          "date": "2024"
+        }
+      ]
+    },
+    "otan": {
+      "position": -1,
+      "titre": "Sortie du commandement intégré (position de 2022)",
+      "resume": "En février 2022, il indiquait qu'en cas de victoire il poserait la question d'un retrait du commandement militaire intégré de l'OTAN et jugeait l'élargissement de l'Alliance à l'Est perçu comme une agression par la Russie. En mars 2025, il estime que « celui qui protège domine » à propos des États-Unis. Aucune déclaration récente sur la place de la France dans l'OTAN n'a été identifiée.",
+      "date": "2025-03-11",
+      "sources": [
+        {
+          "titre": "Russie : pour Zemmour, l'OTAN pose un problème",
+          "url": "https://lanouvelletribune.info/2022/02/russie-pour-zemmour-lotan-pose-un-probleme/",
+          "media": "La Nouvelle Tribune",
+          "date": "2022-02"
+        },
+        {
+          "titre": "Éric Zemmour: 'Ukraine wants to join the EU in order to become a NATO member'",
+          "url": "https://hungarianconservative.com/?p=44068",
+          "media": "Hungarian Conservative",
+          "date": "2025-03-11"
+        }
+      ]
+    },
+    "trump": {
+      "position": 2,
+      "titre": "Soutien revendiqué à Donald Trump",
+      "resume": "En janvier 2026, alors que la crise du Groenland divise l'extrême droite, il « ne renie pas » son soutien de longue date à Donald Trump et qualifie d'« immense succès » sa politique d'immigration (AFP). En mars 2025, il voit dans sa victoire une révolution pour les États-Unis et pour le monde (propos rapportés par Hungarian Conservative). Sur les droits de douane agricoles, il appelle en février 2025 à « une grande négociation » avec Washington.",
+      "date": "2026-01-26",
+      "sources": [
+        {
+          "titre": "Face à Trump, l'extrême droite française, dans tous ses états, désunie",
+          "url": "https://www.lagazettefrance.fr/article/face-a-trump-l-extreme-droite-francaise-dans-tous-ses-etats-desunie",
+          "media": "La Gazette France (AFP)",
+          "date": "2026-01-26"
+        },
+        {
+          "titre": "Éric Zemmour: 'Ukraine wants to join the EU in order to become a NATO member'",
+          "url": "https://hungarianconservative.com/?p=44068",
+          "media": "Hungarian Conservative",
+          "date": "2025-03-11"
+        },
+        {
+          "titre": "Hausse des droits de douane sur l'agriculture : Éric Zemmour appelle à négocier avec Donald Trump",
+          "url": "https://www.publicsenat.fr/actualites/politique/hausse-des-droits-de-douane-sur-lagriculture-eric-zemmour-appelle-a-negocier-avec-donald-trump",
+          "media": "Public Sénat",
+          "date": "2025-02-25"
+        }
+      ]
+    },
+    "russie": {
+      "position": -1,
+      "titre": "Négociation prioritaire, refus des sanctions « boomerang »",
+      "resume": "En mars 2022, son porte-parole approuve des sanctions « dissuasives pour amener Poutine à la table des négociations » mais rejette les sanctions « boomerang » ; en février 2022, Éric Zemmour jugeait l'élargissement de l'OTAN vu « légitimement » comme une agression par Moscou. En mars 2025, il estime que la Russie ne tolérerait pas de soldats européens près de ses frontières. Aucune déclaration de 2026 sur les sanctions n'a été identifiée.",
+      "date": "2025-03-11",
+      "sources": [
+        {
+          "titre": "Sommet de Versailles sur l'Ukraine : « tout ce faste pour une simple opération de communication »",
+          "url": "https://www.publicsenat.fr/actualites/politique/sommet-de-versailles-sur-l-ukraine-tout-ce-faste-pour-une-simple-operation-de",
+          "media": "Public Sénat",
+          "date": "2022-03-14"
+        },
+        {
+          "titre": "Russie : pour Zemmour, l'OTAN pose un problème",
+          "url": "https://lanouvelletribune.info/2022/02/russie-pour-zemmour-lotan-pose-un-probleme/",
+          "media": "La Nouvelle Tribune",
+          "date": "2022-02"
+        },
+        {
+          "titre": "Éric Zemmour: 'Ukraine wants to join the EU in order to become a NATO member'",
+          "url": "https://hungarianconservative.com/?p=44068",
+          "media": "Hungarian Conservative",
+          "date": "2025-03-11"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": -1,
+      "titre": "Négociation, ni OTAN ni troupes européennes",
+      "resume": "En mars 2025, il juge l'adhésion de l'Ukraine à l'OTAN « impossible » et doute que des soldats européens puissent y maintenir la paix ; il plaide pour une solution garantissant l'intégrité territoriale de l'Ukraine sans entrée dans l'OTAN. Le programme 2024 de Reconquête refuse tout nouvel élargissement de l'UE et demande de rétablir les droits de douane sur les produits agricoles ukrainiens.",
+      "date": "2025-03-11",
+      "sources": [
+        {
+          "titre": "Éric Zemmour: 'Ukraine wants to join the EU in order to become a NATO member'",
+          "url": "https://hungarianconservative.com/?p=44068",
+          "media": "Hungarian Conservative",
+          "date": "2025-03-11"
+        },
+        {
+          "titre": "Notre projet pour l'Europe des nations et de la civilisation (programme Reconquête, européennes 2024)",
+          "url": "https://assets.ericzemmour.fr/document/Programme%20Reconqu%C3%AAte%20Europ%C3%A9ennes%202024.pdf",
+          "media": "Reconquête (programme)",
+          "date": "2024"
+        },
+        {
+          "titre": "Sommet de Versailles sur l'Ukraine : « tout ce faste pour une simple opération de communication »",
+          "url": "https://www.publicsenat.fr/actualites/politique/sommet-de-versailles-sur-l-ukraine-tout-ce-faste-pour-une-simple-operation-de",
+          "media": "Public Sénat",
+          "date": "2022-03-14"
+        }
+      ]
+    },
+    "chine": {
+      "position": 2,
+      "titre": "Protection commerciale forte contre le « dumping chinois »",
+      "resume": "Le programme 2024 de Reconquête propose, « contre le dumping chinois », un marquage obligatoire « fabriqué en Chine » et un relèvement des droits de douane européens sur les véhicules électriques chinois à 50 % (contre 10 %), ainsi que l'arrêt des financements européens de panneaux solaires fabriqués en Chine.",
+      "date": "2024",
+      "sources": [
+        {
+          "titre": "Notre projet pour l'Europe des nations et de la civilisation (programme Reconquête, européennes 2024)",
+          "url": "https://assets.ericzemmour.fr/document/Programme%20Reconqu%C3%AAte%20Europ%C3%A9ennes%202024.pdf",
+          "media": "Reconquête (programme)",
+          "date": "2024"
+        }
+      ]
+    },
+    "proche-orient": {
+      "position": -2,
+      "titre": "Soutien à Israël, opposé à une trêve (2023)",
+      "resume": "Le 29 octobre 2023, il déclare : « je ne suis pas d'accord avec la trêve humanitaire », estimant qu'Israël doit rétablir le rapport de force « peu importe le prix ». En novembre 2021, il affirmait à Israel Hayom qu'il n'y aurait jamais d'État palestinien. Aucune réaction personnelle à la reconnaissance de la Palestine par la France (septembre 2025) n'a été identifiée.",
+      "date": "2023-10-29",
+      "sources": [
+        {
+          "titre": "Israël-Hamas : « Je ne suis pas d'accord avec la trêve humanitaire », explique Éric Zemmour",
+          "url": "https://www.europe1.fr/international/israel-hamas-je-ne-suis-pas-daccord-avec-la-treve-humanitaire-explique-eric-zemmour-4211594",
+          "media": "Europe 1",
+          "date": "2023-10-29"
+        },
+        {
+          "titre": "Jewish writer who could become French president says there will never be a Palestinian state",
+          "url": "https://israelhayom.com/2021/11/07/jewish-writer-who-could-become-french-president-says-there-will-never-be-a-palestinian-state",
+          "media": "Israel Hayom",
+          "date": "2021-11-07"
+        }
+      ]
+    }
+  }
+}

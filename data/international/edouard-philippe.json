@@ -1,0 +1,117 @@
+{
+  "id": "edouard-philippe",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Édouard Philippe présente l'Europe comme « une condition de la puissance de la France » et propose une « subsidiarité stratégique » avec les États volontaires. Il défend un soutien plein à l'Ukraine, une base industrielle de défense européenne au sein de l'OTAN et la réciprocité commerciale face à la Chine.",
+  "axes": {
+    "europe": {
+      "position": 1,
+      "titre": "Europe condition de la puissance française",
+      "resume": "Dans une pièce de doctrine (juin 2026), il écarte l'alternative fédéralisme/souverainisme au profit d'une « subsidiarité stratégique », propose d'avancer avec les États volontaires, de consacrer environ 100 Md€ à la défense dans le cadre financier 2028-2034 et d'achever l'union des marchés de capitaux.",
+      "date": "2026-06-18",
+      "sources": [
+        {
+          "titre": "Le moment gaullien (pièce de doctrine d'Édouard Philippe)",
+          "url": "https://legrandcontinent.eu/fr/2026/06/18/philippe-moment-gaullien/",
+          "media": "Le Grand Continent",
+          "date": "2026-06-18"
+        }
+      ]
+    },
+    "otan": {
+      "position": 1,
+      "titre": "Pilier européen : 1 % du PIB en équipements européens",
+      "resume": "Il propose que les pays européens de l'OTAN consacrent au moins 1 % de leur PIB à des équipements fabriqués en Europe et estime qu'« une Europe plus autonome sera une meilleure alliée » (juin 2026).",
+      "date": "2026-11-13",
+      "sources": [
+        {
+          "titre": "Le moment gaullien (pièce de doctrine d'Édouard Philippe)",
+          "url": "https://legrandcontinent.eu/fr/2026/06/18/philippe-moment-gaullien/",
+          "media": "Le Grand Continent",
+          "date": "2026-06-18"
+        },
+        {
+          "titre": "Programme – Défense",
+          "url": "https://www.edouardphilippe.fr/programme/defense",
+          "media": "Site de campagne d'Édouard Philippe",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "trump": {
+      "position": -1,
+      "titre": "Dire « non » aux États-Unis quand ils menacent",
+      "resume": "En juin 2026, il écrit que le « non » européen « doit également être adressé aux États-Unis lorsqu'ils nous menacent » et cite la décision de l'administration Trump de restreindre l'accès non américain à certains modèles d'IA comme preuve de la dépendance technologique européenne.",
+      "date": "2026-06-18",
+      "sources": [
+        {
+          "titre": "Le moment gaullien (pièce de doctrine d'Édouard Philippe)",
+          "url": "https://legrandcontinent.eu/fr/2026/06/18/philippe-moment-gaullien/",
+          "media": "Le Grand Continent",
+          "date": "2026-06-18"
+        }
+      ]
+    },
+    "russie": {
+      "position": 1,
+      "titre": "Dire « non » à la Russie agresseur",
+      "resume": "En juin 2026, il estime que le « non » doit être adressé à la Russie « lorsqu'elle attaque un État souverain ». Nous n'avons pas trouvé de position récente sur les sanctions ou les avoirs gelés, d'où le cran +1 plutôt que +2.",
+      "date": "2026-06-18",
+      "sources": [
+        {
+          "titre": "Le moment gaullien (pièce de doctrine d'Édouard Philippe)",
+          "url": "https://legrandcontinent.eu/fr/2026/06/18/philippe-moment-gaullien/",
+          "media": "Le Grand Continent",
+          "date": "2026-06-18"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": 1,
+      "titre": "« Soutien plein » à l'Ukraine",
+      "resume": "Il qualifie l'Ukraine de « test européen de notre génération politique » et écrit que « ne pas soutenir Kiev, c'est choisir une Europe faible » (juin 2026) ; son programme de défense mentionne « un soutien plein à l'Ukraine ». Faute de détail sur une hausse de l'aide, des garanties ou l'adhésion, nous retenons +1.",
+      "date": "2026-11-13",
+      "sources": [
+        {
+          "titre": "Le moment gaullien (pièce de doctrine d'Édouard Philippe)",
+          "url": "https://legrandcontinent.eu/fr/2026/06/18/philippe-moment-gaullien/",
+          "media": "Le Grand Continent",
+          "date": "2026-06-18"
+        },
+        {
+          "titre": "Programme – Défense",
+          "url": "https://www.edouardphilippe.fr/programme/defense",
+          "media": "Site de campagne d'Édouard Philippe",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "chine": {
+      "position": 1,
+      "titre": "Réciprocité commerciale sans protectionnisme",
+      "resume": "En juin 2026, il appelle à dire « non » à la Chine lorsqu'elle fausse les règles du commerce et « accapare des minerais critiques », tout en rejetant le protectionnisme au profit de la réciprocité : traque des aides d'État cachées, droits correctifs en cas de dumping avéré, filtrage des investissements stratégiques.",
+      "date": "2026-06-18",
+      "sources": [
+        {
+          "titre": "Le moment gaullien (pièce de doctrine d'Édouard Philippe)",
+          "url": "https://legrandcontinent.eu/fr/2026/06/18/philippe-moment-gaullien/",
+          "media": "Le Grand Continent",
+          "date": "2026-06-18"
+        }
+      ]
+    },
+    "proche-orient": {
+      "position": 0,
+      "titre": "Réserves sur la reconnaissance de la Palestine",
+      "resume": "Après l'annonce par Emmanuel Macron de la reconnaissance de l'État de Palestine (juillet 2025), il exprime de fortes réserves dans un communiqué : « Les otages ne sont pas libérés, il n'y a pas de cessez-le-feu. Et le Hamas, bien qu'affaibli, sévit encore. » Nous n'avons pas trouvé de déclaration de soutien ou de critique explicite du gouvernement israélien ; entre 0 et −1, nous retenons 0.",
+      "date": "2025-07-26",
+      "sources": [
+        {
+          "titre": "Reconnaissance d'un État palestinien : comment se justifie Emmanuel Macron, les réactions politiques en France",
+          "url": "https://www.europe1.fr/international/reconnaissance-dun-etat-palestinien-comment-se-justifie-emmanuel-macron-les-reactions-politiques-en-france-765515",
+          "media": "Europe 1",
+          "date": "2025-07-26"
+        }
+      ]
+    }
+  }
+}

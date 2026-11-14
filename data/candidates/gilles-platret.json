@@ -1,0 +1,515 @@
+{
+  "id": "gilles-platret",
+  "prenom": "Gilles",
+  "nom": "Platret",
+  "parti": "Divers droite (ancien membre des Républicains)",
+  "partiAbrev": "DVD",
+  "famillePolitique": "droite",
+  "couleur": "#4F7CAC",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Gilles Platret, maire de Chalon-sur-Saône, s'est déclaré candidat lors d'une réunion publique intitulée « Parlons de la France », le jeudi 8 octobre 2026 au Colisée de Chalon-sur-Saône, et l'a confirmé le lendemain sur ICI Bourgogne. Il se présente sans étiquette, après avoir quitté Les Républicains en 2024, en revendiquant une candidature indépendante des partis (« Les partis politiques ont failli »). Il prévoit un tour de France et un livre en novembre 2026, et doit réunir 500 parrainages avant le 12 mars 2027. LCP (10/11/2026) le cite parmi les candidatures dont la suite reste en suspens.",
+    "date": "2026-10-08",
+    "sources": [
+      {
+        "titre": "« Modeste » mais « déterminé » : le maire de Chalon-sur-Saône, Gilles Platret, se déclare candidat à la présidentielle",
+        "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-bourgogne/modeste-mais-determine-le-maire-de-chalon-sur-saone-gilles-platret-se-declare-candidat-a-la-presidentielle-6724488?at_locale=19",
+        "media": "ICI Bourgogne (Radio France)",
+        "date": "2026-10-09"
+      },
+      {
+        "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+        "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+        "media": "Dijon Actualités",
+        "date": "2026-10-10"
+      },
+      {
+        "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret annonce sa candidature",
+        "url": "https://www.cnews.fr/france/2026-10-10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-annonce-sa",
+        "media": "CNews",
+        "date": "2026-10-10"
+      },
+      {
+        "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-10"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1973-04-19",
+      "lieu": "Saint-Rémy (Saône-et-Loire)",
+      "sources": [
+        {
+          "titre": "Gilles Platret",
+          "url": "https://en.wikipedia.org/wiki/Gilles_Platret",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Historien de formation et auteur de plusieurs ouvrages, Gilles Platret est maire de Chalon-sur-Saône depuis 2014 et conseiller régional de Bourgogne-Franche-Comté. Ancien porte-parole puis vice-président des Républicains (2019-2023), il a conduit la liste LR aux régionales de 2021 et a échoué trois fois aux législatives. Connu pour des mesures municipales sur la laïcité (suppression des menus de substitution sans porc en 2015, interdiction des signes religieux au conseil municipal en 2026), il a quitté LR en 2024. Il défend une ligne de droite dure : réduction de l'immigration, « grande loi d'assimilation », retour aux 39 heures et limitation du contrôle du Conseil constitutionnel.",
+    "formation": [
+      {
+        "texte": "Études à Sciences Po et à l'université Paris-Sorbonne ; historien de formation.",
+        "sources": [
+          {
+            "titre": "Gilles Platret",
+            "url": "https://en.wikipedia.org/wiki/Gilles_Platret",
+            "media": "Wikipedia (en)",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+            "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+            "media": "Dijon Actualités",
+            "date": "2026-10-10"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Historien et auteur de plusieurs ouvrages.",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+            "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+            "media": "Dijon Actualités",
+            "date": "2026-10-10"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "Gilles Platret",
+        "url": "https://en.wikipedia.org/wiki/Gilles_Platret",
+        "media": "Wikipedia (en)",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+        "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+        "media": "Dijon Actualités",
+        "date": "2026-10-10"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "2014",
+      "fin": null,
+      "fonction": "Maire de Chalon-sur-Saône (Saône-et-Loire)",
+      "details": "Élu le 29 mars 2014.",
+      "sources": [
+        {
+          "titre": "Gilles Platret",
+          "url": "https://en.wikipedia.org/wiki/Gilles_Platret",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+          "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+          "media": "Dijon Actualités",
+          "date": "2026-10-10"
+        },
+        {
+          "titre": "« Modeste » mais « déterminé » : le maire de Chalon-sur-Saône, Gilles Platret, se déclare candidat à la présidentielle",
+          "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-bourgogne/modeste-mais-determine-le-maire-de-chalon-sur-saone-gilles-platret-se-declare-candidat-a-la-presidentielle-6724488?at_locale=19",
+          "media": "ICI Bourgogne (Radio France)",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    {
+      "debut": "2016",
+      "fin": null,
+      "fonction": "Conseiller régional de Bourgogne-Franche-Comté",
+      "details": "Tête de liste LR aux élections régionales de 2021.",
+      "sources": [
+        {
+          "titre": "Gilles Platret",
+          "url": "https://en.wikipedia.org/wiki/Gilles_Platret",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+          "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+          "media": "Dijon Actualités",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    {
+      "debut": "2017",
+      "fin": null,
+      "fonction": "Porte-parole des Républicains",
+      "details": "La date de fin n'est pas précisée par les sources consultées.",
+      "sources": [
+        {
+          "titre": "Gilles Platret",
+          "url": "https://en.wikipedia.org/wiki/Gilles_Platret",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+          "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+          "media": "Dijon Actualités",
+          "date": "2026-10-10"
+        }
+      ]
+    },
+    {
+      "debut": "2019",
+      "fin": "2023",
+      "fonction": "Vice-président des Républicains",
+      "details": "",
+      "sources": [
+        {
+          "titre": "Gilles Platret",
+          "url": "https://en.wikipedia.org/wiki/Gilles_Platret",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2017",
+      "fin": "2024",
+      "fonction": "Candidat aux élections législatives dans la 5e circonscription de Saône-et-Loire",
+      "details": "Battu en 2017, 2022 et 2024.",
+      "sources": [
+        {
+          "titre": "Gilles Platret",
+          "url": "https://en.wikipedia.org/wiki/Gilles_Platret",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2024",
+      "fin": null,
+      "fonction": "Divers droite",
+      "details": "Quitte Les Républicains en 2024 (membre de l'UMP jusqu'en 2015, puis des Républicains de 2015 à 2024).",
+      "sources": [
+        {
+          "titre": "Gilles Platret",
+          "url": "https://en.wikipedia.org/wiki/Gilles_Platret",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "« Modeste » mais « déterminé » : le maire de Chalon-sur-Saône, Gilles Platret, se déclare candidat à la présidentielle",
+          "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-bourgogne/modeste-mais-determine-le-maire-de-chalon-sur-saone-gilles-platret-se-declare-candidat-a-la-presidentielle-6724488?at_locale=19",
+          "media": "ICI Bourgogne (Radio France)",
+          "date": "2026-10-09"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Relaxé en première instance en 2023 dans une affaire d'homicide involontaire liée à une noyade ; aucune condamnation connue à ce jour.",
+    "affaires": [
+      {
+        "titre": "Noyade de trois enfants au lac des Prés Saint-Jean (Chalon-sur-Saône)",
+        "statut": "relaxe",
+        "role": "prévenu (cité à comparaître par la partie civile)",
+        "resume": "Le 8 juillet 2018, trois enfants de 9 à 13 ans se sont noyés dans le lac des Prés Saint-Jean, où la baignade était interdite par un arrêté municipal de 1999. L'avocat de la mère a fait citer le maire devant le tribunal correctionnel de Chalon-sur-Saône pour homicide involontaire, lui reprochant l'absence de panneaux d'interdiction suffisamment visibles ; Gilles Platret n'avait jamais été mis en examen. Le 12 mai 2023, le tribunal l'a relaxé, jugeant que le défaut de signalisation relevait d'une négligence simple constitutive d'une faute indirecte, et a imputé les décès à un défaut de surveillance de la personne à qui les enfants avaient été confiés, condamnée à trois ans d'emprisonnement avec sursis. Les sources consultées ne mentionnent pas d'appel.",
+        "chronologie": [
+          {
+            "date": "2018-07-08",
+            "evenement": "Noyade de trois enfants au lac des Prés Saint-Jean.",
+            "sources": [
+              {
+                "titre": "Chalon-sur-Saône : Gilles Platret, maire LR, cité à comparaître pour homicide involontaire",
+                "url": "https://www.macommune.info/chalonnais-sur-saone-gilles-platret-maire-lr-cite-a-comparaitre-pour-homicide-involontaire",
+                "media": "macommune.info",
+                "date": "2023-03-31"
+              }
+            ]
+          },
+          {
+            "date": "2023-03-31",
+            "evenement": "Audience devant le tribunal correctionnel de Chalon-sur-Saône, sur citation de la partie civile pour homicide involontaire.",
+            "sources": [
+              {
+                "titre": "Chalon-sur-Saône : Gilles Platret, maire LR, cité à comparaître pour homicide involontaire",
+                "url": "https://www.macommune.info/chalonnais-sur-saone-gilles-platret-maire-lr-cite-a-comparaitre-pour-homicide-involontaire",
+                "media": "macommune.info",
+                "date": "2023-03-31"
+              }
+            ]
+          },
+          {
+            "date": "2023-05-12",
+            "evenement": "Relaxe de Gilles Platret.",
+            "sources": [
+              {
+                "titre": "Triple noyade à Chalon-sur-Saône : le maire, Gilles Platret, relaxé",
+                "url": "https://www.macommune.info/triple-noyade-a-chalon-sur-saone-le-maire-gilles-platret-relaxe",
+                "media": "macommune.info",
+                "date": "2023-05-12"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Chalon-sur-Saône : Gilles Platret, maire LR, cité à comparaître pour homicide involontaire",
+            "url": "https://www.macommune.info/chalonnais-sur-saone-gilles-platret-maire-lr-cite-a-comparaitre-pour-homicide-involontaire",
+            "media": "macommune.info",
+            "date": "2023-03-31"
+          },
+          {
+            "titre": "Triple noyade à Chalon-sur-Saône : le maire, Gilles Platret, relaxé",
+            "url": "https://www.macommune.info/triple-noyade-a-chalon-sur-saone-le-maire-gilles-platret-relaxe",
+            "media": "macommune.info",
+            "date": "2023-05-12"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "statut": "Propositions partielles",
+    "resume": "Lors de son entrée en campagne, Gilles Platret a présenté des orientations non chiffrées : rétablissement des contrôles aux frontières et forte réduction des titres de séjour, « grande loi d'assimilation » incluant l'interdiction du voile dans l'espace public, interdiction des Frères musulmans, retour aux 39 heures, dette ramenée sous 100 % du PIB, fin de l'autonomie des universités, réduction du champ du Conseil constitutionnel et scrutin législatif uninominal à un tour. En politique étrangère, il prône un soutien renforcé à Israël, la rupture avec l'Iran et une confrontation plus ferme avec l'Algérie.",
+    "documents": [
+      {
+        "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+        "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+        "media": "Dijon Actualités",
+        "date": "2026-10-10"
+      },
+      {
+        "titre": "« Modeste » mais « déterminé » : le maire de Chalon-sur-Saône, Gilles Platret, se déclare candidat à la présidentielle",
+        "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-bourgogne/modeste-mais-determine-le-maire-de-chalon-sur-saone-gilles-platret-se-declare-candidat-a-la-presidentielle-6724488?at_locale=19",
+        "media": "ICI Bourgogne (Radio France)",
+        "date": "2026-10-09"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "retour-39-heures",
+        "theme": "emploi-travail",
+        "type": "proposition",
+        "titre": "Retour aux 39 heures hebdomadaires",
+        "description": "Supprimer la référence légale aux 35 heures pour revenir à une durée de 39 heures par semaine, afin selon lui de renforcer la production, le financement de la protection sociale et de limiter le recul de l'âge de départ à la retraite.",
+        "chiffres": [
+          "Durée hebdomadaire visée : 39 heures"
+        ],
+        "date": "2026-10-09",
+        "sources": [
+          {
+            "titre": "« Modeste » mais « déterminé » : le maire de Chalon-sur-Saône, Gilles Platret, se déclare candidat à la présidentielle",
+            "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-bourgogne/modeste-mais-determine-le-maire-de-chalon-sur-saone-gilles-platret-se-declare-candidat-a-la-presidentielle-6724488?at_locale=19",
+            "media": "ICI Bourgogne (Radio France)",
+            "date": "2026-10-09"
+          },
+          {
+            "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+            "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+            "media": "Dijon Actualités",
+            "date": "2026-10-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le candidat ne précise pas si les heures supplémentaires seraient payées ni l'effet attendu sur les recettes sociales. Aucune évaluation indépendante de cette proposition n'a été trouvée à la date de mise à jour.",
+          "sources": [
+            {
+              "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+              "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+              "media": "Dijon Actualités",
+              "date": "2026-10-10"
+            }
+          ]
+        }
+      },
+      {
+        "id": "immigration-frontieres-titres",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "Contrôles aux frontières et forte réduction des titres de séjour",
+        "description": "Rétablir les contrôles aux frontières nationales contre l'immigration irrégulière et réduire de façon « très importante » le nombre de titres de séjour délivrés chaque année.",
+        "chiffres": [],
+        "date": "2026-10-10",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+            "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+            "media": "Dijon Actualités",
+            "date": "2026-10-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun objectif chiffré n'est donné et l'articulation avec les règles de l'espace Schengen n'est pas précisée. Aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+              "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+              "media": "Dijon Actualités",
+              "date": "2026-10-10"
+            }
+          ]
+        }
+      },
+      {
+        "id": "loi-assimilation-voile",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "« Grande loi d'assimilation » et interdiction du voile dans l'espace public",
+        "description": "Adopter une « grande loi d'assimilation » comprenant notamment l'interdiction du port du voile dans l'espace public, et interdire les Frères musulmans et les mouvements qualifiés d'islamistes.",
+        "chiffres": [],
+        "date": "2026-10-10",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+            "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+            "media": "Dijon Actualités",
+            "date": "2026-10-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-faux",
+          "analyse": "La faisabilité juridique de l'interdiction du voile dans tout l'espace public est très contestée. Interrogés par Public Sénat sur une proposition comparable du RN, des juristes estiment qu'elle ne peut se fonder sur la laïcité, qui s'impose à l'État et non à l'espace public (Serge Slama), et qu'elle contreviendrait aux articles 9 et 14 de la Convention européenne des droits de l'homme (Nicolas Hervieu). Elle se heurterait aussi a priori à la liberté religieuse et à l'égalité devant la loi garanties par la Déclaration de 1789. L'interdiction de 2010 ne vise que la dissimulation du visage.",
+          "sources": [
+            {
+              "titre": "Sanctionner le port du voile par une amende : le RN maintient sa proposition polémique et inconstitutionnelle",
+              "url": "https://www.publicsenat.fr/actualites/politique/sanctionner-le-port-du-voile-par-une-amende-le-rn-maintient-sa-proposition-polemique-et-inconstitutionnelle",
+              "media": "Public Sénat",
+              "date": "2026-08-31"
+            }
+          ]
+        }
+      },
+      {
+        "id": "dette-sous-100-pib",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Ramener la dette publique sous 100 % du PIB",
+        "description": "Ramener la dette publique sous 100 % du PIB, en luttant contre la « bureaucratie ministérielle » et en supprimant certaines structures administratives.",
+        "chiffres": [
+          "Objectif : dette < 100 % du PIB",
+          "Dette fin T2 2026 : 119,0 % du PIB (Insee)"
+        ],
+        "date": "2026-10-10",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+            "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+            "media": "Dijon Actualités",
+            "date": "2026-10-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune trajectoire ni aucun calendrier ne sont donnés. Pour mémoire, la dette publique atteignait 119,0 % du PIB (3 595,5 Md€) fin juin 2026 selon l'Insee : l'objectif suppose une baisse d'environ 19 points de PIB, sans que les économies correspondantes soient détaillées.",
+          "sources": [
+            {
+              "titre": "Dette trimestrielle de Maastricht des administrations publiques – deuxième trimestre 2026 (Informations rapides n° 239)",
+              "url": "https://www.insee.fr/fr/statistiques/9053525",
+              "media": "Insee",
+              "date": "2026-09-29"
+            }
+          ]
+        }
+      },
+      {
+        "id": "conseil-constitutionnel-avant-1971",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Réduire le contrôle du Conseil constitutionnel",
+        "description": "Réduire le champ d'intervention du Conseil constitutionnel en revenant à une conception antérieure à sa décision du 16 juillet 1971, qu'il qualifie de « coup d'État juridictionnel ».",
+        "chiffres": [],
+        "date": "2026-10-10",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+            "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+            "media": "Dijon Actualités",
+            "date": "2026-10-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Par sa décision 71-44 DC du 16 juillet 1971, le Conseil constitutionnel a reconnu valeur constitutionnelle au préambule de la Constitution et à la liberté d'association comme principe fondamental reconnu par les lois de la République, fondant le contrôle des lois au regard des droits fondamentaux. Revenir sur cette jurisprudence supposerait vraisemblablement une révision de la Constitution ; le candidat n'en précise pas les modalités. Aucune analyse indépendante de la proposition n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Décision n° 71-44 DC du 16 juillet 1971 (liberté d'association)",
+              "url": "https://webview-ccfr.sites.prod.conseilconstitutionnel.aquaray.com/en/decision/1971/7144DC.htm",
+              "media": "Conseil constitutionnel",
+              "date": "1971-07-16"
+            }
+          ]
+        }
+      },
+      {
+        "id": "scrutin-uninominal-un-tour",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Scrutin législatif uninominal majoritaire à un tour",
+        "description": "Adopter pour les élections législatives un scrutin uninominal majoritaire à un tour, inspiré du modèle britannique.",
+        "chiffres": [],
+        "date": "2026-10-10",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+            "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+            "media": "Dijon Actualités",
+            "date": "2026-10-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le mode de scrutin des députés relève de la loi ordinaire et non de la Constitution ; la mesure ne nécessite donc pas de révision constitutionnelle. Ses effets attendus sur la représentation n'ont pas été évalués dans les sources consultées.",
+          "sources": [
+            {
+              "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+              "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+              "media": "Dijon Actualités",
+              "date": "2026-10-10"
+            }
+          ]
+        }
+      },
+      {
+        "id": "fin-autonomie-universites",
+        "theme": "education",
+        "type": "proposition",
+        "titre": "Fin de l'autonomie des universités",
+        "description": "Mettre fin à l'autonomie des universités, présentée comme un moyen de lutter contre le « wokisme » dans l'enseignement supérieur, et rétablir la discipline et l'autorité des enseignants à l'école.",
+        "chiffres": [],
+        "date": "2026-10-10",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+            "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+            "media": "Dijon Actualités",
+            "date": "2026-10-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le dispositif de remplacement et son articulation avec le principe constitutionnel d'indépendance des enseignants-chercheurs ne sont pas précisés. Aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+              "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+              "media": "Dijon Actualités",
+              "date": "2026-10-10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

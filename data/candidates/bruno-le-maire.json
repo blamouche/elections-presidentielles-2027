@@ -1,0 +1,537 @@
+{
+  "id": "bruno-le-maire",
+  "prenom": "Bruno",
+  "nom": "Le Maire",
+  "parti": "Sans investiture (ancien ministre, membre de Renaissance depuis 2017 selon Wikipédia)",
+  "partiAbrev": "DVC",
+  "famillePolitique": "centre",
+  "couleur": "#D4A017",
+  "statutCandidature": "potentiel",
+  "candidature": {
+    "texte": "Bruno Le Maire n'est pas déclaré candidat à la date de mise à jour. Le 22 juin 2026, il avait annoncé qu'il dirait « en octobre » s'il se présentait ; le 1er juillet, sur Sud Radio, il jugeait que ce n'était « pas le moment » de répondre. Fin août 2026, il a publié un manifeste d'une soixantaine de pages structuré autour de l'autorité, de la prospérité et de la souveraineté, présenté comme le texte « d'un homme libre ». Aucune annonce de candidature ou de renoncement n'a été trouvée pour octobre-novembre 2026 : LCP (10/11/2026) le classe parmi les candidats potentiels et indique, citant Le Figaro, qu'il « doit prochainement présenter des propositions ».",
+    "date": "2026-06-22",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : Bruno Le Maire dira « en octobre » s'il est candidat",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-bruno-le-maire-dira-en-octobre-s-il-est-candidat-437967",
+        "media": "LCP",
+        "date": "2026-06-22"
+      },
+      {
+        "titre": "Bruno Le Maire : « Nous devons tourner la page de l'État providence »",
+        "url": "https://www.sudradio.fr/linvite-politique/bruno-le-maire-nous-devons-tourner-la-page-de-letat-providence",
+        "media": "Sud Radio",
+        "date": "2026-07-01"
+      },
+      {
+        "titre": "2027 : Le Maire publie un manifeste « pour une autre France »",
+        "url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france",
+        "media": "La Gazette France (AFP)",
+        "date": "2026-08-23"
+      },
+      {
+        "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-10"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1969-04-15",
+      "lieu": "Neuilly-sur-Seine (Hauts-de-Seine)",
+      "sources": [
+        {
+          "titre": "Bruno Le Maire",
+          "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Normalien, agrégé de lettres modernes et énarque, Bruno Le Maire est diplomate de formation et écrivain. Directeur de cabinet du Premier ministre Dominique de Villepin (2006-2007), député de l'Eure, il a été ministre de l'Agriculture sous Nicolas Sarkozy puis, après avoir rallié Emmanuel Macron en 2017, ministre de l'Économie et des Finances de mai 2017 à septembre 2024. Nommé ministre d'État, ministre des Armées le 5 octobre 2025, il quitte ses fonctions dès le lendemain avec la chute du gouvernement Lecornu I. Candidat à la primaire de la droite en 2016 (5e, environ 2,4 %), il prépare en 2026 un projet présidentiel sans s'être déclaré.",
+    "formation": [
+      {
+        "texte": "École normale supérieure (1989), agrégation de lettres modernes (1992, reçu premier), Institut d'études politiques de Paris (1993), École nationale d'administration (promotion Valmy, 1996-1998).",
+        "sources": [
+          {
+            "titre": "Bruno Le Maire",
+            "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Diplomate au ministère des Affaires étrangères à partir de 1998 (démission du corps en 2012).",
+        "sources": [
+          {
+            "titre": "Bruno Le Maire",
+            "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "texte": "Écrivain, auteur notamment de « Jours de pouvoir » (2013), « Paul » (2019) et « Fugue américaine » (2023).",
+        "sources": [
+          {
+            "titre": "Bruno Le Maire",
+            "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "texte": "Après 2024 : professeur invité à Lausanne (Centre Entreprise for Society, lié à l'Université de Lausanne, l'IMD et l'EPFL), conseiller stratégique externe du comité exécutif d'ASML (2025), puis senior adviser chez Macro Advisory Partners (2026).",
+        "sources": [
+          {
+            "titre": "Bruno Le Maire",
+            "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "Bruno Le Maire",
+        "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "2006",
+      "fin": "2007",
+      "fonction": "Directeur de cabinet du Premier ministre Dominique de Villepin",
+      "details": "Du 12 juillet 2006 au 15 mai 2007.",
+      "sources": [
+        {
+          "titre": "Bruno Le Maire",
+          "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2007",
+      "fin": "2017",
+      "fonction": "Député de la 1re circonscription de l'Eure",
+      "details": "Élu en 2007 (UMP), réélu en 2012 puis en 2017 (La République en marche) ; mandat interrompu par ses fonctions gouvernementales.",
+      "sources": [
+        {
+          "titre": "Bruno Le Maire",
+          "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2008",
+      "fin": "2009",
+      "fonction": "Secrétaire d'État chargé des Affaires européennes",
+      "details": "Du 13 décembre 2008 au 23 juin 2009.",
+      "sources": [
+        {
+          "titre": "Bruno Le Maire",
+          "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2009",
+      "fin": "2012",
+      "fonction": "Ministre de l'Alimentation, de l'Agriculture et de la Pêche (puis de la Ruralité et de l'Aménagement du territoire)",
+      "details": "Du 23 juin 2009 au 10 mai 2012.",
+      "sources": [
+        {
+          "titre": "Bruno Le Maire",
+          "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2010",
+      "fin": "2015",
+      "fonction": "Conseiller régional de Haute-Normandie",
+      "details": "",
+      "sources": [
+        {
+          "titre": "Bruno Le Maire",
+          "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2017",
+      "fin": "2024",
+      "fonction": "Ministre de l'Économie (et des Finances)",
+      "details": "Du 17 mai 2017 au 21 septembre 2024, sous les gouvernements Philippe, Castex, Borne et Attal (intitulé élargi aux Finances, à la Relance puis à la Souveraineté industrielle et numérique).",
+      "sources": [
+        {
+          "titre": "Bruno Le Maire",
+          "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Bruno Le Maire – fiche personnalité",
+          "url": "https://www.info.gouv.fr/public/index.php/personnalite/bruno-le-maire",
+          "media": "info.gouv.fr (Gouvernement)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2025",
+      "fin": "2025",
+      "fonction": "Ministre d'État, ministre des Armées et des Anciens combattants",
+      "details": "Nommé le 5 octobre 2025 dans le gouvernement Lecornu I, il quitte ses fonctions le 6 octobre après la démission du gouvernement.",
+      "sources": [
+        {
+          "titre": "Bruno Le Maire",
+          "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Bruno Le Maire – fiche personnalité",
+          "url": "https://www.info.gouv.fr/public/index.php/personnalite/bruno-le-maire",
+          "media": "info.gouv.fr (Gouvernement)",
+          "date": "2026-11-13"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Aucune procédure judiciaire connue le visant à ce jour. Le dérapage du déficit public de 2023-2024 a donné lieu à des travaux de contrôle parlementaires (Sénat, Assemblée nationale), qui ne constituent pas des procédures judiciaires.",
+    "affaires": []
+  },
+  "programme": {
+    "statut": "Propositions partielles",
+    "resume": "Dans son manifeste d'août 2026 et ses entretiens, Bruno Le Maire défend un « changement complet de modèle » : un État recentré sur la sécurité, la protection, l'éducation et la santé ; une règle constitutionnelle de comptes publics à l'équilibre ; une retraite à 65 ans avec une part de capitalisation ; un transfert du financement de la protection sociale vers la consommation (hausse de la TVA de 2 à 3 points contre une baisse des cotisations salariales) ; une désindexation temporaire des pensions les plus élevées, des prestations et du barème de l'impôt. Sur l'Europe, il propose une fédération de six États-nations et une dette commune de 1 000 milliards d'euros pour investir. Il ne s'est pas déclaré candidat.",
+    "documents": [
+      {
+        "titre": "2027 : Le Maire publie un manifeste « pour une autre France »",
+        "url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france",
+        "media": "La Gazette France (AFP)",
+        "date": "2026-08-23"
+      },
+      {
+        "titre": "Bruno Le Maire : « Nous devons tourner la page de l'État providence »",
+        "url": "https://www.sudradio.fr/linvite-politique/bruno-le-maire-nous-devons-tourner-la-page-de-letat-providence",
+        "media": "Sud Radio",
+        "date": "2026-07-01"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "retraite-65-ans-capitalisation",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Retraite à 65 ans et part de capitalisation",
+        "description": "Fixer l'âge légal de départ à 65 ans et introduire une part de retraite par capitalisation, pour trouver « un meilleur équilibre » entre répartition et capitalisation.",
+        "chiffres": [
+          "Âge légal proposé : 65 ans"
+        ],
+        "date": "2026-08-23",
+        "sources": [
+          {
+            "titre": "2027 : Le Maire publie un manifeste « pour une autre France »",
+            "url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france",
+            "media": "La Gazette France (AFP)",
+            "date": "2026-08-23"
+          },
+          {
+            "titre": "Bruno Le Maire : « Nous devons tourner la page de l'État providence »",
+            "url": "https://www.sudradio.fr/linvite-politique/bruno-le-maire-nous-devons-tourner-la-page-de-letat-providence",
+            "media": "Sud Radio",
+            "date": "2026-07-01"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le manifeste ne chiffre ni les économies attendues ni le coût de transition vers une part de capitalisation. Aucune évaluation indépendante de cette proposition précise n'a été trouvée à la date de mise à jour.",
+          "sources": [
+            {
+              "titre": "2027 : Le Maire publie un manifeste « pour une autre France »",
+              "url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france",
+              "media": "La Gazette France (AFP)",
+              "date": "2026-08-23"
+            }
+          ]
+        }
+      },
+      {
+        "id": "desindexation-pensions-prestations",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Désindexer temporairement les pensions les plus élevées, les prestations et le barème de l'impôt",
+        "description": "Au titre de l'urgence budgétaire (il estime qu'il reste « quelques mois au plus » pour agir), désindexer pendant plusieurs années les pensions les plus élevées en épargnant les petites retraites, ainsi que les prestations sociales et le barème de l'impôt sur le revenu ; revoir le remboursement de certains médicaments et mieux cibler les dispositifs sociaux.",
+        "chiffres": [],
+        "date": "2026-08-23",
+        "sources": [
+          {
+            "titre": "2027 : Le Maire publie un manifeste « pour une autre France »",
+            "url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france",
+            "media": "La Gazette France (AFP)",
+            "date": "2026-08-23"
+          },
+          {
+            "titre": "Bruno Le Maire : « Nous devons tourner la page de l'État providence »",
+            "url": "https://www.sudradio.fr/linvite-politique/bruno-le-maire-nous-devons-tourner-la-page-de-letat-providence",
+            "media": "Sud Radio",
+            "date": "2026-07-01"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Ni les seuils (niveau de pension à partir duquel s'appliquerait la désindexation), ni la durée, ni le rendement attendu ne sont précisés. Aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "2027 : Le Maire publie un manifeste « pour une autre France »",
+              "url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france",
+              "media": "La Gazette France (AFP)",
+              "date": "2026-08-23"
+            },
+            {
+              "titre": "Bruno Le Maire : « Nous devons tourner la page de l'État providence »",
+              "url": "https://www.sudradio.fr/linvite-politique/bruno-le-maire-nous-devons-tourner-la-page-de-letat-providence",
+              "media": "Sud Radio",
+              "date": "2026-07-01"
+            }
+          ]
+        }
+      },
+      {
+        "id": "tva-sociale-2-3-points",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Hausse de 2 à 3 points de TVA contre une baisse des cotisations salariales",
+        "description": "Transférer une partie du financement du modèle social du travail vers la consommation : hausse de la TVA de 2 à 3 points, baisse des cotisations salariales et hausse du salaire net. Il soutient aussi une hausse immédiate du SMIC.",
+        "chiffres": [
+          "Hausse de TVA proposée : 2 à 3 points",
+          "Rendement estimé d'un point de taux normal : environ 8,9 Md€ (DG Trésor, cité par Fipeco)"
+        ],
+        "date": "2026-08-23",
+        "sources": [
+          {
+            "titre": "2027 : Le Maire publie un manifeste « pour une autre France »",
+            "url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france",
+            "media": "La Gazette France (AFP)",
+            "date": "2026-08-23"
+          },
+          {
+            "titre": "Présidentielle : le regain d'intérêt pour la TVA sociale, idée clivante pour augmenter le salaire net",
+            "url": "https://www.publicsenat.fr/actualites/emploi/presidentielle-le-regain-dinteret-pour-la-tva-sociale-idee-clivante-pour-augmenter-le-salaire-net",
+            "media": "Public Sénat",
+            "date": "2026-09-02"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "La mesure relève de la loi de finances et son rendement est substantiel : selon une étude 2025 de la direction générale du Trésor citée par Fipeco, un point de taux normal rapporte environ 8,9 Md€, soit de l'ordre de 18 à 27 Md€ pour 2 à 3 points (près de 14 Md€ par point si tous les taux sont relevés). Des économistes interrogés par Public Sénat soulignent toutefois ses effets inflationnistes et anti-redistributifs (retraités et ménages modestes davantage touchés), sauf désindexation des prestations.",
+          "sources": [
+            {
+              "titre": "Fiche TVA (F. Ecalle), citant une étude 2025 de la direction générale du Trésor",
+              "url": "https://www.fipeco.fr/pdf/TVA.pdf",
+              "media": "Fipeco",
+              "date": "2026-06-18"
+            },
+            {
+              "titre": "Présidentielle : le regain d'intérêt pour la TVA sociale, idée clivante pour augmenter le salaire net",
+              "url": "https://www.publicsenat.fr/actualites/emploi/presidentielle-le-regain-dinteret-pour-la-tva-sociale-idee-clivante-pour-augmenter-le-salaire-net",
+              "media": "Public Sénat",
+              "date": "2026-09-02"
+            }
+          ]
+        }
+      },
+      {
+        "id": "regle-constitutionnelle-comptes",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Règle constitutionnelle de comptes publics sains",
+        "description": "Inscrire dans la Constitution une règle imposant des comptes publics à l'équilibre, dans un contexte de dette publique qu'il juge alarmante.",
+        "chiffres": [],
+        "date": "2026-08-23",
+        "sources": [
+          {
+            "titre": "2027 : Le Maire publie un manifeste « pour une autre France »",
+            "url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france",
+            "media": "La Gazette France (AFP)",
+            "date": "2026-08-23"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La proposition suppose une révision constitutionnelle (majorité des trois cinquièmes du Congrès ou référendum). Le texte consulté ne précise ni la règle exacte ni son calendrier. Pour mémoire, la dette publique atteignait 119,0 % du PIB fin juin 2026 selon l'Insee. Aucune vérification indépendante de la proposition n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "2027 : Le Maire publie un manifeste « pour une autre France »",
+              "url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france",
+              "media": "La Gazette France (AFP)",
+              "date": "2026-08-23"
+            },
+            {
+              "titre": "Dette trimestrielle de Maastricht des administrations publiques – deuxième trimestre 2026 (Informations rapides n° 239)",
+              "url": "https://www.insee.fr/fr/statistiques/9053525",
+              "media": "Insee",
+              "date": "2026-09-29"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gouvernement-dix-ministres",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Un gouvernement réduit à dix ministres",
+        "description": "Réduire le gouvernement à dix ministres et fermer des « palais ministériels ».",
+        "chiffres": [
+          "10 ministres"
+        ],
+        "date": "2026-07-01",
+        "sources": [
+          {
+            "titre": "Bruno Le Maire : « Nous devons tourner la page de l'État providence »",
+            "url": "https://www.sudradio.fr/linvite-politique/bruno-le-maire-nous-devons-tourner-la-page-de-letat-providence",
+            "media": "Sud Radio",
+            "date": "2026-07-01"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La composition du gouvernement relève du président de la République et du Premier ministre, sans nombre fixé par la Constitution ; la mesure est donc juridiquement simple. Les économies attendues ne sont pas chiffrées et aucune évaluation indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Bruno Le Maire : « Nous devons tourner la page de l'État providence »",
+              "url": "https://www.sudradio.fr/linvite-politique/bruno-le-maire-nous-devons-tourner-la-page-de-letat-providence",
+              "media": "Sud Radio",
+              "date": "2026-07-01"
+            }
+          ]
+        }
+      },
+      {
+        "id": "federation-europe-a-six",
+        "theme": "europe-international",
+        "type": "proposition",
+        "titre": "Fédération européenne de six États-nations",
+        "description": "Créer une fédération de six États-nations (France, Allemagne, Italie, Espagne, Pologne, Pays-Bas) mettant en commun un nombre limité de politiques (intelligence artificielle, semi-conducteurs, diplômes universitaires communs, grands investissements) et pesant au sein de l'Union européenne.",
+        "chiffres": [],
+        "date": "2026-08-23",
+        "sources": [
+          {
+            "titre": "2027 : Le Maire publie un manifeste « pour une autre France »",
+            "url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france",
+            "media": "La Gazette France (AFP)",
+            "date": "2026-08-23"
+          },
+          {
+            "titre": "Bruno Le Maire : « Nous devons tourner la page de l'État providence »",
+            "url": "https://www.sudradio.fr/linvite-politique/bruno-le-maire-nous-devons-tourner-la-page-de-letat-providence",
+            "media": "Sud Radio",
+            "date": "2026-07-01"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La mise en œuvre dépend de l'accord de cinq autres gouvernements et d'un cadre juridique (coopération renforcée ou traité ad hoc) que le manifeste ne précise pas. Aucune analyse indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "2027 : Le Maire publie un manifeste « pour une autre France »",
+              "url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france",
+              "media": "La Gazette France (AFP)",
+              "date": "2026-08-23"
+            }
+          ]
+        }
+      },
+      {
+        "id": "dette-commune-1000-md",
+        "theme": "europe-international",
+        "type": "proposition",
+        "titre": "1 000 milliards d'euros de dette commune européenne",
+        "description": "Conclure un pacte franco-allemand pour « lever 1 000 milliards d'euros de dette commune » afin de financer l'investissement européen, la France s'engageant en contrepartie à réduire sa dette publique.",
+        "chiffres": [
+          "Dette commune proposée : 1 000 Md€"
+        ],
+        "date": "2026-07-01",
+        "sources": [
+          {
+            "titre": "Bruno Le Maire : « Nous devons tourner la page de l'État providence »",
+            "url": "https://www.sudradio.fr/linvite-politique/bruno-le-maire-nous-devons-tourner-la-page-de-letat-providence",
+            "media": "Sud Radio",
+            "date": "2026-07-01"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Il existe un précédent : le plan NextGenerationEU a autorisé la Commission à emprunter 750 Md€ aux prix de 2018 (environ 807 Md€ en prix courants), jusqu'en 2026. Un nouvel emprunt commun de 1 000 Md€ dépasserait ce montant et nécessiterait, comme NextGenerationEU, une décision sur les ressources propres adoptée à l'unanimité des États membres. Aucune évaluation indépendante de la proposition elle-même n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Plan de relance pour l'Europe",
+              "url": "https://commission.europa.eu/strategy-and-policy/recovery-plan-europe_fr",
+              "media": "Commission européenne",
+              "date": "2026-11-13"
+            },
+            {
+              "titre": "En quoi consiste le plan de relance Next Generation EU ?",
+              "url": "https://www.vie-publique.fr/fiches/279587-en-quoi-consiste-le-plan-de-relance-next-generation-ue",
+              "media": "Vie publique",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "droits-douane-chine",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Droits de douane élevés sur les véhicules électriques chinois subventionnés",
+        "description": "Imposer des droits de douane élevés sur les véhicules électriques chinois subventionnés, taxer davantage les petits colis venant de Chine et exiger des transferts de technologie des entreprises chinoises investissant en Europe.",
+        "chiffres": [],
+        "date": "2026-07-01",
+        "sources": [
+          {
+            "titre": "Bruno Le Maire : « Nous devons tourner la page de l'État providence »",
+            "url": "https://www.sudradio.fr/linvite-politique/bruno-le-maire-nous-devons-tourner-la-page-de-letat-providence",
+            "media": "Sud Radio",
+            "date": "2026-07-01"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "La politique commerciale est une compétence exclusive de l'Union européenne : la mesure ne peut être prise qu'à l'échelle européenne. Elle existe déjà en partie : depuis le 30 octobre 2024, l'UE applique pour cinq ans des droits compensateurs de 7,8 % à 35,3 % selon les constructeurs sur les véhicules électriques à batterie importés de Chine, qui s'ajoutent au droit de douane ordinaire. La proposition prolonge donc une orientation déjà engagée ; son ampleur supplémentaire n'est pas précisée.",
+          "sources": [
+            {
+              "titre": "La Commission européenne impose des droits compensateurs sur les importations de véhicules électriques à batterie en provenance de Chine",
+              "url": "https://trade.ec.europa.eu/access-to-markets/fr/news/la-commission-europeenne-impose-des-droits-compensateurs-sur-les-importations-de-vehicules",
+              "media": "Commission européenne (Access2Markets)",
+              "date": "2024-12-12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

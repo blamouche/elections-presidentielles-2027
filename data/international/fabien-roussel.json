@@ -1,0 +1,147 @@
+{
+  "id": "fabien-roussel",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Fabien Roussel plaide pour une « coalition pour la paix », une issue diplomatique à la guerre en Ukraine avec un statut de neutralité pour Kiev, et un dialogue avec Moscou. Le programme du PCF de 2022 prévoyait la sortie de l'OTAN et sa dissolution ainsi qu'une rupture avec les traités européens. Son programme présidentiel 2027 détaillé n'a pas été trouvé : plusieurs positions reposent sur des sources de 2022 à 2024.",
+  "axes": {
+    "europe": {
+      "position": -1,
+      "titre": "Rupture avec les traités, Europe « à géométrie choisie »",
+      "resume": "Son programme de 2022 prévoit d'engager « un processus de rupture avec les traités européens actuels » pour construire une « Union des peuples et des nations souverains, libres et associés », de mettre fin à l'indépendance de la BCE et de promouvoir une Europe « à géométrie choisie ». Aucune actualisation pour 2027 n'a été identifiée.",
+      "date": "2022",
+      "sources": [
+        {
+          "titre": "La France des jours heureux — programme de Fabien Roussel pour l'élection présidentielle 2022",
+          "url": "https://d3n8a8pro7vhmx.cloudfront.net/fabienroussel2022/pages/217/attachments/original/1643038967/exe_la_france_des_jours_heureux_LIVRE_stc.pdf",
+          "media": "Campagne Fabien Roussel 2022 (document de campagne)",
+          "date": "2022"
+        }
+      ]
+    },
+    "otan": {
+      "position": -2,
+      "titre": "Sortie de l'OTAN et demande de dissolution",
+      "resume": "Le programme de 2022 indique : « La France quittera l'Organisation du Traité de l'Atlantique-Nord (Otan) et demandera sa dissolution », au profit d'un cadre de sécurité collective européen « jusqu'à la Russie ». En mars 2024, il qualifiait de « provocation » la perspective d'adhésion de l'Ukraine à l'OTAN inscrite dans l'accord de sécurité franco-ukrainien. Position non confirmée par un programme 2027 publié.",
+      "date": "2024-03-10",
+      "sources": [
+        {
+          "titre": "La France des jours heureux — programme de Fabien Roussel pour l'élection présidentielle 2022",
+          "url": "https://d3n8a8pro7vhmx.cloudfront.net/fabienroussel2022/pages/217/attachments/original/1643038967/exe_la_france_des_jours_heureux_LIVRE_stc.pdf",
+          "media": "Campagne Fabien Roussel 2022 (document de campagne)",
+          "date": "2022"
+        },
+        {
+          "titre": "Soutien à l'Ukraine : «Nous n'avons pas besoin d'un George Bush à la française», lance Fabien Roussel",
+          "url": "https://www.europe1.fr/politique/soutien-a-lukraine-nous-navons-pas-besoin-dun-george-bush-a-la-francaise-lance-fabien-roussel-4235081",
+          "media": "Europe 1",
+          "date": "2024-03-10"
+        }
+      ]
+    },
+    "trump": {
+      "position": -2,
+      "titre": "Trump qualifié de « tyran »",
+      "resume": "Le 16 juin 2026 sur Sud Radio, à propos d'une venue de Donald Trump à Versailles : « On ne déroule pas le tapis rouge à un tyran ». Il qualifie la guerre en Iran de « guerre criminelle » dont « le président Trump et Netanyahou portent une lourde responsabilité » et critique la menace de droits de douane de 100 % sur les vins français.",
+      "date": "2026-06-16",
+      "sources": [
+        {
+          "titre": "Fabien Roussel : \"Trump à Versailles ? On ne déroule pas le tapis rouge à un tyran !\"",
+          "url": "https://www.sudradio.fr/linvite-politique/fabien-roussel-trump-versailles-tapis-rouge-tyran",
+          "media": "Sud Radio",
+          "date": "2026-06-16"
+        }
+      ]
+    },
+    "russie": {
+      "position": -1,
+      "titre": "Dialogue avec Poutine, retrait russe demandé",
+      "resume": "Le 16 juin 2026, il estime qu'« il est temps que la France et la diplomatie européenne décident de prendre langue avec Poutine » pour mettre fin à la guerre. En mars 2024, il affirmait que « Poutine ne doit pas gagner la guerre » et que « tout doit être fait pour que les troupes russes se retirent d'Ukraine ». Cran −1 : priorité affichée au dialogue ; aucune position récente sur les sanctions n'a été identifiée.",
+      "date": "2026-06-16",
+      "sources": [
+        {
+          "titre": "Fabien Roussel : \"Trump à Versailles ? On ne déroule pas le tapis rouge à un tyran !\"",
+          "url": "https://www.sudradio.fr/linvite-politique/fabien-roussel-trump-versailles-tapis-rouge-tyran",
+          "media": "Sud Radio",
+          "date": "2026-06-16"
+        },
+        {
+          "titre": "Ukraine : \"Je ne veux pas que la France entre en guerre contre la Russie\", déclare Fabien Roussel",
+          "url": "https://www.sudradio.fr/linvite-politique/ukraine-je-ne-veux-pas-que-la-france-entre-en-guerre-contre-la-russie-declare-fabien-roussel",
+          "media": "Sud Radio",
+          "date": "2024-03-07"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": -1,
+      "titre": "Neutralité de l'Ukraine, aide limitée aux armes défensives",
+      "resume": "En février 2024, il défend un statut de neutralité pour l'Ukraine sous l'égide de l'ONU et estime que « nous ne pouvons pas accéder » à sa demande d'entrer dans l'UE et l'OTAN, tout en jugeant que la France et l'UE « ont raison d'aider un pays qui est envahi ». En mars 2024, il accepte la livraison d'armes défensives mais refuse celles permettant de frapper le territoire russe ; les communistes votent contre l'accord de sécurité le 12 mars 2024. Le 16 juin 2026, il affirme que « cette guerre en Ukraine ne se terminera pas de manière militaire ».",
+      "date": "2026-06-16",
+      "sources": [
+        {
+          "titre": "Ukraine : pour Fabien Roussel, «nous ne pouvons pas accéder» à la demande de Kiev «de rentrer dans l'UE et l'Otan»",
+          "url": "https://www.europe1.fr/node/754277",
+          "media": "Europe 1 (avec AFP)",
+          "date": "2024-02-21"
+        },
+        {
+          "titre": "Ukraine : \"Je ne veux pas que la France entre en guerre contre la Russie\", déclare Fabien Roussel",
+          "url": "https://www.sudradio.fr/linvite-politique/ukraine-je-ne-veux-pas-que-la-france-entre-en-guerre-contre-la-russie-declare-fabien-roussel",
+          "media": "Sud Radio",
+          "date": "2024-03-07"
+        },
+        {
+          "titre": "L'Assemblée nationale soutient largement l'accord avec l'Ukraine, sans le RN qui s'abstient et LFI qui vote contre",
+          "url": "https://lcp.fr/actualites/l-assemblee-nationale-soutient-largement-l-accord-avec-l-ukraine-sans-le-rn-qui-s",
+          "media": "LCP",
+          "date": "2024-03-12"
+        },
+        {
+          "titre": "Fabien Roussel : \"Trump à Versailles ? On ne déroule pas le tapis rouge à un tyran !\"",
+          "url": "https://www.sudradio.fr/linvite-politique/fabien-roussel-trump-versailles-tapis-rouge-tyran",
+          "media": "Sud Radio",
+          "date": "2026-06-16"
+        }
+      ]
+    },
+    "chine": {
+      "position": -1,
+      "titre": "Dialogue avec Pékin, Taïwan rattaché à la Chine",
+      "resume": "En février 2022 sur France 5, il déclare que Taïwan appartient à la Chine et propose de maintenir le dialogue avec Pékin tout en défendant les droits des Taïwanais ; le ministère taïwanais des Affaires étrangères a contesté ces propos. Source ancienne : aucune déclaration récente n'a été identifiée. Cran −1 (pragmatisme) retenu par prudence.",
+      "date": "2022-02-16",
+      "sources": [
+        {
+          "titre": "French candidate's assertion rejected",
+          "url": "https://news.ltn.com.tw/news/focus/breakingnews/3831050",
+          "media": "Taipei Times / Liberty Times",
+          "date": "2022-02-16"
+        }
+      ]
+    },
+    "proche-orient": {
+      "position": 1,
+      "titre": "Dénonciation du « génocide », reconnaissance de la Palestine",
+      "resume": "Le 26 mai 2025, lors d'un rassemblement à Paris avec le PS et les Écologistes : « Non au nettoyage ethnique à Gaza et au génocide du peuple palestinien », jugeant la non-reconnaissance de l'État de Palestine « une honte ». Son programme de 2022 prévoyait cette reconnaissance. Le 16 juin 2026, il souhaite que l'armée israélienne quitte le Liban. Aucun appel explicite à des sanctions ou à un embargo n'a été identifié dans les sources consultées, d'où le cran +1.",
+      "date": "2026-06-16",
+      "sources": [
+        {
+          "titre": "Guerre à Gaza : le PS, le PCF et les Ecologistes réunis à Paris pour dénoncer le \"génocide\" commis par Israël",
+          "url": "https://www.franceinfo.fr/monde/palestine/gaza/guerre-a-gaza-le-ps-le-pcf-et-les-ecologistes-reunis-a-paris-pour-denoncer-le-genocide-commis-par-israel_7274295.html",
+          "media": "franceinfo",
+          "date": "2025-05-26"
+        },
+        {
+          "titre": "La France des jours heureux — programme de Fabien Roussel pour l'élection présidentielle 2022",
+          "url": "https://d3n8a8pro7vhmx.cloudfront.net/fabienroussel2022/pages/217/attachments/original/1643038967/exe_la_france_des_jours_heureux_LIVRE_stc.pdf",
+          "media": "Campagne Fabien Roussel 2022 (document de campagne)",
+          "date": "2022"
+        },
+        {
+          "titre": "Fabien Roussel : \"Trump à Versailles ? On ne déroule pas le tapis rouge à un tyran !\"",
+          "url": "https://www.sudradio.fr/linvite-politique/fabien-roussel-trump-versailles-tapis-rouge-tyran",
+          "media": "Sud Radio",
+          "date": "2026-06-16"
+        }
+      ]
+    }
+  }
+}

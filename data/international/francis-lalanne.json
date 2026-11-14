@@ -1,0 +1,82 @@
+{
+  "id": "francis-lalanne",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Francis Lalanne revendique une ligne « souverainiste et libertarienne » et propose de sortir de l'Union européenne (avec retour au franc) et de l'OTAN au nom de la « reprise en main de la souveraineté nationale ». Aucune position publique n'a été identifiée sur Donald Trump, la Russie, l'Ukraine, la Chine ou le Proche-Orient à la date de mise à jour.",
+  "axes": {
+    "europe": {
+      "position": -2,
+      "titre": "Sortie de l'UE et retour au franc",
+      "resume": "Candidat déclaré le 19 août 2026, il propose la sortie de l'Union européenne (« Frexit ») et le retour au franc, au nom de la « reprise en main de la souveraineté nationale ». La liste France Libre qu'il portait aux européennes de 2024 proposait déjà une sortie de l'UE.",
+      "date": "2026-08-19",
+      "sources": [
+        {
+          "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+          "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+          "media": "La Gazette France (AFP)",
+          "date": "2026-08-19"
+        },
+        {
+          "titre": "Francis Lalanne officiellement candidat à la présidentielle 2027",
+          "url": "https://www.lalibre.be/international/europe/2026/08/19/francis-lalanne-officiellement-candidat-a-la-presidentielle-2027-IYHINYS4IJG43AHUFIS2XZVX54/",
+          "media": "La Libre Belgique",
+          "date": "2026-08-19"
+        },
+        {
+          "titre": "Nouvelle carrière pour Francis Lalanne qui décide d'être candidat aux élections européennes",
+          "url": "https://www.parismatch.be/actualites/people/2024/06/03/nouvelle-carriere-pour-francis-lalanne-qui-decide-detre-candidat-aux-elections-europeennes-2EE2NLEKQRAQXEZ6UQAI4N7HUM/",
+          "media": "Paris Match Belgique",
+          "date": "2024-06-03"
+        }
+      ]
+    },
+    "otan": {
+      "position": -2,
+      "titre": "Sortie de l'OTAN",
+      "resume": "Son programme présidentiel, présenté lors de l'annonce de sa candidature le 19 août 2026, prévoit la sortie de l'OTAN.",
+      "date": "2026-08-19",
+      "sources": [
+        {
+          "titre": "Présidentielle : Francis Lalanne en meeting samedi pour lancer sa campagne",
+          "url": "https://www.lagazettefrance.fr/article/presidentielle-francis-lalanne-en-meeting-samedi-pour-lancer-sa-campagne",
+          "media": "La Gazette France (AFP)",
+          "date": "2026-08-19"
+        }
+      ]
+    },
+    "trump": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "",
+      "date": "",
+      "sources": []
+    },
+    "russie": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "",
+      "date": "",
+      "sources": []
+    },
+    "ukraine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "",
+      "date": "",
+      "sources": []
+    },
+    "chine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "",
+      "date": "",
+      "sources": []
+    },
+    "proche-orient": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "",
+      "date": "",
+      "sources": []
+    }
+  }
+}

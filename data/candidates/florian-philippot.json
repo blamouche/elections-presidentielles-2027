@@ -1,0 +1,661 @@
+{
+  "id": "florian-philippot",
+  "prenom": "Florian",
+  "nom": "Philippot",
+  "parti": "Les Patriotes",
+  "partiAbrev": "LP",
+  "famillePolitique": "extreme-droite",
+  "couleur": "#F28C00",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Florian Philippot a annoncé sa candidature le 9 mai 2026 sur France 2 (« Je suis candidat à la présidentielle »), en se présentant comme président du « plus grand mouvement souverainiste de France pour sortir le pays de l'UE et de l'Otan ». Sa candidature est conditionnelle : il a dit qu'il se rangerait derrière Philippe de Villiers si celui-ci incarnait un rassemblement souverainiste plus large. À la date de mise à jour, aucune candidature de Philippe de Villiers n'a été annoncée dans les sources consultées. En 2022, il avait renoncé faute de parrainages (un seul obtenu) ; il assure mener cette fois la collecte « de manière très professionnelle ».",
+    "date": "2026-05-09",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : le souverainiste Florian Philippot annonce sa candidature à l'Élysée",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-souverainiste-florian-philippot-annonce-sa-candidature-a-l-elysee_7993346.html",
+        "media": "franceinfo",
+        "date": "2026-05-09"
+      },
+      {
+        "titre": "« Je suis candidat » : Florian Philippot se lance pour la présidentielle de 2027",
+        "url": "https://www.sudradio.fr/politique/je-suis-candidat-florian-philippot-se-lance-pour-la-presidentielle-de-2027",
+        "media": "Sud Radio",
+        "date": "2026-05-09"
+      },
+      {
+        "titre": "Philippot candidat en 2027 : un parrainage en 2022, et toujours moins de 1% aux européennes",
+        "url": "https://info.fr/philippot-candidat-presidentielle-2027-parrainages-villiers/",
+        "media": "info.fr",
+        "date": "2026-05"
+      },
+      {
+        "titre": "Candidatures à l'élection présidentielle française de 2027",
+        "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-10"
+      },
+      {
+        "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "media": "franceinfo",
+        "date": "2026-11-09"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1981-10-24",
+      "lieu": "Croix (Nord)",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Florian Philippot",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-florian-philippot",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Florian Philippot",
+          "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Diplômé d'HEC et de l'ENA, Florian Philippot a été le principal conseiller de Marine Le Pen et vice-président du Front national (2012-2017), chargé de la stratégie et de la communication. Il quitte le FN en septembre 2017 et fonde Les Patriotes, qu'il préside depuis. Député européen de 2014 à 2019 et conseiller régional du Grand Est de 2016 à 2021, il n'a plus de mandat électif depuis 2021. Figure des manifestations contre le passe sanitaire pendant la crise du Covid-19, il défend la sortie de la France de l'UE, de l'euro, de l'OTAN et de l'OMS.",
+    "formation": [
+      {
+        "texte": "Classe préparatoire au lycée Louis-le-Grand, diplômé d'HEC Paris, École nationale d'administration (promotion Willy-Brandt).",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de Florian Philippot",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-florian-philippot",
+            "media": "Sud Radio",
+            "date": "2026"
+          },
+          {
+            "titre": "Florian Philippot",
+            "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Inspecteur de l'administration à l'Inspection générale de l'administration (affecté en 2009, en disponibilité depuis 2011).",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de Florian Philippot",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-florian-philippot",
+            "media": "Sud Radio",
+            "date": "2026"
+          },
+          {
+            "titre": "Florian Philippot",
+            "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "La biographie et le CV de Florian Philippot",
+        "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-florian-philippot",
+        "media": "Sud Radio",
+        "date": "2026"
+      },
+      {
+        "titre": "Florian Philippot",
+        "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+        "media": "franceinfo",
+        "date": "2026-11-09"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "2012",
+      "fin": "2017",
+      "fonction": "Vice-président du Front national (stratégie et communication)",
+      "details": "Du 12 juillet 2012 au 21 septembre 2017 ; il quitte le FN après la présidentielle de 2017.",
+      "sources": [
+        {
+          "titre": "Florian Philippot",
+          "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "« Je suis candidat » : Florian Philippot se lance pour la présidentielle de 2027",
+          "url": "https://www.sudradio.fr/politique/je-suis-candidat-florian-philippot-se-lance-pour-la-presidentielle-de-2027",
+          "media": "Sud Radio",
+          "date": "2026-05-09"
+        }
+      ]
+    },
+    {
+      "debut": "2014",
+      "fin": "2016",
+      "fonction": "Conseiller municipal de Forbach (Moselle)",
+      "details": "",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Florian Philippot",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-florian-philippot",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Florian Philippot",
+          "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2014",
+      "fin": "2019",
+      "fonction": "Député européen",
+      "details": "Élu en 2014 sur la liste FN ; il perd son siège en 2019, sa liste Les Patriotes obtenant environ 0,65 %.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Florian Philippot",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-florian-philippot",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Florian Philippot",
+          "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Philippot candidat en 2027 : un parrainage en 2022, et toujours moins de 1% aux européennes",
+          "url": "https://info.fr/philippot-candidat-presidentielle-2027-parrainages-villiers/",
+          "media": "info.fr",
+          "date": "2026-05"
+        }
+      ]
+    },
+    {
+      "debut": "2016",
+      "fin": "2021",
+      "fonction": "Conseiller régional du Grand Est",
+      "details": "Du 4 janvier 2016 au 2 juillet 2021 ; non réélu aux régionales de 2021 (6,95 %).",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Florian Philippot",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-florian-philippot",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Florian Philippot",
+          "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Philippot candidat en 2027 : un parrainage en 2022, et toujours moins de 1% aux européennes",
+          "url": "https://info.fr/philippot-candidat-presidentielle-2027-parrainages-villiers/",
+          "media": "info.fr",
+          "date": "2026-05"
+        }
+      ]
+    },
+    {
+      "debut": "2017",
+      "fin": null,
+      "fonction": "Président des Patriotes",
+      "details": "Association lancée en mai 2017, parti présidé par Florian Philippot depuis le 29 septembre 2017.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Florian Philippot",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-florian-philippot",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Florian Philippot",
+          "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2021",
+      "fin": "2022",
+      "fonction": "Candidat déclaré à la présidentielle de 2022 (retrait)",
+      "details": "Candidature annoncée le 14 juillet 2021 ; il renonce le 18 février 2022 faute de parrainages (un seul recueilli).",
+      "sources": [
+        {
+          "titre": "Florian Philippot",
+          "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Florian Philippot, figure des anti-passe, abandonne la course présidentielle",
+          "url": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/02/18/florian-philippot-figure-des-anti-passe-abandonne-la-course-presidentielle_6114289_6059010.html",
+          "media": "Le Monde",
+          "date": "2022-02-18"
+        }
+      ]
+    },
+    {
+      "debut": "2024",
+      "fin": "2024",
+      "fonction": "Tête de liste aux élections européennes de 2024",
+      "details": "Liste commune avec Jean-Frédéric Poisson : moins de 1 % des voix, aucun élu.",
+      "sources": [
+        {
+          "titre": "Florian Philippot",
+          "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Élections européennes : pas de miracle pour les Patriotes de Florian Philippot, qui obtiennent 1 % des voix",
+          "url": "https://www.leparisien.fr/elections/europeennes/elections-europeennes-pas-de-miracle-pour-les-patriotes-de-florian-philippot-qui-obtiennent-1-des-voix-09-06-2024-LVO7METUVVCENORMQQMRNGSBDI.php",
+          "media": "Le Parisien",
+          "date": "2024-06-09"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Aucune procédure judiciaire en cours connue le visant au 13/11/2026 et aucune condamnation connue. En 2016, le Parlement européen a refusé de lever son immunité dans une procédure en diffamation engagée par le Qatar.",
+    "affaires": [
+      {
+        "titre": "Plainte en diffamation du Qatar (immunité parlementaire européenne)",
+        "statut": "autre",
+        "role": "député européen visé par une demande de levée d'immunité",
+        "resume": "Saisi par une juridiction française d'une demande de levée de l'immunité de Florian Philippot, alors député européen, dans le cadre de poursuites pour diffamation engagées par l'État du Qatar au sujet de propos tenus dans les médias, le Parlement européen a refusé le 2 février 2016 de lever son immunité, estimant que les propos relevaient de l'exercice de son mandat. Aucune suite judiciaire ultérieure n'a été identifiée dans les sources consultées.",
+        "chronologie": [
+          {
+            "date": "2016-02-02",
+            "evenement": "Le Parlement européen refuse de lever son immunité (procédure 2015/2267(IMM)).",
+            "sources": [
+              {
+                "titre": "Demande de levée de l'immunité de Florian Philippot – procédure 2015/2267(IMM), résumé",
+                "url": "https://oeil.europarl.europa.eu/oeil/fr/document-summary?id=1422134",
+                "media": "Parlement européen (Observatoire législatif)",
+                "date": "2016-02-02"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Demande de levée de l'immunité de Florian Philippot – procédure 2015/2267(IMM), résumé",
+            "url": "https://oeil.europarl.europa.eu/oeil/fr/document-summary?id=1422134",
+            "media": "Parlement européen (Observatoire législatif)",
+            "date": "2016-02-02"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "statut": "Programme complet publié",
+    "resume": "Le « Projet pour la France » des Patriotes, mis en ligne en 2026, fait du Frexit le préalable à toutes les autres mesures : sortie de l'UE, de l'euro (retour au franc), de Schengen, de la CEDH, de l'OTAN et de l'OMS. Il prévoit la sortie du marché européen de l'électricité, un plan nucléaire, la fin de l'éolien, la renationalisation d'EDF, le référendum d'initiative citoyenne, la liberté vaccinale, des peines planchers et l'abaissement de l'âge de départ à la retraite. Le parti chiffre à 20 Md€ par an l'économie liée à la sortie de l'UE.",
+    "documents": [
+      {
+        "titre": "Projet pour la France",
+        "url": "https://les-patriotes.fr/projetpourlafrance/",
+        "media": "Les Patriotes (site du parti)",
+        "date": "2026"
+      },
+      {
+        "titre": "Projet pour la France 2026 (v2)",
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "media": "Les Patriotes (programme)",
+        "date": "2026-09"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "frexit-sortie-ue-euro-otan",
+        "theme": "europe-international",
+        "type": "proposition",
+        "titre": "Frexit : quitter l'UE, l'euro, Schengen, la CEDH, l'OTAN et l'OMS",
+        "description": "Activer l'article 50 du traité sur l'Union européenne dès la victoire présidentielle et supprimer le titre XV de la Constitution, par un vote du Congrès, un référendum constitutionnel ou une nouvelle Constitution. Quitter aussi l'euro, l'espace Schengen, la CEDH, l'OTAN et l'OMS. Mesure tirée du « Projet pour la France 2026 » des Patriotes.",
+        "chiffres": [],
+        "date": "2026-09",
+        "sources": [
+          {
+            "titre": "Projet pour la France 2026 (v2)",
+            "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+            "media": "Les Patriotes (programme)",
+            "date": "2026-09"
+          },
+          {
+            "titre": "Présidentielle 2027 : le souverainiste Florian Philippot annonce sa candidature à l'Élysée",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-souverainiste-florian-philippot-annonce-sa-candidature-a-l-elysee_7993346.html",
+            "media": "franceinfo",
+            "date": "2026-05-09"
+          },
+          {
+            "titre": "« Je suis candidat » : Florian Philippot se lance pour la présidentielle de 2027",
+            "url": "https://www.sudradio.fr/politique/je-suis-candidat-florian-philippot-se-lance-pour-la-presidentielle-de-2027",
+            "media": "Sud Radio",
+            "date": "2026-05-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le projet cite l'article 50 du TUE, qui permet à un État membre de se retirer « conformément à ses règles constitutionnelles ». Aucune analyse indépendante de la faisabilité et des coûts de transition n'a été trouvée pour ce projet. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Projet pour la France 2026 (v2)",
+              "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+              "media": "Les Patriotes (programme)",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      {
+        "id": "economie-20-md-frexit",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Économiser 20 Md€ par an grâce au Frexit",
+        "description": "Supprimer la contribution nette de la France au budget européen. Le projet indique qu'en 2023 la contribution française s'est élevée à 27,2 Md€ pour environ 12 Md€ reçus, soit un solde de 15 Md€, et estime que ce solde atteindra environ 20 Md€ avec le prochain cadre financier 2028-2034. Il propose aussi de cesser de financer l'aide européenne à l'Ukraine (10 Md€ de quote-part française selon le projet). Mesure tirée du « Projet pour la France 2026 » des Patriotes.",
+        "chiffres": [
+          "Contribution 2023 : 27,2 Md€ ; retours : environ 12 Md€ ; solde : 15 Md€ (chiffres du projet)",
+          "Économie visée : environ 20 Md€/an",
+          "Quote-part française de l'aide à l'Ukraine : 10 Md€ (selon le projet)"
+        ],
+        "date": "2026-09",
+        "sources": [
+          {
+            "titre": "Projet pour la France 2026 (v2)",
+            "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+            "media": "Les Patriotes (programme)",
+            "date": "2026-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Les montants de contribution et de retours n'ont pas pu être confrontés aux données officielles (rapport de la Cour des comptes, annexe budgétaire « Relations financières avec l'UE »). L'estimation de 20 Md€ repose sur une projection du futur budget européen. Le chiffrage ne tient pas compte des effets économiques d'une sortie, comme les droits de douane ou l'accès au marché unique. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Projet pour la France 2026 (v2)",
+              "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+              "media": "Les Patriotes (programme)",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      {
+        "id": "retour-au-franc-loi-1973",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Retour au franc et financement par la Banque de France",
+        "description": "Sortir de l'euro par une « grande loi monétaire » instituant un nouveau franc (1 nouveau franc = 1 euro au départ), convertir la dette en francs au nom du principe de lex monetae, abroger la « loi de 1973 » pour permettre à l'État d'emprunter directement auprès de la Banque de France, et créer une Caisse nationale pour l'équipement et la réindustrialisation. Mesure tirée du « Projet pour la France 2026 » des Patriotes.",
+        "chiffres": [
+          "Parité initiale : 1 nouveau franc = 1 €",
+          "Dette publique invoquée : plus de 3 305 Md€ (113 % du PIB)",
+          "Recettes supplémentaires annoncées : près de 75 Md€/an après la sortie de l'UE"
+        ],
+        "date": "2026-09",
+        "sources": [
+          {
+            "titre": "Projet pour la France 2026 (v2)",
+            "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+            "media": "Les Patriotes (programme)",
+            "date": "2026-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le projet lui-même limite la conversion aux dettes « relevant du droit français ». Les effets de la sortie de l'euro sur les taux d'intérêt, l'inflation et le pouvoir d'achat ne sont pas chiffrés. Aucun fact-check récent de cette mesure n'a été trouvé. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Projet pour la France 2026 (v2)",
+              "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+              "media": "Les Patriotes (programme)",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      {
+        "id": "electricite-nucleaire-eoliennes",
+        "theme": "environnement-energie",
+        "type": "proposition",
+        "titre": "Quitter le marché européen de l'électricité, relancer le nucléaire, en finir avec l'éolien",
+        "description": "Sortir du marché européen de l'électricité, rétablir le monopole public d'EDF, investir massivement dans le nucléaire, arrêter l'éolien terrestre et en mer et engager un plan de démantèlement des éoliennes existantes, et maintenir la vente de voitures thermiques au-delà de 2035. Le projet promet de diviser par trois le prix de l'électricité. Mesure tirée du « Projet pour la France 2026 » des Patriotes.",
+        "chiffres": [
+          "Prix de l'électricité : divisé par 3 (objectif affiché)"
+        ],
+        "date": "2026-09",
+        "sources": [
+          {
+            "titre": "Projet pour la France 2026 (v2)",
+            "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+            "media": "Les Patriotes (programme)",
+            "date": "2026-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La promesse de diviser par trois le prix de l'électricité n'est pas détaillée (part de la production, de l'acheminement et des taxes dans la facture). Aucune évaluation indépendante n'a été trouvée. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Projet pour la France 2026 (v2)",
+              "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+              "media": "Les Patriotes (programme)",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      {
+        "id": "sortie-otan",
+        "theme": "defense",
+        "type": "proposition",
+        "titre": "Quitter l'OTAN",
+        "description": "Quitter l'OTAN, présentée comme une condition de l'indépendance de la France depuis le retour dans le commandement intégré sous Nicolas Sarkozy, tout en conservant la dissuasion nucléaire nationale. Mesure tirée du « Projet pour la France 2026 » des Patriotes.",
+        "chiffres": [],
+        "date": "2026-09",
+        "sources": [
+          {
+            "titre": "Projet pour la France 2026 (v2)",
+            "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+            "media": "Les Patriotes (programme)",
+            "date": "2026-09"
+          },
+          {
+            "titre": "Présidentielle 2027 : le souverainiste Florian Philippot annonce sa candidature à l'Élysée",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-souverainiste-florian-philippot-annonce-sa-candidature-a-l-elysee_7993346.html",
+            "media": "franceinfo",
+            "date": "2026-05-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le projet ne précise ni calendrier ni coût de remplacement des capacités mutualisées. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Projet pour la France 2026 (v2)",
+              "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+              "media": "Les Patriotes (programme)",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ric-revision-referendum-ineligibilite",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "RIC sur tout sujet et inéligibilité à vie pour corruption",
+        "description": "Créer un référendum d'initiative citoyenne sur tout sujet et l'inscrire dans la Constitution, ne permettre la révision de la Constitution que par référendum (suppression de la voie du Congrès), et rendre inéligibles à vie les élus condamnés définitivement pour corruption. Mesure tirée du « Projet pour la France 2026 » des Patriotes.",
+        "chiffres": [],
+        "date": "2026-09",
+        "sources": [
+          {
+            "titre": "Projet pour la France 2026 (v2)",
+            "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+            "media": "Les Patriotes (programme)",
+            "date": "2026-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Ces mesures supposent une révision de la Constitution. Les seuils et modalités du RIC ne sont pas précisés. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Projet pour la France 2026 (v2)",
+              "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+              "media": "Les Patriotes (programme)",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      {
+        "id": "liberte-vaccinale-sortie-oms",
+        "theme": "sante",
+        "type": "proposition",
+        "titre": "Liberté vaccinale et sortie de l'OMS",
+        "description": "Garantir une « liberté vaccinale » pour tous les citoyens et les soignants (aucun soignant ne doit perdre son emploi pour avoir refusé un vaccin), sortir de l'OMS et dénoncer le traité mondial sur les pandémies, supprimer les agences régionales de santé et créer des centres de santé de proximité. Mesure tirée du « Projet pour la France 2026 » des Patriotes.",
+        "chiffres": [],
+        "date": "2026-09",
+        "sources": [
+          {
+            "titre": "Projet pour la France 2026 (v2)",
+            "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+            "media": "Les Patriotes (programme)",
+            "date": "2026-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le projet ne précise pas le sort des obligations vaccinales existantes. Aucune vérification de cette mesure n'a été trouvée. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Projet pour la France 2026 (v2)",
+              "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+              "media": "Les Patriotes (programme)",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      {
+        "id": "peines-planchers-prisons",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "Peines planchers, places de prison et expulsion des détenus étrangers",
+        "description": "Rétablir les peines planchers, sanctionner dès la première infraction, revenir sur les réductions automatiques de peine, construire « les dizaines de milliers de places de prison qui manquent » et expulser les détenus étrangers, qui représenteraient selon le projet 25 % des prisonniers. Mesure tirée du « Projet pour la France 2026 » des Patriotes.",
+        "chiffres": [
+          "Détenus étrangers : 25 % du total (chiffre du projet)"
+        ],
+        "date": "2026-09",
+        "sources": [
+          {
+            "titre": "Projet pour la France 2026 (v2)",
+            "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+            "media": "Les Patriotes (programme)",
+            "date": "2026-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La part des étrangers dans la population carcérale n'a pas pu être confrontée ici aux statistiques du ministère de la Justice. L'expulsion des détenus suppose l'accord ou la coopération des pays d'origine. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Projet pour la France 2026 (v2)",
+              "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+              "media": "Les Patriotes (programme)",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      {
+        "id": "baisser-age-retraite",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Baisser l'âge de départ à la retraite",
+        "description": "Une fois la France sortie de l'UE, baisser l'âge de départ à la retraite « si les Français le désirent », en citant l'exemple du référendum suisse qui a accordé une 13e rente aux retraités. Mesure tirée du « Projet pour la France 2026 » des Patriotes.",
+        "chiffres": [],
+        "date": "2026-09",
+        "sources": [
+          {
+            "titre": "Projet pour la France 2026 (v2)",
+            "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+            "media": "Les Patriotes (programme)",
+            "date": "2026-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le projet ne précise ni l'âge visé ni le coût ni le financement. La fixation de l'âge de départ est une compétence nationale que les traités européens n'interdisent pas de modifier ; la contrainte invoquée porte sur les règles budgétaires européennes. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Projet pour la France 2026 (v2)",
+              "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+              "media": "Les Patriotes (programme)",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      {
+        "id": "pacte-migratoire-schengen",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "Sortir du pacte migratoire européen et de Schengen",
+        "description": "Quitter l'espace Schengen pour rétablir les frontières nationales, sortir du pacte européen sur la migration et l'asile (présenté comme imposant une amende de 20 000 € par migrant refusé), quitter la CEDH, mettre fin à l'immigration de travail et à la directive sur les travailleurs détachés. Mesure tirée du « Projet pour la France 2026 » des Patriotes.",
+        "chiffres": [
+          "Montant invoqué : 20 000 € par migrant non relocalisé"
+        ],
+        "date": "2026-09",
+        "sources": [
+          {
+            "titre": "Projet pour la France 2026 (v2)",
+            "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+            "media": "Les Patriotes (programme)",
+            "date": "2026-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La qualification d'« amende » et le montant de 20 000 € par migrant n'ont pas pu être confrontés au texte du pacte européen sur la migration et l'asile. Aucune vérification de cette mesure par un fact-checkeur ou un organisme indépendant (Institut Montaigne, iFRAP, OFCE, Cour des comptes) n'a été trouvée à la date de mise à jour, et aucune donnée officielle n'a pu être consultée pour une vérification maison.",
+          "sources": [
+            {
+              "titre": "Projet pour la France 2026 (v2)",
+              "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+              "media": "Les Patriotes (programme)",
+              "date": "2026-09"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

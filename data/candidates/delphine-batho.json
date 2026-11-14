@@ -1,0 +1,435 @@
+{
+  "id": "delphine-batho",
+  "prenom": "Delphine",
+  "nom": "Batho",
+  "parti": "Génération écologie",
+  "partiAbrev": "GE",
+  "famillePolitique": "ecologiste",
+  "couleur": "#8CC63F",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Delphine Batho, présidente de Génération écologie, a annoncé sa candidature le 25 novembre 2025 dans un entretien à L'Obs, pour conjurer la « rikikisation » de l'écologie et en opposition au ralliement des Écologistes à une primaire de la gauche. Sa candidature a été officialisée par une résolution d'investiture adoptée par la 15e convention nationale de Génération écologie, publiée le 6 juin 2026. LCP (10/11/2026) la cite parmi les candidatures dont la suite reste en suspens, sans retrait annoncé ; sa campagne a présenté le 4 novembre 2026 une nouvelle affiche et un nouveau site. Elle doit réunir 500 parrainages avant le 12 mars 2027.",
+    "date": "2025-11-25",
+    "sources": [
+      {
+        "titre": "L'ex-ministre Delphine Batho candidate à la présidentielle pour conjurer la « rikikisation » de l'écologie",
+        "url": "https://www.linfodurable.fr/lex-ministre-delphine-batho-candidate-la-presidentielle-pour-conjurer-la-rikikisation-de-lecologie",
+        "media": "L'info durable (AFP)",
+        "date": "2025-11-25"
+      },
+      {
+        "titre": "« Je suis candidate à l'élection présidentielle pour reconstruire une écologie capable de gouverner »",
+        "url": "https://www.generationecologie.fr/2025/11/26/je-suis-candidate-a-lelection-presidentielle-pour-reconstruire-une-ecologie-capable-de-gouverner/",
+        "media": "Génération écologie",
+        "date": "2025-11-26"
+      },
+      {
+        "titre": "Investiture de Delphine Batho à l'élection présidentielle (résolution de la 15e convention nationale)",
+        "url": "https://www.generationecologie.fr/publication/investiture-de-delphine-batho-a-lelection-presidentielle/",
+        "media": "Génération écologie",
+        "date": "2026-06-06"
+      },
+      {
+        "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-10"
+      },
+      {
+        "titre": "Delphine Batho – site de campagne",
+        "url": "https://delphinebatho.fr",
+        "media": "Site de campagne de Delphine Batho",
+        "date": "2026-11-13"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1973-03-23",
+      "lieu": "Paris (12e arrondissement)",
+      "sources": [
+        {
+          "titre": "Delphine Batho",
+          "url": "https://fr.wikipedia.org/wiki/Delphine_Batho",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Ancienne présidente de la FIDL et vice-présidente de SOS Racisme, Delphine Batho a fait carrière au Parti socialiste, dont elle a été une spécialiste des questions de sécurité. Députée des Deux-Sèvres depuis 2007 (avec une interruption en 2012-2013), elle a été ministre déléguée à la Justice puis ministre de l'Écologie, du Développement durable et de l'Énergie (2012-2013) dans le gouvernement Ayrault, avant d'être limogée par François Hollande. Elle quitte le PS en 2018 pour présider Génération écologie. Candidate à la primaire écologiste de 2021 (3e, 22,32 %), elle défend la décroissance et une « écologie capable de gouverner » indépendante des autres partis.",
+    "formation": [
+      {
+        "texte": "Baccalauréat au lycée Henri-IV (Paris) en 1992 ; études d'histoire à l'université Paris-7, non achevées ; auditrice de l'INHESJ (2006).",
+        "sources": [
+          {
+            "titre": "Delphine Batho",
+            "url": "https://fr.wikipedia.org/wiki/Delphine_Batho",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Cadre territoriale ; salariée du conseil régional d'Île-de-France dans les années 2000, collaboratrice de Julien Dray chargée des questions de sécurité. Autrice de plusieurs ouvrages.",
+        "sources": [
+          {
+            "titre": "Delphine Batho",
+            "url": "https://fr.wikipedia.org/wiki/Delphine_Batho",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "Delphine Batho",
+        "url": "https://fr.wikipedia.org/wiki/Delphine_Batho",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "2007",
+      "fin": "2012",
+      "fonction": "Députée de la 2e circonscription des Deux-Sèvres",
+      "details": "Du 20 juin 2007 au 16 juin 2012 (PS) ; vice-présidente du groupe socialiste chargée de la sécurité.",
+      "sources": [
+        {
+          "titre": "Delphine Batho",
+          "url": "https://fr.wikipedia.org/wiki/Delphine_Batho",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2012",
+      "fin": "2012",
+      "fonction": "Ministre déléguée auprès de la garde des Sceaux, ministre de la Justice",
+      "details": "Du 16 mai au 21 juin 2012 (gouvernement Ayrault I).",
+      "sources": [
+        {
+          "titre": "Delphine Batho",
+          "url": "https://fr.wikipedia.org/wiki/Delphine_Batho",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2012",
+      "fin": "2013",
+      "fonction": "Ministre de l'Écologie, du Développement durable et de l'Énergie",
+      "details": "Du 21 juin 2012 au 2 juillet 2013 (gouvernement Ayrault II) ; il est mis fin à ses fonctions par le président de la République.",
+      "sources": [
+        {
+          "titre": "Delphine Batho",
+          "url": "https://fr.wikipedia.org/wiki/Delphine_Batho",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2013",
+      "fin": null,
+      "fonction": "Députée de la 2e circonscription des Deux-Sèvres",
+      "details": "De nouveau députée depuis le 2 août 2013, réélue en 2017, 2022 et le 7 juillet 2024 (étiquette Génération écologie, soutien du Nouveau Front populaire ; 59,21 % au second tour).",
+      "sources": [
+        {
+          "titre": "Delphine Batho",
+          "url": "https://fr.wikipedia.org/wiki/Delphine_Batho",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Déclaration d'intérêts et d'activités – Delphine Batho, députée (79)",
+          "url": "https://www.hatvp.fr/livraison/dossiers/batho-delphine-dia31077-depute-79.pdf",
+          "media": "HATVP",
+          "date": "2024"
+        }
+      ]
+    },
+    {
+      "debut": "2018",
+      "fin": null,
+      "fonction": "Présidente de Génération écologie",
+      "details": "Après avoir quitté le Parti socialiste (adhérente de 1994 à 2018).",
+      "sources": [
+        {
+          "titre": "Delphine Batho",
+          "url": "https://fr.wikipedia.org/wiki/Delphine_Batho",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2021",
+      "fin": "2021",
+      "fonction": "Candidate à la primaire écologiste pour la présidentielle 2022",
+      "details": "Troisième du premier tour avec 22,32 % des voix ; devient ensuite porte-parole de Yannick Jadot.",
+      "sources": [
+        {
+          "titre": "Delphine Batho",
+          "url": "https://fr.wikipedia.org/wiki/Delphine_Batho",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Aucune procédure judiciaire connue la visant à ce jour.",
+    "affaires": []
+  },
+  "programme": {
+    "statut": "Propositions partielles",
+    "resume": "Le site de campagne de Delphine Batho s'articule autour de quatre priorités : « la pleine santé » (sortie des pesticides en cinq ans, plan d'urgence pour l'eau, régulation de l'installation des médecins, Nutri-Score obligatoire), « la sécurité climatique et la paix » (ministère régalien de la sécurité civile, « sécurité sociale climatique », sortie des énergies fossiles, économie circulaire), « la beauté pour vivre mieux » et « la République terrestre » (loi de séparation des lobbies et de l'État, fin du présidentialisme, remplacement du PIB comme boussole). Les mesures ne sont pas chiffrées.",
+    "documents": [
+      {
+        "titre": "Delphine Batho – site de campagne",
+        "url": "https://delphinebatho.fr",
+        "media": "Site de campagne de Delphine Batho",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "La pleine santé – priorités",
+        "url": "https://delphinebatho.fr/priorites/la-pleine-sante/",
+        "media": "Site de campagne de Delphine Batho",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "La sécurité climatique et la paix – priorités",
+        "url": "https://delphinebatho.fr/priorites/la-securite-climatique-et-la-paix/",
+        "media": "Site de campagne de Delphine Batho",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "La République terrestre – priorités",
+        "url": "https://delphinebatho.fr/priorites/la-republique-terrestre/",
+        "media": "Site de campagne de Delphine Batho",
+        "date": "2026-11-13"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "sortie-pesticides-5-ans",
+        "theme": "agriculture",
+        "type": "proposition",
+        "titre": "Sortir des pesticides en cinq ans",
+        "description": "Retirer immédiatement les autorisations des pesticides les plus dangereux (cancérigènes, mutagènes, reprotoxiques, perturbateurs endocriniens) ; au terme du quinquennat, conditionner les aides publiques agricoles à l'agriculture biologique et à l'agroécologie régénérative.",
+        "chiffres": [
+          "Échéance : 5 ans"
+        ],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "La pleine santé – priorités",
+            "url": "https://delphinebatho.fr/priorites/la-pleine-sante/",
+            "media": "Site de campagne de Delphine Batho",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La proposition n'est pas chiffrée (coût de la transition pour les exploitations, compensation des pertes de rendement) et une partie des règles d'autorisation et des aides agricoles relève du cadre européen, ce que le texte ne détaille pas. Aucune vérification par un fact-checkeur ou un organisme indépendant n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "La pleine santé – priorités",
+              "url": "https://delphinebatho.fr/priorites/la-pleine-sante/",
+              "media": "Site de campagne de Delphine Batho",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "regulation-installation-medecins",
+        "theme": "sante",
+        "type": "proposition",
+        "titre": "Réguler l'installation des médecins contre les déserts médicaux",
+        "description": "Adopter une proposition de loi transpartisane, issue d'un groupe de travail cofondé par Delphine Batho à l'Assemblée, qui régulerait l'installation des médecins et créerait des centres de santé. Elle justifie la mesure par le fait que 87 % du territoire serait concerné par les déserts médicaux et affirme que 86 % de la population soutient le texte.",
+        "chiffres": [
+          "87 % du territoire en désert médical (selon la candidate)",
+          "86 % de soutien de la population (non vérifié)"
+        ],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "La pleine santé – priorités",
+            "url": "https://delphinebatho.fr/priorites/la-pleine-sante/",
+            "media": "Site de campagne de Delphine Batho",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "Le chiffre de 87 % du territoire est repris dans le débat parlementaire : Public Sénat indique qu'« en 2024, 87 % du territoire national est classé en désert médical ». Il correspond à un classement en zones sous-dotées, non à une absence totale de médecins, et l'Ordre des médecins estime que la cause principale est la pénurie de praticiens plutôt que leur répartition. Le chiffre de 86 % de soutien n'a pas pu être vérifié.",
+          "sources": [
+            {
+              "titre": "Déserts médicaux : « le vrai problème, c'est la pénurie de médecins »",
+              "url": "https://www.publicsenat.fr/actualites/sante/deserts-medicaux-le-vrai-probleme-cest-la-penurie-de-medecins-0",
+              "media": "Public Sénat",
+              "date": "2025-04-28"
+            }
+          ]
+        }
+      },
+      {
+        "id": "nutriscore-obligatoire",
+        "theme": "sante",
+        "type": "proposition",
+        "titre": "Nutri-Score obligatoire et interdiction de la publicité pour les produits nocifs",
+        "description": "Faire du ministère de l'Agriculture celui du « bien-manger » : interdire les ingrédients toxiques aux impacts sanitaires établis, rendre le Nutri-Score obligatoire et interdire la publicité pour les produits nocifs.",
+        "chiffres": [],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "La pleine santé – priorités",
+            "url": "https://delphinebatho.fr/priorites/la-pleine-sante/",
+            "media": "Site de campagne de Delphine Batho",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le texte ne précise pas comment l'obligation serait articulée avec la réglementation européenne sur l'étiquetage des denrées alimentaires. Aucune évaluation indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "La pleine santé – priorités",
+              "url": "https://delphinebatho.fr/priorites/la-pleine-sante/",
+              "media": "Site de campagne de Delphine Batho",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ministere-securite-civile",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "Un ministère régalien de la sécurité civile",
+        "description": "Créer un ministère régalien dédié à la sécurité civile, doter les sapeurs-pompiers de la loi de programmation pluriannuelle qu'ils réclament et reconnaître pleinement le volontariat et le bénévolat.",
+        "chiffres": [],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "La sécurité climatique et la paix – priorités",
+            "url": "https://delphinebatho.fr/priorites/la-securite-climatique-et-la-paix/",
+            "media": "Site de campagne de Delphine Batho",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Ni le budget de la programmation ni le périmètre du nouveau ministère ne sont précisés. Aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "La sécurité climatique et la paix – priorités",
+              "url": "https://delphinebatho.fr/priorites/la-securite-climatique-et-la-paix/",
+              "media": "Site de campagne de Delphine Batho",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "securite-sociale-climatique",
+        "theme": "environnement-energie",
+        "type": "proposition",
+        "titre": "Une « sécurité sociale climatique »",
+        "description": "Créer une « sécurité sociale climatique » pour corriger les inégalités face aux dommages des catastrophes, rendre infrastructures et services publics (en priorité écoles et hôpitaux) robustes face au climat et développer massivement la géothermie.",
+        "chiffres": [],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "La sécurité climatique et la paix – priorités",
+            "url": "https://delphinebatho.fr/priorites/la-securite-climatique-et-la-paix/",
+            "media": "Site de campagne de Delphine Batho",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le mécanisme (financement, prestations, articulation avec le régime existant d'indemnisation des catastrophes naturelles) n'est pas décrit. Aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "La sécurité climatique et la paix – priorités",
+              "url": "https://delphinebatho.fr/priorites/la-securite-climatique-et-la-paix/",
+              "media": "Site de campagne de Delphine Batho",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "facture-fossiles-60-md",
+        "theme": "environnement-energie",
+        "type": "declaration-chiffree",
+        "titre": "« 60 milliards d'euros par an » de dépendance aux énergies fossiles importées",
+        "description": "Pour justifier la sortie des énergies fossiles, le site affirme que la dépendance aux énergies fossiles importées coûte 60 milliards d'euros par an à la France, soit 450 euros par ménage versés notamment aux États-Unis et à la Russie.",
+        "chiffres": [
+          "60 Md€ par an (selon la candidate)",
+          "Facture énergétique 2025 : 45,8 Md€ (SDES)"
+        ],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "La sécurité climatique et la paix – priorités",
+            "url": "https://delphinebatho.fr/priorites/la-securite-climatique-et-la-paix/",
+            "media": "Site de campagne de Delphine Batho",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "trompeur",
+          "analyse": "Selon le SDES, la facture énergétique de la France s'est établie à 45,8 Md€ en 2025, en baisse de 21 % sur un an, ce qui situe 2024 autour de 58 Md€ ; elle avait atteint un record en 2022 (environ trois fois le niveau de 2025). Le chiffre de 60 Md€ correspond donc à l'ordre de grandeur de 2024 mais surestime d'environ 30 % la dernière donnée annuelle disponible. Le calcul par ménage et la répartition par pays fournisseurs n'ont pas pu être vérifiés.",
+          "sources": [
+            {
+              "titre": "Bilan énergétique de la France en 2025 – données provisoires",
+              "url": "https://www.statistiques.developpement-durable.gouv.fr/bilan-energetique-de-la-france-en-2025-donnees-provisoires",
+              "media": "SDES (ministère de la Transition écologique)",
+              "date": "2026-04-22"
+            }
+          ]
+        }
+      },
+      {
+        "id": "loi-separation-lobbies-etat",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Loi de séparation des lobbies et de l'État",
+        "description": "Saisir le Parlement d'une « loi de séparation des lobbies et de l'État », mettre fin au présidentialisme, respecter le Parlement et les corps intermédiaires, et appliquer une « règle d'or de la constance » pour stabiliser les normes.",
+        "chiffres": [],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "La République terrestre – priorités",
+            "url": "https://delphinebatho.fr/priorites/la-republique-terrestre/",
+            "media": "Site de campagne de Delphine Batho",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le contenu de la loi annoncée n'est pas détaillé (règles de déport, encadrement des représentants d'intérêts au-delà du répertoire existant de la HATVP). Aucune évaluation indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "La République terrestre – priorités",
+              "url": "https://delphinebatho.fr/priorites/la-republique-terrestre/",
+              "media": "Site de campagne de Delphine Batho",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

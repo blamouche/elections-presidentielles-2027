@@ -1,0 +1,817 @@
+{
+  "id": "marine-tondelier",
+  "prenom": "Marine",
+  "nom": "Tondelier",
+  "parti": "Les Écologistes",
+  "partiAbrev": "LE",
+  "famillePolitique": "ecologiste",
+  "couleur": "#2E9E4F",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Déclarée candidate le 22 octobre 2025 dans un entretien au Nouvel Obs (« Cette interview est ma déclaration officielle de candidature »), puis au 20 heures de TF1. Désignée le 8 décembre 2025 par les adhérents des Écologistes, avec 86 % des voix face à Waleed Mouhali (14 %), pour représenter le parti à une primaire unitaire de la gauche. Cette primaire ayant échoué faute d'accord avec les socialistes, un conseil fédéral extraordinaire a adopté le 21 septembre 2026 (69,44 % des exprimés, 93 % de participation) une motion qui maintient sa candidature et renvoie la décision finale à un vote des adhérents du 10 au 13 décembre 2026 : candidature écologiste autonome ou ralliement à un autre candidat de gauche. Le 5 novembre 2026, elle se disait toujours candidate tout en se déclarant prête à se retirer s'il le fallait (« s'il faut être responsable pour plusieurs, je le serai ») ; elle était créditée d'environ 3 % dans un sondage Ifop pour LCI publié le 3 novembre 2026.",
+    "date": "2025-10-22",
+    "sources": [
+      {
+        "titre": "Marine Tondelier, la patronne des Ecologistes, officiellement candidate à la présidentielle de 2027",
+        "url": "https://www.brut.media/fr/articles/france/politique/marine-tondelier-la-patronne-des-ecologistes-officiellement-candidate-a-la-presidentielle-de-2027",
+        "media": "Brut (AFP)",
+        "date": "2025-11-17"
+      },
+      {
+        "titre": "Présidentielle 2027 : Marine Tondelier représentera Les Écologistes à la primaire de la gauche",
+        "url": "https://reporterre.net/Presidentielle-2027-Marine-Tondelier-representera-Les-Ecologistes-a-la-primaire-de-la-gauche",
+        "media": "Reporterre",
+        "date": "2025-12-08"
+      },
+      {
+        "titre": "Présidentielle 2027 : les Écologistes reportent l'heure du choix à décembre, Marine Tondelier toujours en lice",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice",
+        "media": "Public Sénat",
+        "date": "2026-09-21"
+      },
+      {
+        "titre": "Présidentielle française: la candidate des Écologistes Marine Tondelier annonce avoir accouché d'un garçon",
+        "url": "https://www.parismatch.be/actualites/monde/2026/09/23/presidentielle-francaise-la-candidate-des-ecologistes-marine-tondelier-annonce-avoir-accouche-dun-garcon-LWTVYJU77ZFOVGWA7GAN2DW72U/",
+        "media": "Paris Match Belgique (AFP)",
+        "date": "2026-09-23"
+      },
+      {
+        "titre": "Présidentielle 2027 : « Personne ne gagnera seul », assure Marine Tondelier",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-personne-ne-gagnera-seul-assure-marine-tondelier",
+        "media": "Public Sénat",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1986-08-23",
+      "lieu": "Bois-Bernard (Pas-de-Calais)",
+      "sources": [
+        {
+          "titre": "Marine Tondelier : biographie et CV politique",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-marine-tondelier",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Marine Tondelier",
+          "url": "https://en.wikipedia.org/wiki/Marine_Tondelier",
+          "media": "Wikipédia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Originaire du bassin minier du Pas-de-Calais, Marine Tondelier a été conseillère municipale d'opposition à Hénin-Beaumont de 2014 à 2026, face au maire RN Steeve Briois, et a affronté Marine Le Pen aux législatives de 2012, 2017 et 2022. Elle est secrétaire nationale d'EELV, devenu Les Écologistes, depuis décembre 2022 (réélue en avril 2025). Candidate déclarée à la présidentielle depuis octobre 2025, elle se présente comme une « pacificatrice » de la gauche et défend une candidature d'union ; le maintien de sa candidature sera tranché par un vote des adhérents de son parti du 10 au 13 décembre 2026.",
+    "formation": [
+      {
+        "texte": "Diplômée de Sciences Po Lille (2009, filière service public) ; master en management de la santé (établissement non précisé).",
+        "sources": [
+          {
+            "titre": "Marine Tondelier",
+            "url": "https://en.wikipedia.org/wiki/Marine_Tondelier",
+            "media": "Wikipédia (en)",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Marine Tondelier : biographie et CV politique",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-marine-tondelier",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Assistante parlementaire de la sénatrice Aline Archimbaud (2011-2015) puis collaboratrice de Cécile Duflot (2015-2017).",
+        "sources": [
+          {
+            "titre": "Marine Tondelier",
+            "url": "https://en.wikipedia.org/wiki/Marine_Tondelier",
+            "media": "Wikipédia (en)",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Marine Tondelier, combattante de l'unité",
+            "url": "https://www.politis.fr/articles/2025/04/politique-portrait-les-ecologistes-marine-tondelier-combattante-de-lunite",
+            "media": "Politis",
+            "date": "2025-04-09"
+          },
+          {
+            "titre": "Marine Tondelier : biographie et CV politique",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-marine-tondelier",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "texte": "Déléguée générale de l'organisme national fédérant les associations agréées de surveillance de la qualité de l'air (2017-2022).",
+        "sources": [
+          {
+            "titre": "Marine Tondelier",
+            "url": "https://en.wikipedia.org/wiki/Marine_Tondelier",
+            "media": "Wikipédia (en)",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Marine Tondelier : biographie et CV politique",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-marine-tondelier",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "Marine Tondelier",
+        "url": "https://en.wikipedia.org/wiki/Marine_Tondelier",
+        "media": "Wikipédia (en)",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Marine Tondelier, combattante de l'unité",
+        "url": "https://www.politis.fr/articles/2025/04/politique-portrait-les-ecologistes-marine-tondelier-combattante-de-lunite",
+        "media": "Politis",
+        "date": "2025-04-09"
+      },
+      {
+        "titre": "Marine Tondelier : biographie et CV politique",
+        "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-marine-tondelier",
+        "media": "Sud Radio",
+        "date": "2026-11-13"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "2012",
+      "fin": "2022",
+      "fonction": "Candidate aux élections législatives dans le Pas-de-Calais",
+      "details": "Candidate en 2012, 2017 et 2022 face à Marine Le Pen ; en 2022, soutenue par la NUPES, elle arrive deuxième au premier tour (environ 23 %) et est battue au second tour.",
+      "sources": [
+        {
+          "titre": "Marine Tondelier, combattante de l'unité",
+          "url": "https://www.politis.fr/articles/2025/04/politique-portrait-les-ecologistes-marine-tondelier-combattante-de-lunite",
+          "media": "Politis",
+          "date": "2025-04-09"
+        },
+        {
+          "titre": "Marine Tondelier",
+          "url": "https://en.wikipedia.org/wiki/Marine_Tondelier",
+          "media": "Wikipédia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2014",
+      "fin": "2026",
+      "fonction": "Conseillère municipale d'Hénin-Beaumont (opposition)",
+      "details": "Élue en mars 2014, opposante au maire RN Steeve Briois ; selon Politis (entretien du 24 mars 2026), elle était conseillère municipale « jusqu'à » l'issue des élections municipales de mars 2026, et Sud Radio indique un mandat de 2014 à 2026.",
+      "sources": [
+        {
+          "titre": "Marine Tondelier : « Ce n'est pas parce qu'on a subi des revers électoraux qu'on va baisser les bras »",
+          "url": "https://www.politis.fr/articles/2026/03/politique-entretien-marine-tondelier-ce-nest-pas-parce-quon-a-subi-des-revers-electoraux-quon-va-baisser-les-bras/",
+          "media": "Politis",
+          "date": "2026-03-24"
+        },
+        {
+          "titre": "Marine Tondelier : biographie et CV politique",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-marine-tondelier",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Marine Tondelier, combattante de l'unité",
+          "url": "https://www.politis.fr/articles/2025/04/politique-portrait-les-ecologistes-marine-tondelier-combattante-de-lunite",
+          "media": "Politis",
+          "date": "2025-04-09"
+        },
+        {
+          "titre": "Marine Tondelier",
+          "url": "https://en.wikipedia.org/wiki/Marine_Tondelier",
+          "media": "Wikipédia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2014",
+      "fin": "2026",
+      "fonction": "Conseillère communautaire de la communauté d'agglomération Hénin-Carvin",
+      "details": "De 2014 à 2026 selon Sud Radio (avril 2014 selon Wikipédia).",
+      "sources": [
+        {
+          "titre": "Marine Tondelier : biographie et CV politique",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-marine-tondelier",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Marine Tondelier",
+          "url": "https://en.wikipedia.org/wiki/Marine_Tondelier",
+          "media": "Wikipédia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2021",
+      "fin": null,
+      "fonction": "Conseillère régionale des Hauts-de-France",
+      "details": "Depuis 2021 (juillet 2021 selon Wikipédia).",
+      "sources": [
+        {
+          "titre": "Marine Tondelier : biographie et CV politique",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-marine-tondelier",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Marine Tondelier",
+          "url": "https://en.wikipedia.org/wiki/Marine_Tondelier",
+          "media": "Wikipédia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2022",
+      "fin": null,
+      "fonction": "Secrétaire nationale d'EELV, devenu Les Écologistes",
+      "details": "Élue le 10 décembre 2022 au congrès du parti ; réélue pour trois ans le 18 avril 2025, avec 73 % des voix dès le premier tour du congrès des Écologistes. Elle a auparavant été porte-parole de la campagne présidentielle de Yannick Jadot en 2022.",
+      "sources": [
+        {
+          "titre": "Au Congrès des Écologistes, Marine Tondelier sommée de clarifier sa ligne politique",
+          "url": "https://reporterre.net/Au-Congres-des-Ecologistes-Marine-Tondelier-sommee-de-clarifier-sa-ligne-politique",
+          "media": "Reporterre",
+          "date": "2025-04-25"
+        },
+        {
+          "titre": "Marine Tondelier",
+          "url": "https://en.wikipedia.org/wiki/Marine_Tondelier",
+          "media": "Wikipédia (en)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Marine Tondelier, la patronne des Ecologistes, officiellement candidate à la présidentielle de 2027",
+          "url": "https://www.brut.media/fr/articles/france/politique/marine-tondelier-la-patronne-des-ecologistes-officiellement-candidate-a-la-presidentielle-de-2027",
+          "media": "Brut (AFP)",
+          "date": "2025-11-17"
+        },
+        {
+          "titre": "Marine Tondelier, combattante de l'unité",
+          "url": "https://www.politis.fr/articles/2025/04/politique-portrait-les-ecologistes-marine-tondelier-combattante-de-lunite",
+          "media": "Politis",
+          "date": "2025-04-09"
+        }
+      ]
+    },
+    {
+      "debut": "2025",
+      "fin": null,
+      "fonction": "Candidate à l'élection présidentielle de 2027",
+      "details": "Déclarée le 22 octobre 2025 ; investie par son parti en décembre 2025 puis maintenue le 21 septembre 2026, sous réserve du vote des adhérents de décembre 2026.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : les Écologistes reportent l'heure du choix à décembre, Marine Tondelier toujours en lice",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice",
+          "media": "Public Sénat",
+          "date": "2026-09-21"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Aucune procédure judiciaire connue la visant comme mise en cause au 13 novembre 2026 ; elle a déposé une plainte pour injures publiques contre le maire RN d'Hénin-Beaumont.",
+    "affaires": [
+      {
+        "titre": "Plainte pour injures publiques contre Steeve Briois, maire d'Hénin-Beaumont",
+        "statut": "autre",
+        "role": "plaignante",
+        "resume": "Lors du conseil municipal du 18 novembre 2025, consacré à la délégation des crèches municipales à une entreprise privée, le maire RN Steeve Briois a qualifié des élus d'opposition de « Khmers verts » ; Marine Tondelier affirme qu'il l'a aussi qualifiée d'« Attila Tondelier » et de « pire que Staline ». Elle a déposé plainte pour « injures publiques » le 11 février 2026 auprès du tribunal de Béthune, ce qu'elle a annoncé le 3 mars 2026. Le maire invoque la liberté d'expression. Aucune suite judiciaire n'est connue à la date de mise à jour ; M. Briois bénéficie de la présomption d'innocence.",
+        "chronologie": [
+          {
+            "date": "2025-11-18",
+            "evenement": "Conseil municipal d'Hénin-Beaumont au cours duquel les propos visés sont tenus (la source indique « 18 novembre » sans année ; 2025 est déduit de la chronologie de la plainte).",
+            "sources": [
+              {
+                "titre": "Injures publiques: Marine Tondelier porte plainte contre le maire RN Steeve Briois",
+                "url": "https://www.brut.media/fr/articles/injures-publiques-marine-tondelier-porte-plainte-contre-le-maire-rn-steeve-briois",
+                "media": "Brut (AFP)",
+                "date": "2026-03-04"
+              }
+            ]
+          },
+          {
+            "date": "2026-02-11",
+            "evenement": "Dépôt de la plainte pour injures publiques (tribunal de Béthune).",
+            "sources": [
+              {
+                "titre": "Injures publiques: Marine Tondelier porte plainte contre le maire RN Steeve Briois",
+                "url": "https://www.brut.media/fr/articles/injures-publiques-marine-tondelier-porte-plainte-contre-le-maire-rn-steeve-briois",
+                "media": "Brut (AFP)",
+                "date": "2026-03-04"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Injures publiques: Marine Tondelier porte plainte contre le maire RN Steeve Briois",
+            "url": "https://www.brut.media/fr/articles/injures-publiques-marine-tondelier-porte-plainte-contre-le-maire-rn-steeve-briois",
+            "media": "Brut (AFP)",
+            "date": "2026-03-04"
+          },
+          {
+            "titre": "Marine Tondelier va porter plainte après des propos du maire RN Steeve Briois",
+            "url": "https://www.brut.media/fr/articles/france/politique/marine-tondelier-va-porter-plainte-apres-des-propos-du-maire-rn-steeve-briois",
+            "media": "Brut (AFP)",
+            "date": "2026-03"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "statut": "Propositions partielles",
+    "resume": "Marine Tondelier présente son projet par livrets thématiques, sans coût global publié. Il combine un « bouclier social et environnemental » centré sur les dépenses contraintes (transport, logement, alimentation), avec notamment un parc social d'un million de voitures électriques, une hausse du SMIC à 2 000 € brut, la réduction du temps de travail dans certains métiers et l'abrogation de la réforme des retraites. Elle promet aussi un renforcement massif des services publics : 2 000 centres de santé d'ici 2030, 250 000 à 300 000 postes de fonctionnaires, 26 000 postes dans la justice. Le financement repose notamment sur une surtaxe des successions de plus de 4 millions d'euros et sur la réduction d'une partie des exonérations de cotisations patronales. Le parti a mis en ligne en juillet 2026 un projet de 557 propositions (projet.lesecologistes.fr), organisé autour de quatre priorités dont la « prospérité écologique », dont elle a présenté les grandes lignes aux universités d'été de Grenoble (22-23 août 2026).",
+    "documents": [
+      {
+        "titre": "Projet | Les écologistes (projet 2027 : prospérité écologique, nation solidaire et juste, société de l'émancipation, Europe démocratique)",
+        "url": "https://projet.lesecologistes.fr",
+        "media": "Les Écologistes",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Présidentielle 2027 : et soudain, l'écologie est partout",
+        "url": "https://reporterre.net/Presidentielle-2027-de-Melenchon-a-Glucksmann-l-ecologie-a-toutes-les-sauces",
+        "media": "Reporterre",
+        "date": "2026-08-25"
+      },
+      {
+        "titre": "Présidentielle : Tondelier présente ses mesures pour « travailler mieux »",
+        "url": "https://www.linfodurable.fr/presidentielle-tondelier-presente-ses-mesures-pour-travailler-mieux-59648",
+        "media": "L'Info Durable (AFP)",
+        "date": "2026-11-04"
+      },
+      {
+        "titre": "Présidentielle 2027 : Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030 en France",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-marine-tondelier-promet-l-ouverture-de-2-000-centres-de-sante-d-ici-2030-en-france_8279639.html",
+        "media": "franceinfo",
+        "date": "2026-11-12"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "smic-2000-euros-brut",
+        "theme": "emploi-travail",
+        "type": "proposition",
+        "titre": "SMIC à 2 000 € brut dès 2027",
+        "description": "Porter le salaire minimum à 2 000 € brut mensuels dès 2027, et plafonner l'écart entre la rémunération des dirigeants et le salaire médian à 1 pour 20, en conditionnant les aides publiques à ce plafond.",
+        "chiffres": [
+          "SMIC : 2 000 € brut/mois dès 2027",
+          "Écart maximal de rémunération : 1 à 20"
+        ],
+        "date": "2026-11-04",
+        "sources": [
+          {
+            "titre": "Présidentielle : Tondelier présente ses mesures pour « travailler mieux »",
+            "url": "https://www.linfodurable.fr/presidentielle-tondelier-presente-ses-mesures-pour-travailler-mieux-59648",
+            "media": "L'Info Durable (AFP)",
+            "date": "2026-11-04"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun chiffrage du coût ni des effets sur l'emploi n'a été publié par la candidate ni trouvé chez un organisme indépendant. Référence officielle : au 1er janvier 2026, le SMIC brut mensuel (35 h) est de 1 823,03 € ; la mesure représente donc une hausse d'environ 9,7 %. Son coût pour les finances publiques dépendra notamment du sort des allègements de cotisations indexés sur le SMIC, non précisé.",
+          "sources": [
+            {
+              "titre": "Le SMIC revalorisé au 1er janvier 2026",
+              "url": "https://www.info.gouv.fr/actualite/le-smic-revalorise-au-1er-janvier-2026",
+              "media": "info.gouv.fr (Gouvernement)",
+              "date": "2026-01"
+            }
+          ]
+        }
+      },
+      {
+        "id": "semaine-32-heures",
+        "theme": "emploi-travail",
+        "type": "proposition",
+        "titre": "32 heures dans les métiers pénibles et expérimentation de la semaine de 4 jours",
+        "description": "Réduction de la durée légale à 32 heures sans perte de salaire dans les métiers pénibles et de nuit ; expérimentation de la semaine de quatre jours (32 h) pendant trois ans dans 200 entreprises volontaires. Objectif « zéro mort au travail » en 2032 et reconnaissance du burn-out comme maladie professionnelle.",
+        "chiffres": [
+          "32 h sans perte de salaire (métiers pénibles et de nuit)",
+          "Expérimentation : 200 entreprises pendant 3 ans",
+          "Zéro mort au travail en 2032"
+        ],
+        "date": "2026-11-04",
+        "sources": [
+          {
+            "titre": "Présidentielle : Tondelier présente ses mesures pour « travailler mieux »",
+            "url": "https://www.linfodurable.fr/presidentielle-tondelier-presente-ses-mesures-pour-travailler-mieux-59648",
+            "media": "L'Info Durable (AFP)",
+            "date": "2026-11-04"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Ni le périmètre des métiers concernés ni le coût (compensation salariale, embauches) n'ont été précisés, et aucune évaluation indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Présidentielle : Tondelier présente ses mesures pour « travailler mieux »",
+              "url": "https://www.linfodurable.fr/presidentielle-tondelier-presente-ses-mesures-pour-travailler-mieux-59648",
+              "media": "L'Info Durable (AFP)",
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      },
+      {
+        "id": "conge-climatique",
+        "theme": "environnement-energie",
+        "type": "proposition",
+        "titre": "Congé climatique d'au moins 5 jours par an",
+        "description": "Au moins cinq jours de congé par an en cas de températures extrêmes ou de catastrophe climatique ; création d'une « sécurité sociale professionnelle » pour les salariés touchés par la transition écologique, droit de veto écologique pour les CSE et extension de la clause de conscience.",
+        "chiffres": [
+          "Au moins 5 jours/an"
+        ],
+        "date": "2026-11-04",
+        "sources": [
+          {
+            "titre": "Présidentielle : Tondelier présente ses mesures pour « travailler mieux »",
+            "url": "https://www.linfodurable.fr/presidentielle-tondelier-presente-ses-mesures-pour-travailler-mieux-59648",
+            "media": "L'Info Durable (AFP)",
+            "date": "2026-11-04"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Mesure non chiffrée (financement par l'employeur, l'assurance chômage ou l'État non précisé) ; aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Présidentielle : Tondelier présente ses mesures pour « travailler mieux »",
+              "url": "https://www.linfodurable.fr/presidentielle-tondelier-presente-ses-mesures-pour-travailler-mieux-59648",
+              "media": "L'Info Durable (AFP)",
+              "date": "2026-11-04"
+            }
+          ]
+        }
+      },
+      {
+        "id": "retraites-abrogation-62-puis-60",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Abroger la réforme de 2023, puis viser un retour à 60 ans",
+        "description": "Abrogation de la dernière réforme des retraites (« On revient mécaniquement à 62 ans en un trait de plume »), puis, à plus long terme, retour à 60 ans en priorité pour les carrières longues et les métiers pénibles. Financement envisagé : revenir sur une partie des exonérations de cotisations patronales.",
+        "chiffres": [
+          "Âge légal ramené à 62 ans, puis objectif de 60 ans pour certains publics"
+        ],
+        "date": "2026-09",
+        "sources": [
+          {
+            "titre": "Changement de système, passage à 60 ou à 65 ans, capitalisation... Que proposent les principaux candidats à l'élection présidentielle pour les retraites ?",
+            "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/changement-de-systeme-passage-a-60-ou-a-65-ans-capitalisation-que-proposent-les-principaux-candidats-a-l-election-presidentielle-pour-les-retraites_8215784.html",
+            "media": "franceinfo",
+            "date": "2026-09-30"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La candidate n'a pas publié de chiffrage. Références : selon l'Institut Montaigne (sur la base des documents du PLFRSS 2023), les mesures d'âge et de durée de la réforme de 2023 rapportent environ 8,2 Md€ à l'horizon 2027 ; selon la Cour des comptes (2025), un retour à 62 ans creuserait le déficit des retraites de 10,4 Md€ en 2035. Le retour à 60 ans, même ciblé, aurait un coût supplémentaire non estimé.",
+          "sources": [
+            {
+              "titre": "Abroger la réforme des retraites et, pour ceux ayant commencé à travailler avant 20 ans, partir à 40 annuités de cotisations",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/abroger-la-reforme-des-retraites-et-pour-ceux-ayant-commence-a-travailler-avant-20-ans-partir-a-40-annuites-de-cotisations",
+              "media": "Institut Montaigne",
+              "date": "2024-06"
+            },
+            {
+              "titre": "Retraites : « si vous abrogez la réforme de 2023, c'est 10 milliards d'euros de plus qu'il faut trouver », souligne Pierre Moscovici",
+              "url": "https://www.publicsenat.fr/actualites/emploi/retraites-si-vous-abrogez-la-reforme-de-2023-cest-10-milliards-deuros-de-plus-quil-faut-trouver-souligne-pierre-moscovici",
+              "media": "Public Sénat",
+              "date": "2025-03-05"
+            }
+          ]
+        }
+      },
+      {
+        "id": "surtaxe-heritages-4-millions",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Surtaxe sur les successions de plus de 4 M€",
+        "description": "Surtaxe de 10 points sur la part des héritages supérieure à 4 millions d'euros, puis de 10 points supplémentaires au-delà de 13 millions (soit 20 points au maximum), destinée à financer le « bouclier social et environnemental » et le reste du programme. Selon LCP, le dispositif des Écologistes prévoit aussi d'abaisser de 75 % à 50 % l'exonération du pacte Dutreil et de supprimer les avantages fiscaux liés au démembrement de propriété, pour un rendement estimé par le parti à 15 Md€ par an (« La “grande transmission” doit financer la “grande transition” »).",
+        "chiffres": [
+          "+10 points au-delà de 4 M€, +10 points supplémentaires au-delà de 13 M€",
+          "Recettes annoncées : 10 Md€ en 2027, puis 15 Md€/an jusqu'en 2040",
+          "Pacte Dutreil : exonération ramenée de 75 % à 50 %"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030 en France",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-marine-tondelier-promet-l-ouverture-de-2-000-centres-de-sante-d-ici-2030-en-france_8279639.html",
+            "media": "franceinfo",
+            "date": "2026-11-12"
+          },
+          {
+            "titre": "Surtaxer les « méga-héritages » ou réduire les droits de succession, le débat fiscal qui divise la gauche et la droite pour la présidentielle",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/surtaxer-les-mega-heritages-ou-reduire-les-droits-de-succession-le-debat-fiscal-qui-divise-la-gauche-et-la-droite-pour-la-presidentielle_8163758.html",
+            "media": "franceinfo",
+            "date": "2026-08-27"
+          },
+          {
+            "titre": "Héritages et droits de succession: que proposent les candidats à l'élection présidentielle?",
+            "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election",
+            "media": "LCP",
+            "date": "2026-08-27"
+          }
+        ],
+        "factCheck": {
+          "verdict": "invérifiable",
+          "analyse": "Aucun chiffrage indépendant de la proposition n'a été trouvé, et la répartition des successions au-delà de 4 M€ n'est pas publiée dans les sources consultées. Ordres de grandeur : selon la Cour des comptes citée par LCP, les droits de succession ont rapporté environ 16,6 Md€ en 2023 ; 15 Md€ supplémentaires par an reviendraient presque à doubler ce rendement. Le Conseil d'analyse économique (note « Repenser l'héritage », décembre 2021) a toutefois estimé qu'une refonte supprimant ou réformant les principales niches (assurance-vie, démembrement, pacte Dutreil) permettrait de baisser les droits pour 99 % de la population tout en dégageant environ 12 Md€ de recettes supplémentaires. Le projet des Écologistes ne réforme qu'une partie de ces niches (Dutreil ramené à 50 %, démembrement) et ne touche pas l'assurance-vie selon les sources consultées : l'objectif de 15 Md€ par an paraît donc ambitieux au regard de cette estimation indépendante, sans pouvoir être confirmé ni infirmé faute de simulation publiée.",
+          "sources": [
+            {
+              "titre": "Héritages et droits de succession: que proposent les candidats à l'élection présidentielle?",
+              "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election",
+              "media": "LCP",
+              "date": "2026-08-27"
+            },
+            {
+              "titre": "Repenser l'héritage – communiqué de presse de la Note du CAE n° 69",
+              "url": "https://cae-eco.fr/static/pdf/CAE069_ComPresse.pdf",
+              "media": "Conseil d'analyse économique",
+              "date": "2021-12-21"
+            }
+          ]
+        }
+      },
+      {
+        "id": "parc-social-voitures-electriques",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Parc social d'un million de voitures électriques",
+        "description": "Création d'un parc social de voitures électriques « made in France et made in Europe », d'un million de véhicules sur cinq ans, accessible aux 60 % des Français les plus modestes, avec des loyers indexés sur les revenus (« à l'image des HLM pour le logement »).",
+        "chiffres": [
+          "1 000 000 de véhicules sur 5 ans",
+          "Public : 60 % des ménages les plus modestes"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030 en France",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-marine-tondelier-promet-l-ouverture-de-2-000-centres-de-sante-d-ici-2030-en-france_8279639.html",
+            "media": "franceinfo",
+            "date": "2026-11-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le coût n'a pas été chiffré. Références : les éditions 2024 et 2025 du leasing social gouvernemental ont chacune porté sur environ 50 000 véhicules ; l'enveloppe 2025 était d'environ 370 M€, soit environ 7 400 € d'aide par véhicule selon Que Choisir. Un million de véhicules sur cinq ans représenterait un rythme quatre fois supérieur ; à aide unitaire comparable, environ 7 Md€ sur cinq ans (estimation indicative), avant prise en compte de loyers indexés sur le revenu et d'une exigence de production européenne qui pourraient renchérir le dispositif.",
+          "sources": [
+            {
+              "titre": "Voiture électrique : l'efficacité toute relative du leasing social",
+              "url": "https://www.quechoisir.org/actualite-voiture-electrique-l-efficacite-toute-relative-du-leasing-social-n170896/",
+              "media": "UFC-Que Choisir",
+              "date": "2025-09-11"
+            },
+            {
+              "titre": "Gros succès : l'édition 2025 du leasing social voitures électriques, 41 500 foyers ont déjà été servis",
+              "url": "https://www.ecologie.gouv.fr/presse/gros-succes-ledition-2025-du-leasing-social-voitures-electriques-41-500-foyers-ont-deja",
+              "media": "Ministère de la Transition écologique",
+              "date": "2025-10-29"
+            }
+          ]
+        }
+      },
+      {
+        "id": "2000-centres-de-sante",
+        "theme": "sante",
+        "type": "proposition",
+        "titre": "2 000 centres de santé d'ici 2030 et 80 000 postes à l'hôpital",
+        "description": "Ouverture de 2 000 centres de santé sans dépassements d'honoraires d'ici 2030 (avec l'État, l'Assurance maladie et les collectivités), régulation de l'installation des médecins en zone surdotée (installation seulement en remplacement d'un départ), environ 80 000 postes à l'hôpital sur le quinquennat et un « service public du post-partum ».",
+        "chiffres": [
+          "2 000 centres de santé d'ici 2030",
+          "Environ 80 000 postes hospitaliers sur 5 ans"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030 en France",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-marine-tondelier-promet-l-ouverture-de-2-000-centres-de-sante-d-ici-2030-en-france_8279639.html",
+            "media": "franceinfo",
+            "date": "2026-11-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun coût n'a été annoncé et aucun chiffrage indépendant n'a été trouvé. Contexte officiel : selon la DREES, l'Assurance maladie recensait environ 2 900 centres de santé (tous types) en 2024, deux fois plus qu'en 2016, soit 900 de plus qu'en 2020 ; mais le rythme d'ouverture a nettement ralenti (-15 % en 2023, -30 % en 2024). L'objectif suppose environ 500 ouvertures nettes par an, soit une forte accélération par rapport à la tendance récente, et sa faisabilité dépend aussi du recrutement de médecins salariés.",
+          "sources": [
+            {
+              "titre": "Fiche 10 – Les soins en centre de santé (Comptes nationaux de la santé)",
+              "url": "https://drees.solidarites-sante.gouv.fr/sites/default/files/2025-12/CNS%20-%20Fiche%2010%20-%20Les%20soins%20en%20centre%20de%20sant%C3%A9.pdf",
+              "media": "DREES",
+              "date": "2025-12"
+            }
+          ]
+        }
+      },
+      {
+        "id": "justice-26000-postes",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "26 000 postes dans la justice, dont 9 000 magistrats",
+        "description": "Création de 26 000 postes dans la justice (9 000 magistrats, 10 000 greffiers, 7 000 assistants de justice), hausse des effectifs de police (non chiffrée) et plafonnement de la densité carcérale à 100 %.",
+        "chiffres": [
+          "26 000 postes : 9 000 magistrats, 10 000 greffiers, 7 000 assistants",
+          "Densité carcérale plafonnée à 100 %"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030 en France",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-marine-tondelier-promet-l-ouverture-de-2-000-centres-de-sante-d-ici-2030-en-france_8279639.html",
+            "media": "franceinfo",
+            "date": "2026-11-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Ni le coût ni le calendrier n'ont été précisés. Points de comparaison officiels : la loi d'orientation et de programmation de la justice 2023-2027 prévoit 1 500 magistrats et 1 800 greffiers supplémentaires ; au 1er décembre 2025, 489 magistrats et 571 greffiers supplémentaires étaient arrivés en juridiction, avec 1 202 auditeurs de justice en formation. Une question écrite parlementaire évoque environ 9 500 magistrats aujourd'hui, et la France compte 11,3 juges pour 100 000 habitants contre 21,9 en moyenne dans l'UE (CEPEJ). Recruter 9 000 magistrats en un quinquennat reviendrait à quasiment doubler le corps, à un rythme sans commune mesure avec les capacités de formation actuelles de l'ENM.",
+          "sources": [
+            {
+              "titre": "Renforcement historique du nombre de magistrats et de greffiers : perspectives pour l'année 2026 (communiqué)",
+              "url": "https://www.justice.gouv.fr/sites/default/files/2026-01/CP%20-%20Avancement%20des%20recrutements%20pour%20la%20Justice%20-%2012.01.2026.pdf",
+              "media": "Ministère de la Justice",
+              "date": "2026-01-12"
+            },
+            {
+              "titre": "Question écrite n° 12785 – Comment garantir l'État de droit avec une justice en sous-effectif ?",
+              "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE12785.pdf",
+              "media": "Assemblée nationale",
+              "date": "2026-09-29"
+            }
+          ]
+        }
+      },
+      {
+        "id": "fonction-publique-guichets",
+        "theme": "territoires-services-publics",
+        "type": "proposition",
+        "titre": "250 000 à 300 000 postes de fonctionnaires et guichets physiques à moins de 15 minutes",
+        "description": "Création de 250 000 à 300 000 postes de fonctionnaires sur le quinquennat et retour de guichets physiques, un guichet devant se trouver à moins de 15 minutes de chaque domicile, pour les personnes en difficulté avec le numérique (16 millions selon la candidate).",
+        "chiffres": [
+          "250 000 à 300 000 postes sur 5 ans",
+          "Guichet à moins de 15 minutes de chaque domicile",
+          "16 millions de personnes en difficulté numérique (selon la candidate)"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030 en France",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-marine-tondelier-promet-l-ouverture-de-2-000-centres-de-sante-d-ici-2030-en-france_8279639.html",
+            "media": "franceinfo",
+            "date": "2026-11-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun coût n'a été annoncé et aucune vérification indépendante n'a été trouvée, ni pour le nombre de postes ni pour le chiffre de 16 millions de personnes en difficulté numérique, qui n'a pas pu être rapproché d'une statistique officielle dans le cadre de cette recherche.",
+          "sources": [
+            {
+              "titre": "Présidentielle 2027 : Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030 en France",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-marine-tondelier-promet-l-ouverture-de-2-000-centres-de-sante-d-ici-2030-en-france_8279639.html",
+              "media": "franceinfo",
+              "date": "2026-11-12"
+            }
+          ]
+        }
+      },
+      {
+        "id": "culture-medias-1-pct",
+        "theme": "culture",
+        "type": "proposition",
+        "titre": "1 % du budget de l'État pour la culture et taxe de 3 % sur la publicité des plateformes",
+        "description": "Consacrer 1 % du budget de l'État à la culture (priorité aux outre-mer, aux zones rurales et aux quartiers populaires), inscrire le droit à une information fiable dans la Constitution, limiter à deux le nombre de titres de presse par propriétaire et instaurer une taxe de 3 % sur les recettes publicitaires des plateformes pour financer l'audiovisuel public.",
+        "chiffres": [
+          "Culture : 1 % du budget de l'État",
+          "Taxe de 3 % sur les recettes publicitaires des plateformes",
+          "Maximum 2 titres de presse par propriétaire"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030 en France",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-marine-tondelier-promet-l-ouverture-de-2-000-centres-de-sante-d-ici-2030-en-france_8279639.html",
+            "media": "franceinfo",
+            "date": "2026-11-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Ni le rendement attendu de la taxe ni l'écart entre le budget actuel de la culture et l'objectif de 1 % n'ont été précisés ; aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Présidentielle 2027 : Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030 en France",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-marine-tondelier-promet-l-ouverture-de-2-000-centres-de-sante-d-ici-2030-en-france_8279639.html",
+              "media": "franceinfo",
+              "date": "2026-11-12"
+            }
+          ]
+        }
+      },
+      {
+        "id": "decl-exonerations-77-md-10-pct",
+        "theme": "retraites",
+        "type": "declaration-chiffree",
+        "titre": "« 77 milliards d'exonérations : il suffit qu'on en prenne 10 % »",
+        "description": "Pour financer le système de retraites après l'abrogation de la réforme, la candidate affirme qu'il suffirait de reprendre 10 % des 77 milliards d'euros d'exonérations de cotisations accordées aux entreprises, soit environ 7,7 Md€.",
+        "chiffres": [
+          "Exonérations : 77 Md€",
+          "10 % ≈ 7,7 Md€"
+        ],
+        "date": "2026-09",
+        "sources": [
+          {
+            "titre": "Changement de système, passage à 60 ou à 65 ans, capitalisation... Que proposent les principaux candidats à l'élection présidentielle pour les retraites ?",
+            "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/changement-de-systeme-passage-a-60-ou-a-65-ans-capitalisation-que-proposent-les-principaux-candidats-a-l-election-presidentielle-pour-les-retraites_8215784.html",
+            "media": "franceinfo",
+            "date": "2026-09-30"
+          }
+        ],
+        "factCheck": {
+          "verdict": "trompeur",
+          "analyse": "Vérification propre, aucun fact-check publié n'ayant été trouvé. Le montant de base est exact : le Haut Conseil des rémunérations, de l'emploi et de la productivité chiffre le coût des exonérations de cotisations à 78 Md€ en 2024 selon le PLFSS, dont 66 Md€ de dispositifs généraux ; vie-publique.fr retient 75 Md€ d'exonérations de cotisations patronales en 2023. Mais 10 %, soit environ 7,7 Md€, couvrirait à peu près le déficit actuel du système (5,1 Md€ en 2025 et 6,8 Md€ en 2030 selon le rapport du COR de juin 2026), pas le coût supplémentaire de l'abrogation : la Cour des comptes estime qu'un retour à 62 ans creuserait le déficit de 10,4 Md€ en 2035, et le COR projette une dégradation à -0,9 point de PIB en 2045. Le « il suffit » sous-estime donc le besoin de financement à moyen terme, sans compter l'objectif de retour à 60 ans.",
+          "sources": [
+            {
+              "titre": "Note d'orientation sur les exonérations de cotisations sociales",
+              "url": "https://www.strategie-plan.gouv.fr/files/2024-12/hcrep_2024_note_orientation_16_decembre.pdf",
+              "media": "Haut Conseil des rémunérations, de l'emploi et de la productivité (France Stratégie)",
+              "date": "2024-12-16"
+            },
+            {
+              "titre": "Retraites : « si vous abrogez la réforme de 2023, c'est 10 milliards d'euros de plus qu'il faut trouver », souligne Pierre Moscovici",
+              "url": "https://www.publicsenat.fr/actualites/emploi/retraites-si-vous-abrogez-la-reforme-de-2023-cest-10-milliards-deuros-de-plus-quil-faut-trouver-souligne-pierre-moscovici",
+              "media": "Public Sénat",
+              "date": "2025-03-05"
+            },
+            {
+              "titre": "Exonérations de cotisations patronales : un coût de 75 milliards d'euros en 2023",
+              "url": "https://www.vie-publique.fr/en-bref/295634-exonerations-de-cotisations-patronales-75-milliards-euros-en-2023",
+              "media": "vie-publique.fr (DILA)",
+              "date": "2026-11-13"
+            },
+            {
+              "titre": "Rapport annuel du COR – Juin 2026 : synthèse",
+              "url": "https://www.cor-retraites.fr/sites/default/files/2026-06/Synth%C3%A8se_RA_2026.pdf",
+              "media": "Conseil d'orientation des retraites",
+              "date": "2026-06-11"
+            }
+          ]
+        }
+      },
+      {
+        "id": "decl-deficit-retraites-stable-2030",
+        "theme": "retraites",
+        "type": "declaration-chiffree",
+        "titre": "Un déficit des retraites « petit » et stable jusqu'en 2030",
+        "description": "La candidate juge le déficit du régime de retraites faible et affirme que le Conseil d'orientation des retraites le considère stable jusqu'en 2030.",
+        "chiffres": [
+          "Déficit stable jusqu'en 2030 (affirmation)"
+        ],
+        "date": "2026-09",
+        "sources": [
+          {
+            "titre": "Changement de système, passage à 60 ou à 65 ans, capitalisation... Que proposent les principaux candidats à l'élection présidentielle pour les retraites ?",
+            "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/changement-de-systeme-passage-a-60-ou-a-65-ans-capitalisation-que-proposent-les-principaux-candidats-a-l-election-presidentielle-pour-les-retraites_8215784.html",
+            "media": "franceinfo",
+            "date": "2026-09-30"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "Le rapport annuel du COR de juin 2026 confirme la stabilité à l'horizon 2030 en part de PIB : le système de retraite est déficitaire de 5,1 Md€ en 2025 (-0,2 point de PIB) et le déficit resterait de -0,2 point de PIB en 2030 (6,8 Md€ courants), un ordre de grandeur que l'on peut qualifier de modéré au regard de dépenses de 422 Md€. Mais le COR projette ensuite une dégradation à -0,9 point de PIB en 2045 et -2,4 points en 2070 (la Cour des comptes estimait en 2025 environ 15 Md€ de déficit en 2035) : s'en tenir à 2030 occulte cette dégradation, qui est au cœur du débat sur l'abrogation.",
+          "sources": [
+            {
+              "titre": "Rapport annuel du COR – Juin 2026 : synthèse",
+              "url": "https://www.cor-retraites.fr/sites/default/files/2026-06/Synth%C3%A8se_RA_2026.pdf",
+              "media": "Conseil d'orientation des retraites",
+              "date": "2026-06-11"
+            },
+            {
+              "titre": "Retraites : « si vous abrogez la réforme de 2023, c'est 10 milliards d'euros de plus qu'il faut trouver », souligne Pierre Moscovici",
+              "url": "https://www.publicsenat.fr/actualites/emploi/retraites-si-vous-abrogez-la-reforme-de-2023-cest-10-milliards-deuros-de-plus-quil-faut-trouver-souligne-pierre-moscovici",
+              "media": "Public Sénat",
+              "date": "2025-03-05"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

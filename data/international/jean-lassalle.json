@@ -1,0 +1,76 @@
+{
+  "id": "jean-lassalle",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Jean Lassalle défend une « Europe des Nations » plus respectueuse de la souveraineté des États et, en 2022, proposait de « préparer notre désengagement de l'OTAN ». Nous n'avons pas trouvé de prises de position publiques récentes (2025-2026) sur les autres dossiers internationaux.",
+  "axes": {
+    "europe": {
+      "position": -1,
+      "titre": "Europe des Nations, contribution revue",
+      "resume": "Dans sa profession de foi de 2022, il estime que « la construction européenne est allée trop loin », défend une « Europe des Nations », propose de débattre au Parlement de toute législation d'origine européenne et de revoir la contribution de la France au budget européen. Position non actualisée depuis 2022.",
+      "date": "2022-04",
+      "sources": [
+        {
+          "titre": "Déclaration de candidature de Jean Lassalle (présidentielle 2022)",
+          "url": "https://www.macommune.info/wp-content/uploads/2022/04/candidat-05-jean-lassalle-declaration.pdf",
+          "media": "Profession de foi officielle (via macommune.info)",
+          "date": "2022-04"
+        }
+      ]
+    },
+    "otan": {
+      "position": -1,
+      "titre": "Préparer un désengagement de l'OTAN (2022)",
+      "resume": "En 2022, il propose de « préparer notre désengagement de l'OTAN » et dénonce une « mise sous tutelle du continent européen par l'Otan et les États-Unis ». Le texte ne précise ni le calendrier ni s'il s'agit d'une sortie complète ou du seul commandement intégré : nous retenons le cran −1 plutôt que −2.",
+      "date": "2022-04",
+      "sources": [
+        {
+          "titre": "Déclaration de candidature de Jean Lassalle (présidentielle 2022)",
+          "url": "https://www.macommune.info/wp-content/uploads/2022/04/candidat-05-jean-lassalle-declaration.pdf",
+          "media": "Profession de foi officielle (via macommune.info)",
+          "date": "2022-04"
+        },
+        {
+          "titre": "Otan : les propositions des candidats à la présidentielle",
+          "url": "https://www.publicsenat.fr/actualites/politique/otan-les-propositions-des-candidats-a-la-presidentielle-200136",
+          "media": "Public Sénat",
+          "date": "2022-03-25"
+        }
+      ]
+    },
+    "trump": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration, vote ou proposition publique identifiée sur ce sujet lors de nos recherches.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "russie": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration, vote ou proposition publique identifiée sur ce sujet lors de nos recherches.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "ukraine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune position identifiée sur l'aide à l'Ukraine ; en 2022, il évoquait le conflit pour dénoncer la « tutelle » de l'OTAN et des États-Unis sur l'Europe (voir axe OTAN).",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "chine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration, vote ou proposition publique identifiée sur ce sujet lors de nos recherches.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "proche-orient": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration, vote ou proposition publique identifiée sur ce sujet lors de nos recherches.",
+      "date": "2026-11-13",
+      "sources": []
+    }
+  }
+}

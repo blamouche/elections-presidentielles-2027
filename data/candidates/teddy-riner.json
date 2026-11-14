@@ -1,0 +1,617 @@
+{
+  "id": "teddy-riner",
+  "prenom": "Teddy",
+  "nom": "Riner",
+  "parti": "Sans étiquette (campagne « La France qu'on veut »)",
+  "partiAbrev": "SE",
+  "famillePolitique": "divers",
+  "couleur": "#4A90A4",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Déclaré le 9 novembre 2026 dans une vidéo publiée sur ses réseaux sociaux et un entretien au Parisien (« je suis candidat à l'élection présidentielle »), sous le slogan « La France qu'on veut ». Il se dit « ni de droite, ni de gauche », sans parti, et s'appuie sur un noyau d'une vingtaine de personnalités (société civile, haute fonction publique, anciens ministres, dont l'ex-ministre de la Santé François Braun selon l'AFP). L'association de financement de sa campagne est présidée par l'entrepreneur Philippe Véran. Il doit encore réunir 500 parrainages d'élus avant le 12 mars 2027. Emmanuel Macron a salué sa candidature sur France 5. LCP le classe parmi les candidats déclarés issus de la société civile (liste du 10/11/2026).",
+    "date": "2026-11-09",
+    "sources": [
+      {
+        "titre": "Le judoka Teddy Riner annonce sa candidature à l'élection présidentielle de 2027",
+        "url": "https://lcp.fr/actualites/le-judoka-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-de-2027-444920",
+        "media": "LCP",
+        "date": "2026-11-09"
+      },
+      {
+        "titre": "Présidentielle 2027 : le judoka Teddy Riner se lance dans la course à l'Élysée au milieu d'une multitude de candidats",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats",
+        "media": "Public Sénat",
+        "date": "2026-11-09"
+      },
+      {
+        "titre": "Des tatamis à l'Élysée ? Teddy Riner candidat surprise à la présidentielle",
+        "url": "https://www.lalibre.be/dernieres-depeches/2026/11/09/des-tatamis-a-lelysee-teddy-riner-annonce-sa-candidature-a-la-presidentielle-TN24TXUYZBDHLNYIUW4YHZJEI4/",
+        "media": "La Libre Belgique (AFP)",
+        "date": "2026-11-09"
+      },
+      {
+        "titre": "Présidentielle 2027 : Teddy Riner au défi de transformer « son capital sympathie en capital électoral »",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-teddy-riner-au-defi-de-transformer-son-capital-sympathie-en-capital-electoral",
+        "media": "Public Sénat",
+        "date": "2026-11-10"
+      },
+      {
+        "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-10"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1989-04-07",
+      "lieu": "Pointe-à-Pitre (Guadeloupe)",
+      "sources": [
+        {
+          "titre": "Teddy Riner",
+          "url": "https://fr.wikipedia.org/wiki/Teddy_Riner",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Judoka toujours en activité, Teddy Riner est l'un des sportifs français les plus titrés : cinq titres olympiques (individuels en 2012, 2016 et 2024, par équipes mixtes en 2021 et 2024), deux médailles de bronze olympiques et onze titres mondiaux. Porte-drapeau de la délégation française aux Jeux de Rio en 2016 et dernier relayeur de la flamme olympique à Paris en 2024, il a été nommé parrain de la Grande cause nationale 2025 consacrée à la santé mentale. Il n'a jamais exercé de mandat électif ni de fonction politique. Il se présente en 2026 comme un candidat hors partis, « ni de droite, ni de gauche », et dit vouloir être « le président qui réconcilie et qui fédère ».",
+    "formation": [
+      {
+        "texte": "Baccalauréat professionnel (micro-informatique), 2009.",
+        "sources": [
+          {
+            "titre": "Teddy Riner",
+            "url": "https://fr.wikipedia.org/wiki/Teddy_Riner",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "texte": "Certificat pour sportifs de haut niveau (CSHN) de Sciences Po, suivi de 2011 à 2015 (cursus pluridisciplinaire, non diplômant au sens d'un master).",
+        "sources": [
+          {
+            "titre": "Teddy Riner",
+            "url": "https://fr.wikipedia.org/wiki/Teddy_Riner",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Judoka professionnel (Levallois Sporting Club, puis Paris Saint-Germain Judo depuis 2017, avec un retour au PSG en septembre 2026) ; il n'exclut pas de disputer les Jeux de Los Angeles 2028 « si la fonction le permet ».",
+        "sources": [
+          {
+            "titre": "Teddy Riner",
+            "url": "https://fr.wikipedia.org/wiki/Teddy_Riner",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Le judoka Teddy Riner annonce sa candidature à l'élection présidentielle de 2027",
+            "url": "https://lcp.fr/actualites/le-judoka-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-de-2027-444920",
+            "media": "LCP",
+            "date": "2026-11-09"
+          }
+        ]
+      },
+      {
+        "texte": "Entrepreneur et investisseur : marque de textile sportif Fightart (2022), investissements dans des start-up et des projets immobiliers ; plusieurs de ses sociétés ont fait l'objet de redressements fiscaux (voir rubrique judiciaire).",
+        "sources": [
+          {
+            "titre": "Teddy Riner",
+            "url": "https://fr.wikipedia.org/wiki/Teddy_Riner",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Teddy Riner, candidat épinglé par le fisc",
+            "url": "https://lessentieldeleco.fr/9356-teddy-riner-candidat-epingle-par-le-fisc/",
+            "media": "L'Essentiel de l'Éco",
+            "date": "2026-11-09"
+          }
+        ]
+      },
+      {
+        "texte": "Président de la commission des athlètes de la Fédération internationale de judo (élu en 2013) ; parrain de la Grande cause nationale 2025 « Parlons santé mentale ! ».",
+        "sources": [
+          {
+            "titre": "Teddy Riner",
+            "url": "https://fr.wikipedia.org/wiki/Teddy_Riner",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Grande cause nationale 2025 « Parlons santé mentale ! » : Teddy Riner devient le parrain",
+            "url": "https://www.info.gouv.fr/communique/grande-cause-nationale-2025-parlons-sante-mentale-teddy-riner-devient-le-parrain",
+            "media": "Gouvernement (info.gouv.fr)",
+            "date": "2025"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "Teddy Riner",
+        "url": "https://fr.wikipedia.org/wiki/Teddy_Riner",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Présidentielle 2027 : Teddy Riner au défi de transformer « son capital sympathie en capital électoral »",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-teddy-riner-au-defi-de-transformer-son-capital-sympathie-en-capital-electoral",
+        "media": "Public Sénat",
+        "date": "2026-11-10"
+      },
+      {
+        "titre": "Le judoka Teddy Riner annonce sa candidature à l'élection présidentielle de 2027",
+        "url": "https://lcp.fr/actualites/le-judoka-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-de-2027-444920",
+        "media": "LCP",
+        "date": "2026-11-09"
+      }
+    ]
+  },
+  "parcoursPolitique": [],
+  "judiciaire": {
+    "note": "Aucune procédure pénale en cours connue le visant à ce jour. Il a perdu, devant la justice administrative (cour administrative d'appel de Versailles, 15 octobre 2026), un contentieux contre un redressement fiscal : il ne s'agit pas d'une condamnation pénale ni d'une poursuite pour fraude fiscale.",
+    "affaires": [
+      {
+        "titre": "Redressement fiscal lié à la société Pullman Limousine (véhicules de luxe, années 2016-2017)",
+        "statut": "autre",
+        "role": "contribuable redressé (contentieux fiscal devant la justice administrative)",
+        "resume": "En 2019, l'administration fiscale a redressé, au titre de 2016 et 2017, les charges de véhicules de luxe (notamment une Ferrari et une Rolls-Royce dont il était le « conducteur exclusif ») supportées par sa société de location Pullman Limousine, qualifiées d'avantages occultes (environ 289 000 € selon L'Équipe), avec une majoration de 40 % pour manquement délibéré (et non la majoration de 80 % pour manœuvres frauduleuses). Le tribunal administratif de Cergy-Pontoise a rejeté sa contestation (décision révélée par L'Informé le 6 novembre 2025) ; la cour administrative d'appel de Versailles a confirmé le 15 octobre 2026, retenant une « intention délibérée » d'éluder l'impôt. Un pourvoi devant le Conseil d'État reste possible dans un délai de deux mois ; aucun pourvoi n'était connu au 13/11/2026 et son entourage n'a pas répondu à l'AFP. D'autres redressements visant ses sociétés Riner Judo Connection (2014-2016) et TR Leader Group (2022) ont été confirmés par la justice administrative selon la presse. Aucune poursuite pénale pour fraude fiscale n'est connue.",
+        "chronologie": [
+          {
+            "date": "2019",
+            "evenement": "Redressement fiscal notifié au titre des années 2016 et 2017.",
+            "sources": [
+              {
+                "titre": "La justice conforte le fisc dans un redressement visant Teddy Riner",
+                "url": "https://www.flashscore.fr/actualites/la-justice-conforte-le-fisc-dans-un-redressement-visant-teddy-riner/UXa8IVOc/",
+                "media": "Flashscore (AFP)",
+                "date": "2026-11"
+              },
+              {
+                "titre": "Teddy Riner vise 2027, pendant qu'un dossier fiscal refait surface",
+                "url": "https://www.24matins.fr/teddy-riner-vise-2027-pendant-quun-dossier-fiscal-refait-surface-1423928",
+                "media": "24matins (AFP)",
+                "date": "2026-11-10"
+              }
+            ]
+          },
+          {
+            "date": "2025-11-06",
+            "evenement": "L'Informé révèle que le tribunal administratif de Cergy-Pontoise a rejeté sa contestation.",
+            "sources": [
+              {
+                "titre": "Teddy Riner, candidat épinglé par le fisc",
+                "url": "https://lessentieldeleco.fr/9356-teddy-riner-candidat-epingle-par-le-fisc/",
+                "media": "L'Essentiel de l'Éco",
+                "date": "2026-11-09"
+              }
+            ]
+          },
+          {
+            "date": "2026-10-15",
+            "evenement": "La cour administrative d'appel de Versailles donne raison à l'administration fiscale et retient une intention délibérée de minorer l'impôt.",
+            "sources": [
+              {
+                "titre": "La justice conforte le fisc dans un redressement visant Teddy Riner",
+                "url": "https://www.flashscore.fr/actualites/la-justice-conforte-le-fisc-dans-un-redressement-visant-teddy-riner/UXa8IVOc/",
+                "media": "Flashscore (AFP)",
+                "date": "2026-11"
+              },
+              {
+                "titre": "Teddy Riner vise 2027, pendant qu'un dossier fiscal refait surface",
+                "url": "https://www.24matins.fr/teddy-riner-vise-2027-pendant-quun-dossier-fiscal-refait-surface-1423928",
+                "media": "24matins (AFP)",
+                "date": "2026-11-10"
+              },
+              {
+                "titre": "Teddy Riner, candidat épinglé par le fisc",
+                "url": "https://lessentieldeleco.fr/9356-teddy-riner-candidat-epingle-par-le-fisc/",
+                "media": "L'Essentiel de l'Éco",
+                "date": "2026-11-09"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "La justice conforte le fisc dans un redressement visant Teddy Riner",
+            "url": "https://www.flashscore.fr/actualites/la-justice-conforte-le-fisc-dans-un-redressement-visant-teddy-riner/UXa8IVOc/",
+            "media": "Flashscore (AFP)",
+            "date": "2026-11"
+          },
+          {
+            "titre": "Teddy Riner vise 2027, pendant qu'un dossier fiscal refait surface",
+            "url": "https://www.24matins.fr/teddy-riner-vise-2027-pendant-quun-dossier-fiscal-refait-surface-1423928",
+            "media": "24matins (AFP)",
+            "date": "2026-11-10"
+          },
+          {
+            "titre": "Teddy Riner, candidat épinglé par le fisc",
+            "url": "https://lessentieldeleco.fr/9356-teddy-riner-candidat-epingle-par-le-fisc/",
+            "media": "L'Essentiel de l'Éco",
+            "date": "2026-11-09"
+          },
+          {
+            "titre": "Teddy Riner",
+            "url": "https://fr.wikipedia.org/wiki/Teddy_Riner",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Présidentielle 2027 : Teddy Riner au défi de transformer « son capital sympathie en capital électoral »",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-teddy-riner-au-defi-de-transformer-son-capital-sympathie-en-capital-electoral",
+            "media": "Public Sénat",
+            "date": "2026-11-10"
+          }
+        ]
+      },
+      {
+        "titre": "Rémunération au Levallois Sporting Club",
+        "statut": "classement",
+        "role": "entendu comme suspect libre dans le cadre d'une enquête préliminaire",
+        "resume": "Après un rapport de la chambre régionale des comptes d'Île-de-France (mars 2015) sur la gestion du Levallois Sporting Club, club financé majoritairement par la commune, et sur sa rémunération (passée d'environ 193 000 € bruts annuels en 2010 à 429 000 € en 2013 selon l'AFP), Teddy Riner a été entendu le 5 octobre 2015 en tant que suspect libre par la brigade de répression de la délinquance économique, dans une enquête pour soupçons de détournement de fonds publics. Il affirmait respecter son contrat de travail. Selon L'Essentiel de l'Éco (novembre 2026), le dossier a été classé sans suite en 2019, sans poursuite.",
+        "chronologie": [
+          {
+            "date": "2015-10-05",
+            "evenement": "Audition comme suspect libre par la BRDE dans l'enquête sur la gestion du Levallois Sporting Club (soupçons de détournement de fonds publics).",
+            "sources": [
+              {
+                "titre": "Paris (AFP). Judo: Teddy Riner entendu sur la gestion de son club à Levallois",
+                "url": "https://www.tendanceouest.com/actualite-117661-paris-afp-judo-teddy-riner-entendu-sur-la-gestion-de-son-club-a-levallois",
+                "media": "Tendance Ouest (AFP)",
+                "date": "2015-10-06"
+              }
+            ]
+          },
+          {
+            "date": "2019",
+            "evenement": "Classement sans suite du dossier, sans poursuite.",
+            "sources": [
+              {
+                "titre": "Teddy Riner, candidat épinglé par le fisc",
+                "url": "https://lessentieldeleco.fr/9356-teddy-riner-candidat-epingle-par-le-fisc/",
+                "media": "L'Essentiel de l'Éco",
+                "date": "2026-11-09"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Paris (AFP). Judo: Teddy Riner entendu sur la gestion de son club à Levallois",
+            "url": "https://www.tendanceouest.com/actualite-117661-paris-afp-judo-teddy-riner-entendu-sur-la-gestion-de-son-club-a-levallois",
+            "media": "Tendance Ouest (AFP)",
+            "date": "2015-10-06"
+          },
+          {
+            "titre": "Teddy Riner, candidat épinglé par le fisc",
+            "url": "https://lessentieldeleco.fr/9356-teddy-riner-candidat-epingle-par-le-fisc/",
+            "media": "L'Essentiel de l'Éco",
+            "date": "2026-11-09"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "statut": "Pas encore de programme",
+    "resume": "Teddy Riner n'a pas encore publié de programme détaillé (annoncé « prochainement » ; son entourage le dit « prêt et solide »). Les entrées ci-dessous reprennent ses prises de position publiques, essentiellement celles de son entretien au Parisien du 9 novembre 2026 et quelques déclarations de 2024-2025. Il met en avant le redressement des finances publiques, la revalorisation du salaire net, une réforme des retraites tenant compte de la démographie et le rétablissement de l'autorité de l'État, et se pose en rempart contre « les extrêmes ». Aucune de ces orientations n'est chiffrée à ce stade.",
+    "documents": [
+      {
+        "titre": "Retraites, salaires, sécurité : que propose Teddy Riner pour la présidentielle ?",
+        "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+        "media": "LCP",
+        "date": "2026-11-10"
+      },
+      {
+        "titre": "Le judoka Teddy Riner annonce sa candidature à l'élection présidentielle de 2027",
+        "url": "https://lcp.fr/actualites/le-judoka-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-de-2027-444920",
+        "media": "LCP",
+        "date": "2026-11-09"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "reforme-retraites-repartition",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Réforme des retraites tenant compte de la démographie",
+        "description": "Juge une réforme des retraites « nécessaire » car « le système actuel ne tient pas » ; propose une réforme qui tienne compte de la démographie et de critères de pénibilité, en conservant le système par répartition sans exclure « une part de capitalisation ».",
+        "chiffres": [],
+        "date": "2026-11-09",
+        "sources": [
+          {
+            "titre": "Retraites, salaires, sécurité : que propose Teddy Riner pour la présidentielle ?",
+            "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+            "media": "LCP",
+            "date": "2026-11-10"
+          },
+          {
+            "titre": "Présidentielle 2027 : le judoka Teddy Riner se lance dans la course à l'Élysée au milieu d'une multitude de candidats",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats",
+            "media": "Public Sénat",
+            "date": "2026-11-09"
+          },
+          {
+            "titre": "Des tatamis à l'Élysée ? Teddy Riner candidat surprise à la présidentielle",
+            "url": "https://www.lalibre.be/dernieres-depeches/2026/11/09/des-tatamis-a-lelysee-teddy-riner-annonce-sa-candidature-a-la-presidentielle-TN24TXUYZBDHLNYIUW4YHZJEI4/",
+            "media": "La Libre Belgique (AFP)",
+            "date": "2026-11-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "Vérification maison de la justification avancée. Selon le rapport annuel du COR de juin 2026, le système de retraite était déficitaire de 5,1 Md€ en 2025 (-0,2 point de PIB) et le resterait durablement : -0,2 % du PIB en 2030, -0,9 % en 2045 et -2,4 % en 2070, principalement du fait de la révision de l'hypothèse de fécondité (1,45 enfant par femme). Le constat d'un déséquilibre durable est donc étayé, mais l'expression « ne tient pas » est forte au regard d'un déficit qui resterait modéré jusqu'en 2045. La mesure elle-même n'est ni détaillée ni chiffrée.",
+          "sources": [
+            {
+              "titre": "Rapport annuel du COR – Juin 2026 : synthèse",
+              "url": "https://www.cor-retraites.fr/sites/default/files/2026-06/Synth%C3%A8se_RA_2026.pdf",
+              "media": "Conseil d'orientation des retraites",
+              "date": "2026-06"
+            }
+          ]
+        }
+      },
+      {
+        "id": "salaire-net-baisse-charges",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Augmenter le salaire net en réduisant l'écart avec le brut",
+        "description": "Propose d'« augmenter le salaire net, réduire l'écart avec le brut », notamment par des allègements de « charges » ; estimait déjà en mai 2025 que les entreprises peinent à créer des emplois du fait du nombre de taxes.",
+        "chiffres": [],
+        "date": "2026-11-09",
+        "sources": [
+          {
+            "titre": "« J'ai pris conscience que je devais apporter ma pierre à l'édifice » : le judoka Teddy Riner est officiellement candidat à la présidentielle française",
+            "url": "https://www.parismatch.be/actualites/people/2026/11/09/jai-pris-conscience-que-je-devais-apporter-ma-pierre-a-ledifice-le-judoka-teddy-riner-est-officiellement-candidat-a-la-presidentielle-francaise-25WU54Y6GFC3XET6O7WVJDDNSQ/",
+            "media": "Paris Match Belgique",
+            "date": "2026-11-09"
+          },
+          {
+            "titre": "Retraites, salaires, sécurité : que propose Teddy Riner pour la présidentielle ?",
+            "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+            "media": "LCP",
+            "date": "2026-11-10"
+          },
+          {
+            "titre": "Des tatamis à l'Élysée ? Teddy Riner candidat surprise à la présidentielle",
+            "url": "https://www.lalibre.be/dernieres-depeches/2026/11/09/des-tatamis-a-lelysee-teddy-riner-annonce-sa-candidature-a-la-presidentielle-TN24TXUYZBDHLNYIUW4YHZJEI4/",
+            "media": "La Libre Belgique (AFP)",
+            "date": "2026-11-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification par un fact-checkeur reconnu n'a été trouvée au 13/11/2026. Ni l'ampleur de la baisse des cotisations, ni son coût pour les finances sociales, ni son financement n'ont été précisés, ce qui empêche toute évaluation.",
+          "sources": [
+            {
+              "titre": "Retraites, salaires, sécurité : que propose Teddy Riner pour la présidentielle ?",
+              "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+              "media": "LCP",
+              "date": "2026-11-10"
+            }
+          ]
+        }
+      },
+      {
+        "id": "sortir-cadre-35-heures",
+        "theme": "emploi-travail",
+        "type": "proposition",
+        "titre": "Permettre de travailler plus au-delà des 35 heures",
+        "description": "Veut permettre à ceux qui le souhaitent d'augmenter leurs revenus en travaillant davantage, « en sortant du carcan figé des 35 heures, mais sans le remettre en question ».",
+        "chiffres": [],
+        "date": "2026-11-09",
+        "sources": [
+          {
+            "titre": "« J'ai pris conscience que je devais apporter ma pierre à l'édifice » : le judoka Teddy Riner est officiellement candidat à la présidentielle française",
+            "url": "https://www.parismatch.be/actualites/people/2026/11/09/jai-pris-conscience-que-je-devais-apporter-ma-pierre-a-ledifice-le-judoka-teddy-riner-est-officiellement-candidat-a-la-presidentielle-francaise-25WU54Y6GFC3XET6O7WVJDDNSQ/",
+            "media": "Paris Match Belgique",
+            "date": "2026-11-09"
+          },
+          {
+            "titre": "Retraites, salaires, sécurité : que propose Teddy Riner pour la présidentielle ?",
+            "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+            "media": "LCP",
+            "date": "2026-11-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification par un fact-checkeur reconnu n'a été trouvée au 13/11/2026. Les modalités (heures supplémentaires défiscalisées, négociation d'entreprise, etc.) ne sont pas précisées.",
+          "sources": [
+            {
+              "titre": "Retraites, salaires, sécurité : que propose Teddy Riner pour la présidentielle ?",
+              "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+              "media": "LCP",
+              "date": "2026-11-10"
+            }
+          ]
+        }
+      },
+      {
+        "id": "dette-depenser-moins",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Réduire la dette en « dépensant moins » et en « réinjectant mieux »",
+        "description": "Affirme que la France « s'effondre sous le poids de la dette » mais n'est « pas condamnée à subir la dette » ; il faut « savoir dépenser moins et réinjecter mieux ». Son approche privilégie les économies plutôt que de nouvelles recettes.",
+        "chiffres": [],
+        "date": "2026-11-09",
+        "sources": [
+          {
+            "titre": "Retraites, salaires, sécurité : que propose Teddy Riner pour la présidentielle ?",
+            "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+            "media": "LCP",
+            "date": "2026-11-10"
+          },
+          {
+            "titre": "Des tatamis à l'Élysée ? Teddy Riner candidat surprise à la présidentielle",
+            "url": "https://www.lalibre.be/dernieres-depeches/2026/11/09/des-tatamis-a-lelysee-teddy-riner-annonce-sa-candidature-a-la-presidentielle-TN24TXUYZBDHLNYIUW4YHZJEI4/",
+            "media": "La Libre Belgique (AFP)",
+            "date": "2026-11-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "invérifiable",
+          "analyse": "Aucun montant d'économies ni objectif de déficit n'a été avancé. Pour contexte, selon l'Insee, la dette publique au sens de Maastricht atteignait 3 595,5 Md€ fin juin 2026, soit 119,0 % du PIB, un niveau record : le constat d'une dette élevée et croissante est exact, « s'effondrer » relevant de l'appréciation politique.",
+          "sources": [
+            {
+              "titre": "À la fin du deuxième trimestre 2026, le ratio de dette publique s'établit à 119,0 % du PIB (Informations rapides n° 239)",
+              "url": "https://www.insee.fr/fr/statistiques/9053525",
+              "media": "Insee",
+              "date": "2026-09-29"
+            }
+          ]
+        }
+      },
+      {
+        "id": "autorite-etat-securite",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "Rétablir l'autorité de l'État face à l'insécurité",
+        "description": "Dénonce une situation où l'on a « laissé la rue aux voyous » et où l'autorité de l'État aurait disparu ; plaide pour « le bon sens, la fermeté et la justice ». Aucune mesure précise n'a été annoncée.",
+        "chiffres": [],
+        "date": "2026-11-09",
+        "sources": [
+          {
+            "titre": "Retraites, salaires, sécurité : que propose Teddy Riner pour la présidentielle ?",
+            "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+            "media": "LCP",
+            "date": "2026-11-10"
+          },
+          {
+            "titre": "Des tatamis à l'Élysée ? Teddy Riner candidat surprise à la présidentielle",
+            "url": "https://www.lalibre.be/dernieres-depeches/2026/11/09/des-tatamis-a-lelysee-teddy-riner-annonce-sa-candidature-a-la-presidentielle-TN24TXUYZBDHLNYIUW4YHZJEI4/",
+            "media": "La Libre Belgique (AFP)",
+            "date": "2026-11-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification par un fact-checkeur reconnu n'a été trouvée au 13/11/2026. Il s'agit d'une orientation générale sans mesure ni chiffre vérifiable.",
+          "sources": [
+            {
+              "titre": "Retraites, salaires, sécurité : que propose Teddy Riner pour la présidentielle ?",
+              "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+              "media": "LCP",
+              "date": "2026-11-10"
+            }
+          ]
+        }
+      },
+      {
+        "id": "violences-lycees-sanctions",
+        "theme": "education",
+        "type": "proposition",
+        "titre": "Sanctionner les violences dans les lycées sans « faire le procès d'une génération »",
+        "description": "Après les violences survenues dans des lycées en octobre 2026, demande que les responsables soient identifiés et sanctionnés, tout en refusant de faire le procès d'une génération ; soutient les revendications lycéennes mais estime que le mouvement ne doit pas empêcher d'étudier ceux qui le veulent.",
+        "chiffres": [],
+        "date": "2026-11-09",
+        "sources": [
+          {
+            "titre": "Retraites, salaires, sécurité : que propose Teddy Riner pour la présidentielle ?",
+            "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+            "media": "LCP",
+            "date": "2026-11-10"
+          },
+          {
+            "titre": "Présidentielle 2027 : Teddy Riner au défi de transformer « son capital sympathie en capital électoral »",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-teddy-riner-au-defi-de-transformer-son-capital-sympathie-en-capital-electoral",
+            "media": "Public Sénat",
+            "date": "2026-11-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification par un fact-checkeur reconnu n'a été trouvée au 13/11/2026. Prise de position sans mesure concrète ; un analyste d'Odoxa cité par l'AFP le juge encore « page blanche » pour les électeurs sur l'éducation.",
+          "sources": [
+            {
+              "titre": "Retraites, salaires, sécurité : que propose Teddy Riner pour la présidentielle ?",
+              "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+              "media": "LCP",
+              "date": "2026-11-10"
+            },
+            {
+              "titre": "Des tatamis à l'Élysée ? Teddy Riner candidat surprise à la présidentielle",
+              "url": "https://www.lalibre.be/dernieres-depeches/2026/11/09/des-tatamis-a-lelysee-teddy-riner-annonce-sa-candidature-a-la-presidentielle-TN24TXUYZBDHLNYIUW4YHZJEI4/",
+              "media": "La Libre Belgique (AFP)",
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      },
+      {
+        "id": "voile-sport-egalite",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Opposé à l'interdiction du voile dans les compétitions sportives",
+        "description": "En mars 2025, alors que le Sénat venait d'adopter une proposition de loi LR interdisant le port du voile dans les compétitions sportives, y compris amateurs, il a estimé que la France « perdait son temps » sur ces questions et qu'il fallait penser davantage à l'égalité plutôt que « de s'acharner sur une seule et même religion ». Bruno Retailleau s'était dit en « désaccord radical ».",
+        "chiffres": [],
+        "date": "2025-03-23",
+        "sources": [
+          {
+            "titre": "Le tacle osé de Retailleau : « Teddy Riner, il m'a fait vibrer, on aime le sportif, mais là... »",
+            "url": "https://www.bluewin.ch/fr/infos/le-tacle-ose-du-ministre-de-linterieur-teddy-riner-il-ma-fait-vibrer-on-aime-le-sportif-mais-la-li.2622494",
+            "media": "blue News (AFP)",
+            "date": "2025-03-25"
+          },
+          {
+            "titre": "Retraites, salaires, sécurité : que propose Teddy Riner pour la présidentielle ?",
+            "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+            "media": "LCP",
+            "date": "2026-11-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification par un fact-checkeur reconnu n'a été trouvée au 13/11/2026. Il s'agit d'une opinion sur un texte législatif, non d'une affirmation factuelle vérifiable.",
+          "sources": [
+            {
+              "titre": "Le tacle osé de Retailleau : « Teddy Riner, il m'a fait vibrer, on aime le sportif, mais là... »",
+              "url": "https://www.bluewin.ch/fr/infos/le-tacle-ose-du-ministre-de-linterieur-teddy-riner-il-ma-fait-vibrer-on-aime-le-sportif-mais-la-li.2622494",
+              "media": "blue News (AFP)",
+              "date": "2025-03-25"
+            }
+          ]
+        }
+      },
+      {
+        "id": "outre-mer-vie-chere",
+        "theme": "territoires-services-publics",
+        "type": "proposition",
+        "titre": "Soutien à la lutte contre la vie chère en outre-mer",
+        "description": "En 2024, il a soutenu le mouvement contre la vie chère dans les Antilles, demandant pourquoi les prix sont plus élevés pour les Ultramarins. Il n'a pas présenté de mesure précise sur ce sujet depuis sa déclaration de candidature.",
+        "chiffres": [],
+        "date": "2024",
+        "sources": [
+          {
+            "titre": "Retraites, salaires, sécurité : que propose Teddy Riner pour la présidentielle ?",
+            "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+            "media": "LCP",
+            "date": "2026-11-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification par un fact-checkeur reconnu n'a été trouvée au 13/11/2026. Prise de position de principe sans proposition chiffrée.",
+          "sources": [
+            {
+              "titre": "Retraites, salaires, sécurité : que propose Teddy Riner pour la présidentielle ?",
+              "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+              "media": "LCP",
+              "date": "2026-11-10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

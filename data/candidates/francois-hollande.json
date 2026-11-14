@@ -1,0 +1,728 @@
+{
+  "id": "francois-hollande",
+  "prenom": "François",
+  "nom": "Hollande",
+  "parti": "Parti socialiste",
+  "partiAbrev": "PS",
+  "famillePolitique": "gauche",
+  "couleur": "#FF8080",
+  "statutCandidature": "potentiel",
+  "candidature": {
+    "texte": "Non déclaré au 13 novembre 2026. Après avoir dit au Point fin août qu'il tirerait « au mois de décembre » les conclusions sur la possibilité d'un rassemblement dont il serait l'expression, François Hollande a refusé de participer à la primaire du camp social-démocrate d'octobre 2026, remportée dès le premier tour par Raphaël Glucksmann. Début novembre, selon l'AFP, il poursuit sa campagne mais repousse sa décision à janvier 2027, son entourage jugeant le paysage « pas encore dégagé » et indiquant qu'il ne se présentera pas « contre » Glucksmann ; son équipe précise qu'il « ne va pas s'autodéclarer candidat ». Il était crédité d'environ 7 à 8 % des intentions de vote. Une association, « Démocratie 2030 », a été créée pour financer sa campagne.",
+    "date": "2026-11-04",
+    "sources": [
+      {
+        "titre": "Présidentielle : Hollande ne lâche rien, malgré la victoire de Glucksmann",
+        "url": "https://www.france24.com/fr/info-en-continu/20261104-pr%C3%A9sidentielle-hollande-ne-l%C3%A2che-rien-malgr%C3%A9-la-victoire-de-glucksmann",
+        "media": "AFP / France 24",
+        "date": "2026-11-04"
+      },
+      {
+        "titre": "Présidentielle 2027 : François Hollande n'a pas l'intention d'arrêter de faire campagne, même après la victoire de Raphaël Glucksmann à la primaire sociale-démocrate",
+        "url": "https://www.boursorama.com/actualite-economique/actualites/presidentielle-2027-francois-hollande-n-a-pas-l-intention-d-arreter-de-faire-campagne-meme-apres-la-victoire-de-raphael-glucksmann-a-la-primaire-sociale-democrate-b9ad05c989c781a77c3f0da296f9c756",
+        "media": "Boursorama (d'après AFP)",
+        "date": "2026-11-04"
+      },
+      {
+        "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-10"
+      },
+      {
+        "titre": "Présidentielle: François Hollande propose la retraite à 63 ans et dira \"en décembre\" s'il est candidat",
+        "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+        "media": "LCP",
+        "date": "2026-08-27"
+      },
+      {
+        "titre": "Présidentielle: François Hollande ne cache plus ses intentions pour 2027",
+        "url": "https://www.lalibre.be/international/europe/2026/04/25/presidentielle-francois-hollande-ne-cache-plus-ses-intentions-pour-2027-KIDGGGNCKZDTVD5VGNUENIKLDI/",
+        "media": "La Libre Belgique (AFP)",
+        "date": "2026-04-25"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1954-08-12",
+      "lieu": "Rouen (Seine-Maritime)",
+      "sources": [
+        {
+          "titre": "Portrait officiel : François Hollande",
+          "url": "https://www.elysee.fr/francois-hollande",
+          "media": "Présidence de la République (elysee.fr)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "François Hollande – député de la Corrèze (1re circonscription)",
+          "url": "https://datan.fr/deputes/correze-19/depute_francois-hollande",
+          "media": "Datan (données de l'Assemblée nationale)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Président de la République de 2012 à 2017, François Hollande n'avait pas brigué de second mandat. Premier secrétaire du Parti socialiste de 1997 à 2008, il a été député de la 1re circonscription de la Corrèze, maire de Tulle et président du conseil général de la Corrèze. Revenu à l'Assemblée nationale en juillet 2024 sous l'étiquette du Nouveau Front populaire, il se prépare à la présidentielle de 2027 en défendant une « gauche réformiste », a publié en septembre 2026 un livre-programme de plus de 80 propositions (« Unir ») et exclut toute alliance avec La France insoumise.",
+    "formation": [
+      {
+        "texte": "Diplômé d'HEC et de l'Institut d'études politiques de Paris ; ancien élève de l'École nationale d'administration (promotion Voltaire, sortie en 1980).",
+        "sources": [
+          {
+            "titre": "Portrait officiel : François Hollande",
+            "url": "https://www.elysee.fr/francois-hollande",
+            "media": "Présidence de la République (elysee.fr)",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Magistrat à la Cour des comptes : auditeur à sa sortie de l'ENA en 1980, conseiller référendaire en 1984.",
+        "sources": [
+          {
+            "titre": "Portrait officiel : François Hollande",
+            "url": "https://www.elysee.fr/francois-hollande",
+            "media": "Présidence de la République (elysee.fr)",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "Portrait officiel : François Hollande",
+        "url": "https://www.elysee.fr/francois-hollande",
+        "media": "Présidence de la République (elysee.fr)",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "François Hollande – député de la Corrèze (1re circonscription)",
+        "url": "https://datan.fr/deputes/correze-19/depute_francois-hollande",
+        "media": "Datan (données de l'Assemblée nationale)",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Présidentielle: François Hollande ne cache plus ses intentions pour 2027",
+        "url": "https://www.lalibre.be/international/europe/2026/04/25/presidentielle-francois-hollande-ne-cache-plus-ses-intentions-pour-2027-KIDGGGNCKZDTVD5VGNUENIKLDI/",
+        "media": "La Libre Belgique (AFP)",
+        "date": "2026-04-25"
+      },
+      {
+        "titre": "\"Notre devoir, c'est d'être prêt\" : pas officiellement candidat à la présidentielle, François Hollande publie un livre avec plus de 80 propositions",
+        "url": "https://www.franceinfo.fr/politique/francois-hollande/notre-devoir-c-est-d-etre-pret-pas-officiellement-candidat-a-la-presidentielle-francois-hollande-publie-un-livre-avec-plus-de-80-propositions_8164793.html",
+        "media": "franceinfo",
+        "date": "2026-08-27"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "1988",
+      "fin": "1993",
+      "fonction": "Député de la 1re circonscription de la Corrèze",
+      "details": "Premier mandat de député.",
+      "sources": [
+        {
+          "titre": "Portrait officiel : François Hollande",
+          "url": "https://www.elysee.fr/francois-hollande",
+          "media": "Présidence de la République (elysee.fr)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "1997",
+      "fin": "2012",
+      "fonction": "Député de la 1re circonscription de la Corrèze",
+      "details": "Réélu sans interruption jusqu'à son élection à la présidence de la République.",
+      "sources": [
+        {
+          "titre": "Portrait officiel : François Hollande",
+          "url": "https://www.elysee.fr/francois-hollande",
+          "media": "Présidence de la République (elysee.fr)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "1997",
+      "fin": "2008",
+      "fonction": "Premier secrétaire du Parti socialiste",
+      "details": "De novembre 1997 à novembre 2008 (la présidence de la République indique 1998-2008).",
+      "sources": [
+        {
+          "titre": "Portrait officiel : François Hollande",
+          "url": "https://www.elysee.fr/francois-hollande",
+          "media": "Présidence de la République (elysee.fr)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "François Hollande",
+          "url": "https://en.wikipedia.org/wiki/François_Hollande",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "1999",
+      "fin": "1999",
+      "fonction": "Député européen",
+      "details": "Élu en juin 1999 en tête de la liste socialiste ; siège du 20 juillet au mi-décembre 1999 (démission annoncée le 14 décembre selon Slate, fin de mandat au 17 décembre selon les données du Parlement européen).",
+      "sources": [
+        {
+          "titre": "François Hollande, le député européen fantôme",
+          "url": "https://www.slate.fr/france/86999/hollande-depute-europeen-fantome",
+          "media": "Slate.fr"
+        },
+        {
+          "titre": "François HOLLANDE (fiche député européen)",
+          "url": "https://parltrack.org/mep/François HOLLANDE",
+          "media": "Parltrack (données du Parlement européen)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "François Hollande",
+          "url": "https://en.wikipedia.org/wiki/François_Hollande",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2001",
+      "fin": "2008",
+      "fonction": "Maire de Tulle (Corrèze)",
+      "details": "Du 17 mars 2001 au 17 mars 2008.",
+      "sources": [
+        {
+          "titre": "Portrait officiel : François Hollande",
+          "url": "https://www.elysee.fr/francois-hollande",
+          "media": "Présidence de la République (elysee.fr)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2008",
+      "fin": "2012",
+      "fonction": "Président du conseil général de la Corrèze",
+      "details": "Élu en 2008, réélu en 2011.",
+      "sources": [
+        {
+          "titre": "Portrait officiel : François Hollande",
+          "url": "https://www.elysee.fr/francois-hollande",
+          "media": "Présidence de la République (elysee.fr)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2012",
+      "fin": "2017",
+      "fonction": "Président de la République française",
+      "details": "Du 15 mai 2012 au 14 mai 2017 ; ne s'est pas représenté en 2017.",
+      "sources": [
+        {
+          "titre": "Portrait officiel : François Hollande",
+          "url": "https://www.elysee.fr/francois-hollande",
+          "media": "Présidence de la République (elysee.fr)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Présidentielle: François Hollande ne cache plus ses intentions pour 2027",
+          "url": "https://www.lalibre.be/international/europe/2026/04/25/presidentielle-francois-hollande-ne-cache-plus-ses-intentions-pour-2027-KIDGGGNCKZDTVD5VGNUENIKLDI/",
+          "media": "La Libre Belgique (AFP)",
+          "date": "2026-04-25"
+        }
+      ]
+    },
+    {
+      "debut": "2024",
+      "fin": null,
+      "fonction": "Député de la 1re circonscription de la Corrèze",
+      "details": "Élu le 7 juillet 2024 sous l'étiquette du Nouveau Front populaire, avec 43 % des voix au second tour d'une triangulaire face au RN et à LR. Siège avec les socialistes ; a annoncé à l'automne 2026 qu'il ne censurerait pas le budget, contrairement au reste du PS.",
+      "sources": [
+        {
+          "titre": "François Hollande – député de la Corrèze (1re circonscription)",
+          "url": "https://datan.fr/deputes/correze-19/depute_francois-hollande",
+          "media": "Datan (données de l'Assemblée nationale)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Présidentielle : Hollande ne lâche rien, malgré la victoire de Glucksmann",
+          "url": "https://www.france24.com/fr/info-en-continu/20261104-pr%C3%A9sidentielle-hollande-ne-l%C3%A2che-rien-malgr%C3%A9-la-victoire-de-glucksmann",
+          "media": "AFP / France 24",
+          "date": "2026-11-04"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Aucune procédure judiciaire connue le visant à ce jour.",
+    "affaires": []
+  },
+  "programme": {
+    "statut": "Pas encore de programme de candidat : propositions partielles reposant sur ses prises de position publiques 2025-2026, principalement son livre « Unir. Nouveau monde, nouvelle gauche » (Robert Laffont, septembre 2026, plus de 80 propositions) et ses entretiens.",
+    "resume": "Faute de candidature déclarée, ces propositions sont tirées de ses prises de position publiques de 2025-2026, notamment de son livre « Unir ». Se réclamant d'une « gauche réformiste » qui vise aussi les électeurs du centre, il propose un âge de départ à la retraite autour de 63 ans en 2028, une « TVA sociale » (taux normal porté de 20 % à 24 %) pour baisser les cotisations salariales, une TVA à 0 % sur certains produits de première nécessité et une contribution sur les patrimoines de plus de 10 M€ à la place de la taxe Zucman. Il défend aussi des quotas sociaux dans l'enseignement privé, un resserrement du regroupement familial avec des volumes d'immigration de travail, et une Europe à plusieurs vitesses. Il exclut toute alliance avec LFI ; plusieurs de ces mesures, dont la TVA sociale et les 63 ans, le distinguent de la ligne du PS.",
+    "documents": [
+      {
+        "titre": "Présidentielle: François Hollande propose la retraite à 63 ans et dira \"en décembre\" s'il est candidat",
+        "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+        "media": "LCP",
+        "date": "2026-08-27"
+      },
+      {
+        "titre": "Présidentielle : François Hollande dévoile son plan pour la France dans un livre, sans se déclarer",
+        "url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+        "media": "Euronews",
+        "date": "2026-09-03"
+      },
+      {
+        "titre": "\"Notre devoir, c'est d'être prêt\" : pas officiellement candidat à la présidentielle, François Hollande publie un livre avec plus de 80 propositions",
+        "url": "https://www.franceinfo.fr/politique/francois-hollande/notre-devoir-c-est-d-etre-pret-pas-officiellement-candidat-a-la-presidentielle-francois-hollande-publie-un-livre-avec-plus-de-80-propositions_8164793.html",
+        "media": "franceinfo",
+        "date": "2026-08-27"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "retraite-63-ans-2028",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Âge légal de départ autour de 63 ans au 1er janvier 2028",
+        "description": "Fixer l'âge légal de départ à la retraite à environ 63 ans à partir du 1er janvier 2028, sans retour à 62 ans (position du PS) ni maintien de la cible de 64 ans de la réforme de 2023 ; ensuite, allonger la durée de cotisation en fonction de l'espérance de vie et des déséquilibres démographiques, via un mécanisme d'ajustement confié aux partenaires sociaux. Mesure figurant dans son livre « Unir. Nouveau monde, nouvelle gauche » (Robert Laffont, 3 septembre 2026).",
+        "chiffres": [
+          "Âge légal : environ 63 ans au 1er janvier 2028",
+          "Durée de cotisation ensuite indexée sur l'espérance de vie"
+        ],
+        "date": "2026-08-27",
+        "sources": [
+          {
+            "titre": "Présidentielle: François Hollande propose la retraite à 63 ans et dira \"en décembre\" s'il est candidat",
+            "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+            "media": "LCP",
+            "date": "2026-08-27"
+          },
+          {
+            "titre": "Présidentielle : François Hollande dévoile son plan pour la France dans un livre, sans se déclarer",
+            "url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+            "media": "Euronews",
+            "date": "2026-09-03"
+          },
+          {
+            "titre": "\"Notre devoir, c'est d'être prêt\" : pas officiellement candidat à la présidentielle, François Hollande publie un livre avec plus de 80 propositions",
+            "url": "https://www.franceinfo.fr/politique/francois-hollande/notre-devoir-c-est-d-etre-pret-pas-officiellement-candidat-a-la-presidentielle-francois-hollande-publie-un-livre-avec-plus-de-80-propositions_8164793.html",
+            "media": "franceinfo",
+            "date": "2026-08-27"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante ni chiffrage du coût ou du rendement de la mesure n'a été trouvé. Pour situer la proposition : selon Econostrum, la réforme de 2023 (cible de 64 ans) est suspendue jusqu'en 2028 ; l'âge requis s'échelonne de 62 ans et 9 mois à 63 ans et 9 mois pour les générations 1964 à 1968 et reste fixé à 64 ans pour les générations nées à partir de 1969. La proposition se situe donc entre la position du PS (62 ans) et la cible de la réforme de 2023.",
+          "sources": [
+            {
+              "titre": "Ni 62 ans ni 64 ans : François Hollande propose de repousser l'âge de départ à la retraite à 63 ans dès 2028",
+              "url": "https://econostrum.info/?p=141051",
+              "media": "Econostrum",
+              "date": "2026-08-27"
+            },
+            {
+              "titre": "Présidentielle: François Hollande propose la retraite à 63 ans et dira \"en décembre\" s'il est candidat",
+              "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+              "media": "LCP",
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      },
+      {
+        "id": "pensions-indexation-1-pct-capitalisation",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Sous-indexation des pensions à 1 % pendant cinq ans et part de capitalisation",
+        "description": "Limiter la revalorisation des pensions à 1 % par an pendant cinq ans, ce qui équivaudrait selon lui à reporter le départ d'un an ; une désindexation partielle ne serait envisagée qu'au-delà d'un certain seuil de pension, les plus aisés étant aussi mis à contribution. Ajouter au système par répartition une part de capitalisation contrôlée par les partenaires sociaux.",
+        "chiffres": [
+          "Indexation des pensions plafonnée à 1 %/an pendant 5 ans",
+          "Effet présenté comme équivalent à un report d'un an de l'âge de départ"
+        ],
+        "date": "2026-09-03",
+        "sources": [
+          {
+            "titre": "Présidentielle : François Hollande dévoile son plan pour la France dans un livre, sans se déclarer",
+            "url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+            "media": "Euronews",
+            "date": "2026-09-03"
+          },
+          {
+            "titre": "Présidentielle: François Hollande propose la retraite à 63 ans et dira \"en décembre\" s'il est candidat",
+            "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+            "media": "LCP",
+            "date": "2026-08-27"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "L'équivalence avancée (1 % d'indexation pendant cinq ans ≈ un an de report de l'âge) et le rendement financier de la mesure n'ont fait l'objet d'aucune vérification indépendante trouvée ; le seuil de pension à partir duquel s'appliquerait la désindexation n'est pas précisé.",
+          "sources": [
+            {
+              "titre": "Présidentielle : François Hollande dévoile son plan pour la France dans un livre, sans se déclarer",
+              "url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+              "media": "Euronews",
+              "date": "2026-09-03"
+            }
+          ]
+        }
+      },
+      {
+        "id": "tva-sociale-20-24",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "« TVA sociale » : taux normal de 20 % à 24 % pour baisser les cotisations salariales",
+        "description": "Baisser les cotisations salariales afin de rapprocher le salaire net du salaire brut, en finançant la mesure par une hausse progressive du taux normal de TVA de 20 % à 24 %, par une contribution sur une partie des grosses successions et par une taxation progressive des revenus financiers.",
+        "chiffres": [
+          "Taux normal de TVA : de 20 % à 24 % (+4 points), progressivement"
+        ],
+        "date": "2026-09-02",
+        "sources": [
+          {
+            "titre": "Présidentielle: François Hollande propose la retraite à 63 ans et dira \"en décembre\" s'il est candidat",
+            "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+            "media": "LCP",
+            "date": "2026-08-27"
+          },
+          {
+            "titre": "Présidentielle : François Hollande dévoile son plan pour la France dans un livre, sans se déclarer",
+            "url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+            "media": "Euronews",
+            "date": "2026-09-03"
+          },
+          {
+            "titre": "Présidentielle : le regain d'intérêt pour la TVA sociale, idée clivante pour augmenter le salaire net",
+            "url": "https://www.publicsenat.fr/actualites/emploi/presidentielle-le-regain-dinteret-pour-la-tva-sociale-idee-clivante-pour-augmenter-le-salaire-net",
+            "media": "Public Sénat",
+            "date": "2026-09-02"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun chiffrage officiel de la mesure n'a été publié. Ordre de grandeur : selon une étude 2025 de la direction générale du Trésor citée par Fipeco, un point de taux normal rapporte environ 8,9 Md€, soit environ 35,6 Md€ pour 4 points (hors effets de comportement et hors coût de la baisse des taux réduits proposée par ailleurs). Les économistes interrogés par Public Sénat divergent : Bruno Coquet (OFCE) souligne un effet favorable à l'emploi mais aussi un effet inflationniste et négatif sur la consommation ; Clément Carbonnier (Paris 1) y voit « une forme d'antiredistribution », la TVA pesant davantage sur les ménages qui consomment la plus grande part de leur revenu.",
+          "sources": [
+            {
+              "titre": "Fiche TVA (F. Ecalle), citant une étude 2025 de la direction générale du Trésor",
+              "url": "https://www.fipeco.fr/pdf/TVA.pdf",
+              "media": "Fipeco",
+              "date": "2026-06-18"
+            },
+            {
+              "titre": "Présidentielle : le regain d'intérêt pour la TVA sociale, idée clivante pour augmenter le salaire net",
+              "url": "https://www.publicsenat.fr/actualites/emploi/presidentielle-le-regain-dinteret-pour-la-tva-sociale-idee-clivante-pour-augmenter-le-salaire-net",
+              "media": "Public Sénat",
+              "date": "2026-09-02"
+            }
+          ]
+        }
+      },
+      {
+        "id": "tva-zero-produits-premiere-necessite",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "TVA à 0 % sur l'alimentation de première nécessité et l'énergie",
+        "description": "Ramener à 0 % le taux réduit de TVA (5,5 %) sur les produits de première nécessité, notamment alimentaires, et sur l'énergie ou les travaux énergétiques ; Euronews mentionne une mesure similaire mais ponctuelle pour les carburants. Les sources divergent sur le périmètre exact (carburants inclus ou non).",
+        "chiffres": [
+          "Taux réduit de 5,5 % ramené à 0 % sur certains produits"
+        ],
+        "date": "2026-09-03",
+        "sources": [
+          {
+            "titre": "Présidentielle: François Hollande propose la retraite à 63 ans et dira \"en décembre\" s'il est candidat",
+            "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+            "media": "LCP",
+            "date": "2026-08-27"
+          },
+          {
+            "titre": "Présidentielle : François Hollande dévoile son plan pour la France dans un livre, sans se déclarer",
+            "url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+            "media": "Euronews",
+            "date": "2026-09-03"
+          },
+          {
+            "titre": "Présidentielle : le regain d'intérêt pour la TVA sociale, idée clivante pour augmenter le salaire net",
+            "url": "https://www.publicsenat.fr/actualites/emploi/presidentielle-le-regain-dinteret-pour-la-tva-sociale-idee-clivante-pour-augmenter-le-salaire-net",
+            "media": "Public Sénat",
+            "date": "2026-09-02"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le coût n'a pas été chiffré par l'intéressé ni vérifié par un fact-checkeur. Ordre de grandeur : selon l'étude 2025 de la direction générale du Trésor citée par Fipeco, un point du taux réduit de 5,5 % rapporte environ 2,4 Md€ sur l'ensemble de son assiette ; la suppression totale de ce taux représenterait donc de l'ordre de 13 Md€, le coût réel dépendant du périmètre retenu, qui n'est pas précisé.",
+          "sources": [
+            {
+              "titre": "Fiche TVA (F. Ecalle), citant une étude 2025 de la direction générale du Trésor",
+              "url": "https://www.fipeco.fr/pdf/TVA.pdf",
+              "media": "Fipeco",
+              "date": "2026-06-18"
+            },
+            {
+              "titre": "Présidentielle: François Hollande propose la retraite à 63 ans et dira \"en décembre\" s'il est candidat",
+              "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+              "media": "LCP",
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      },
+      {
+        "id": "contribution-patrimoines-10-millions",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Contribution sur les patrimoines de plus de 10 M€, rejet de la taxe Zucman",
+        "description": "Rejeter la « taxe Zucman », qu'il qualifie de « slogan », et créer à la place une contribution sur les patrimoines supérieurs à 10 millions d'euros bruts, ainsi qu'une mise à contribution des gros héritages.",
+        "chiffres": [
+          "Seuil : patrimoines supérieurs à 10 M€ bruts"
+        ],
+        "date": "2026-08-27",
+        "sources": [
+          {
+            "titre": "\"Notre devoir, c'est d'être prêt\" : pas officiellement candidat à la présidentielle, François Hollande publie un livre avec plus de 80 propositions",
+            "url": "https://www.franceinfo.fr/politique/francois-hollande/notre-devoir-c-est-d-etre-pret-pas-officiellement-candidat-a-la-presidentielle-francois-hollande-publie-un-livre-avec-plus-de-80-propositions_8164793.html",
+            "media": "franceinfo",
+            "date": "2026-08-27"
+          },
+          {
+            "titre": "Présidentielle : François Hollande dévoile son plan pour la France dans un livre, sans se déclarer",
+            "url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+            "media": "Euronews",
+            "date": "2026-09-03"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le taux et le rendement attendu de la contribution ne sont pas précisés dans les sources consultées ; aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "\"Notre devoir, c'est d'être prêt\" : pas officiellement candidat à la présidentielle, François Hollande publie un livre avec plus de 80 propositions",
+              "url": "https://www.franceinfo.fr/politique/francois-hollande/notre-devoir-c-est-d-etre-pret-pas-officiellement-candidat-a-la-presidentielle-francois-hollande-publie-un-livre-avec-plus-de-80-propositions_8164793.html",
+              "media": "franceinfo",
+              "date": "2026-08-27"
+            },
+            {
+              "titre": "Présidentielle : François Hollande dévoile son plan pour la France dans un livre, sans se déclarer",
+              "url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+              "media": "Euronews",
+              "date": "2026-09-03"
+            }
+          ]
+        }
+      },
+      {
+        "id": "cheque-entree-dans-la-vie-10000",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Chèque « entrée dans la vie » de 10 000 € pour les jeunes en service civique",
+        "description": "Créer un chèque de 10 000 euros, baptisé « entrée dans la vie », versé aux jeunes qui effectuent un service civique.",
+        "chiffres": [
+          "10 000 € par jeune effectuant un service civique"
+        ],
+        "date": "2026-09-03",
+        "sources": [
+          {
+            "titre": "Présidentielle : François Hollande dévoile son plan pour la France dans un livre, sans se déclarer",
+            "url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+            "media": "Euronews",
+            "date": "2026-09-03"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le coût total dépend du nombre de bénéficiaires, non précisé ; aucune vérification ni estimation indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Présidentielle : François Hollande dévoile son plan pour la France dans un livre, sans se déclarer",
+              "url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+              "media": "Euronews",
+              "date": "2026-09-03"
+            }
+          ]
+        }
+      },
+      {
+        "id": "quotas-sociaux-ecoles-privees",
+        "theme": "education",
+        "type": "proposition",
+        "titre": "Quotas sociaux dans les écoles privées",
+        "description": "Instaurer des quotas sociaux dans les établissements d'enseignement privés afin d'y accroître la mixité sociale.",
+        "chiffres": [],
+        "date": "2026-08-27",
+        "sources": [
+          {
+            "titre": "\"Notre devoir, c'est d'être prêt\" : pas officiellement candidat à la présidentielle, François Hollande publie un livre avec plus de 80 propositions",
+            "url": "https://www.franceinfo.fr/politique/francois-hollande/notre-devoir-c-est-d-etre-pret-pas-officiellement-candidat-a-la-presidentielle-francois-hollande-publie-un-livre-avec-plus-de-80-propositions_8164793.html",
+            "media": "franceinfo",
+            "date": "2026-08-27"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Les modalités (niveau des quotas, établissements concernés, contreparties) ne sont pas détaillées dans les sources consultées ; aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "\"Notre devoir, c'est d'être prêt\" : pas officiellement candidat à la présidentielle, François Hollande publie un livre avec plus de 80 propositions",
+              "url": "https://www.franceinfo.fr/politique/francois-hollande/notre-devoir-c-est-d-etre-pret-pas-officiellement-candidat-a-la-presidentielle-francois-hollande-publie-un-livre-avec-plus-de-80-propositions_8164793.html",
+              "media": "franceinfo",
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      },
+      {
+        "id": "regroupement-familial-quotas-travail",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "Regroupement familial resserré et volumes d'immigration de travail",
+        "description": "Resserrer les règles du regroupement familial et fixer des volumes (quotas) pour l'immigration de travail.",
+        "chiffres": [],
+        "date": "2026-08-27",
+        "sources": [
+          {
+            "titre": "\"Notre devoir, c'est d'être prêt\" : pas officiellement candidat à la présidentielle, François Hollande publie un livre avec plus de 80 propositions",
+            "url": "https://www.franceinfo.fr/politique/francois-hollande/notre-devoir-c-est-d-etre-pret-pas-officiellement-candidat-a-la-presidentielle-francois-hollande-publie-un-livre-avec-plus-de-80-propositions_8164793.html",
+            "media": "franceinfo",
+            "date": "2026-08-27"
+          },
+          {
+            "titre": "La droite a un nouveau candidat, il s'appelle François Hollande",
+            "url": "https://www.politis.fr/articles/2026/08/la-droite-a-un-nouveau-candidat-il-sappelle-francois-hollande/",
+            "media": "Politis (parti pris)",
+            "date": "2026-08-31"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun volume ni critère précis n'est rendu public dans les sources consultées ; aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "\"Notre devoir, c'est d'être prêt\" : pas officiellement candidat à la présidentielle, François Hollande publie un livre avec plus de 80 propositions",
+              "url": "https://www.franceinfo.fr/politique/francois-hollande/notre-devoir-c-est-d-etre-pret-pas-officiellement-candidat-a-la-presidentielle-francois-hollande-publie-un-livre-avec-plus-de-80-propositions_8164793.html",
+              "media": "franceinfo",
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      },
+      {
+        "id": "salaries-conseils-administration-30-pct",
+        "theme": "emploi-travail",
+        "type": "proposition",
+        "titre": "30 % de représentants des salariés dans les conseils d'administration",
+        "description": "Porter à 30 % la part des représentants des salariés dans les conseils d'administration des entreprises. Il propose par ailleurs de réduire les impôts de production en diminuant les aides aux entreprises.",
+        "chiffres": [
+          "30 % de sièges pour les salariés dans les conseils d'administration"
+        ],
+        "date": "2026-09-03",
+        "sources": [
+          {
+            "titre": "Présidentielle : François Hollande dévoile son plan pour la France dans un livre, sans se déclarer",
+            "url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+            "media": "Euronews",
+            "date": "2026-09-03"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le champ des entreprises concernées n'est pas précisé ; aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Présidentielle : François Hollande dévoile son plan pour la France dans un livre, sans se déclarer",
+              "url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+              "media": "Euronews",
+              "date": "2026-09-03"
+            }
+          ]
+        }
+      },
+      {
+        "id": "europe-plusieurs-vitesses",
+        "theme": "europe-international",
+        "type": "proposition",
+        "titre": "Une Europe à plusieurs vitesses autour d'un noyau de six à huit États",
+        "description": "Constituer au sein de l'Union européenne un groupe restreint de six à huit États membres chargé de piloter les industries d'avenir, le numérique, l'intelligence artificielle et la défense.",
+        "chiffres": [
+          "Noyau de 6 à 8 États membres"
+        ],
+        "date": "2026-09-03",
+        "sources": [
+          {
+            "titre": "Présidentielle : François Hollande dévoile son plan pour la France dans un livre, sans se déclarer",
+            "url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+            "media": "Euronews",
+            "date": "2026-09-03"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante de la faisabilité juridique (cadre des traités européens) n'a été trouvée ; les modalités institutionnelles ne sont pas détaillées.",
+          "sources": [
+            {
+              "titre": "Présidentielle : François Hollande dévoile son plan pour la France dans un livre, sans se déclarer",
+              "url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+              "media": "Euronews",
+              "date": "2026-09-03"
+            }
+          ]
+        }
+      },
+      {
+        "id": "salaire-net-plus-10-pct",
+        "theme": "pouvoir-achat-social",
+        "type": "declaration-chiffree",
+        "titre": "« À peu près 10 % » de pouvoir d'achat en plus pour les salariés",
+        "description": "François Hollande affirme que la baisse des cotisations salariales financée notamment par la hausse de la TVA permettrait une « augmentation de pouvoir d'achat d'à peu près 10 % », soit une hausse d'environ 10 % du salaire net pour tous.",
+        "chiffres": [
+          "+10 % environ de salaire net / pouvoir d'achat"
+        ],
+        "date": "2026-09-02",
+        "sources": [
+          {
+            "titre": "Présidentielle : le regain d'intérêt pour la TVA sociale, idée clivante pour augmenter le salaire net",
+            "url": "https://www.publicsenat.fr/actualites/emploi/presidentielle-le-regain-dinteret-pour-la-tva-sociale-idee-clivante-pour-augmenter-le-salaire-net",
+            "media": "Public Sénat",
+            "date": "2026-09-02"
+          },
+          {
+            "titre": "Présidentielle : François Hollande dévoile son plan pour la France dans un livre, sans se déclarer",
+            "url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+            "media": "Euronews",
+            "date": "2026-09-03"
+          }
+        ],
+        "factCheck": {
+          "verdict": "invérifiable",
+          "analyse": "Aucun chiffrage détaillé n'a été publié et Public Sénat note que ce gain n'est pas vérifié. Vérification d'ordre de grandeur : 4 points de TVA rapporteraient environ 35,6 Md€ (8,9 Md€ par point, étude 2025 du Trésor citée par Fipeco), soit environ 4,9 % de la seule masse salariale du secteur privé soumise à cotisations (726 Md€ en 2024 selon l'Urssaf). La hausse de TVA ne suffit donc pas, à elle seule, à financer une hausse de 10 % du salaire net de l'ensemble des salariés ; le résultat dépend des autres financements annoncés (successions, revenus financiers), non chiffrés, et de la répercussion de la TVA sur les prix, qui réduirait le gain réel de pouvoir d'achat.",
+          "sources": [
+            {
+              "titre": "Présidentielle : le regain d'intérêt pour la TVA sociale, idée clivante pour augmenter le salaire net",
+              "url": "https://www.publicsenat.fr/actualites/emploi/presidentielle-le-regain-dinteret-pour-la-tva-sociale-idee-clivante-pour-augmenter-le-salaire-net",
+              "media": "Public Sénat",
+              "date": "2026-09-02"
+            },
+            {
+              "titre": "Fiche TVA (F. Ecalle), citant une étude 2025 de la direction générale du Trésor",
+              "url": "https://www.fipeco.fr/pdf/TVA.pdf",
+              "media": "Fipeco",
+              "date": "2026-06-18"
+            },
+            {
+              "titre": "La matinale du 24 septembre 2025 (masse salariale du secteur privé 2024, d'après l'Urssaf)",
+              "url": "https://www.legisocial.fr/la-matinale/2025-09-24.html",
+              "media": "LégiSocial",
+              "date": "2025-09-24"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

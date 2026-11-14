@@ -1,0 +1,134 @@
+{
+  "id": "francois-hollande",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "François Hollande plaide pour une autonomie stratégique européenne portée par un noyau de six à huit États, y compris en matière de défense. Depuis 2025, il juge que l'administration Trump n'est « plus un allié » de l'Europe et appelle à un rapport de force clair face à Vladimir Poutine.",
+  "axes": {
+    "europe": {
+      "position": 1,
+      "titre": "Autonomie stratégique et Europe à plusieurs vitesses",
+      "resume": "Dans son livre-programme « Unir » (septembre 2026), il propose qu'un groupe restreint de six à huit États pilote les industries d'avenir, le numérique, l'IA et la défense, et plaide pour l'autonomie stratégique de l'UE. En février 2025, il jugeait une défense unifiée à 27 difficile en raison des positions ambivalentes de certains États.",
+      "date": "2026-09-03",
+      "sources": [
+        {
+          "titre": "Présidentielle : François Hollande dévoile son plan pour la France dans un livre",
+          "url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+          "media": "Euronews",
+          "date": "2026-09-03"
+        },
+        {
+          "titre": "François Hollande : Trump « n'est plus un allié » de l'Europe",
+          "url": "https://lanouvelletribune.info/2025/02/francois-hollande-trump-nest-plus-un-allie-de-leurope/",
+          "media": "La Nouvelle Tribune (d'après Le Monde)",
+          "date": "2025-02-28"
+        }
+      ]
+    },
+    "otan": {
+      "position": 1,
+      "titre": "Engagements OTAN respectés, défense européenne autonome",
+      "resume": "En février 2025 (entretien au Monde), il estime que la France devrait réagir fermement à toute attaque contre un État de l'OTAN, appelle à se préparer à ce que Trump ne respecte pas l'article 5 et plaide pour une défense européenne plus autonome.",
+      "date": "2025-02-28",
+      "sources": [
+        {
+          "titre": "François Hollande : Trump « n'est plus un allié » de l'Europe",
+          "url": "https://lanouvelletribune.info/2025/02/francois-hollande-trump-nest-plus-un-allie-de-leurope/",
+          "media": "La Nouvelle Tribune (d'après Le Monde)",
+          "date": "2025-02-28"
+        },
+        {
+          "titre": "Former leader of NATO nation slams President Trump in blunt interview: 'No longer an ally'",
+          "url": "https://www.foxnews.com/world/former-leader-nato-nation-slams-president-trump-blunt-interview-no-longer-ally",
+          "media": "Fox News (d'après Le Monde)",
+          "date": "2025-02-28"
+        }
+      ]
+    },
+    "trump": {
+      "position": -2,
+      "titre": "L'administration Trump « n'est plus notre alliée »",
+      "resume": "En février 2025, il déclare au Monde que, si le peuple américain reste ami, « l'administration Trump, elle, n'est plus notre alliée », l'accusant de « pactiser avec nos adversaires » et de soutenir l'extrême droite européenne. En avril 2026, il estime que les États-Unis ne reviendront pas en Europe « comme avant ».",
+      "date": "2026-09-03",
+      "sources": [
+        {
+          "titre": "François Hollande : Trump « n'est plus un allié » de l'Europe",
+          "url": "https://lanouvelletribune.info/2025/02/francois-hollande-trump-nest-plus-un-allie-de-leurope/",
+          "media": "La Nouvelle Tribune (d'après Le Monde)",
+          "date": "2025-02-28"
+        },
+        {
+          "titre": "Former leader of NATO nation slams President Trump in blunt interview: 'No longer an ally'",
+          "url": "https://www.foxnews.com/world/former-leader-nato-nation-slams-president-trump-blunt-interview-no-longer-ally",
+          "media": "Fox News (d'après Le Monde)",
+          "date": "2025-02-28"
+        },
+        {
+          "titre": "Présidentielle : François Hollande dévoile son plan pour la France dans un livre",
+          "url": "https://fr.euronews.com/my-europe/2026/09/03/presidentielle-francois-hollande-devoile-son-plan-pour-la-france-dans-un-livre-sans-se-dec",
+          "media": "Euronews",
+          "date": "2026-09-03"
+        }
+      ]
+    },
+    "russie": {
+      "position": 1,
+      "titre": "Rapport de force clair face à Poutine",
+      "resume": "En février 2025, il plaide pour un rapport de force clair face à Vladimir Poutine et reproche à l'administration Trump de rechercher une entente à tout prix avec Moscou. Nous n'avons pas trouvé de déclaration récente sur les sanctions ou les avoirs russes gelés, d'où le cran +1 plutôt que +2.",
+      "date": "2025-02-28",
+      "sources": [
+        {
+          "titre": "François Hollande : Trump « n'est plus un allié » de l'Europe",
+          "url": "https://lanouvelletribune.info/2025/02/francois-hollande-trump-nest-plus-un-allie-de-leurope/",
+          "media": "La Nouvelle Tribune (d'après Le Monde)",
+          "date": "2025-02-28"
+        },
+        {
+          "titre": "Former leader of NATO nation slams President Trump in blunt interview: 'No longer an ally'",
+          "url": "https://www.foxnews.com/world/former-leader-nato-nation-slams-president-trump-blunt-interview-no-longer-ally",
+          "media": "Fox News (d'après Le Monde)",
+          "date": "2025-02-28"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": 1,
+      "titre": "Critique de l'abandon de l'Ukraine par Washington",
+      "resume": "En février 2025, il cite l'« abandon » de l'Ukraine par Washington et la qualification de Volodymyr Zelensky de « dictateur » par Trump parmi les causes d'un possible « divorce » transatlantique. Nous n'avons pas trouvé de proposition chiffrée récente sur l'aide militaire ou l'adhésion, d'où le cran +1.",
+      "date": "2025-02-28",
+      "sources": [
+        {
+          "titre": "François Hollande : Trump « n'est plus un allié » de l'Europe",
+          "url": "https://lanouvelletribune.info/2025/02/francois-hollande-trump-nest-plus-un-allie-de-leurope/",
+          "media": "La Nouvelle Tribune (d'après Le Monde)",
+          "date": "2025-02-28"
+        },
+        {
+          "titre": "Former leader of NATO nation slams President Trump in blunt interview: 'No longer an ally'",
+          "url": "https://www.foxnews.com/world/former-leader-nato-nation-slams-president-trump-blunt-interview-no-longer-ally",
+          "media": "Fox News (d'après Le Monde)",
+          "date": "2025-02-28"
+        }
+      ]
+    },
+    "chine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune proposition publique identifiée sur la Chine ; en février 2025, il estimait seulement que la « vraie cible » de Trump était l'Europe plutôt que la Chine, ce qui ne constitue pas une position sur la relation avec Pékin.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "proche-orient": {
+      "position": 1,
+      "titre": "Cessez-le-feu et critique de Netanyahou",
+      "resume": "Le 4 avril 2024 sur France Inter, il juge la guerre à Gaza « plus supportable ni acceptable », réclame un cessez-le-feu, un processus de paix et des élections, et estime que Benyamin Netanyahou « n'entend rien ». Il évoque « une forme de pression » sur Israël sans citer de sanctions.",
+      "date": "2024-04-04",
+      "sources": [
+        {
+          "titre": "« Assez, ce n'est plus supportable ni acceptable », dit François Hollande sur Gaza",
+          "url": "https://fr.timesofisrael.com/assez-ce-nest-plus-supportable-ni-acceptable-dit-francois-hollande-sur-gaza/",
+          "media": "The Times of Israel (édition française)",
+          "date": "2024-04-04"
+        }
+      ]
+    }
+  }
+}

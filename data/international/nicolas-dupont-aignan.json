@@ -1,0 +1,189 @@
+{
+  "id": "nicolas-dupont-aignan",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Nicolas Dupont-Aignan fait de la sortie de l'UE l'axe de sa campagne et propose de quitter le commandement intégré de l'OTAN. Il plaide pour une paix rapide en Ukraine fondée sur sa neutralité, pour un partenariat, voire une « grande alliance », avec la Russie, et salue la volonté de paix prêtée à Donald Trump. Son projet appelle à la vigilance face à la Chine et à un accord de paix entre Israël et les Palestiniens.",
+  "axes": {
+    "europe": {
+      "position": -2,
+      "titre": "Sortie de l'Union européenne",
+      "resume": "Le 2 juin 2026 sur franceinfo, il affirme qu'aucun programme de droite n'est applicable sans sortie de l'UE et veut reconstruire une « Europe des nations » fondée sur la coopération entre États. Il présentait encore en 2025 le Frexit comme un recours ultime avant d'en faire l'axe de sa campagne ; le 20 septembre 2026, il juge que la France « ne peut plus obéir à Madame von der Leyen ».",
+      "date": "2026-09-20",
+      "sources": [
+        {
+          "titre": "Nicolas Dupont-Aignan candidat en 2027 : « Je dis à Éric Zemmour, Bruno Retailleau, \"vous ne pourrez pas faire ce que vous promettez si vous ne sortez pas de l'UE\" »",
+          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mardi-02-juin-2026_8001014.html",
+          "media": "franceinfo",
+          "date": "2026-06-02"
+        },
+        {
+          "titre": "Frexit : la France est « suffisamment forte pour faire sortir d'autres pays de l'Union européenne », assure Nicolas Dupont-Aignan",
+          "url": "https://www.europe1.fr/international/frexit-la-france-est-suffisamment-forte-pour-faire-sortir-dautres-pays-de-lunion-europeenne-assure-nicolas-dupont-aignan-873516",
+          "media": "Europe 1",
+          "date": "2025-12-02"
+        },
+        {
+          "titre": "Nicolas Dupont-Aignan : « La position du RN est incompréhensible »",
+          "url": "https://www.sudradio.fr/linvite-politique/nicolas-dupont-aignan-la-position-du-rn-est-incomprehensible",
+          "media": "Sud Radio",
+          "date": "2026-09-20"
+        }
+      ]
+    },
+    "otan": {
+      "position": -1,
+      "titre": "Sortie du commandement intégré de l'OTAN",
+      "resume": "Le projet de Debout la France (pages Affaires étrangères et Défense) propose de « sortir du commandement intégré de l'OTAN » pour bâtir une défense nationale autonome et refuse d'impliquer la France « dans tous les conflits dans lesquels les Américains voudraient nous entraîner ». Il veut que l'Ukraine reste en dehors de l'OTAN (Sud Radio, 20 septembre 2026).",
+      "date": "2026-09-20",
+      "sources": [
+        {
+          "titre": "Affaires étrangères – Notre projet",
+          "url": "https://www.debout-la-france.fr/projet/affaires-etrangeres/",
+          "media": "Debout la France (site du parti)",
+          "date": "2025"
+        },
+        {
+          "titre": "Défense nationale – Notre projet",
+          "url": "https://www.debout-la-france.fr/projet/defense/",
+          "media": "Debout la France (site du parti)",
+          "date": "2025"
+        },
+        {
+          "titre": "Nicolas Dupont-Aignan : « La position du RN est incompréhensible »",
+          "url": "https://www.sudradio.fr/linvite-politique/nicolas-dupont-aignan-la-position-du-rn-est-incomprehensible",
+          "media": "Sud Radio",
+          "date": "2026-09-20"
+        }
+      ]
+    },
+    "trump": {
+      "position": 1,
+      "titre": "Salue un Trump « qui veut la paix »",
+      "resume": "Le 4 mars 2025, il déclare : « la chance qu'on a, c'est d'avoir un président américain, Trump, qui veut la paix », tout en disant ne faire confiance qu'à la France. Le 20 septembre 2026, il crédite Trump d'avoir « compris qu'il fallait la paix avec la Russie ». Son projet prône une relation « de franchise et de respect réciproque » avec les États-Unis et dénonce le « pillage » de fleurons industriels français.",
+      "date": "2026-09-20",
+      "sources": [
+        {
+          "titre": "Ukraine : « Nous avons la chance d'avoir Donald Trump qui veut la paix », affirme Nicolas Dupont-Aignan",
+          "url": "https://www.sudradio.fr/linvite-politique/ukraine-nous-avons-la-chance-davoir-donald-trump-qui-veut-la-paix-affirme-nicolas-dupont-aignan",
+          "media": "Sud Radio",
+          "date": "2025-03-04"
+        },
+        {
+          "titre": "Nicolas Dupont-Aignan : « La position du RN est incompréhensible »",
+          "url": "https://www.sudradio.fr/linvite-politique/nicolas-dupont-aignan-la-position-du-rn-est-incomprehensible",
+          "media": "Sud Radio",
+          "date": "2026-09-20"
+        },
+        {
+          "titre": "Affaires étrangères – Notre projet",
+          "url": "https://www.debout-la-france.fr/projet/affaires-etrangeres/",
+          "media": "Debout la France (site du parti)",
+          "date": "2025"
+        }
+      ]
+    },
+    "russie": {
+      "position": -2,
+      "titre": "Partenariat, « grande alliance » avec la Russie",
+      "resume": "Le 13 septembre 2024, il déclare : « Nous devons avoir une grande alliance avec la Russie pour stabiliser l'Europe ». Son projet propose de « relancer un partenariat avec la Russie » et estime que celle-ci « n'a aucune intention d'agresser l'Europe de l'Ouest ». Le 4 mars 2025, il qualifie de « tissu de fantasmes » l'idée d'une invasion de la Pologne.",
+      "date": "2025-03-04",
+      "sources": [
+        {
+          "titre": "« Nous devons avoir une grande alliance avec la Russie », estime Nicolas Dupont-Aignan",
+          "url": "https://www.europe1.fr/politique/nous-devons-avoir-une-grande-alliance-avec-la-russie-estime-nicolas-dupont-aignan-4267237",
+          "media": "Europe 1",
+          "date": "2024-09-13"
+        },
+        {
+          "titre": "Affaires étrangères – Notre projet",
+          "url": "https://www.debout-la-france.fr/projet/affaires-etrangeres/",
+          "media": "Debout la France (site du parti)",
+          "date": "2025"
+        },
+        {
+          "titre": "Défense nationale – Notre projet",
+          "url": "https://www.debout-la-france.fr/projet/defense/",
+          "media": "Debout la France (site du parti)",
+          "date": "2025"
+        },
+        {
+          "titre": "Ukraine : « Nous avons la chance d'avoir Donald Trump qui veut la paix », affirme Nicolas Dupont-Aignan",
+          "url": "https://www.sudradio.fr/linvite-politique/ukraine-nous-avons-la-chance-davoir-donald-trump-qui-veut-la-paix-affirme-nicolas-dupont-aignan",
+          "media": "Sud Radio",
+          "date": "2025-03-04"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": -2,
+      "titre": "Contre l'aide, neutralité de l'Ukraine",
+      "resume": "Il a voté contre l'accord de sécurité France-Ukraine le 12 mars 2024, y voyant « le passage du soutien au conflit avec la Russie », et affirmait que Zelensky s'arrêterait « dans l'instant » si les livraisons d'armes cessaient. Le 20 septembre 2026, il estime que ceux qui financent le gouvernement ukrainien « alimentent une tuerie » et demande que l'Ukraine reste hors de l'OTAN et de l'UE.",
+      "date": "2026-09-20",
+      "sources": [
+        {
+          "titre": "Soutien à l'Ukraine : « On entraîne la France dans un engrenage terrible », juge Nicolas Dupont-Aignan",
+          "url": "https://www.publicsenat.fr/actualites/politique/soutien-a-lukraine-on-entraine-la-france-dans-un-engrenage-terrible-juge-nicolas-dupont-aignan",
+          "media": "Public Sénat",
+          "date": "2024-03-13"
+        },
+        {
+          "titre": "Nicolas Dupont-Aignan : « La position du RN est incompréhensible »",
+          "url": "https://www.sudradio.fr/linvite-politique/nicolas-dupont-aignan-la-position-du-rn-est-incomprehensible",
+          "media": "Sud Radio",
+          "date": "2026-09-20"
+        },
+        {
+          "titre": "« Nous devons avoir une grande alliance avec la Russie », estime Nicolas Dupont-Aignan",
+          "url": "https://www.europe1.fr/politique/nous-devons-avoir-une-grande-alliance-avec-la-russie-estime-nicolas-dupont-aignan-4267237",
+          "media": "Europe 1",
+          "date": "2024-09-13"
+        }
+      ]
+    },
+    "chine": {
+      "position": 0,
+      "titre": "Vigilance et coopération",
+      "resume": "Son projet appelle à la vigilance face aux « tentations hégémoniques de la Chine », qui « écrase » l'économie française selon le constat, tout en proposant de développer la coopération avec la Chine, l'Inde et l'Indonésie. Le 20 septembre 2026, il reproche à l'UE d'avoir ouvert le marché automobile à la Chine. Position classée ambivalente.",
+      "date": "2026-09-20",
+      "sources": [
+        {
+          "titre": "Affaires étrangères – Notre projet",
+          "url": "https://www.debout-la-france.fr/projet/affaires-etrangeres/",
+          "media": "Debout la France (site du parti)",
+          "date": "2025"
+        },
+        {
+          "titre": "Nicolas Dupont-Aignan : « La position du RN est incompréhensible »",
+          "url": "https://www.sudradio.fr/linvite-politique/nicolas-dupont-aignan-la-position-du-rn-est-incomprehensible",
+          "media": "Sud Radio",
+          "date": "2026-09-20"
+        }
+      ]
+    },
+    "proche-orient": {
+      "position": 0,
+      "titre": "Accord de paix israélo-palestinien",
+      "resume": "Son projet propose de « retrouver notre voix au Proche-Orient » en œuvrant « à un accord de paix durable entre Israël et les Palestiniens » et en protégeant les chrétiens d'Orient. Le volet défense reproche à l'Occident un traitement inégal des événements « en Ukraine » et « de Gaza ». Pas de position identifiée sur la reconnaissance de la Palestine.",
+      "date": "2026-09-20",
+      "sources": [
+        {
+          "titre": "Affaires étrangères – Notre projet",
+          "url": "https://www.debout-la-france.fr/projet/affaires-etrangeres/",
+          "media": "Debout la France (site du parti)",
+          "date": "2025"
+        },
+        {
+          "titre": "Défense nationale – Notre projet",
+          "url": "https://www.debout-la-france.fr/projet/defense/",
+          "media": "Debout la France (site du parti)",
+          "date": "2025"
+        },
+        {
+          "titre": "Nicolas Dupont-Aignan : « La position du RN est incompréhensible »",
+          "url": "https://www.sudradio.fr/linvite-politique/nicolas-dupont-aignan-la-position-du-rn-est-incomprehensible",
+          "media": "Sud Radio",
+          "date": "2026-09-20"
+        }
+      ]
+    }
+  }
+}

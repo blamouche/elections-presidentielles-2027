@@ -1,0 +1,108 @@
+{
+  "id": "bruno-retailleau",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Bruno Retailleau, candidat des Républicains, défend une primauté du droit national sur certaines normes européennes et internationales. Il soutient l'Ukraine face à la Russie, à qui il a consacré son premier déplacement international de campagne en mai 2026, tout en jugeant l'adhésion de Kiev à l'UE et à l'OTAN impossible à court et moyen terme. Aucune position publique récente n'a été identifiée sur l'OTAN, Donald Trump ou la Chine.",
+  "axes": {
+    "europe": {
+      "position": -1,
+      "titre": "Pouvoir déroger au droit européen",
+      "resume": "Propose (septembre 2026) d'inscrire dans la Constitution la possibilité pour la France de déroger, lorsque les « intérêts fondamentaux de la nation » sont en jeu, à la primauté de normes européennes ou internationales, afin de « restaurer la souveraineté du peuple ». Il ne propose pas de sortie de l'UE.",
+      "date": "2026-09-10",
+      "sources": [
+        {
+          "titre": "« Restaurer la souveraineté du peuple » : Bruno Retailleau veut défier le droit européen et international",
+          "url": "https://lessurligneurs.eu/restaurer-la-souverainete-du-peuple-bruno-retailleau-veut-defier-le-droit-europeen-et-international/",
+          "media": "Les Surligneurs",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    "otan": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration récente de Bruno Retailleau sur l'OTAN ou le lien avec les États-Unis n'a été retrouvée dans des sources primaires ou de presse de référence.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "trump": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration de Bruno Retailleau sur Donald Trump (droits de douane, Groenland, Ukraine) n'a été retrouvée dans les sources consultées.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "russie": {
+      "position": 1,
+      "titre": "Empêcher une victoire russe",
+      "resume": "Au Sénat le 13 mars 2024, il a déclaré que la ligne de la France devait être de « tout faire pour que la Russie ne gagne pas cette guerre » sans être entraînée dans une guerre qu'elle ne veut pas. En mai 2026 à Kiev, il a dénoncé l'agression russe et refusé une politique où « l'agression » pourrait « payer ». Aucune prise de position sur les sanctions ou les avoirs russes gelés n'a été identifiée : le cran +1 est retenu par prudence plutôt que +2.",
+      "date": "2026-05-20",
+      "sources": [
+        {
+          "titre": "Le Sénat approuve massivement l'accord de sécurité franco-ukrainien : revivez les débats",
+          "url": "https://www.publicsenat.fr/actualites/international/direct-guerre-en-ukraine-suivez-le-debat-et-le-vote-au-senat-sur-laccord-de-securite",
+          "media": "Public Sénat",
+          "date": "2024-03-13"
+        },
+        {
+          "titre": "Bruno Retailleau arrived in Kyiv ahead of the French elections",
+          "url": "https://thepublic.info/en/news/bruno-retailleau-arrived-in-kyiv-ahead-of-the-french-elections",
+          "media": "The Public",
+          "date": "2026-05-20"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": 1,
+      "titre": "Soutien militaire, réserves sur l'adhésion",
+      "resume": "Le 13 mars 2024, il a présenté le vote du Sénat sur l'accord de sécurité franco-ukrainien (adopté par 293 voix contre 22) comme « un vote de soutien à l'Ukraine », en appelant à lui donner « dès aujourd'hui les moyens de se défendre » (« ce qui compte, ce sont les munitions »), tout en jugeant son adhésion à l'UE et à l'OTAN impossible « à court et moyen terme ». Il a consacré à l'Ukraine son premier déplacement international de campagne (Kiev, mai 2026).",
+      "date": "2026-05-20",
+      "sources": [
+        {
+          "titre": "Le Sénat approuve massivement l'accord de sécurité franco-ukrainien : revivez les débats",
+          "url": "https://www.publicsenat.fr/actualites/international/direct-guerre-en-ukraine-suivez-le-debat-et-le-vote-au-senat-sur-laccord-de-securite",
+          "media": "Public Sénat",
+          "date": "2024-03-13"
+        },
+        {
+          "titre": "Compte rendu intégral de la séance du 13 mars 2024",
+          "url": "https://www.senat.fr/cra/s20240313/s20240313.pdf",
+          "media": "Sénat",
+          "date": "2024-03-13"
+        },
+        {
+          "titre": "Bruno Retailleau arrived in Kyiv ahead of the French elections",
+          "url": "https://thepublic.info/en/news/bruno-retailleau-arrived-in-kyiv-ahead-of-the-french-elections",
+          "media": "The Public",
+          "date": "2026-05-20"
+        }
+      ]
+    },
+    "chine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration de Bruno Retailleau sur la Chine n'a été retrouvée dans les sources consultées.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "proche-orient": {
+      "position": 0,
+      "titre": "Deux États, réserves sur la reconnaissance",
+      "resume": "En juillet 2025, Les Républicains, qu'il préside, ont critiqué le calendrier de la reconnaissance de l'État de Palestine annoncée par Emmanuel Macron, estimant que « si la sécurité d'Israël n'est pas négociable, la reconnaissance de l'État palestinien ne peut se faire à n'importe quel prix » et revendiquant une position de « puissance d'équilibre ». Ministre de l'Intérieur, il a interdit en septembre 2025 le pavoisement des mairies aux couleurs palestiniennes. Classement à 0 retenu par prudence : la position s'appuie sur un communiqué de parti et pourrait être lue comme −1 (soutien à Israël avec réserves).",
+      "date": "2025-09-22",
+      "sources": [
+        {
+          "titre": "Reconnaissance de l'État de Palestine par Macron : la droite fustige la « duplicité » du président, la gauche salue une décision « moralement nécessaire »",
+          "url": "https://www.publicsenat.fr/actualites/international/reconnaissance-de-letat-de-palestine-par-macron-la-droite-fustige-la-duplicite-du-president-la-gauche-salue-une-decision-moralement-necessaire",
+          "media": "Public Sénat",
+          "date": "2025-07-25"
+        },
+        {
+          "titre": "Drapeaux palestiniens sur les mairies malgré l'interdiction de Bruno Retailleau : l'extrême gauche va suivre l'appel d'Olivier Faure",
+          "url": "https://www.europe1.fr/politique/drapeaux-palestiniens-sur-les-mairies-malgre-linterdiction-de-bruno-retailleau-lextreme-gauche-va-suivre-lappel-dolivier-faure-773550",
+          "media": "Europe 1",
+          "date": "2025-09-22"
+        }
+      ]
+    }
+  }
+}

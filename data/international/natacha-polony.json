@@ -1,0 +1,102 @@
+{
+  "id": "natacha-polony",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Natacha Polony critique le fonctionnement de l'UE (traités jugés défavorables, Commission qui « outrepasse » ses prérogatives) sans proposer d'en sortir, et défend une industrie de défense hors du marché unique et la préférence européenne face aux achats d'armes américaines. Elle appelle les Européens qui « refusent d'être les vassaux des États-Unis » à faire pression sur Washington, et à défendre les filières industrielles face à la concurrence chinoise. Aucune position récente n'a été identifiée sur la Russie, l'Ukraine et le Proche-Orient.",
+  "axes": {
+    "europe": {
+      "position": -1,
+      "titre": "Critique des traités et de la Commission",
+      "resume": "Le 15 septembre 2026 sur Sud Radio, elle a jugé les traités européens « pas très bien faits et défavorables », reproché à la Commission d'outrepasser « systématiquement ses prérogatives », rappelé que la France est contributrice nette et souhaité que l'industrie de défense reste « hors marché et hors Commission européenne ». Fin septembre 2026, elle a reproché au ministre Jean-Noël Barrot de vouloir être « le meilleur élève de l'Europe » au détriment des intérêts nationaux. Elle ne propose pas de sortie de l'UE.",
+      "date": "2026-10-14",
+      "sources": [
+        {
+          "titre": "Natacha Polony : « Le Rassemblement national ne dit pas des choses fausses sur tout »",
+          "url": "https://www.sudradio.fr/sud-radio/natacha-polony-je-lance-un-appel-aux-orphelins-de-la-politique",
+          "media": "Sud Radio",
+          "date": "2026-09-15"
+        },
+        {
+          "titre": "France : Natacha Polony officialise sa candidature à la présidentielle",
+          "url": "https://fr.euronews.com/2026/10/14/france-natacha-polony-officialise-sa-candidature-a-la-presidentielle",
+          "media": "Euronews",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "otan": {
+      "position": -1,
+      "titre": "Distance avec Washington",
+      "resume": "Le 15 septembre 2026, elle a appelé à construire un rapport de force « avec les pays européens qui refusent d'être les vassaux des États-Unis » ; elle critique les choix européens favorisant l'achat d'armes américaines plutôt que la préférence européenne (octobre 2026). Aucune déclaration explicite sur l'appartenance à l'OTAN ou au commandement intégré n'a été retrouvée : le cran −1 traduit la distance affichée avec Washington, pas une proposition de sortie.",
+      "date": "2026-10-14",
+      "sources": [
+        {
+          "titre": "Natacha Polony : « Le Rassemblement national ne dit pas des choses fausses sur tout »",
+          "url": "https://www.sudradio.fr/sud-radio/natacha-polony-je-lance-un-appel-aux-orphelins-de-la-politique",
+          "media": "Sud Radio",
+          "date": "2026-09-15"
+        },
+        {
+          "titre": "France : Natacha Polony officialise sa candidature à la présidentielle",
+          "url": "https://fr.euronews.com/2026/10/14/france-natacha-polony-officialise-sa-candidature-a-la-presidentielle",
+          "media": "Euronews",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    "trump": {
+      "position": -1,
+      "titre": "Pression européenne sur Washington",
+      "resume": "Le 15 septembre 2026, elle a appelé à « utiliser la puissance économique de l'Europe et nos outils de coercition pour signifier aux États-Unis que cela suffit et exiger l'arrêt de cette guerre totalement illégitime », en lien avec la fermeture du détroit d'Ormuz. Donald Trump n'est pas nommé ; le cran −1 (critique) est retenu par prudence plutôt que −2.",
+      "date": "2026-09-15",
+      "sources": [
+        {
+          "titre": "Natacha Polony : « Le Rassemblement national ne dit pas des choses fausses sur tout »",
+          "url": "https://www.sudradio.fr/sud-radio/natacha-polony-je-lance-un-appel-aux-orphelins-de-la-politique",
+          "media": "Sud Radio",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "russie": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration récente de Natacha Polony sur la Russie n'a été retrouvée dans les sources consultées.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "ukraine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration récente de Natacha Polony sur l'Ukraine n'a été retrouvée dans les sources consultées.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "chine": {
+      "position": 1,
+      "titre": "Défendre les filières face aux importations chinoises",
+      "resume": "Au Mondial de l'automobile le 15 octobre 2026, elle a affirmé que les véhicules chinois sont « en train de détruire des dizaines de milliers d'emplois », reproché à l'Allemagne de les avoir laissés entrer et appelé à « défendre nos filières » contre une concurrence déloyale ; en septembre 2026, elle a critiqué les acheteurs publics qui choisissent des produits chinois « quelques centimes moins cher ». Faute de mesure commerciale précise (droits de douane, quotas), le cran +1 est retenu plutôt que +2.",
+      "date": "2026-10-15",
+      "sources": [
+        {
+          "titre": "Présidentielle : Natacha Polony plaide pour un « état d'urgence de la production »",
+          "url": "https://www.lagazettefrance.fr/article/presidentielle-polony-dit-son-emotion-de-porter-la-voix-de-ceux-qui-ne-sont-pas-resignes",
+          "media": "La Gazette France",
+          "date": "2026-10-16"
+        },
+        {
+          "titre": "Natacha Polony : « Le Rassemblement national ne dit pas des choses fausses sur tout »",
+          "url": "https://www.sudradio.fr/sud-radio/natacha-polony-je-lance-un-appel-aux-orphelins-de-la-politique",
+          "media": "Sud Radio",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    "proche-orient": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration récente de Natacha Polony sur Israël et la Palestine n'a été retrouvée dans les sources consultées.",
+      "date": "2026-11-13",
+      "sources": []
+    }
+  }
+}

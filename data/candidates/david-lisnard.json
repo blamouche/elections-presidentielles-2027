@@ -1,0 +1,854 @@
+{
+  "id": "david-lisnard",
+  "prenom": "David",
+  "nom": "Lisnard",
+  "parti": "Nouvelle Énergie",
+  "partiAbrev": "NE",
+  "famillePolitique": "droite",
+  "couleur": "#5B6BBF",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Après avoir affirmé sur RTL le 21 janvier 2026 qu'il serait candidat « même s'il n'y a pas de primaire », David Lisnard a officialisé sa candidature et son départ des Républicains le 31 mars 2026 au journal de 20 heures de France 2, en protestation contre le mode de désignation du candidat LR. Il se présente sous l'étiquette de Nouvelle Énergie, le mouvement qu'il a fondé en 2021, avec un projet qu'il qualifie de « libéral, sécuritaire, éducatif et scientifique », et défend une primaire ouverte de la droite et du centre. En novembre 2026, Bruno Retailleau lui a proposé, ainsi qu'à Édouard Philippe et Gabriel Attal, une primaire les 31 janvier et 7 février 2027.",
+    "date": "2026-03-31",
+    "sources": [
+      {
+        "titre": "Le maire de Cannes, David Lisnard, annonce sa candidature à l'élection présidentielle et officialise son départ des Républicains",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/le-maire-de-cannes-david-lisnard-annonce-sa-candidature-a-l-election-presidentielle-et-officialise-son-depart-des-republicains_7907063.html",
+        "media": "franceinfo",
+        "date": "2026-03-31"
+      },
+      {
+        "titre": "Présidentielle 2027 : David Lisnard confirme se lancer dans la bataille pour l'Élysée",
+        "url": "https://www.cnews.fr/france/2026-01-21/presidentielle-2027-david-lisnard-confirme-se-lancer-dans-la-bataille-pour",
+        "media": "CNews",
+        "date": "2026-01-21"
+      },
+      {
+        "titre": "« Je suis candidat » : David Lisnard quitte LR et relance le débat sur une primaire à droite",
+        "url": "https://lcp.fr/actualites/je-suis-candidat-david-lisnard-quitte-lr-et-relance-le-debat-sur-une-primaire-a-droite",
+        "media": "LCP",
+        "date": "2026-03-31"
+      },
+      {
+        "titre": "David Lisnard est-il candidat à la présidentielle 2027 ?",
+        "url": "https://www.unenouvelleenergie.fr/questions/david-lisnard-est-il-candidat-a-la-presidentielle-2027/",
+        "media": "Nouvelle Énergie (site du mouvement)",
+        "date": "2026-11"
+      },
+      {
+        "titre": "Retailleau juge que la primaire doit se faire même sans Philippe",
+        "url": "https://www.boursorama.com/actualite-economique/actualites/retailleau-juge-que-la-primaire-doit-se-faire-meme-sans-philippe-1c232913a9486dae718d8aa85a692c69",
+        "media": "AFP / Boursorama",
+        "date": "2026-11-12"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1969-02-02",
+      "lieu": "Limoges (Haute-Vienne)",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de David Lisnard",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-david-lisnard",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Une AMF rassemblée et dynamisée au service de nos communes (profession de foi de David Lisnard)",
+          "url": "https://medias.amf.asso.fr/upload/files/profession%20de%20foi%20DL.pdf",
+          "media": "Association des maires de France",
+          "date": "2021"
+        },
+        {
+          "titre": "David Lisnard",
+          "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Élu cannois depuis 2001, David Lisnard est maire de Cannes depuis 2014 (réélu en 2020 et en 2026), président de l'agglomération Cannes Pays de Lérins depuis 2017 et président de l'Association des maires de France depuis 2021, poste pour lequel il est candidat à sa réélection au congrès de novembre 2026. Ancien membre du RPR, de l'UMP puis des Républicains, dont il a été vice-président, il a quitté LR fin mars 2026 pour se présenter sous l'étiquette de Nouvelle Énergie, le mouvement qu'il préside. Il défend un programme libéral centré sur une forte baisse de la dépense publique, la réduction des normes et de l'administration, la décentralisation et un durcissement de la politique migratoire et pénale.",
+    "formation": [
+      {
+        "texte": "Baccalauréat au lycée Bristol de Cannes ; diplômé de l'Institut d'études politiques de Bordeaux (promotion 1992) ; études de droit public à l'université Paris-Panthéon-Assas.",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de David Lisnard",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-david-lisnard",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Réélu haut la main aux départementales, le maire de Cannes réagit pour la 1ère fois avec son nouveau parti",
+            "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/le-maire-de-cannes-reelu-haut-la-main-reagit-pour-la-premiere-fois-avec-son-parti-une-nouvelle-energie-pour-la-france-2145550.html",
+            "media": "France 3 Provence-Alpes-Côte d'Azur",
+            "date": "2021-06"
+          },
+          {
+            "titre": "David Lisnard",
+            "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Pigiste pour des magazines, propriétaire de magasins de vêtements à Cannes (cédés en 2016) et président, à partir de juin 2008, du cabinet de conseil aux collectivités Service Public 2000.",
+        "sources": [
+          {
+            "titre": "Une AMF rassemblée et dynamisée au service de nos communes (profession de foi de David Lisnard)",
+            "url": "https://medias.amf.asso.fr/upload/files/profession%20de%20foi%20DL.pdf",
+            "media": "Association des maires de France",
+            "date": "2021"
+          },
+          {
+            "titre": "Réélu haut la main aux départementales, le maire de Cannes réagit pour la 1ère fois avec son nouveau parti",
+            "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/le-maire-de-cannes-reelu-haut-la-main-reagit-pour-la-premiere-fois-avec-son-parti-une-nouvelle-energie-pour-la-france-2145550.html",
+            "media": "France 3 Provence-Alpes-Côte d'Azur",
+            "date": "2021-06"
+          },
+          {
+            "titre": "David Lisnard",
+            "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "La biographie et le CV de David Lisnard",
+        "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-david-lisnard",
+        "media": "Sud Radio",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Une AMF rassemblée et dynamisée au service de nos communes (profession de foi de David Lisnard)",
+        "url": "https://medias.amf.asso.fr/upload/files/profession%20de%20foi%20DL.pdf",
+        "media": "Association des maires de France",
+        "date": "2021"
+      },
+      {
+        "titre": "David Lisnard",
+        "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "2001",
+      "fin": "2014",
+      "fonction": "Conseiller municipal puis premier adjoint au maire de Cannes",
+      "details": "Élu conseiller municipal en 2001, réélu en 2008 et devenu premier adjoint.",
+      "sources": [
+        {
+          "titre": "Réélu haut la main aux départementales, le maire de Cannes réagit pour la 1ère fois avec son nouveau parti",
+          "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/le-maire-de-cannes-reelu-haut-la-main-reagit-pour-la-premiere-fois-avec-son-parti-une-nouvelle-energie-pour-la-france-2145550.html",
+          "media": "France 3 Provence-Alpes-Côte d'Azur",
+          "date": "2021-06"
+        },
+        {
+          "titre": "Une AMF rassemblée et dynamisée au service de nos communes (profession de foi de David Lisnard)",
+          "url": "https://medias.amf.asso.fr/upload/files/profession%20de%20foi%20DL.pdf",
+          "media": "Association des maires de France",
+          "date": "2021"
+        },
+        {
+          "titre": "David Lisnard",
+          "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2008",
+      "fin": null,
+      "fonction": "Conseiller général puis départemental des Alpes-Maritimes",
+      "details": "Élu le 16 mars 2008 (canton de Cannes-Est, puis Cannes-2 à partir de 2015), réélu en 2015 et 2021 ; vice-président du conseil départemental chargé du tourisme depuis 2014.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de David Lisnard",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-david-lisnard",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Réélu haut la main aux départementales, le maire de Cannes réagit pour la 1ère fois avec son nouveau parti",
+          "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/le-maire-de-cannes-reelu-haut-la-main-reagit-pour-la-premiere-fois-avec-son-parti-une-nouvelle-energie-pour-la-france-2145550.html",
+          "media": "France 3 Provence-Alpes-Côte d'Azur",
+          "date": "2021-06"
+        },
+        {
+          "titre": "Une AMF rassemblée et dynamisée au service de nos communes (profession de foi de David Lisnard)",
+          "url": "https://medias.amf.asso.fr/upload/files/profession%20de%20foi%20DL.pdf",
+          "media": "Association des maires de France",
+          "date": "2021"
+        },
+        {
+          "titre": "David Lisnard",
+          "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2012",
+      "fin": "2017",
+      "fonction": "Député suppléant de la 8e circonscription des Alpes-Maritimes",
+      "details": "Suppléant de Bernard Brochand pendant la XIVe législature.",
+      "sources": [
+        {
+          "titre": "David Lisnard",
+          "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2014",
+      "fin": null,
+      "fonction": "Maire de Cannes",
+      "details": "Élu le 5 avril 2014, réélu en 2020 puis le 15 mars 2026 dès le premier tour : sa liste « Cannes gagne avec David Lisnard » obtient 81,11 % des suffrages exprimés (19 721 voix) et 45 des 49 sièges, selon les résultats du ministère de l'Intérieur.",
+      "sources": [
+        {
+          "titre": "David Lisnard",
+          "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Municipales 2026 – Cannes (06029) : résultats du premier tour",
+          "url": "https://www.resultats-elections.interieur.gouv.fr/municipales2026/ensemble_geographique/93/06/06029/",
+          "media": "Ministère de l'Intérieur",
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "debut": "2017",
+      "fin": null,
+      "fonction": "Président de la communauté d'agglomération Cannes Pays de Lérins",
+      "details": "Depuis le 20 juillet 2017.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de David Lisnard",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-david-lisnard",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Une AMF rassemblée et dynamisée au service de nos communes (profession de foi de David Lisnard)",
+          "url": "https://medias.amf.asso.fr/upload/files/profession%20de%20foi%20DL.pdf",
+          "media": "Association des maires de France",
+          "date": "2021"
+        },
+        {
+          "titre": "David Lisnard",
+          "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2021",
+      "fin": null,
+      "fonction": "Président de l'Association des maires de France (AMF)",
+      "details": "Élu le 17 novembre 2021 face à Philippe Laurent, avec 62,3 % des voix. Candidat à sa réélection face au même adversaire, maire UDI de Sceaux, lors du congrès de l'AMF prévu du 24 au 26 novembre 2026 ; sa double casquette de président de l'AMF et de candidat à la présidentielle est contestée par une partie des maires.",
+      "sources": [
+        {
+          "titre": "David Lisnard",
+          "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "« Le congrès des maires de France ne peut pas devenir un temps de la présidentielle » : avec David Lisnard contesté, il se passe quelque chose… à l'AMF",
+          "url": "https://www.publicsenat.fr/actualites/politique/le-congres-des-maires-de-france-ne-peut-pas-devenir-un-temps-de-la-presidentielle-avec-david-lisnard-conteste-il-se-passe-quelque-chose-a-lamf",
+          "media": "Public Sénat",
+          "date": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "debut": "2021",
+      "fin": null,
+      "fonction": "Président-fondateur de Nouvelle Énergie",
+      "details": "Président du mouvement depuis juin 2021 ; Nouvelle Énergie revendique 129 267 adhérents au 12 novembre 2026.",
+      "sources": [
+        {
+          "titre": "David Lisnard",
+          "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Notre programme",
+          "url": "https://www.unenouvelleenergie.fr/notre-programme/",
+          "media": "Nouvelle Énergie (site du mouvement)",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "debut": "2025",
+      "fin": "2026",
+      "fonction": "Vice-président des Républicains",
+      "details": "Nommé vice-président de LR en 2025 ; membre du parti de 2015 à fin mars 2026 (après le RPR de 1996 à 2002 et l'UMP de 2002 à 2015), qu'il a quitté le 31 mars 2026.",
+      "sources": [
+        {
+          "titre": "David Lisnard",
+          "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Le maire de Cannes, David Lisnard, annonce sa candidature à l'élection présidentielle et officialise son départ des Républicains",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/le-maire-de-cannes-david-lisnard-annonce-sa-candidature-a-l-election-presidentielle-et-officialise-son-depart-des-republicains_7907063.html",
+          "media": "franceinfo",
+          "date": "2026-03-31"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Aucune procédure judiciaire le visant personnellement (enquête, mise en examen, condamnation) n'a été identifiée à ce jour.",
+    "sources": [
+      {
+        "titre": "David Lisnard",
+        "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      }
+    ],
+    "affaires": []
+  },
+  "programme": {
+    "statut": "Propositions partielles",
+    "resume": "Le projet de Nouvelle Énergie s'articule autour de trois axes : « être maître de notre destin », « réussir une nouvelle ambition française » et « générer un renouveau civique ». Sa mesure phare est une baisse de la dépense publique d'au moins 200 Md€ (objectif affiché de 300 Md€), dont 60 % seraient rendus en pouvoir d'achat via la baisse des cotisations, le reste allant à la baisse des impôts de production et au désendettement. Il propose aussi une retraite à 65 ans avec une large part de capitalisation, un contrat de travail unique, une division par huit des titres de séjour, la suppression de l'AME, l'abaissement de la majorité pénale à 16 ans et une forte autonomie des établissements scolaires. Aucun document de chiffrage global (contre-budget ou tableau de financement) n'a été publié à la date de mise à jour.",
+    "documents": [
+      {
+        "titre": "Notre programme",
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/",
+        "media": "Nouvelle Énergie (site du mouvement)",
+        "date": "2026-11-12"
+      },
+      {
+        "titre": "Réussir une nouvelle ambition française",
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "media": "Nouvelle Énergie (site du mouvement)",
+        "date": "2026"
+      },
+      {
+        "titre": "Le programme de David Lisnard est-il chiffré ?",
+        "url": "https://www.unenouvelleenergie.fr/questions/le-programme-de-david-lisnard-est-il-chiffre/",
+        "media": "Nouvelle Énergie (site du mouvement)",
+        "date": "2026"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "baisse-depense-publique-200-md",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Baisse de la dépense publique d'au moins 200 Md€",
+        "description": "Réduire la dépense publique d'au moins 200 Md€, présentés comme « documentés », avec un objectif affiché de 300 Md€ ; 80 Md€ dès la première année. Les économies viseraient notamment les quelque 1 200 agences et opérateurs de l'État, certaines directions déconcentrées (Dreal, DDTM) et les agences régionales de santé, ainsi que la dépense sociale (plafonnement de certains revenus sociaux, désindexation des retraites au-delà d'environ 2 000 € par mois). Répartition annoncée : 120 Md€ rendus aux actifs, 40 Md€ de baisse des impôts de production, 40 Md€ pour la dette.",
+        "chiffres": [
+          "Baisse de dépense « documentée » : 200 Md€ ; objectif : 300 Md€",
+          "80 Md€ dès la première année",
+          "Fourchette selon les interventions : 100 à 300 Md€",
+          "Environ 7 points de PIB de dépense publique en moins"
+        ],
+        "date": "2026-08-29",
+        "sources": [
+          {
+            "titre": "Le programme de David Lisnard est-il chiffré ?",
+            "url": "https://www.unenouvelleenergie.fr/questions/le-programme-de-david-lisnard-est-il-chiffre/",
+            "media": "Nouvelle Énergie (site du mouvement)",
+            "date": "2026"
+          },
+          {
+            "titre": "Quelles économies David Lisnard propose-t-il, et où exactement ?",
+            "url": "https://www.unenouvelleenergie.fr/questions/quelles-economies-david-lisnard-propose-t-il-et-ou-exactement/",
+            "media": "Nouvelle Énergie (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "invérifiable",
+          "analyse": "Le mouvement reconnaît lui-même que le montant varie selon les interventions (de 100 à 300 Md€) et aucun document de chiffrage détaillé n'a été publié. Le simulateur Trajectoires France (outil en accès libre édité à titre bénévole par un particulier, non rattaché à un fact-checkeur reconnu) relève des incohérences : la clé « 120 Md€ de salaires nets + 40 Md€ d'impôts de production » implique 160 Md€ de baisses de prélèvements alors qu'une tribune d'avril 2026 évoquait une « baisse nette de 100 milliards », et la cible est présentée tantôt sur le quinquennat, tantôt en rythme annuel. Pour ordre de grandeur, la commission d'enquête du Sénat sur les agences estimait en 2025 à environ 2,2 Md€ l'économie atteignable par une baisse de 8 % de leurs charges de personnel et de fonctionnement. Ce simulateur ne retient que 38,7 Md€ d'économies (fourchette de 0 à 77,5 Md€), faute de mesures documentées, et estime l'effet net du programme à environ -115 Md€ par an sur le solde public ; aucun chiffrage par un institut reconnu (Institut Montaigne, iFRAP, OFCE, IPP) n'a été trouvé au 13 novembre 2026, d'où le verdict invérifiable.",
+          "sources": [
+            {
+              "titre": "Programme de David Lisnard (Nouvelle Énergie) 2027 : chiffrage et dette",
+              "url": "https://trajectoiresfrance.com/programmes/nouvelle-energie/",
+              "media": "Trajectoires France",
+              "date": "2026-10-29"
+            },
+            {
+              "titre": "C. Quelles économies sont-elles envisageables à politiques publiques inchangées ?",
+              "url": "https://www.senat.fr/rap/r24-807-1/r24-807-122.html",
+              "media": "Sénat (commission d'enquête sur les agences de l'État)",
+              "date": "2025-07"
+            }
+          ]
+        }
+      },
+      {
+        "id": "pouvoir-achat-120-md-cotisations",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Rendre 120 Md€ aux actifs par la baisse des cotisations",
+        "description": "Rendre 60 % des économies (120 Md€ sur 200) en pouvoir d'achat par la baisse des cotisations sociales, soit selon le candidat environ 250 € nets de plus par mois pour un revenu de référence de 2 500 € (+10 %). Il propose aussi d'aligner la CSG des actifs sur celle des inactifs.",
+        "chiffres": [
+          "120 Md€ rendus via la baisse des cotisations",
+          "+250 € nets par mois pour un revenu de 2 500 € (août 2026)",
+          "« Près de 400 € nets par mois » annoncés en janvier 2026"
+        ],
+        "date": "2026-08-29",
+        "sources": [
+          {
+            "titre": "Le programme de David Lisnard est-il chiffré ?",
+            "url": "https://www.unenouvelleenergie.fr/questions/le-programme-de-david-lisnard-est-il-chiffre/",
+            "media": "Nouvelle Énergie (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante n'a été trouvée. Le gain mensuel annoncé a varié (près de 400 € en janvier 2026, environ 250 € en août 2026) et le financement dépend d'économies non détaillées. Le simulateur Trajectoires France (outil bénévole édité par un particulier) estime que, faute d'économies documentées, les baisses de prélèvements prévues creuseraient le déficit (10,3 % du PIB en 2032 dans son scénario central, contre 7,6 % dans sa référence), un résultat très dépendant de ses hypothèses.",
+          "sources": [
+            {
+              "titre": "Le programme de David Lisnard est-il chiffré ?",
+              "url": "https://www.unenouvelleenergie.fr/questions/le-programme-de-david-lisnard-est-il-chiffre/",
+              "media": "Nouvelle Énergie (site du mouvement)",
+              "date": "2026"
+            },
+            {
+              "titre": "Programme de David Lisnard (Nouvelle Énergie) 2027 : chiffrage et dette",
+              "url": "https://trajectoiresfrance.com/programmes/nouvelle-energie/",
+              "media": "Trajectoires France",
+              "date": "2026-10-29"
+            }
+          ]
+        }
+      },
+      {
+        "id": "impots-production-moitie",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Diviser par deux les impôts de production",
+        "description": "Réduire de moitié les impôts de production, de 2 % à 1 % du PIB, en commençant par supprimer la C3S et, le cas échéant, le reliquat de CVAE (11,5 Md€), en plus des baisses déjà prévues par le gouvernement. Réformer les droits de succession sur les entreprises et étudier une TVA « compétitivité » pour alléger les charges sur les salaires.",
+        "chiffres": [
+          "Impôts de production : de 2 % à 1 % du PIB",
+          "Suppression C3S et CVAE : 11,5 Md€"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Réussir une nouvelle ambition française",
+            "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+            "media": "Nouvelle Énergie (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le coût de 11,5 Md€ n'a pas fait l'objet d'une vérification indépendante trouvée à la date de mise à jour, et le simulateur Trajectoires France (outil bénévole édité par un particulier) indique ne pas l'avoir retrouvé dans les sources primaires qu'il a consultées, alors qu'il figure sur la page programme du mouvement. Le financement de la mesure n'est pas précisé.",
+          "sources": [
+            {
+              "titre": "Programme de David Lisnard (Nouvelle Énergie) 2027 : chiffrage et dette",
+              "url": "https://trajectoiresfrance.com/programmes/nouvelle-energie/",
+              "media": "Trajectoires France",
+              "date": "2026-10-29"
+            }
+          ]
+        }
+      },
+      {
+        "id": "retraite-65-ans-capitalisation",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Retraite à 65 ans et basculement partiel vers la capitalisation",
+        "description": "Porter l'âge légal à 65 ans, verser à tous dès 65 ans un socle de pension par répartition complété par un minimum vieillesse de 1 000 € par mois, et faire basculer les autres régimes vers la capitalisation, financée par les cotisations obligatoires, en environ huit tranches, pour environ 116 Md€ (environ 40 % du total des retraites). Création d'une Agence centrale publique de retraite et possibilité de débloquer l'épargne pour acheter sa résidence principale.",
+        "chiffres": [
+          "Âge légal : 65 ans",
+          "Minimum vieillesse : 1 000 € par mois",
+          "Capitalisation : environ 116 Md€, soit environ 40 % du total des retraites",
+          "Transition en environ 8 tranches"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Réussir une nouvelle ambition française",
+            "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+            "media": "Nouvelle Énergie (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune évaluation indépendante (COR, OFCE, Institut Montaigne) de ce schéma n'a été trouvée. La question centrale, non chiffrée par le mouvement, est celle du « double financement » pendant la transition : les pensions en cours restent à payer par répartition alors qu'une part des cotisations serait placée en capitalisation.",
+          "sources": [
+            {
+              "titre": "Réussir une nouvelle ambition française",
+              "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+              "media": "Nouvelle Énergie (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "contrat-travail-unique",
+        "theme": "emploi-travail",
+        "type": "proposition",
+        "titre": "Contrat de travail unique et charges négatives pour l'embauche d'allocataires du RSA",
+        "description": "Créer un contrat de travail unique pour les nouvelles embauches, avec des indemnités de licenciement progressives ; instaurer des charges patronales négatives pour l'embauche de personnes au RSA depuis plus de deux ans ; supprimer les charges des employeurs à domicile au niveau du Smic ; abaisser la limite d'âge de l'apprentissage.",
+        "chiffres": [
+          "Charges patronales négatives pour les allocataires du RSA depuis plus de 2 ans"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Réussir une nouvelle ambition française",
+            "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+            "media": "Nouvelle Énergie (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le coût des charges négatives et des exonérations n'est pas chiffré par le mouvement, et aucune vérification indépendante n'a été trouvée à la date de mise à jour.",
+          "sources": [
+            {
+              "titre": "Réussir une nouvelle ambition française",
+              "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+              "media": "Nouvelle Énergie (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "titres-sejour-divises-par-huit",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "Diviser par huit la délivrance des titres de séjour",
+        "description": "Diviser par huit la délivrance de titres de séjour, fixer des quotas pour les travailleurs qualifiés, conditionner le regroupement familial à des critères de revenus et à des tests d'intégration, mettre fin à l'automaticité du droit du sol, renégocier l'accord franco-algérien de 1968 et traiter les demandes d'asile dans les consulats.",
+        "chiffres": [
+          "Titres de séjour : division par 8"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Immigration",
+            "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+            "media": "Nouvelle Énergie (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante de la faisabilité de l'objectif n'a été trouvée. Pour ordre de grandeur, la DGEF a recensé 384 230 premiers titres de séjour délivrés en 2025 (+11,2 %), dont environ un tiers pour motif étudiant ; une division par huit ramènerait ce total à environ 48 000 par an, soit nettement moins que les seuls titres délivrés pour motif étudiant (environ un tiers du total, de l'ordre de 128 000). La mesure supposerait donc de réduire fortement toutes les catégories, y compris celles relevant d'obligations conventionnelles (asile, protection humanitaire, vie familiale), ce que le programme envisage via une confrontation avec la CEDH.",
+          "sources": [
+            {
+              "titre": "Immigration : 384 230 premiers titres de séjour délivrés en 2025, en hausse de 11,2 %",
+              "url": "https://www.franceinfo.fr/societe/immigration/immigration-384-230-premiers-titres-de-sejour-delivres-en-2025-en-hausse-de-11-2-e-de-11-2_7767725.html",
+              "media": "franceinfo",
+              "date": "2026-01-27"
+            }
+          ]
+        }
+      },
+      {
+        "id": "suppression-ame",
+        "theme": "sante",
+        "type": "proposition",
+        "titre": "Supprimer l'AME au profit d'une aide médicale d'urgence",
+        "description": "Supprimer l'aide médicale d'État (AME) et la remplacer par une aide limitée aux soins d'urgence, pour une économie estimée par le mouvement à 700 M€.",
+        "chiffres": [
+          "Économie annoncée : 700 M€"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Immigration",
+            "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+            "media": "Nouvelle Énergie (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune évaluation indépendante de l'économie de 700 M€ n'a été trouvée. Pour ordre de grandeur, les crédits de l'AME prévus pour 2026 s'élevaient à 1,21 Md€ dans le projet de loi de finances (le Sénat a voté une baisse de 200 M€) : l'économie annoncée représenterait donc près de 60 % de l'enveloppe, son niveau réel dépendant du périmètre de l'aide d'urgence maintenue et du report éventuel de dépenses vers l'hôpital.",
+          "sources": [
+            {
+              "titre": "Budget 2026 : le Sénat durcit les conditions de l'Aide médicale d'État et vote une baisse de ses crédits de 200 millions",
+              "url": "https://www.publicsenat.fr/actualites/sante/budget-2026-le-senat-durcit-les-conditions-de-laide-medicale-detat-et-vote-une-baisse-de-ses-credits-de-200-millions",
+              "media": "Public Sénat",
+              "date": "2025-12-11"
+            }
+          ]
+        }
+      },
+      {
+        "id": "prestations-cinq-ans-residence",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "Conditionner les prestations non contributives à cinq ans de résidence régulière",
+        "description": "Réserver les allocations non contributives aux étrangers justifiant d'au moins cinq ans de résidence régulière en France, pour une économie estimée par le candidat à 8 Md€ par an.",
+        "chiffres": [
+          "Condition : 5 ans de résidence régulière",
+          "Économie annoncée : 8 Md€ par an"
+        ],
+        "date": "2026-08-29",
+        "sources": [
+          {
+            "titre": "Immigration",
+            "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+            "media": "Nouvelle Énergie (site du mouvement)",
+            "date": "2026"
+          },
+          {
+            "titre": "Le programme de David Lisnard est-il chiffré ?",
+            "url": "https://www.unenouvelleenergie.fr/questions/le-programme-de-david-lisnard-est-il-chiffre/",
+            "media": "Nouvelle Énergie (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le chiffrage de 8 Md€ par an n'a pas été vérifié de façon indépendante. Sur le plan juridique, le Conseil constitutionnel a jugé le 11 avril 2024 (RIP porté par LR) qu'une condition de cinq ans de résidence, ou de 30 mois d'affiliation professionnelle, pour l'accès d'étrangers en situation régulière à certaines prestations portait une « atteinte disproportionnée » aux exigences constitutionnelles. En l'état du droit, la mesure nécessiterait une révision constitutionnelle, que la page programme ne mentionne pas pour ce point précis.",
+          "sources": [
+            {
+              "titre": "RIP sur l'immigration : Les Républicains voient leur demande rejetée par le Conseil constitutionnel",
+              "url": "https://www.leclubdesjuristes.com/en-bref/rip-sur-limmigration-les-republicains-voient-leur-demande-rejetee-par-le-conseil-constitutitonnel-5662/",
+              "media": "Le Club des juristes",
+              "date": "2024-04-11"
+            }
+          ]
+        }
+      },
+      {
+        "id": "retention-administrative-24-mois",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "Allonger la rétention administrative à 24 mois",
+        "description": "Construire davantage de centres de rétention administrative et porter la durée maximale de rétention à 24 mois ; rétablir le délit de séjour irrégulier et expulser systématiquement les étrangers condamnés pour des faits graves.",
+        "chiffres": [
+          "Durée maximale de rétention : 24 mois"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Immigration",
+            "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+            "media": "Nouvelle Énergie (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "Sur la compatibilité avec le droit de l'Union : la directive retour de 2008 plafonnait la rétention à 18 mois, mais le nouveau règlement européen sur le retour, approuvé par le Parlement européen le 17 juin 2026 puis par le Conseil le 1er octobre 2026, porte ce plafond à 24 mois (jusqu'à 30 mois en cas de risque de fuite). Un allongement à 24 mois deviendrait donc compatible avec le cadre européen une fois le règlement applicable ; le coût de la construction de nouveaux centres n'est pas chiffré.",
+          "sources": [
+            {
+              "titre": "Reflection paper: Longer detention, fewer safeguards. Inside the EU's new Return Regulation",
+              "url": "https://www.migpolgroup.com/index.php/2026/06/17/reflection-paper-inside-the-return-regulation/",
+              "media": "Migration Policy Group",
+              "date": "2026-06-17"
+            },
+            {
+              "titre": "The EU agrees on new Return Order, longer detention and return hubs",
+              "url": "https://www.euronews.com/2026/10/07/the-eu-agrees-on-new-return-order-longer-detention-and-return-hubs",
+              "media": "Euronews",
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      },
+      {
+        "id": "majorite-penale-16-ans",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "Majorité pénale à 16 ans et présence policière sur le terrain portée à 50 %",
+        "description": "Abaisser la majorité pénale à 16 ans, inverser l'excuse de minorité dès 13 ans et étendre la comparution immédiate dès 13 ans pour les cas graves ; doubler les effectifs des juridictions correctionnelles ; porter la présence des forces de sécurité sur le terrain à 50 % minimum, contre 37 % selon le mouvement ; rétablir les peines planchers pour les récidivistes et supprimer les réductions de peine automatiques ; permettre aux communes volontaires d'armer leur police municipale.",
+        "chiffres": [
+          "Majorité pénale : 16 ans",
+          "Excuse de minorité inversée dès 13 ans",
+          "Présence sur le terrain : 50 % minimum (contre 37 % selon le mouvement)",
+          "Doublement des effectifs des juridictions correctionnelles"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Sécurité",
+            "url": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+            "media": "Nouvelle Énergie (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification n'a été trouvée sur le taux de présence de 37 % invoqué ni sur la compatibilité constitutionnelle de l'abaissement de la majorité pénale et de l'inversion de l'excuse de minorité. Le coût du doublement des effectifs judiciaires n'est pas chiffré par le mouvement.",
+          "sources": [
+            {
+              "titre": "Sécurité",
+              "url": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+              "media": "Nouvelle Énergie (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "enseignants-hausse-20-pourcents",
+        "theme": "education",
+        "type": "proposition",
+        "titre": "Hausse de 20 % de la rémunération des enseignants et autonomie des établissements",
+        "description": "Augmenter de 20 % sur cinq ans la rémunération des enseignants en contrepartie d'une réorganisation du métier ; abroger la carte scolaire ; donner aux chefs d'établissement la liberté de recruter et de gérer leur budget ; créer un certificat de fin de primaire conditionnant l'entrée au collège ; introduire progressivement un chèque éducation ; créer des classes d'excellence en mathématiques et sciences dans chaque académie.",
+        "chiffres": [
+          "+20 % de rémunération des enseignants sur 5 ans"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Éducation",
+            "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+            "media": "Nouvelle Énergie (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le coût de la revalorisation et du chèque éducation n'est pas chiffré par le mouvement, et aucune vérification indépendante n'a été trouvée à la date de mise à jour.",
+          "sources": [
+            {
+              "titre": "Éducation",
+              "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+              "media": "Nouvelle Énergie (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "suppression-article-55-sru",
+        "theme": "logement",
+        "type": "proposition",
+        "titre": "Supprimer l'obligation de logements sociaux de la loi SRU",
+        "description": "Supprimer l'article 55 de la loi SRU, qui impose aux communes concernées 20 % (bientôt 25 %) de logements sociaux, avec comme piste transitoire le remplacement de l'objectif portant sur le stock par un objectif plafonné sur les flux de construction, défini entre l'État et les collectivités.",
+        "chiffres": [
+          "Obligation actuelle visée : 20 à 25 % de logements sociaux"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Réussir une nouvelle ambition française",
+            "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+            "media": "Nouvelle Énergie (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune analyse indépendante de l'effet de cette suppression sur la production de logements sociaux n'a été trouvée à la date de mise à jour.",
+          "sources": [
+            {
+              "titre": "Réussir une nouvelle ambition française",
+              "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+              "media": "Nouvelle Énergie (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "suppression-agences-1153-entites",
+        "theme": "territoires-services-publics",
+        "type": "declaration-chiffree",
+        "titre": "« 1 153 entités » créées par l'État et jusqu'à 500 000 agents",
+        "description": "David Lisnard affirme que l'État a créé 1 153 entités (environ 1 200 organismes en vingt-cinq ans selon d'autres interventions), employant 420 000 à 500 000 agents selon ses chiffrages successifs, pour une dépense de 83 à 100 Md€, et en fait un gisement majeur d'économies.",
+        "chiffres": [
+          "1 153 entités",
+          "420 000 à 500 000 agents selon les interventions",
+          "83 à 100 Md€ de dépenses"
+        ],
+        "date": "2026-08-29",
+        "sources": [
+          {
+            "titre": "Le programme de David Lisnard est-il chiffré ?",
+            "url": "https://www.unenouvelleenergie.fr/questions/le-programme-de-david-lisnard-est-il-chiffre/",
+            "media": "Nouvelle Énergie (site du mouvement)",
+            "date": "2026"
+          },
+          {
+            "titre": "Quelles économies David Lisnard propose-t-il, et où exactement ?",
+            "url": "https://www.unenouvelleenergie.fr/questions/quelles-economies-david-lisnard-propose-t-il-et-ou-exactement/",
+            "media": "Nouvelle Énergie (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "Le nombre de 1 153 correspond au périmètre étudié par la commission d'enquête du Sénat sur les agences (juillet 2025) : 1 153 organismes publics nationaux, dont 426 opérateurs et 317 commissions consultatives. Il s'agit toutefois du stock d'organismes existants, et non d'entités toutes créées au cours des vingt-cinq dernières années. Les effectifs avancés (420 000 à 500 000 agents) n'ont pas pu être vérifiés ; par ailleurs, la commission sénatoriale chiffrait les économies atteignables à politiques inchangées à environ 2,2 Md€, bien en deçà du gisement suggéré.",
+          "sources": [
+            {
+              "titre": "Le rapport de la commission d'enquête sur les opérateurs peut aller encore plus loin",
+              "url": "https://www.ifrap.org/etat-et-collectivites/rapport-de-la-commission-denquete-sur-les-operateurs-peut-aller-encore-plus-loin",
+              "media": "Fondation iFRAP",
+              "date": "2025-07-03"
+            },
+            {
+              "titre": "C. Quelles économies sont-elles envisageables à politiques publiques inchangées ?",
+              "url": "https://www.senat.fr/rap/r24-807-1/r24-807-122.html",
+              "media": "Sénat (commission d'enquête sur les agences de l'État)",
+              "date": "2025-07"
+            }
+          ]
+        }
+      },
+      {
+        "id": "depense-publique-57-5-pib",
+        "theme": "economie-fiscalite",
+        "type": "declaration-chiffree",
+        "titre": "Une dépense publique à « 57,5 % » de la richesse produite",
+        "description": "Lors d'un meeting à Benfeld (Alsace) le 25 septembre 2026, David Lisnard a situé la dépense publique à 57,5 % de la richesse produite et proposé de la réduire d'environ 7 points de PIB, en invoquant un écart de 12 points avec les Pays-Bas.",
+        "chiffres": [
+          "Dépense publique : 57,5 % du PIB (selon le candidat)",
+          "Écart avec les Pays-Bas : 12 points (selon le candidat)"
+        ],
+        "date": "2026-09-25",
+        "sources": [
+          {
+            "titre": "Le programme de David Lisnard est-il chiffré ?",
+            "url": "https://www.unenouvelleenergie.fr/questions/le-programme-de-david-lisnard-est-il-chiffre/",
+            "media": "Nouvelle Énergie (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "Selon l'Insee (compte des administrations publiques publié le 29 mai 2026), la dépense publique s'est élevée à 1 714,2 Md€ en 2025, soit 57,3 % du PIB, après 57,0 % en 2024 : le chiffre avancé est donc très proche, légèrement arrondi à la hausse. L'écart de 12 points avec les Pays-Bas n'a pas pu être vérifié avec une source consultée.",
+          "sources": [
+            {
+              "titre": "Le compte des administrations publiques en 2025",
+              "url": "https://www.insee.fr/fr/statistiques/8997691?sommaire=8071406",
+              "media": "Insee",
+              "date": "2026-05-29"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

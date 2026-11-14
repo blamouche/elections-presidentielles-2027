@@ -1,0 +1,984 @@
+{
+  "id": "fabien-roussel",
+  "prenom": "Fabien",
+  "nom": "Roussel",
+  "parti": "Parti communiste français",
+  "partiAbrev": "PCF",
+  "famillePolitique": "gauche",
+  "couleur": "#D8232A",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Candidature validée par une consultation des militants du PCF du 3 au 6 septembre 2026 (72,06 % de votes favorables, environ 24 000 votants selon le parti), puis annoncée le dimanche 6 septembre 2026 au journal de 20 heures de TF1. En juillet 2026, la conférence nationale du PCF avait proposé son nom à une large majorité. Candidature autonome, en dehors de la primaire PS-Place publique et malgré les critiques de La France insoumise.",
+    "date": "2026-09-06",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+        "url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
+        "media": "France 24",
+        "date": "2026-09-06"
+      },
+      {
+        "titre": "Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027",
+        "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+        "media": "LCP",
+        "date": "2026-09-06"
+      },
+      {
+        "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+        "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-fabien-roussel-secr%C3%A9taire-national-190113313.html",
+        "media": "Yahoo Actualités (France 24 / AFP)",
+        "date": "2026-09-06"
+      },
+      {
+        "titre": "Présidentielle 2027 : Fabien Roussel officialise une candidature qui a tout pour déplaire à Jean-Luc Mélenchon",
+        "url": "https://fr.news.yahoo.com/sport/presidentielle-2027-fabien-roussel-officialise-183850312.html",
+        "media": "Yahoo Actualités (Le HuffPost)",
+        "date": "2026-09-06"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1969-04-16",
+      "lieu": "Béthune (Pas-de-Calais)",
+      "sources": [
+        {
+          "titre": "Fabien Roussel",
+          "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Fabien Roussel",
+          "url": "https://en.wikipedia.org/wiki/Fabien_Roussel",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Fabien Roussel 2027",
+          "url": "https://www.fabienroussel2027.fr/",
+          "media": "Site de campagne de Fabien Roussel",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Fabien Roussel est secrétaire national du Parti communiste français depuis novembre 2018, réélu en juillet 2026 avec 70,1 % des voix. Ancien journaliste reporter d'images puis collaborateur d'élus communistes, il a été député de la 20e circonscription du Nord de 2017 à 2024. Il est maire de Saint-Amand-les-Eaux (Nord) depuis janvier 2025, réélu en 2026. Candidat du PCF à la présidentielle de 2022 (2,28 %), il se présente de nouveau en 2027 avec un « projet de rupture ».",
+    "formation": [
+      {
+        "texte": "Formation de journaliste reporter d'images au Centre de formation et de perfectionnement des journalistes (CFPJ), après une scolarité secondaire à Champigny-sur-Marne.",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de Fabien Roussel",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-fabien-roussel",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Fabien Roussel",
+            "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Fabien Roussel",
+            "url": "https://en.wikipedia.org/wiki/Fabien_Roussel",
+            "media": "Wikipedia (en)",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Journaliste reporter d'images, notamment pour France 3 et France Télévisions (années 1990).",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de Fabien Roussel",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-fabien-roussel",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Fabien Roussel",
+            "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Fabien Roussel",
+            "url": "https://en.wikipedia.org/wiki/Fabien_Roussel",
+            "media": "Wikipedia (en)",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "texte": "Conseiller en communication de Michelle Demessine, secrétaire d'État au Tourisme (1997), puis collaborateur parlementaire d'Alain Bocquet (à partir de 2001), de Jean-Jacques Candelier (2009-2014) et de la sénatrice Michelle Demessine (2015-2017).",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de Fabien Roussel",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-fabien-roussel",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Fabien Roussel",
+            "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Fabien Roussel",
+            "url": "https://en.wikipedia.org/wiki/Fabien_Roussel",
+            "media": "Wikipedia (en)",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "Fabien Roussel",
+        "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Fabien Roussel",
+        "url": "https://en.wikipedia.org/wiki/Fabien_Roussel",
+        "media": "Wikipedia (en)",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+        "url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
+        "media": "France 24",
+        "date": "2026-09-06"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "2014",
+      "fin": null,
+      "fonction": "Conseiller municipal de Saint-Amand-les-Eaux (Nord)",
+      "details": "Élu en 2014, réélu en 2020 et en 2026.",
+      "sources": [
+        {
+          "titre": "Fabien Roussel",
+          "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Après Alain Bocquet, le nouveau maire de Saint-Amand-les-Eaux est Fabien Roussel",
+          "url": "https://www.ici.fr/infos/politique/apres-alain-bocquet-le-nouveau-maire-de-saint-amand-les-eaux-est-fabien-roussel-9408005",
+          "media": "ici (ex-France Bleu)",
+          "date": "2025-01-30"
+        },
+        {
+          "titre": "Résultats des élections municipales 2026 – Saint-Amand-les-Eaux",
+          "url": "https://www.resultats-elections.interieur.gouv.fr/municipales2026/ensemble_geographique/32/59/59526/",
+          "media": "Ministère de l'Intérieur",
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "debut": "2015",
+      "fin": "2015",
+      "fonction": "Tête de liste PCF-Ensemble! aux élections régionales (Nord-Pas-de-Calais-Picardie)",
+      "details": "5,32 %, aucun élu.",
+      "sources": [
+        {
+          "titre": "Résultats des élections régionales 2015 – Nord-Pas-de-Calais-Picardie",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/regionales-2015/32/32.php",
+          "media": "Ministère de l'Intérieur",
+          "date": "2015-12-13"
+        },
+        {
+          "titre": "La biographie et le CV de Fabien Roussel",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-fabien-roussel",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Fabien Roussel",
+          "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2017",
+      "fin": "2024",
+      "fonction": "Député de la 20e circonscription du Nord",
+      "details": "Élu le 18 juin 2017, réélu en 2022 ; éliminé au premier tour des législatives anticipées de 2024 face au candidat RN Guillaume Florquin.",
+      "sources": [
+        {
+          "titre": "Fabien Roussel",
+          "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Fabien Roussel",
+          "url": "https://en.wikipedia.org/wiki/Fabien_Roussel",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+          "url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
+          "media": "France 24",
+          "date": "2026-09-06"
+        },
+        {
+          "titre": "Fabien Roussel 2027",
+          "url": "https://www.fabienroussel2027.fr/",
+          "media": "Site de campagne de Fabien Roussel",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2018",
+      "fin": null,
+      "fonction": "Secrétaire national du Parti communiste français",
+      "details": "Élu le 25 novembre 2018, réélu en avril 2023 et le 5 juillet 2026 (70,1 %).",
+      "sources": [
+        {
+          "titre": "Fabien Roussel",
+          "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+          "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-fabien-roussel-secr%C3%A9taire-national-190113313.html",
+          "media": "Yahoo Actualités (France 24 / AFP)",
+          "date": "2026-09-06"
+        },
+        {
+          "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+          "url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
+          "media": "France 24",
+          "date": "2026-09-06"
+        },
+        {
+          "titre": "Fabien Roussel 2027",
+          "url": "https://www.fabienroussel2027.fr/",
+          "media": "Site de campagne de Fabien Roussel",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2022",
+      "fin": "2022",
+      "fonction": "Candidat à l'élection présidentielle",
+      "details": "8e du premier tour avec 2,28 % (802 422 voix).",
+      "sources": [
+        {
+          "titre": "Fabien Roussel",
+          "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+          "url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
+          "media": "France 24",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    {
+      "debut": "2025",
+      "fin": null,
+      "fonction": "Maire de Saint-Amand-les-Eaux (Nord)",
+      "details": "Élu par le conseil municipal le 30 janvier 2025 pour succéder à Alain Bocquet ; sa liste l'emporte dès le premier tour des municipales le 15 mars 2026 (51,06 %).",
+      "sources": [
+        {
+          "titre": "Après Alain Bocquet, le nouveau maire de Saint-Amand-les-Eaux est Fabien Roussel",
+          "url": "https://www.ici.fr/infos/politique/apres-alain-bocquet-le-nouveau-maire-de-saint-amand-les-eaux-est-fabien-roussel-9408005",
+          "media": "ici (ex-France Bleu)",
+          "date": "2025-01-30"
+        },
+        {
+          "titre": "Fabien Roussel",
+          "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+          "url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
+          "media": "France 24",
+          "date": "2026-09-06"
+        },
+        {
+          "titre": "Résultats des élections municipales 2026 – Saint-Amand-les-Eaux",
+          "url": "https://www.resultats-elections.interieur.gouv.fr/municipales2026/ensemble_geographique/32/59/59526/",
+          "media": "Ministère de l'Intérieur",
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "debut": "2026",
+      "fin": null,
+      "fonction": "Candidat à l'élection présidentielle de 2027",
+      "details": "Candidature annoncée le 6 septembre 2026.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+          "url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
+          "media": "France 24",
+          "date": "2026-09-06"
+        },
+        {
+          "titre": "Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027",
+          "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+          "media": "LCP",
+          "date": "2026-09-06"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Aucune condamnation connue. Une enquête préliminaire du Parquet national financier, révélée en mars 2022, porte sur des soupçons d'emploi fictif d'assistant parlementaire (2009-2014) ; son issue n'a pas été rendue publique à notre connaissance au 13/11/2026. M. Roussel conteste les faits et reste présumé innocent.",
+    "affaires": [
+      {
+        "titre": "Soupçons d'emploi fictif d'assistant parlementaire de Jean-Jacques Candelier (2009-2014)",
+        "statut": "enquete",
+        "role": "visé par une enquête préliminaire (aucune mise en examen connue)",
+        "resume": "Le 20 février 2022, Mediapart affirme que Fabien Roussel a été rémunéré entre 2009 et 2014 comme assistant parlementaire du député Jean-Jacques Candelier sans avoir réellement travaillé pour lui. Le 11 mars 2022, le Parquet national financier indique avoir ouvert une enquête préliminaire pour « détournement de fonds publics et recel de ce délit », confiée à l'OCLCIFF. M. Roussel dément, dit disposer de documents prouvant son travail et conteste le salaire avancé ; M. Candelier a lui aussi contesté les accusations. Aucune décision de classement, de poursuite ou de mise en examen n'a été trouvée dans les sources consultées : issue non connue à la date de mise à jour (13 novembre 2026). L'enquête étant préliminaire, un éventuel classement sans suite n'est pas nécessairement rendu public. Fabien Roussel est présumé innocent.",
+        "chronologie": [
+          {
+            "date": "2022-02-20",
+            "evenement": "Publication de l'enquête de Mediapart.",
+            "sources": [
+              {
+                "titre": "Fabien Roussel visé par une enquête sur des soupçons d'emploi fictif",
+                "url": "https://www.europe1.fr/politique/fabien-roussel-vise-par-une-enquete-sur-des-soupcons-demploi-fictif-4098873",
+                "media": "Europe 1",
+                "date": "2022-03-11"
+              }
+            ]
+          },
+          {
+            "date": "2022-03-11",
+            "evenement": "Le PNF annonce une enquête préliminaire pour détournement de fonds publics et recel.",
+            "sources": [
+              {
+                "titre": "Fabien Roussel visé par une enquête sur des soupçons d'emploi fictif",
+                "url": "https://www.europe1.fr/politique/fabien-roussel-vise-par-une-enquete-sur-des-soupcons-demploi-fictif-4098873",
+                "media": "Europe 1",
+                "date": "2022-03-11"
+              },
+              {
+                "titre": "Fabien Roussel",
+                "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Fabien Roussel visé par une enquête sur des soupçons d'emploi fictif",
+            "url": "https://www.europe1.fr/politique/fabien-roussel-vise-par-une-enquete-sur-des-soupcons-demploi-fictif-4098873",
+            "media": "Europe 1",
+            "date": "2022-03-11"
+          },
+          {
+            "titre": "Fabien Roussel",
+            "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "statut": "Propositions partielles",
+    "resume": "Fabien Roussel défend un « projet de rupture » centré sur le fait de « vivre de son travail ». La page d'accueil du PCF, qui renvoie vers le site de campagne 2027, met en avant le SMIC à 1 600 € net, la retraite à 60 ans à taux plein, la semaine de 32 heures, 850 € par mois pour les étudiants, des repas à 1 € dans les cantines, le rétablissement et le triplement de l'ISF, le recrutement de 500 000 fonctionnaires et un mix nucléaire et renouvelable. Lors de sa déclaration (6 septembre 2026), il a mis en avant le doublement de la part de l'industrie dans le PIB et de la production d'électricité bas carbone ; au « grand oral » sur les services publics (novembre 2026), une hausse de 10 % du point d'indice et 60 000 recrutements dans la police, la gendarmerie et les douanes. Le site de campagne fabienroussel2027.fr ne détaille aucune mesure au 13/11/2026, et les pages thématiques du PCF qui détaillent ces mesures ne sont pas datées : leurs données de référence (2021) et leur numérotation laissent penser qu'elles reprennent le programme de 2022. Aucun chiffrage global n'a été publié pour 2027.",
+    "documents": [
+      {
+        "titre": "Parti communiste français – page d'accueil (rubrique programme, consultée le 13/11/2026)",
+        "url": "https://www.pcf.fr",
+        "media": "PCF (site officiel)",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Objectif n° 1 : Une révolution du travail et la revalorisation des salaires, pour une sécurité de l'emploi et de la formation (consulté le 13/11/2026, date de publication non indiquée)",
+        "url": "https://www.pcf.fr/objectif_1",
+        "media": "PCF (site officiel)",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Moyen n° 1 : S'attaquer au coût du capital et à la dictature de la finance (consulté le 13/11/2026, date de publication non indiquée)",
+        "url": "https://www.pcf.fr/moyen_1",
+        "media": "PCF (site officiel)",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Fabien Roussel 2027 – « Vivre » (site de campagne)",
+        "url": "https://www.fabienroussel2027.fr/",
+        "media": "Site de campagne de Fabien Roussel",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+        "url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
+        "media": "France 24",
+        "date": "2026-09-06"
+      },
+      {
+        "titre": "Présidentielle 2027 : santé, justice, éducation, culture… Que retenir du grand oral des candidats sur les services publics",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics",
+        "media": "Public Sénat",
+        "date": "2026-11-12"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "roussel-smic-1600",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "SMIC à 1 600 € net et pensions d'au moins 1 200 € net",
+        "description": "Porter le SMIC à 1 600 € net par mois (2 021 € brut), garantir des pensions d'au moins 1 200 € net, imposer l'égalité salariale femmes-hommes par la loi en un an et interdire les minima de branche inférieurs au SMIC. Mesure affichée en page d'accueil du site du PCF dans le cadre de la campagne 2027 (consultée le 13/11/2026) ; son détail provient d'une page thématique non datée, dont les données de référence datent de 2021 et qui reprend vraisemblablement le programme de 2022.",
+        "chiffres": [
+          "SMIC : 1 600 € net / 2 021 € brut par mois",
+          "Pension minimale : 1 200 € net",
+          "Égalité salariale femmes-hommes : en un an"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Parti communiste français – page d'accueil (rubrique programme, consultée le 13/11/2026)",
+            "url": "https://www.pcf.fr",
+            "media": "PCF (site officiel)",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Objectif n° 1 : Une révolution du travail et la revalorisation des salaires, pour une sécurité de l'emploi et de la formation (consulté le 13/11/2026, date de publication non indiquée)",
+            "url": "https://www.pcf.fr/objectif_1",
+            "media": "PCF (site officiel)",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification ou chiffrage indépendant de la mesure n'a été trouvé pour la campagne 2027. Ordre de grandeur : le SMIC est de 1 867,02 € brut depuis le 1er juin 2026, soit environ 1 478 € net (LégiSocial) ; 1 600 € net représenteraient une hausse d'environ 8 %. L'équivalence « 2 021 € brut » de la page du PCF repose sur les taux de 2021 (l'Institut Montaigne retenait environ 2 000 € brut pour 1 600 € net en 2024). Pour une hausse plus forte (de 1 398,70 € à 1 600 € net, +14,4 %, programme du NFP en 2024), l'Institut Montaigne estimait le coût pour les finances publiques à environ 19 Md€ par an et l'effet sur l'emploi à environ -300 000 postes à moyen terme. Le PCF estime à environ 50 Md€ le coût pour les entreprises de la hausse du SMIC et de la reconnaissance des qualifications, et à environ 140 Md€ celui de l'égalité salariale femmes-hommes, sans évaluation externe.",
+          "sources": [
+            {
+              "titre": "Augmenter le SMIC à 1 600 € net (programme du Nouveau Front populaire)",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/nouveau-front-populaire/augmenter-le-smic-a-1600-e-net",
+              "media": "Institut Montaigne",
+              "date": "2024-06-24"
+            },
+            {
+              "titre": "Montant du SMIC 2026 : taux horaire net et brut",
+              "url": "https://www.legisocial.fr/reperes-sociaux/montant-smic-2026-taux-horaire-net-brut.html",
+              "media": "LégiSocial",
+              "date": "2026-06"
+            },
+            {
+              "titre": "Moyen n° 1 : S'attaquer au coût du capital et à la dictature de la finance (consulté le 13/11/2026, date de publication non indiquée)",
+              "url": "https://www.pcf.fr/moyen_1",
+              "media": "PCF (site officiel)",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "roussel-retraite-60-ans",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Retraite à taux plein à 60 ans",
+        "description": "Retraite à 60 ans à taux plein pour une carrière complète commencée à 18 ans, avec une pension égale à 75 % du revenu net. Dans le privé, calcul sur les 10 meilleures années ; dans la fonction publique, choix entre les 10 meilleures années (primes comprises) et les 6 derniers mois. Départs anticipés pour pénibilité et carrières longues. Mesure affichée en page d'accueil du site du PCF dans le cadre de la campagne 2027 (consultée le 13/11/2026) ; son détail provient d'une page thématique non datée, dont les données de référence datent de 2021 et qui reprend vraisemblablement le programme de 2022.",
+        "chiffres": [
+          "Âge de départ à taux plein : 60 ans",
+          "Taux de remplacement : 75 % du revenu net",
+          "Calcul sur les 10 meilleures années (privé)"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Parti communiste français – page d'accueil (rubrique programme, consultée le 13/11/2026)",
+            "url": "https://www.pcf.fr",
+            "media": "PCF (site officiel)",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Objectif n° 1 : Une révolution du travail et la revalorisation des salaires, pour une sécurité de l'emploi et de la formation (consulté le 13/11/2026, date de publication non indiquée)",
+            "url": "https://www.pcf.fr/objectif_1",
+            "media": "PCF (site officiel)",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification ou chiffrage indépendant de cette mesure n'a été trouvé pour la campagne 2027 (le PCF ne publie pas de coût mesure par mesure sur les pages consultées). Contexte : la réforme de 2023 portait progressivement l'âge légal à 64 ans. La loi de financement de la Sécurité sociale pour 2026 l'a gelé à 62 ans et 9 mois à partir du 1er septembre 2026 et jusqu'en janvier 2028 (OFCE). Revenir à 60 ans représenterait donc un abaissement de près de trois ans par rapport au droit actuel, dont le coût n'a pas été évalué publiquement. Repère : pour un retour à 60 ans avec 40 annuités (programme de Jean-Luc Mélenchon en 2022), l'Institut Montaigne estimait le coût à 85,8 Md€ par an ; la version du PCF (taux de remplacement de 75 %, calcul sur les 10 meilleures années) serait a priori plus coûteuse, sans chiffrage disponible.",
+          "sources": [
+            {
+              "titre": "Réforme et suspension de la réforme des retraites : quels impacts sur les projections de population active à court et moyen terme",
+              "url": "https://www.ofce.fr/blog2024/fr/2026/20260129_MD/20260129_MD.fr.pdf",
+              "media": "OFCE (Magali Dauvin)",
+              "date": "2026-01-29"
+            },
+            {
+              "titre": "Jean-Luc Mélenchon – synthèse des chiffrages (présidentielle 2022)",
+              "url": "https://www.institutmontaigne.org/presidentielle-2022/jean-luc-melenchon/synthese/",
+              "media": "Institut Montaigne",
+              "date": "2022"
+            }
+          ]
+        }
+      },
+      {
+        "id": "roussel-32-heures",
+        "theme": "emploi-travail",
+        "type": "proposition",
+        "titre": "Semaine de 32 heures sans perte de salaire",
+        "description": "Réduire la durée légale hebdomadaire du travail à 32 heures, sans baisse de salaire. Mesure affichée en page d'accueil du site du PCF dans le cadre de la campagne 2027 (consultée le 13/11/2026) ; son détail provient d'une page thématique non datée, dont les données de référence datent de 2021 et qui reprend vraisemblablement le programme de 2022.",
+        "chiffres": [
+          "32 heures hebdomadaires (contre 35 aujourd'hui)"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Parti communiste français – page d'accueil (rubrique programme, consultée le 13/11/2026)",
+            "url": "https://www.pcf.fr",
+            "media": "PCF (site officiel)",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Objectif n° 1 : Une révolution du travail et la revalorisation des salaires, pour une sécurité de l'emploi et de la formation (consulté le 13/11/2026, date de publication non indiquée)",
+            "url": "https://www.pcf.fr/objectif_1",
+            "media": "PCF (site officiel)",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification ou chiffrage indépendant de cette mesure n'a été trouvé pour la campagne 2027 (le PCF ne publie pas de coût mesure par mesure sur les pages consultées). Le calendrier, les modalités de compensation pour les entreprises et le coût éventuel pour les finances publiques ne sont pas précisés.",
+          "sources": [
+            {
+              "titre": "Objectif n° 1 : Une révolution du travail et la revalorisation des salaires, pour une sécurité de l'emploi et de la formation (consulté le 13/11/2026, date de publication non indiquée)",
+              "url": "https://www.pcf.fr/objectif_1",
+              "media": "PCF (site officiel)",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "roussel-500000-fonctionnaires",
+        "theme": "territoires-services-publics",
+        "type": "proposition",
+        "titre": "Recruter près de 500 000 fonctionnaires en cinq ans",
+        "description": "Recruter près de 500 000 agents publics sur le quinquennat, dans le cadre d'un plan de développement des services publics. Le chiffrage de 27 Md€ par an provient d'une page thématique non datée du PCF (vraisemblablement le programme de 2022).",
+        "chiffres": [
+          "Environ 500 000 recrutements en 5 ans",
+          "Coût estimé par le PCF : 27 Md€/an"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : santé, justice, éducation, culture… Que retenir du grand oral des candidats sur les services publics",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics",
+            "media": "Public Sénat",
+            "date": "2026-11-12"
+          },
+          {
+            "titre": "Parti communiste français – page d'accueil (rubrique programme, consultée le 13/11/2026)",
+            "url": "https://www.pcf.fr",
+            "media": "PCF (site officiel)",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Moyen n° 1 : S'attaquer au coût du capital et à la dictature de la finance (consulté le 13/11/2026, date de publication non indiquée)",
+            "url": "https://www.pcf.fr/moyen_1",
+            "media": "PCF (site officiel)",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune évaluation indépendante n'a été trouvée. Selon la DGAFP, la fonction publique comptait environ 5,9 millions d'agents fin 2024 : 500 000 recrutements nets représenteraient une hausse d'environ 8,5 %. Le PCF chiffre ces embauches à 27 Md€ par an, soit environ 54 000 € par poste, dans un total d'environ 300 Md€ de dépenses publiques annuelles supplémentaires qu'il dit financer par la croissance et la création monétaire. Ces hypothèses n'ont pas été vérifiées de façon indépendante. Pour comparaison, le déficit public était de 152,5 Md€ en 2025 (Insee).",
+          "sources": [
+            {
+              "titre": "L'emploi dans la fonction publique en 2024",
+              "url": "https://www.fonction-publique.gouv.fr/toutes-les-publications/lemploi-dans-la-fonction-publique-en-2024",
+              "media": "DGAFP – fonction-publique.gouv.fr",
+              "date": "2026-02-10"
+            },
+            {
+              "titre": "Moyen n° 1 : S'attaquer au coût du capital et à la dictature de la finance (consulté le 13/11/2026, date de publication non indiquée)",
+              "url": "https://www.pcf.fr/moyen_1",
+              "media": "PCF (site officiel)",
+              "date": "2026-11-13"
+            },
+            {
+              "titre": "Comptes nationaux des administrations publiques – premiers résultats, année 2025",
+              "url": "https://www.insee.fr/fr/statistiques/8956575",
+              "media": "Insee",
+              "date": "2026-03-27"
+            }
+          ]
+        }
+      },
+      {
+        "id": "roussel-point-indice",
+        "theme": "territoires-services-publics",
+        "type": "proposition",
+        "titre": "Hausse du point d'indice : +10 % immédiatement, +20 à 30 % sur le quinquennat",
+        "description": "Augmenter immédiatement de 10 % le point d'indice de la fonction publique, puis de 20 à 30 % au total sur le quinquennat (le programme du PCF évoque une hausse de 30 % des salaires de la fonction publique).",
+        "chiffres": [
+          "+10 % immédiat",
+          "+20 à 30 % sur 5 ans",
+          "Repère officiel : +1 % de point d'indice = 2,4 Md€ par an"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : santé, justice, éducation, culture… Que retenir du grand oral des candidats sur les services publics",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics",
+            "media": "Public Sénat",
+            "date": "2026-11-12"
+          },
+          {
+            "titre": "Objectif n° 1 : Une révolution du travail et la revalorisation des salaires, pour une sécurité de l'emploi et de la formation (consulté le 13/11/2026, date de publication non indiquée)",
+            "url": "https://www.pcf.fr/objectif_1",
+            "media": "PCF (site officiel)",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le candidat ne chiffre pas la mesure dans les sources consultées et aucune évaluation indépendante n'a été trouvée. Selon le cabinet du ministre de la Fonction publique (juillet 2026), une hausse de 1 % de la valeur du point coûte 2,4 Md€ par an : une hausse immédiate de 10 % représenterait donc environ 24 Md€ par an, et une hausse cumulée de 30 % environ 70 Md€ par an (calcul statique, hors recettes induites d'impôt et de cotisations). La mesure concerne les quelque 5,9 millions d'agents de la fonction publique (DGAFP).",
+          "sources": [
+            {
+              "titre": "Rendez-vous salarial dans la fonction publique : le ministre David Amiel écarte la hausse du point d'indice et mise sur des mesures ciblées",
+              "url": "https://acteurspublics.fr/articles/rendez-vous-salarial-dans-la-fonction-publique-le-ministre-david-amiel-ecarte-la-hausse-du-point-dindice-et-mise-sur-des-mesures-ciblees/",
+              "media": "Acteurs publics",
+              "date": "2026-07-08"
+            },
+            {
+              "titre": "L'emploi dans la fonction publique en 2024",
+              "url": "https://www.fonction-publique.gouv.fr/toutes-les-publications/lemploi-dans-la-fonction-publique-en-2024",
+              "media": "DGAFP – fonction-publique.gouv.fr",
+              "date": "2026-02-10"
+            }
+          ]
+        }
+      },
+      {
+        "id": "roussel-60000-forces-ordre",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "60 000 recrutements dans la police, la gendarmerie et les douanes ; interdiction des LBD",
+        "description": "Recruter 60 000 agents supplémentaires dans la police, la gendarmerie et les douanes, refuser que les polices municipales se substituent à la police nationale et interdire les lanceurs de balles de défense (LBD).",
+        "chiffres": [
+          "60 000 recrutements"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : santé, justice, éducation, culture… Que retenir du grand oral des candidats sur les services publics",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics",
+            "media": "Public Sénat",
+            "date": "2026-11-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification ou chiffrage indépendant de cette mesure n'a été trouvé pour la campagne 2027 (le PCF ne publie pas de coût mesure par mesure sur les pages consultées). Ni la durée de déploiement ni le coût n'ont été précisés dans les sources consultées.",
+          "sources": [
+            {
+              "titre": "Présidentielle 2027 : santé, justice, éducation, culture… Que retenir du grand oral des candidats sur les services publics",
+              "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics",
+              "media": "Public Sénat",
+              "date": "2026-11-12"
+            }
+          ]
+        }
+      },
+      {
+        "id": "roussel-isf-triple",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Rétablir l'ISF et tripler son rendement",
+        "description": "Rétablir l'impôt de solidarité sur la fortune avec un barème plus élevé et plus progressif, supprimer les niches qui le réduisent pour tripler son rendement, et supprimer le prélèvement forfaitaire unique (« flat tax ») sur les revenus du capital. Porter l'impôt sur le revenu à 15 tranches. Mesure affichée en page d'accueil du site du PCF dans le cadre de la campagne 2027 (consultée le 13/11/2026) ; son détail provient d'une page thématique non datée, dont les données de référence datent de 2021 et qui reprend vraisemblablement le programme de 2022.",
+        "chiffres": [
+          "Rendement de l'ISF multiplié par 3",
+          "Impôt sur le revenu : 15 tranches"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Parti communiste français – page d'accueil (rubrique programme, consultée le 13/11/2026)",
+            "url": "https://www.pcf.fr",
+            "media": "PCF (site officiel)",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Moyen n° 1 : S'attaquer au coût du capital et à la dictature de la finance (consulté le 13/11/2026, date de publication non indiquée)",
+            "url": "https://www.pcf.fr/moyen_1",
+            "media": "PCF (site officiel)",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification ou chiffrage indépendant de la mesure n'a été trouvé pour la campagne 2027, et la page du PCF ne donne pas le rendement de référence à tripler. Repères : le Conseil d'analyse économique (octobre 2026) évalue le produit théorique d'un ISF rétabli selon les modalités d'avant 2018 à 7,9 Md€ (5,6 Md€ de gain net de l'IFI, en analyse statique) ; tripler ce rendement supposerait donc environ 20 à 24 Md€ par an, au-delà des 15 Md€ (rendement brut, sans effet de comportement) que le CAE retient pour un ISF « climatique » plus progressif de type NUPES. Le CAE chiffre par ailleurs la suppression du prélèvement forfaitaire unique à 3,2 Md€ au maximum. Les effets de comportement (expatriation, optimisation) n'ont pas été évalués de façon indépendante pour cette proposition.",
+          "sources": [
+            {
+              "titre": "Maîtriser les finances publiques : fixer une trajectoire crédible et transformer la gouvernance (Focus n° 147)",
+              "url": "https://cae-eco.fr/static/pdf/Focus_147_Synthese_Fipu_261008.pdf",
+              "media": "Conseil d'analyse économique",
+              "date": "2026-10"
+            },
+            {
+              "titre": "Moyen n° 1 : S'attaquer au coût du capital et à la dictature de la finance (consulté le 13/11/2026, date de publication non indiquée)",
+              "url": "https://www.pcf.fr/moyen_1",
+              "media": "PCF (site officiel)",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "roussel-fraude-fiscale",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Sanctions pénales renforcées contre la fraude fiscale",
+        "description": "Punir les fraudeurs fiscaux de prison, de privation des droits civiques ou de travaux d'intérêt général. Le programme du PCF prévoit aussi le recrutement massif d'agents des impôts, des douanes et de la répression des fraudes.",
+        "chiffres": [],
+        "date": "2026-09-06",
+        "sources": [
+          {
+            "titre": "Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027",
+            "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+            "media": "LCP",
+            "date": "2026-09-06"
+          },
+          {
+            "titre": "Moyen n° 1 : S'attaquer au coût du capital et à la dictature de la finance (consulté le 13/11/2026, date de publication non indiquée)",
+            "url": "https://www.pcf.fr/moyen_1",
+            "media": "PCF (site officiel)",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Mesure non chiffrée (ni nombre d'agents recrutés, ni recettes attendues). Aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Moyen n° 1 : S'attaquer au coût du capital et à la dictature de la finance (consulté le 13/11/2026, date de publication non indiquée)",
+              "url": "https://www.pcf.fr/moyen_1",
+              "media": "PCF (site officiel)",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "roussel-industrie-x2",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Doubler la part de l'industrie dans le PIB",
+        "description": "Réindustrialiser la France pour « doubler la part d'industrie dans le PIB ».",
+        "chiffres": [
+          "Part de l'industrie dans le PIB multipliée par 2"
+        ],
+        "date": "2026-09-06",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+            "url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
+            "media": "France 24",
+            "date": "2026-09-06"
+          },
+          {
+            "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+            "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-fabien-roussel-secr%C3%A9taire-national-190113313.html",
+            "media": "Yahoo Actualités (France 24 / AFP)",
+            "date": "2026-09-06"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Ni l'horizon ni le niveau de départ retenu ne sont précisés, et aucune vérification indépendante n'a été trouvée. Nous n'avons pas pu sourcer dans cette mise à jour le poids actuel de l'industrie dans le PIB selon l'Insee, ce qui empêche d'apprécier l'ampleur de l'objectif.",
+          "sources": [
+            {
+              "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+              "url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
+              "media": "France 24",
+              "date": "2026-09-06"
+            }
+          ]
+        }
+      },
+      {
+        "id": "roussel-electricite-x2",
+        "theme": "environnement-energie",
+        "type": "proposition",
+        "titre": "Doubler la production d'électricité nucléaire, renouvelable et hydraulique",
+        "description": "Doubler la production d'électricité bas carbone (nucléaire, renouvelables, hydraulique) grâce à un mix énergétique qui associe nucléaire et énergies renouvelables. Le candidat présente aussi le plan climat du PCF comme le seul à fixer une trajectoire carbone.",
+        "chiffres": [
+          "Production d'électricité bas carbone multipliée par 2"
+        ],
+        "date": "2026-09-06",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+            "url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
+            "media": "France 24",
+            "date": "2026-09-06"
+          },
+          {
+            "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+            "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-fabien-roussel-secr%C3%A9taire-national-190113313.html",
+            "media": "Yahoo Actualités (France 24 / AFP)",
+            "date": "2026-09-06"
+          },
+          {
+            "titre": "Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027",
+            "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+            "media": "LCP",
+            "date": "2026-09-06"
+          },
+          {
+            "titre": "Parti communiste français – page d'accueil (rubrique programme, consultée le 13/11/2026)",
+            "url": "https://www.pcf.fr",
+            "media": "PCF (site officiel)",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Ni l'horizon, ni le coût, ni la répartition entre filières ne sont précisés, et aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
+              "url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
+              "media": "France 24",
+              "date": "2026-09-06"
+            }
+          ]
+        }
+      },
+      {
+        "id": "roussel-etudiants-850",
+        "theme": "education",
+        "type": "proposition",
+        "titre": "850 € par mois pour tous les étudiants et repas à 1 € dans les cantines",
+        "description": "Verser une allocation de 850 € par mois à tous les étudiants et instaurer des repas à 1 € dans toutes les cantines scolaires. Le candidat veut aussi abroger la réforme Blanquer et lancer un vaste plan de recrutement dans l'Éducation nationale. Mesure affichée en page d'accueil du site du PCF dans le cadre de la campagne 2027 (consultée le 13/11/2026) ; son détail provient d'une page thématique non datée, dont les données de référence datent de 2021 et qui reprend vraisemblablement le programme de 2022.",
+        "chiffres": [
+          "850 € par mois par étudiant",
+          "Repas à 1 € dans les cantines scolaires"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Parti communiste français – page d'accueil (rubrique programme, consultée le 13/11/2026)",
+            "url": "https://www.pcf.fr",
+            "media": "PCF (site officiel)",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Présidentielle 2027 : santé, justice, éducation, culture… Que retenir du grand oral des candidats sur les services publics",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics",
+            "media": "Public Sénat",
+            "date": "2026-11-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification ou chiffrage indépendant de cette mesure n'a été trouvé pour la campagne 2027 (le PCF ne publie pas de coût mesure par mesure sur les pages consultées). Le coût total de l'allocation étudiante et de la tarification des cantines n'est pas donné sur les pages consultées.",
+          "sources": [
+            {
+              "titre": "Parti communiste français – page d'accueil (rubrique programme, consultée le 13/11/2026)",
+              "url": "https://www.pcf.fr",
+              "media": "PCF (site officiel)",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "roussel-moratoire-licenciements",
+        "theme": "emploi-travail",
+        "type": "proposition",
+        "titre": "Moratoire sur les licenciements et droit de veto des salariés",
+        "description": "Suspendre tous les plans de licenciements en cours, examinés au cas par cas sous l'égide des préfets, donner aux salariés un droit de veto suspensif sur les restructurations et un droit de préemption en cas de cession, et abroger la loi El Khomri, les ordonnances Macron et la réforme de l'assurance chômage. Mesure figurant sur une page thématique non datée du site du PCF (données de référence de 2021, vraisemblablement le programme de 2022) ; elle n'apparaît ni en page d'accueil du PCF ni dans les déclarations de campagne 2027 consultées.",
+        "chiffres": [],
+        "date": "2022",
+        "sources": [
+          {
+            "titre": "Objectif n° 1 : Une révolution du travail et la revalorisation des salaires, pour une sécurité de l'emploi et de la formation (consulté le 13/11/2026, date de publication non indiquée)",
+            "url": "https://www.pcf.fr/objectif_1",
+            "media": "PCF (site officiel)",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Mesure non chiffrée. Sa compatibilité avec la liberté d'entreprendre, protégée par la Constitution, n'a pas fait l'objet d'une analyse trouvée dans les sources consultées.",
+          "sources": [
+            {
+              "titre": "Objectif n° 1 : Une révolution du travail et la revalorisation des salaires, pour une sécurité de l'emploi et de la formation (consulté le 13/11/2026, date de publication non indiquée)",
+              "url": "https://www.pcf.fr/objectif_1",
+              "media": "PCF (site officiel)",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "roussel-suppression-rsa",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Supprimer le RSA au profit d'un emploi garanti",
+        "description": "En février 2025, Fabien Roussel réaffirme sa volonté de « supprimer le RSA » et de garantir un emploi à chacun. Le programme du PCF prévoit une « sécurité d'emploi ou de formation » garantissant à chaque jeune et salarié un emploi ou une formation avec maintien du revenu.",
+        "chiffres": [],
+        "date": "2025-02-20",
+        "sources": [
+          {
+            "titre": "Fabien Roussel",
+            "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Objectif n° 1 : Une révolution du travail et la revalorisation des salaires, pour une sécurité de l'emploi et de la formation (consulté le 13/11/2026, date de publication non indiquée)",
+            "url": "https://www.pcf.fr/objectif_1",
+            "media": "PCF (site officiel)",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Mesure non chiffrée. Le nombre d'emplois à créer, le statut des emplois garantis et le sort des allocataires qui ne pourraient pas travailler ne sont pas précisés. Aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Objectif n° 1 : Une révolution du travail et la revalorisation des salaires, pour une sécurité de l'emploi et de la formation (consulté le 13/11/2026, date de publication non indiquée)",
+              "url": "https://www.pcf.fr/objectif_1",
+              "media": "PCF (site officiel)",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "gilles-platret",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Maire de Chalon-sur-Saône, candidat sans étiquette, Gilles Platret a centré son entrée en campagne (octobre 2026) sur l'islamisme, l'école et le travail. Ses rares propositions extérieures connues portent sur le renforcement du soutien à Israël, la rupture des relations diplomatiques avec l'Iran, un « rapport de force » avec l'Algérie et l'accélération du réarmement. Aucune position publique n'a été identifiée sur l'UE, l'OTAN, les États-Unis, la Russie, l'Ukraine ou la Chine à la date de mise à jour.",
+  "axes": {
+    "europe": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Il fait de la « souveraineté alimentaire » un enjeu stratégique (octobre 2026), sans position identifiée sur l'Union européenne elle-même.",
+      "date": "",
+      "sources": []
+    },
+    "otan": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Il veut « accélérer le réarmement militaire français » face à des « menaces extérieures » non précisées (octobre 2026), sans prise de position identifiée sur l'OTAN.",
+      "date": "",
+      "sources": []
+    },
+    "trump": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "",
+      "date": "",
+      "sources": []
+    },
+    "russie": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "",
+      "date": "",
+      "sources": []
+    },
+    "ukraine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "",
+      "date": "",
+      "sources": []
+    },
+    "chine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "",
+      "date": "",
+      "sources": []
+    },
+    "proche-orient": {
+      "position": -1,
+      "titre": "Renforcer le soutien à Israël",
+      "resume": "Lors de son entrée en campagne (réunion du 8 octobre 2026, communiqué du 9 octobre), il propose de « renforcer le soutien apporté à Israël » et d'« engager une rupture des relations diplomatiques avec la République islamique d'Iran ». Il n'exprime ni réserve ni soutien explicite au gouvernement israélien en tant que tel : hésitation avec −2, le cran le plus prudent est retenu.",
+      "date": "2026-10-09",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : le maire de Chalon-sur-Saône Gilles Platret s'est lancé dans la course à l'Élysée",
+          "url": "https://dijon-actualites.fr/2026/10/10/presidentielle-2027-le-maire-de-chalon-sur-saone-gilles-platret-sest-lance-dans-la-course-a-lelysee/",
+          "media": "Dijon Actualités",
+          "date": "2026-10-10"
+        }
+      ]
+    }
+  }
+}

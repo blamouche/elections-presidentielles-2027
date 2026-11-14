@@ -1,0 +1,84 @@
+{
+  "id": "david-lisnard",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "David Lisnard (Nouvelle Énergie) propose de renégocier la répartition des compétences dans l'UE par un « traité de démocratisation » et de recourir au référendum lorsque des règles supranationales empêchent la France d'exercer sa souveraineté. Il se dit attaché à une relation transatlantique forte tout en jugeant inacceptables les visées américaines sur le Groenland, et décrit la Russie comme une menace pour la démocratie. Peu de prises de position récentes ont été identifiées sur l'Ukraine, la Chine et le Proche-Orient.",
+  "axes": {
+    "europe": {
+      "position": -1,
+      "titre": "Traité de démocratisation, subsidiarité renforcée",
+      "resume": "Son programme prévoit de négocier un « traité de démocratisation de l'Europe » pour revoir la répartition des compétences et renforcer la subsidiarité, un recours au référendum « en cas d'impossibilité pour un État d'exercer sa souveraineté en raison de règles supranationales », la fin des surtranspositions et la maîtrise de la politique migratoire « indépendamment des hautes cours de justice, notamment européennes ». Il ne propose pas de sortie de l'UE.",
+      "date": "2026",
+      "sources": [
+        {
+          "titre": "Notre programme",
+          "url": "https://www.unenouvelleenergie.fr/notre-programme/",
+          "media": "Nouvelle Énergie (site du mouvement)",
+          "date": "2026"
+        }
+      ]
+    },
+    "otan": {
+      "position": 1,
+      "titre": "Attaché à une relation transatlantique forte",
+      "resume": "Le 7 janvier 2026 sur Europe 1-CNEWS, il s'est dit attaché à une relation transatlantique forte avec les États-Unis, tout en jugeant inacceptables certaines positions américaines, notamment sur le Groenland. Aucune déclaration explicite sur l'OTAN n'a été retrouvée : le cran +1 est retenu par prudence.",
+      "date": "2026-01-07",
+      "sources": [
+        {
+          "titre": "La Grande Interview Europe 1-CNEWS : David Lisnard",
+          "url": "https://www.europe1.fr/node/877743",
+          "media": "Europe 1",
+          "date": "2026-01-07"
+        }
+      ]
+    },
+    "trump": {
+      "position": 0,
+      "titre": "Critique sur le Groenland, pas sur le Venezuela",
+      "resume": "Le 7 janvier 2026, il a qualifié d'inacceptables les positions américaines sur le Groenland, « État souverain et démocratique », tout en estimant à propos du Venezuela que ce pays n'était plus pleinement souverain depuis des élections truquées et en appelant à « une alliance internationale contre le narcotrafic ». L'article ne cite pas nommément Donald Trump.",
+      "date": "2026-01-07",
+      "sources": [
+        {
+          "titre": "La Grande Interview Europe 1-CNEWS : David Lisnard",
+          "url": "https://www.europe1.fr/node/877743",
+          "media": "Europe 1",
+          "date": "2026-01-07"
+        }
+      ]
+    },
+    "russie": {
+      "position": 1,
+      "titre": "Russie, menace pour la démocratie",
+      "resume": "Le 29 février 2024 sur Sud Radio, il a décrit la Russie comme une menace pour la démocratie et évoqué un axe de dictatures Russie-Iran-Chine, Vladimir Poutine étant selon lui « très rationnel, mais déraisonnable » ; il a ajouté que la France ne devait pas se laisser entraîner dans des escalades. Aucune déclaration récente sur les sanctions n'a été identifiée, d'où le cran +1.",
+      "date": "2024-02-29",
+      "sources": [
+        {
+          "titre": "Ukraine : « Emmanuel Macron a affaibli la position de l'Occident », juge David Lisnard",
+          "url": "https://www.sudradio.fr/linvite-politique/ukraine-emmanuel-macron-a-affaibli-la-position-de-loccident-juge-david-lisnard",
+          "media": "Sud Radio",
+          "date": "2024-02-29"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Le 29 février 2024, il a salué le « courage » des Ukrainiens et critiqué l'évocation par Emmanuel Macron de troupes au sol (« Nous n'avons pas les réserves de munitions pour envoyer notre armée »), sans se prononcer sur le niveau de l'aide militaire ou financière ; aucune déclaration plus récente n'a été retrouvée.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "chine": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration spécifique de David Lisnard sur la politique vis-à-vis de la Chine n'a été retrouvée ; son programme prévoit la réciprocité des normes dans les accords commerciaux et des clauses de sauvegarde unilatérales, sans viser un pays en particulier.",
+      "date": "2026-11-13",
+      "sources": []
+    },
+    "proche-orient": {
+      "position": null,
+      "titre": "Pas de position publique identifiée",
+      "resume": "Aucune déclaration de David Lisnard sur Israël et la Palestine n'a été retrouvée dans les sources consultées.",
+      "date": "2026-11-13",
+      "sources": []
+    }
+  }
+}

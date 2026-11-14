@@ -1,0 +1,961 @@
+{
+  "id": "francois-ruffin",
+  "prenom": "François",
+  "nom": "Ruffin",
+  "parti": "Debout !",
+  "partiAbrev": "Debout",
+  "famillePolitique": "gauche",
+  "couleur": "#E4587A",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Candidat déclaré à la primaire de la gauche unitaire (hors LFI, Place publique et PCF), qu'il a cofondée en novembre 2025 : il confirme sa candidature le 26 janvier 2026 (« Oui, sans surprise, je serai candidat »), la primaire étant alors fixée au 11 octobre 2026. Le 12 mai 2026, il annonce qu'il sera candidat à la présidentielle même sans primaire. Le processus est abandonné de fait à l'été 2026 : le 9 juillet, 55 % des militants socialistes choisissent une primaire fermée réservée au « pôle socialiste », ce qui enterre la primaire unitaire (RTBF), puis Clémentine Autain renonce le 11 juillet à se présenter en dénonçant « l'empilement des candidatures » (franceinfo). Il maintient depuis sa candidature sous la bannière de Debout ! (campagne « Nous Président ! »). Le 6 novembre 2026, sur franceinfo, il déclare : « Aujourd'hui, je suis candidat », tout en se disant prêt à se retirer « si une solution se dégage pour battre Marine Le Pen au deuxième tour », solution qu'il dit ne pas voir à ce jour et qui ne pourrait pas, selon lui, être Jean-Luc Mélenchon. LCP le classe le 10 novembre 2026 parmi les candidats qui n'ont pas encore définitivement tranché : sa candidature reste donc susceptible d'un retrait.",
+    "date": "2026-01-26",
+    "sources": [
+      {
+        "titre": "Primaire de la gauche : le député François Ruffin confirme qu'il sera bien candidat",
+        "url": "https://www.franceinfo.fr/politique/primaire-de-la-gauche-le-depute-francois-ruffin-confirme-qu-il-sera-bien-candidat_7766543.html",
+        "media": "franceinfo",
+        "date": "2026-01-26"
+      },
+      {
+        "titre": "Primaire de la gauche unitaire de 2026",
+        "url": "https://fr.wikipedia.org/wiki/Primaire_de_la_gauche_unitaire_de_2026",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Présidentielle 2027: François Ruffin retirera sa candidature \"si une solution se dégage pour battre Marine Le Pen\"",
+        "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-2027-fran%C3%A7ois-ruffin-retirera-092541933.html",
+        "media": "BFMTV (via Yahoo Actualités)",
+        "date": "2026-11-06"
+      },
+      {
+        "titre": "Présidentielle 2027: la liste des candidats déclarés et potentiels",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-10"
+      },
+      {
+        "titre": "Nous Président ! – François Ruffin 2027",
+        "url": "https://nouspresident.fr/",
+        "media": "Site de campagne de François Ruffin",
+        "date": "2026"
+      },
+      {
+        "titre": "Présidentielle 2027 : « S'il n'y a pas de primaire, moi j'y vais », annonce François Ruffin",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-s-il-n-y-a-pas-de-primaire-moi-j-y-vais-annonce-francois-ruffin",
+        "media": "LCP",
+        "date": "2026-05-12"
+      },
+      {
+        "titre": "Présidentielle française : les militants du PS ferment la porte à une primaire unitaire de la gauche non LFI",
+        "url": "https://www.rtbf.be/article/presidentielle-francaise-les-militants-du-ps-ferment-la-porte-a-une-primaire-unitaire-de-la-gauche-non-lfi-11755865",
+        "media": "RTBF",
+        "date": "2026-07-10"
+      },
+      {
+        "titre": "Présidentielle : la députée Clémentine Autain retire sa candidature, dénonçant « l'empilement des candidatures » à gauche",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-la-deputee-clementine-autain-retire-sa-candidature-denoncant-l-empilement-des-candidatures-a-gauche_8103848.html",
+        "media": "franceinfo",
+        "date": "2026-07-11"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1975-10-18",
+      "lieu": "Calais (Pas-de-Calais)",
+      "sources": [
+        {
+          "titre": "François Ruffin",
+          "url": "https://fr.wikipedia.org/wiki/François_Ruffin",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "La biographie et le CV de François Ruffin",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-francois-ruffin",
+          "media": "Sud Radio",
+          "date": "2026"
+        }
+      ]
+    },
+    "resume": "Journaliste, fondateur du journal amiénois Fakir et réalisateur du documentaire « Merci Patron ! » (César du meilleur documentaire en 2017), François Ruffin est député de la 1re circonscription de la Somme depuis 2017, réélu en 2022 et en 2024. Élu avec le soutien de La France insoumise et membre de son groupe parlementaire jusqu'en 2024, il rompt avec Jean-Luc Mélenchon lors des législatives anticipées de 2024 et siège depuis au groupe écologiste. Il préside depuis juin 2025 son propre mouvement, Debout !. Sa campagne met en avant la « centralité du travail », la défense des « travailleurs essentiels », la séparation de « l'argent et de l'État » et la relocalisation industrielle.",
+    "formation": [
+      {
+        "texte": "Maîtrise de lettres modernes (université de Picardie) ; diplômé du Centre de formation des journalistes (CFJ, promotion 2002).",
+        "sources": [
+          {
+            "titre": "François Ruffin",
+            "url": "https://fr.wikipedia.org/wiki/François_Ruffin",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "La biographie et le CV de François Ruffin",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-francois-ruffin",
+            "media": "Sud Radio",
+            "date": "2026"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Journaliste : fondateur et rédacteur en chef du journal Fakir (Amiens), collaborateur du Monde diplomatique, reporter de l'émission « Là-bas si j'y suis » sur France Inter (2005-2012).",
+        "sources": [
+          {
+            "titre": "François Ruffin",
+            "url": "https://fr.wikipedia.org/wiki/François_Ruffin",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "La biographie et le CV de François Ruffin",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-francois-ruffin",
+            "media": "Sud Radio",
+            "date": "2026"
+          }
+        ]
+      },
+      {
+        "texte": "Réalisateur de documentaires, dont « Merci Patron ! » (César du meilleur film documentaire en 2017).",
+        "sources": [
+          {
+            "titre": "François Ruffin",
+            "url": "https://fr.wikipedia.org/wiki/François_Ruffin",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "La biographie et le CV de François Ruffin",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-francois-ruffin",
+            "media": "Sud Radio",
+            "date": "2026"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "François Ruffin",
+        "url": "https://fr.wikipedia.org/wiki/François_Ruffin",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Primaire de la gauche : le député François Ruffin confirme qu'il sera bien candidat",
+        "url": "https://www.franceinfo.fr/politique/primaire-de-la-gauche-le-depute-francois-ruffin-confirme-qu-il-sera-bien-candidat_7766543.html",
+        "media": "franceinfo",
+        "date": "2026-01-26"
+      },
+      {
+        "titre": "Présidentielle 2027: François Ruffin retirera sa candidature \"si une solution se dégage pour battre Marine Le Pen\"",
+        "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-2027-fran%C3%A7ois-ruffin-retirera-092541933.html",
+        "media": "BFMTV (via Yahoo Actualités)",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "2017",
+      "fin": null,
+      "fonction": "Député de la 1re circonscription de la Somme",
+      "details": "Élu en juin 2017, réélu en 2022 (61 %) et en 2024 (52,96 % au second tour). Membre du groupe LFI (2017-2022) puis LFI-NUPES (2022-2024), siège au groupe écologiste depuis 2024.",
+      "sources": [
+        {
+          "titre": "François Ruffin",
+          "url": "https://fr.wikipedia.org/wiki/François_Ruffin",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "La biographie et le CV de François Ruffin",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-francois-ruffin",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Législatives : François Ruffin réélu dans la Somme",
+          "url": "https://www.publicsenat.fr/actualites/politique/legislatives-francois-ruffin-reelu-dans-la-somme-avec-pres-de-52-des-voix",
+          "media": "Public Sénat",
+          "date": "2024-07-07"
+        }
+      ]
+    },
+    {
+      "debut": "2017",
+      "fin": "2025",
+      "fonction": "Fondateur du mouvement Picardie debout !",
+      "details": "Mouvement local fondé en 2017, renommé Debout ! en juin 2025.",
+      "sources": [
+        {
+          "titre": "François Ruffin",
+          "url": "https://fr.wikipedia.org/wiki/François_Ruffin",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "La biographie et le CV de François Ruffin",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-francois-ruffin",
+          "media": "Sud Radio",
+          "date": "2026"
+        }
+      ]
+    },
+    {
+      "debut": "2024",
+      "fin": null,
+      "fonction": "Rupture avec La France insoumise",
+      "details": "Participe à la création du Nouveau Front populaire puis rompt publiquement avec Jean-Luc Mélenchon lors des législatives anticipées de 2024 ; siège depuis au groupe écologiste de l'Assemblée nationale.",
+      "sources": [
+        {
+          "titre": "François Ruffin",
+          "url": "https://fr.wikipedia.org/wiki/François_Ruffin",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Primaire de la gauche : le député François Ruffin confirme qu'il sera bien candidat",
+          "url": "https://www.franceinfo.fr/politique/primaire-de-la-gauche-le-depute-francois-ruffin-confirme-qu-il-sera-bien-candidat_7766543.html",
+          "media": "franceinfo",
+          "date": "2026-01-26"
+        }
+      ]
+    },
+    {
+      "debut": "2025",
+      "fin": null,
+      "fonction": "Président de Debout !",
+      "details": "Président du mouvement depuis le 28 juin 2025.",
+      "sources": [
+        {
+          "titre": "François Ruffin",
+          "url": "https://fr.wikipedia.org/wiki/François_Ruffin",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "La biographie et le CV de François Ruffin",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-francois-ruffin",
+          "media": "Sud Radio",
+          "date": "2026"
+        }
+      ]
+    },
+    {
+      "debut": "2026",
+      "fin": null,
+      "fonction": "Candidat à l'élection présidentielle de 2027",
+      "details": "Candidat à la primaire de la gauche unitaire (confirmation le 26 janvier 2026), puis candidat hors primaire après l'abandon de celle-ci à l'été 2026 ; retrait envisagé sous condition (déclaration du 6 novembre 2026).",
+      "sources": [
+        {
+          "titre": "Primaire de la gauche : le député François Ruffin confirme qu'il sera bien candidat",
+          "url": "https://www.franceinfo.fr/politique/primaire-de-la-gauche-le-depute-francois-ruffin-confirme-qu-il-sera-bien-candidat_7766543.html",
+          "media": "franceinfo",
+          "date": "2026-01-26"
+        },
+        {
+          "titre": "Présidentielle 2027: François Ruffin retirera sa candidature \"si une solution se dégage pour battre Marine Le Pen\"",
+          "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-2027-fran%C3%A7ois-ruffin-retirera-092541933.html",
+          "media": "BFMTV (via Yahoo Actualités)",
+          "date": "2026-11-06"
+        },
+        {
+          "titre": "Présidentielle 2027 : « S'il n'y a pas de primaire, moi j'y vais », annonce François Ruffin",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-s-il-n-y-a-pas-de-primaire-moi-j-y-vais-annonce-francois-ruffin",
+          "media": "LCP",
+          "date": "2026-05-12"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Aucune procédure pénale en cours le visant n'a été identifiée ; une condamnation pour diffamation en 2008 (livre « Quartier Nord ») est rapportée sans précision sur la peine ni sur un éventuel recours ; il est par ailleurs victime dans l'affaire de la surveillance de Fakir pour le compte de LVMH et demandeur dans un procès civil contre LVMH.",
+    "affaires": [
+      {
+        "titre": "Diffamation – livre « Quartier Nord »",
+        "statut": "autre",
+        "role": "prévenu (condamné)",
+        "resume": "Son livre « Quartier Nord » (2006), consacré à un quartier d'Amiens, lui a valu une condamnation pour diffamation après la plainte d'un habitant ; Sud Radio et Wikipédia la datent de 2008, Wikipédia la situant devant le tribunal d'Amiens, et Europe 1 la mentionne en 2017 sans détail. Aucune des sources consultées ne précise la peine prononcée ni l'existence d'un recours ; le caractère définitif de la décision n'a pas pu être vérifié (aucun appel n'est toutefois mentionné). Information à compléter par une source judiciaire ou la presse régionale de l'époque.",
+        "chronologie": [
+          {
+            "date": "2008",
+            "evenement": "Condamnation pour diffamation à la suite de la parution de « Quartier Nord » (tribunal d'Amiens selon Wikipédia ; peine non précisée).",
+            "sources": [
+              {
+                "titre": "La biographie et le CV de François Ruffin",
+                "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-francois-ruffin",
+                "media": "Sud Radio",
+                "date": "2026"
+              },
+              {
+                "titre": "François Ruffin",
+                "url": "https://fr.wikipedia.org/wiki/François_Ruffin",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              },
+              {
+                "titre": "Législatives : François Ruffin refoulé à Amiens-Nord",
+                "url": "https://www.europe1.fr/politique/legislatives-francois-ruffin-refoule-a-amiens-nord-2996414",
+                "media": "Europe 1",
+                "date": "2017-03-07"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "La biographie et le CV de François Ruffin",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-francois-ruffin",
+            "media": "Sud Radio",
+            "date": "2026"
+          },
+          {
+            "titre": "Législatives : François Ruffin refoulé à Amiens-Nord",
+            "url": "https://www.europe1.fr/politique/legislatives-francois-ruffin-refoule-a-amiens-nord-2996414",
+            "media": "Europe 1",
+            "date": "2017-03-07"
+          },
+          {
+            "titre": "François Ruffin",
+            "url": "https://fr.wikipedia.org/wiki/François_Ruffin",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "titre": "Surveillance et infiltration de Fakir pour le compte de LVMH (affaire Squarcini)",
+        "statut": "autre",
+        "role": "victime ; demandeur dans une action civile contre LVMH",
+        "resume": "Entre 2013 et 2016, François Ruffin et la rédaction de Fakir ont été surveillés et infiltrés pour le compte de LVMH, dans le contexte du film « Merci Patron ! ». Le 7 mars 2025, le tribunal correctionnel de Paris a condamné l'ancien directeur du renseignement intérieur Bernard Squarcini à quatre ans d'emprisonnement dont deux avec sursis et 200 000 € d'amende, ainsi que sept autres prévenus, en retenant notamment sa responsabilité dans la surveillance de Ruffin et de Fakir ; LVMH avait conclu en 2021 une convention judiciaire d'intérêt public de 10 M€. François Ruffin n'est pas mis en cause : il est victime. Il a en outre assigné LVMH au civil pour atteinte à la vie privée (1 € symbolique demandé) ; en novembre 2025, le juge de la mise en état du tribunal judiciaire de Paris (17e chambre) a validé cette assignation. La dépêche AFP de novembre 2025 sur le procès civil ne mentionne aucun appel pénal des condamnés ; aucune source consultée ne confirme ni n'exclut un appel du jugement du 7 mars 2025, et la date du procès civil n'est pas connue : issue non connue à la date de mise à jour (13 novembre 2026).",
+        "chronologie": [
+          {
+            "date": "2025-03-07",
+            "evenement": "Jugement du tribunal correctionnel de Paris : Bernard Squarcini et sept autres prévenus condamnés ; la surveillance de Ruffin et de Fakir est retenue.",
+            "sources": [
+              {
+                "titre": "Procès « Squarcini » : RSF salue la condamnation des personnes impliquées dans la surveillance et l'infiltration de la rédaction de Fakir",
+                "url": "https://rsf.org/fr/proc%C3%A8s-squarcini-rsf-salue-la-condamnation-des-personnes-impliqu%C3%A9es-dans-la-surveillance-et-l",
+                "media": "Reporters sans frontières",
+                "date": "2025-03-07"
+              },
+              {
+                "titre": "Barbouzerie : Bernard Squarcini, ou la condamnation inédite d'un « grand flic »",
+                "url": "https://www.politis.fr/articles/2025/03/barbouzerie-bernard-squarcini-ou-la-condamnation-inedite-dun-grand-flic/",
+                "media": "Politis",
+                "date": "2025-03-11"
+              }
+            ]
+          },
+          {
+            "date": "2025-11",
+            "evenement": "Le juge de la mise en état valide l'assignation de LVMH par François Ruffin pour atteinte à la vie privée (procès civil devant la 17e chambre).",
+            "sources": [
+              {
+                "titre": "Affaire Ruffin vs. LVMH : la justice valide la tenue du procès civil pour « intrusion dans la vie privée »",
+                "url": "https://fashionunited.fr/actualite/retail/affaire-ruffin-vs-lvmh-la-justice-valide-la-tenue-du-proces-civil-pour-intrusion-dans-la-vie-privee/2025112740083",
+                "media": "FashionUnited (AFP)",
+                "date": "2025-11-27"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Procès « Squarcini » : RSF salue la condamnation des personnes impliquées dans la surveillance et l'infiltration de la rédaction de Fakir",
+            "url": "https://rsf.org/fr/proc%C3%A8s-squarcini-rsf-salue-la-condamnation-des-personnes-impliqu%C3%A9es-dans-la-surveillance-et-l",
+            "media": "Reporters sans frontières",
+            "date": "2025-03-07"
+          },
+          {
+            "titre": "Barbouzerie : Bernard Squarcini, ou la condamnation inédite d'un « grand flic »",
+            "url": "https://www.politis.fr/articles/2025/03/barbouzerie-bernard-squarcini-ou-la-condamnation-inedite-dun-grand-flic/",
+            "media": "Politis",
+            "date": "2025-03-11"
+          },
+          {
+            "titre": "Affaire Ruffin vs. LVMH : la justice valide la tenue du procès civil pour « intrusion dans la vie privée »",
+            "url": "https://fashionunited.fr/actualite/retail/affaire-ruffin-vs-lvmh-la-justice-valide-la-tenue-du-proces-civil-pour-intrusion-dans-la-vie-privee/2025112740083",
+            "media": "FashionUnited (AFP)",
+            "date": "2025-11-27"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "statut": "Propositions partielles",
+    "resume": "Pas de programme unique publié : la campagne « Nous Président ! » diffuse depuis avril 2026 une série de « cahiers de campagne » thématiques (travailleurs essentiels, séparation de l'argent et de l'État, loisirs, agriculture, travaillisme écologique, logement, industrie, éducation, démocratie) et de « plans d'action » (data centers, urgence climat, plan de redressement budgétaire). Les axes principaux sont la revalorisation du travail (statut des travailleurs essentiels, SMIC à 1 600 €, retraite à 60 ans), la relocalisation de 100 produits stratégiques, un vaste plan logement et rénovation, une fiscalité ciblée sur les très hauts patrimoines (taxe Zucman, grandes successions) et une « loi de séparation de l'argent et de l'État ». Le plan de redressement annonce 22 Md€ d'économies et 26 à 44,5 Md€ de recettes nouvelles, mais aucun chiffrage indépendant global n'existe.",
+    "documents": [
+      {
+        "titre": "Notre programme – Nous Président !",
+        "url": "https://nouspresident.fr/notre-programme/",
+        "media": "Site de campagne de François Ruffin",
+        "date": "2026"
+      },
+      {
+        "titre": "Nos plans d'action – Nous Président !",
+        "url": "https://nouspresident.fr/nos-plans-daction/",
+        "media": "Site de campagne de François Ruffin",
+        "date": "2026"
+      },
+      {
+        "titre": "Plan de redressement – Nous Président !",
+        "url": "https://nouspresident.fr/plan-de-redressement/",
+        "media": "Site de campagne de François Ruffin",
+        "date": "2026-10"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "smic-1600",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "SMIC à 1 600 € et indexation des salaires sur l'inflation",
+        "description": "Le cahier sur les travailleurs essentiels évoque un SMIC à 1 600 € (sans préciser net ou brut, ni calendrier) et propose l'indexation des salaires sur l'inflation « comme avant 1982 », l'alignement des minima de branche sur le SMIC puis la revalorisation des grilles.",
+        "chiffres": [
+          "SMIC : 1 600 € (net, a priori)",
+          "Coût et financement : non précisés"
+        ],
+        "date": "2026-04",
+        "sources": [
+          {
+            "titre": "Statut des travailleurs essentiels – Nous Président !",
+            "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026-04"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le cahier ne chiffre ni le coût ni le financement, et aucun chiffrage indépendant de la mesure n'a été trouvé. Ordre de grandeur : le SMIC brut mensuel est de 1 867,02 € depuis le 1er juin 2026, soit environ 1 478 € net (LégiSocial) ; un SMIC à 1 600 € net représenterait une hausse d'environ 8 % (s'il s'agissait de 1 600 € brut, ce serait inférieur au SMIC actuel, ce qui confirme qu'il s'agit vraisemblablement d'un montant net). Pour une hausse presque deux fois plus forte (de 1 398,70 € à 1 600 € net, soit +14,4 %, programme du NFP en 2024), l'Institut Montaigne estimait le coût pour les finances publiques à environ 19 Md€ par an, principalement via les allègements de cotisations, avec un effet négatif estimé à environ 300 000 emplois ; ce repère suggère un coût de plusieurs milliards d'euros par an pour la mesure de François Ruffin, sans pouvoir le chiffrer précisément.",
+          "sources": [
+            {
+              "titre": "Montant du SMIC 2026 : taux horaire net et brut",
+              "url": "https://www.legisocial.fr/reperes-sociaux/montant-smic-2026-taux-horaire-net-brut.html",
+              "media": "LégiSocial",
+              "date": "2026-06"
+            },
+            {
+              "titre": "Augmenter le SMIC à 1 600 € net (programme du Nouveau Front populaire)",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/nouveau-front-populaire/augmenter-le-smic-a-1600-e-net",
+              "media": "Institut Montaigne",
+              "date": "2024-06-24"
+            }
+          ]
+        }
+      },
+      {
+        "id": "retraite-60-ans",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Retraite à 60 ans et trimestres bonifiés pour les métiers pénibles",
+        "description": "Le programme évoque une retraite à 60 ans, sans détail de financement ; pour les travailleurs essentiels, un trimestre supplémentaire validé pour quatre trimestres cotisés dans un métier pénible.",
+        "chiffres": [
+          "Âge de départ : 60 ans",
+          "1 trimestre bonus pour 4 trimestres cotisés en métier pénible",
+          "Coût : non précisé"
+        ],
+        "date": "2026-04",
+        "sources": [
+          {
+            "titre": "Statut des travailleurs essentiels – Nous Président !",
+            "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026-04"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La mesure n'est ni détaillée (durée de cotisation, calendrier) ni chiffrée par la campagne, et aucune évaluation indépendante n'a été trouvée. À titre de repère, l'Institut Montaigne chiffrait en 2022 la retraite à 60 ans avec 40 annuités (programme de Jean-Luc Mélenchon) à 85,8 Md€ par an, et le Conseil d'analyse économique (octobre 2026), d'après la Cour des comptes, estime qu'abaisser l'âge à 63 ans pour la seule génération 1964 coûterait environ 13 Md€ en 2035.",
+          "sources": [
+            {
+              "titre": "Jean-Luc Mélenchon : ses propositions décryptées par l'Institut Montaigne (présidentielle 2022)",
+              "url": "https://www.institutmontaigne.org/presidentielle-2022/jean-luc-melenchon/synthese/",
+              "media": "Institut Montaigne",
+              "date": "2022"
+            },
+            {
+              "titre": "Maîtriser les finances publiques : fixer une trajectoire crédible et transformer la gouvernance (Focus n° 147)",
+              "url": "https://cae-eco.fr/static/pdf/Focus_147_Synthese_Fipu_261008.pdf",
+              "media": "Conseil d'analyse économique",
+              "date": "2026-10"
+            }
+          ]
+        }
+      },
+      {
+        "id": "statut-travailleurs-essentiels",
+        "theme": "emploi-travail",
+        "type": "proposition",
+        "titre": "Statut des « travailleurs essentiels »",
+        "description": "Créer un statut pour les métiers ayant « tenu le pays » pendant le Covid (agents d'entretien, AVS, caristes, aides à domicile…) : majoration des horaires atypiques (avant 8 h, après 18 h), rémunération des coupures de plus de 2 heures, application effective du plancher de 24 heures hebdomadaires pour les temps partiels, droit à la formation jusqu'au bac avec maintien du salaire après cinq ans d'exercice, surcotisation patronale logement (« 1 % logement ») sans seuil d'effectif.",
+        "chiffres": [
+          "Environ 7 millions de travailleurs essentiels (selon la campagne)",
+          "Temps partiel : plancher de 24 h/semaine",
+          "Coût : non chiffré"
+        ],
+        "date": "2026-04",
+        "sources": [
+          {
+            "titre": "Statut des travailleurs essentiels – Nous Président !",
+            "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026-04"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Mesures non chiffrées par la campagne et sans évaluation indépendante identifiée. Plusieurs chiffres de diagnostic du cahier (7 millions de travailleurs essentiels, 23 % à temps partiel, 18 % à bas salaire) sont donnés sans source ; seul l'écart de salaire (1 600 € contre 2 200 € net en moyenne) est attribué au rapport Erhel/Moreau-Follenfant de 2021, non consulté ici.",
+          "sources": [
+            {
+              "titre": "Statut des travailleurs essentiels – Nous Président !",
+              "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+              "media": "Site de campagne de François Ruffin",
+              "date": "2026-04"
+            }
+          ]
+        }
+      },
+      {
+        "id": "taxe-zucman-18-milliards",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Taxe Zucman : 18,5 Md€ de recettes annoncées",
+        "description": "Impôt plancher de 2 % sur les patrimoines supérieurs à 100 M€, dont la campagne attend 25 Md€ bruts et 18,5 Md€ « après effets comportementaux » ; s'y ajoutent une réforme des grandes successions (20 Md€ annoncés) et un « dividende climatique » de 2 % (plus de 6 Md€).",
+        "chiffres": [
+          "Taux : 2 % au-delà de 100 M€ de patrimoine",
+          "Rendement annoncé : 25 Md€ bruts, 18,5 Md€ nets",
+          "Recettes nouvelles totales annoncées : 26 à 44,5 Md€"
+        ],
+        "date": "2026-10",
+        "sources": [
+          {
+            "titre": "Plan de redressement – Nous Président !",
+            "url": "https://nouspresident.fr/plan-de-redressement/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "trompeur",
+          "analyse": "Le rendement net annoncé repose sur des hypothèses de comportement nettement plus favorables que celles retenues par le Conseil d'analyse économique. Dans sa base de chiffrage publiée en octobre 2026 pour la présidentielle, le CAE retient pour un impôt minimum de 2 % sur les patrimoines (financiers) supérieurs à 100 M€ un rendement brut de 18 Md€ (simulateur du World Inequality Lab), ramené à 5,5 Md€ en supposant une perte d'assiette de 70 % liée à l'exil et à l'optimisation. Les 18,5 Md€ « nets » de la campagne équivalent donc au rendement brut estimé par le CAE ; l'ampleur réelle des effets de comportement reste toutefois incertaine.",
+          "sources": [
+            {
+              "titre": "Maîtriser les finances publiques : fixer une trajectoire crédible et transformer la gouvernance (Focus n° 147)",
+              "url": "https://cae-eco.fr/static/pdf/Focus_147_Synthese_Fipu_261008.pdf",
+              "media": "Conseil d'analyse économique",
+              "date": "2026-10"
+            }
+          ]
+        }
+      },
+      {
+        "id": "grandes-successions-20-milliards",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Réforme des grandes successions : 20 Md€ annoncés",
+        "description": "Alourdir l'imposition des grandes successions, avec un rendement estimé par la campagne à 20 Md€ (estimation 2026, en s'appuyant sur le CAE 2021 et la Fondation Jean-Jaurès/Hémisphère gauche 2024).",
+        "chiffres": [
+          "Rendement annoncé : 20 Md€"
+        ],
+        "date": "2026-10",
+        "sources": [
+          {
+            "titre": "Plan de redressement – Nous Président !",
+            "url": "https://nouspresident.fr/plan-de-redressement/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le paramétrage exact de la réforme n'est pas détaillé dans les éléments consultés, ce qui empêche une comparaison directe. À titre de repère, la base de chiffrage du CAE (octobre 2026) évalue des mesures ciblées sur l'héritage à des montants bien inférieurs : environ 4 Md€ pour l'application des droits de succession à l'assurance-vie, 2 Md€ pour la réforme du démembrement de propriété et 1,3 Md€ pour le resserrement du pacte Dutreil. Atteindre 20 Md€ supposerait une réforme bien plus large, non évaluée de façon indépendante. Le même montant de 20 Md€ figure dans le contre-budget de LFI (octobre 2026), lui aussi sans paramétrage détaillé ni évaluation indépendante.",
+          "sources": [
+            {
+              "titre": "Maîtriser les finances publiques : fixer une trajectoire crédible et transformer la gouvernance (Focus n° 147)",
+              "url": "https://cae-eco.fr/static/pdf/Focus_147_Synthese_Fipu_261008.pdf",
+              "media": "Conseil d'analyse économique",
+              "date": "2026-10"
+            },
+            {
+              "titre": "Comment nous allons remettre de l'ordre dans les comptes publics",
+              "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+              "media": "Mélenchon 2027 (site de campagne)",
+              "date": "2026-10-14"
+            }
+          ]
+        }
+      },
+      {
+        "id": "aides-entreprises-economies",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "22 Md€ d'économies, dont 10 Md€ sur les aides aux entreprises",
+        "description": "Rationaliser les aides aux entreprises (dont au moins 5 Md€ par le lissage et le gel des allègements de cotisations) pour 10 Md€, recentrer le crédit d'impôt recherche sur les TPE-PME (3 Md€), réduire les surcoûts de l'apprentissage dans le supérieur (6 Md€/an) et économiser 3 Md€ sur la santé en 2027 (9 Md€ en 2030).",
+        "chiffres": [
+          "Aides aux entreprises : -10 Md€ (dont ≥ 5 Md€ sur les allègements de cotisations)",
+          "CIR : -3 Md€",
+          "Apprentissage : -6 Md€/an",
+          "Santé : -3 Md€ en 2027, -9 Md€ en 2030",
+          "Total annoncé : 22 Md€"
+        ],
+        "date": "2026-10",
+        "sources": [
+          {
+            "titre": "Plan de redressement – Nous Président !",
+            "url": "https://nouspresident.fr/plan-de-redressement/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "Les ordres de grandeur sur les allègements de cotisations sont cohérents avec les évaluations indépendantes : le CAE (octobre 2026) estime qu'un gel des allègements généraux au niveau du SMIC de janvier 2026 rapporterait 4,9 Md€ bruts la première année et environ 22 Md€ à cinq ans, tout en avertissant que d'éventuelles destructions d'emplois pourraient réduire ce rendement « de plusieurs dizaines de points ». Le gisement global est large : la commission d'enquête du Sénat chiffre les aides publiques aux entreprises à 211 Md€ en 2023 au sens large (108 Md€ au sens strict). Les autres postes (CIR, apprentissage, santé) n'ont pas été vérifiés ici.",
+          "sources": [
+            {
+              "titre": "Maîtriser les finances publiques : fixer une trajectoire crédible et transformer la gouvernance (Focus n° 147)",
+              "url": "https://cae-eco.fr/static/pdf/Focus_147_Synthese_Fipu_261008.pdf",
+              "media": "Conseil d'analyse économique",
+              "date": "2026-10"
+            },
+            {
+              "titre": "211 milliards d'euros d'aides publiques aux entreprises : sur quoi repose le calcul de la commission d'enquête du Sénat ?",
+              "url": "https://www.publicsenat.fr/actualites/economie/211-milliards-deuros-daides-publiques-aux-entreprises-sur-quoi-repose-le-calcul-de-la-commission-denquete-du-senat",
+              "media": "Public Sénat",
+              "date": "2025-09-15"
+            }
+          ]
+        }
+      },
+      {
+        "id": "logement-200000-sociaux",
+        "theme": "logement",
+        "type": "proposition",
+        "titre": "200 000 logements sociaux par an et encadrement des loyers généralisé",
+        "description": "Construire 200 000 logements publics à loyer encadré par an (dont 40 000 pour étudiants et jeunes travailleurs), viser 1 million de logements à loyer modéré en 5 ans et environ 500 000 logements neufs par an, rétablir le financement du logement social au niveau d'avant 2018 (+2 à 3 Md€/an), étendre l'encadrement des loyers à tout le territoire, doubler le prêt à taux zéro, supprimer l'abattement pour durée de détention sur les plus-values immobilières (au moins 3 Md€/an), abroger la loi Kasbarian-Bergé.",
+        "chiffres": [
+          "200 000 logements sociaux/an",
+          "1 million de logements à loyer modéré en 5 ans",
+          "Logement social : +2 à 3 Md€/an",
+          "PTZ : d'environ 60 000 € à 120 000 €"
+        ],
+        "date": "2026-09",
+        "sources": [
+          {
+            "titre": "Face à la crise du logement, faire sauter le verrou – Nous Président !",
+            "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune évaluation indépendante de ce plan n'a été trouvée. La plupart des chiffres de diagnostic du cahier (3 millions de ménages en attente d'un logement social, construction au plus bas depuis 1954, 30 500 expulsions en 2025) sont donnés sans source et n'ont pas pu être vérifiés. Le rendement de la suppression de l'abattement sur les plus-values immobilières est cohérent avec l'estimation de 3,6 Md€ du Conseil des prélèvements obligatoires reprise par le CAE (octobre 2026).",
+          "sources": [
+            {
+              "titre": "Maîtriser les finances publiques : fixer une trajectoire crédible et transformer la gouvernance (Focus n° 147)",
+              "url": "https://cae-eco.fr/static/pdf/Focus_147_Synthese_Fipu_261008.pdf",
+              "media": "Conseil d'analyse économique",
+              "date": "2026-10"
+            }
+          ]
+        }
+      },
+      {
+        "id": "renovation-leasing-social",
+        "theme": "environnement-energie",
+        "type": "proposition",
+        "titre": "600 000 rénovations d'ampleur par an et leasing social pour 3 millions de véhicules électriques",
+        "description": "Réorienter 6 Md€/an des certificats d'économies d'énergie vers l'Anah pour financer en moyenne 600 000 rénovations d'ampleur par an (1 million de rénovations au total), fin des passoires thermiques en location d'ici 2032 ; leasing social public pour 3 millions de véhicules électriques en 5 ans (100 à 200 €/mois, subvention d'environ 5 000 € par véhicule), pour un coût moyen annoncé de 2,5 Md€/an.",
+        "chiffres": [
+          "600 000 rénovations d'ampleur/an",
+          "6 Md€/an réorientés des CEE vers l'Anah",
+          "Leasing social : 3 millions de véhicules en 5 ans, 2,5 Md€/an en moyenne"
+        ],
+        "date": "2026-10",
+        "sources": [
+          {
+            "titre": "Plan de redressement – Nous Président !",
+            "url": "https://nouspresident.fr/plan-de-redressement/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026-10"
+          },
+          {
+            "titre": "Face à la crise du logement, faire sauter le verrou – Nous Président !",
+            "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune évaluation indépendante n'a été trouvée. Contrôle de cohérence interne : 3 millions de véhicules subventionnés à environ 5 000 € représentent environ 15 Md€ sur 5 ans, soit environ 3 Md€ par an, un peu plus que les 2,5 Md€ annuels affichés (l'écart peut tenir à l'imprécision du montant unitaire). Le coût des 600 000 rénovations d'ampleur n'est pas confronté ici à une estimation externe.",
+          "sources": [
+            {
+              "titre": "Plan de redressement – Nous Président !",
+              "url": "https://nouspresident.fr/plan-de-redressement/",
+              "media": "Site de campagne de François Ruffin",
+              "date": "2026-10"
+            }
+          ]
+        }
+      },
+      {
+        "id": "securite-civile-pompiers",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "21 000 pompiers professionnels supplémentaires et 16 Canadair",
+        "description": "Plan « urgence climat » : renforcement immédiat de la sécurité civile, 1 Md€/an pour 21 000 pompiers professionnels supplémentaires, 3,5 Md€ d'investissements dont 16 avions Canadair, préparation aux crues et aux feux, création à terme d'une « Sécurité climatique ».",
+        "chiffres": [
+          "21 000 pompiers professionnels supplémentaires pour 1 Md€/an",
+          "16 Canadair",
+          "Sécurité civile : 0,9 Md€ en 2027, 1,3 Md€/an en moyenne"
+        ],
+        "date": "2026-10",
+        "sources": [
+          {
+            "titre": "Plan de redressement – Nous Président !",
+            "url": "https://nouspresident.fr/plan-de-redressement/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026-10"
+          },
+          {
+            "titre": "Nos plans d'action – Nous Président !",
+            "url": "https://nouspresident.fr/nos-plans-daction/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune évaluation indépendante n'a été trouvée. Contrôle de cohérence : 1 Md€ pour 21 000 pompiers correspond à environ 48 000 € par poste et par an, coût employeur dont la plausibilité n'a pas été vérifiée faute de source sur le coût moyen d'un sapeur-pompier professionnel. Les chiffres de contexte (8 124 décès liés aux canicules, 96 000 hectares brûlés en 2026) sont donnés sans source par la campagne.",
+          "sources": [
+            {
+              "titre": "Plan de redressement – Nous Président !",
+              "url": "https://nouspresident.fr/plan-de-redressement/",
+              "media": "Site de campagne de François Ruffin",
+              "date": "2026-10"
+            }
+          ]
+        }
+      },
+      {
+        "id": "relocaliser-100-produits",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Relocaliser 100 produits stratégiques et « Buy French Act »",
+        "description": "Protection commerciale ciblée (droits de douane sur une centaine de produits, sur le modèle des 50 % appliqués à la lysine chinoise), refus du CETA et sauvegardes sur le Mercosur, 80 % d'achats publics locaux et 80 % d'alimentation durable dans les cantines, étiquetage d'origine obligatoire, électricité sortie du prix de marché et vendue au coût de production, conditionnalité des aides (maintien de l'emploi 10 ans), pôle public du médicament ; objectif de 600 000 emplois industriels d'ici 2035.",
+        "chiffres": [
+          "100 produits stratégiques",
+          "80 % d'achats publics locaux",
+          "600 000 emplois industriels d'ici 2035",
+          "Industrie manufacturière : environ 10 % du PIB (contre 16 % en 2000) selon la campagne"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Pour protéger notre industrie, relocaliser 100 produits stratégiques – Nous Président !",
+            "url": "https://nouspresident.fr/pour-proteger-notre-industrie-relocaliser-100-produits-strategiques/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune évaluation indépendante (coût, effets sur l'emploi, compatibilité avec les règles européennes de la commande publique et la politique commerciale commune, qui relève de l'UE) n'a été identifiée. Les chiffres de diagnostic du cahier (part de l'industrie dans le PIB, pertes d'emplois industriels) n'ont pas été vérifiés ici faute de source officielle consultée.",
+          "sources": [
+            {
+              "titre": "Pour protéger notre industrie, relocaliser 100 produits stratégiques – Nous Président !",
+              "url": "https://nouspresident.fr/pour-proteger-notre-industrie-relocaliser-100-produits-strategiques/",
+              "media": "Site de campagne de François Ruffin",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "separation-argent-etat",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Loi de séparation de l'argent et de l'État, président payé au SMIC",
+        "description": "Être payé au SMIC s'il est élu ; réduire de 20 M€ le budget de l'Élysée et financer 400 postes d'infirmières (engagements rapportés par franceinfo) ; interdire le pantouflage et le rétro-pantouflage, période de « refroidissement » de dix ans après un départ du gouvernement sous le contrôle d'une future Haute Autorité à la probité ; départ immédiat d'un ministre mis en examen ; opposition parlementaire aux nominations présidentielles à la majorité simple.",
+        "chiffres": [
+          "Budget de l'Élysée : -20 M€",
+          "400 postes d'infirmières",
+          "Délai de refroidissement : 10 ans"
+        ],
+        "date": "2026-01-26",
+        "sources": [
+          {
+            "titre": "Primaire de la gauche : le député François Ruffin confirme qu'il sera bien candidat",
+            "url": "https://www.franceinfo.fr/politique/primaire-de-la-gauche-le-depute-francois-ruffin-confirme-qu-il-sera-bien-candidat_7766543.html",
+            "media": "franceinfo",
+            "date": "2026-01-26"
+          },
+          {
+            "titre": "François Ruffin payé au Smic une fois président : \"C'est un symbole. Il nous faut une grande loi de séparation de l'argent et de l'État\"",
+            "url": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/francois-ruffin-paye-au-smic-une-fois-president-c-est-un-symbole-il-nous-faut-une-grande-loi-de-separation-de-l-argent-et-de-l-etat-explique-le-candidat-a-la-primaire-de-la-gauche_7774160.html",
+            "media": "franceinfo",
+            "date": "2026-01-30"
+          },
+          {
+            "titre": "Séparer l'argent de l'État – Nous Président !",
+            "url": "https://nouspresident.fr/separation-argent-etat/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante n'a été trouvée. Si les 20 M€ d'économies devaient financer les 400 postes (lien non explicité dans les sources), cela représenterait 50 000 € par poste et par an ; le montant total du budget de l'Élysée, qui permettrait d'apprécier l'ampleur de la coupe, n'a pas été vérifié faute de source consultée.",
+          "sources": [
+            {
+              "titre": "Primaire de la gauche : le député François Ruffin confirme qu'il sera bien candidat",
+              "url": "https://www.franceinfo.fr/politique/primaire-de-la-gauche-le-depute-francois-ruffin-confirme-qu-il-sera-bien-candidat_7766543.html",
+              "media": "franceinfo",
+              "date": "2026-01-26"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ric-etats-generaux",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Référendum d'initiative citoyenne et États généraux décisionnels",
+        "description": "Instaurer le référendum d'initiative citoyenne (RIC) et des États généraux dotés d'un réel pouvoir de décision (« démocratie en continu ») ; États généraux de l'Éducation dès 2027.",
+        "chiffres": [
+          "76 % des Français jugeraient que la démocratie fonctionne mal (chiffre cité par la campagne)"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Nous Président ! – François Ruffin 2027",
+            "url": "https://nouspresident.fr/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026"
+          },
+          {
+            "titre": "Notre programme – Nous Président !",
+            "url": "https://nouspresident.fr/notre-programme/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le programme ne précise pas le texte de loi ou de révision constitutionnelle envisagé ; aucune analyse juridique indépendante n'a été identifiée. Le chiffre de 76 % est cité sans source dans les pages consultées.",
+          "sources": [
+            {
+              "titre": "Notre programme – Nous Président !",
+              "url": "https://nouspresident.fr/notre-programme/",
+              "media": "Site de campagne de François Ruffin",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ecole-fin-parcoursup",
+        "theme": "education",
+        "type": "proposition",
+        "titre": "Fin de Parcoursup et AESH fonctionnaires",
+        "description": "« Une école de tous les savoirs » : fin de Parcoursup (suppression de la mention du lycée d'origine, publication des algorithmes locaux, commissions d'appel, création de places), hausse pérenne de la grille des enseignants, AESH titularisés avec un temps plein reconnu à 24 heures d'accompagnement, taux d'encadrement périscolaire d'un animateur pour 10 enfants (contre 1 pour 14), budget de l'éducation maintenu malgré une baisse attendue de 15 % des élèves en 10 ans.",
+        "chiffres": [
+          "AESH : temps plein à 24 h d'accompagnement",
+          "Périscolaire : 1 animateur pour 10 enfants",
+          "Budget maintenu malgré -15 % d'élèves en 10 ans"
+        ],
+        "date": "2026-10",
+        "sources": [
+          {
+            "titre": "Éducation : une école de tous les savoirs – Nous Président !",
+            "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Mesures non chiffrées par la campagne et sans évaluation indépendante identifiée. Plusieurs chiffres de diagnostic sont attribués à PISA/OCDE, à la Cour des comptes ou au Défenseur des droits, mais la plupart des autres sont donnés sans source ; ils n'ont pas été vérifiés ici.",
+          "sources": [
+            {
+              "titre": "Éducation : une école de tous les savoirs – Nous Président !",
+              "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+              "media": "Site de campagne de François Ruffin",
+              "date": "2026-10"
+            }
+          ]
+        }
+      },
+      {
+        "id": "exception-agricole",
+        "theme": "agriculture",
+        "type": "proposition",
+        "titre": "« Exception agricole » : prix planchers et sortie des traités de libre-échange",
+        "description": "Prix minimums garantis calculés sur les coûts de production plus la rémunération du travail, interdiction des importations vendues sous ces prix planchers, sortie des traités de libre-échange, étiquetage d'origine systématique, bio en restauration collective porté à 30 % en 2030 puis 50 % en 2035, paiements pour services environnementaux de 100 à 150 €/ha.",
+        "chiffres": [
+          "Bio en restauration collective : 30 % en 2030, 50 % en 2035",
+          "Paiements pour services environnementaux : 100 à 150 €/ha"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Pour une exception agriculturelle française – Nous Président !",
+            "url": "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune évaluation indépendante n'a été trouvée. La sortie des traités de libre-échange et l'interdiction d'importations sous prix plancher relèvent de la politique commerciale commune de l'UE ; leur faisabilité juridique n'a pas été analysée par une source consultée. La plupart des chiffres de diagnostic du cahier (390 000 fermes, 17,7 % d'exploitants pauvres, part des importations) sont donnés sans source.",
+          "sources": [
+            {
+              "titre": "Pour une exception agriculturelle française – Nous Président !",
+              "url": "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+              "media": "Site de campagne de François Ruffin",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "moratoire-data-centers",
+        "theme": "numerique-innovation",
+        "type": "proposition",
+        "titre": "Moratoire de cinq ans sur les data centers non souverains",
+        "description": "Moratoire de cinq ans sur les projets de data centers ne servant pas la souveraineté, implantation sur des friches plutôt que des terres agricoles, récupération de la chaleur des serveurs, droit de veto des communes, part de l'électricité réservée au numérique arbitrée par les citoyens.",
+        "chiffres": [
+          "Moratoire : 5 ans"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Nos plans d'action – Nous Président !",
+            "url": "https://nouspresident.fr/nos-plans-daction/",
+            "media": "Site de campagne de François Ruffin",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Proposition non chiffrée ; aucune analyse indépendante (impact économique, compatibilité avec le droit de l'UE et le droit de l'urbanisme) n'a été identifiée.",
+          "sources": [
+            {
+              "titre": "Nos plans d'action – Nous Président !",
+              "url": "https://nouspresident.fr/nos-plans-daction/",
+              "media": "Site de campagne de François Ruffin",
+              "date": "2026"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

@@ -1,0 +1,630 @@
+{
+  "id": "nathalie-arthaud",
+  "prenom": "Nathalie",
+  "nom": "Arthaud",
+  "parti": "Lutte ouvrière",
+  "partiAbrev": "LO",
+  "famillePolitique": "extreme-gauche",
+  "couleur": "#BB0000",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Désignée candidate de Lutte ouvrière pour 2027 par le 55e congrès du parti, réuni les 6 et 7 décembre 2025 en région parisienne (« Nathalie Arthaud se portera candidate au nom de Lutte ouvrière ») ; Wikipédia date l'annonce publique au 8 décembre 2025. Brochure de campagne présentée à la fête annuelle de LO en mai 2026, lancement de la campagne en région à Nantes le 19 septembre 2026. C'est sa quatrième candidature présidentielle. Comme tous les candidats, elle doit réunir 500 parrainages avant le 12 mars 2027.",
+    "date": "2025-12-07",
+    "sources": [
+      {
+        "titre": "Le 55e congrès de Lutte ouvrière",
+        "url": "https://lutte-ouvriere.org/mensuel/article/55e-congres-lutte-ouvriere-189173.html",
+        "media": "Lutte ouvrière (revue Lutte de classe)",
+        "date": "2025-12-14"
+      },
+      {
+        "titre": "Nathalie Arthaud",
+        "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "À Nantes, Nathalie Arthaud appelle les travailleurs à « peser » dans la présidentielle (reprise d'Ouest-France)",
+        "url": "https://www.lutte-ouvriere.org/portail/revue-de-presse/nantes-nathalie-arthaud-appelle-travailleurs-peser-presidentielle-197241.html",
+        "media": "Ouest-France (reproduit par Lutte ouvrière)",
+        "date": "2026-09-21"
+      },
+      {
+        "titre": "Présidentielle 2027 : le dernier décompte des candidats déjà sur la ligne de départ",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-dernier-decompte-des-candidats-deja-sur-la-ligne-de-depart",
+        "media": "Public Sénat",
+        "date": "2026-09-18"
+      },
+      {
+        "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-10"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1970-02-23",
+      "lieu": "Peyrins (Drôme)",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Nathalie Arthaud",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nathalie-arthaud",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Nathalie Arthaud",
+          "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Nathalie Arthaud est porte-parole nationale de Lutte ouvrière (LO), organisation trotskiste, depuis décembre 2008, où elle a succédé à Arlette Laguiller. Professeure agrégée d'économie-gestion, elle enseigne en lycée à Aubervilliers (Seine-Saint-Denis). Elle a été conseillère municipale de Vaulx-en-Velin (Rhône) de 2008 à 2014, son seul mandat électif. Candidate à la présidentielle en 2012 (0,56 %), 2017 (0,64 %) et 2022 (0,56 %), elle se présente pour la quatrième fois en 2027 sur une ligne « communiste, révolutionnaire et internationaliste », en présentant son programme comme un programme de luttes plutôt qu'un programme électoral.",
+    "formation": [
+      {
+        "texte": "Section sport-études volley-ball au lycée Lumière (Lyon), puis classes préparatoires au lycée du Parc (Lyon).",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de Nathalie Arthaud",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nathalie-arthaud",
+            "media": "Sud Radio",
+            "date": "2026"
+          },
+          {
+            "titre": "Nathalie Arthaud",
+            "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "texte": "Lauréate du CAPET puis de l'agrégation d'économie et gestion.",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de Nathalie Arthaud",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nathalie-arthaud",
+            "media": "Sud Radio",
+            "date": "2026"
+          },
+          {
+            "titre": "Nathalie Arthaud",
+            "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Professeure d'économie-gestion : au lycée Albert-Camus de Rillieux-la-Pape (Rhône), puis depuis 2011 au lycée Le Corbusier d'Aubervilliers (Seine-Saint-Denis).",
+        "sources": [
+          {
+            "titre": "Nathalie Arthaud",
+            "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "À Nantes, Nathalie Arthaud appelle les travailleurs à « peser » dans la présidentielle (reprise d'Ouest-France)",
+            "url": "https://www.lutte-ouvriere.org/portail/revue-de-presse/nantes-nathalie-arthaud-appelle-travailleurs-peser-presidentielle-197241.html",
+            "media": "Ouest-France (reproduit par Lutte ouvrière)",
+            "date": "2026-09-21"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "La biographie et le CV de Nathalie Arthaud",
+        "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nathalie-arthaud",
+        "media": "Sud Radio",
+        "date": "2026"
+      },
+      {
+        "titre": "Nathalie Arthaud",
+        "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "À Nantes, Nathalie Arthaud appelle les travailleurs à « peser » dans la présidentielle (reprise d'Ouest-France)",
+        "url": "https://www.lutte-ouvriere.org/portail/revue-de-presse/nantes-nathalie-arthaud-appelle-travailleurs-peser-presidentielle-197241.html",
+        "media": "Ouest-France (reproduit par Lutte ouvrière)",
+        "date": "2026-09-21"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "2008",
+      "fin": "2014",
+      "fonction": "Conseillère municipale de Vaulx-en-Velin (Rhône)",
+      "details": "Élue lors des municipales de mars 2008, chargée de la jeunesse ; mandat terminé en avril 2014. Seul mandat électif exercé.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Nathalie Arthaud",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nathalie-arthaud",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Nathalie Arthaud",
+          "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2008",
+      "fin": null,
+      "fonction": "Porte-parole nationale de Lutte ouvrière",
+      "details": "Depuis le 8 décembre 2008, en succession d'Arlette Laguiller ; Jean-Pierre Mercier partage ce rôle depuis 2012.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Nathalie Arthaud",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nathalie-arthaud",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Nathalie Arthaud",
+          "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2009",
+      "fin": "2024",
+      "fonction": "Tête de liste de Lutte ouvrière aux élections européennes",
+      "details": "Non élue : 0,84 % (2009), 0,85 % (2014), 0,78 % (2019), 0,49 % (2024).",
+      "sources": [
+        {
+          "titre": "Résultats des élections européennes 2019 – France entière",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/europeennes-2019/FE.php",
+          "media": "Ministère de l'Intérieur (archives des résultats électoraux)",
+          "date": "2019-05-26"
+        },
+        {
+          "titre": "La biographie et le CV de Nathalie Arthaud",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nathalie-arthaud",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Nathalie Arthaud",
+          "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2012",
+      "fin": "2012",
+      "fonction": "Candidate à l'élection présidentielle",
+      "details": "0,56 % (202 548 voix), 9e place.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Nathalie Arthaud",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nathalie-arthaud",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Nathalie Arthaud",
+          "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2017",
+      "fin": "2017",
+      "fonction": "Candidate à l'élection présidentielle",
+      "details": "0,64 % (232 384 voix), 10e place.",
+      "sources": [
+        {
+          "titre": "Résultats de l'élection présidentielle 2017 – France entière",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/presidentielle-2017/FE.php",
+          "media": "Ministère de l'Intérieur (archives des résultats électoraux)",
+          "date": "2017-04-23"
+        },
+        {
+          "titre": "La biographie et le CV de Nathalie Arthaud",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nathalie-arthaud",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Nathalie Arthaud",
+          "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2022",
+      "fin": "2022",
+      "fonction": "Candidate à l'élection présidentielle",
+      "details": "0,56 % (197 094 voix), 12e place.",
+      "sources": [
+        {
+          "titre": "Résultats de l'élection présidentielle 2022 – France entière",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/presidentielle-2022/FE.php",
+          "media": "Ministère de l'Intérieur (archives des résultats électoraux)",
+          "date": "2022-04-10"
+        },
+        {
+          "titre": "La biographie et le CV de Nathalie Arthaud",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nathalie-arthaud",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Nathalie Arthaud",
+          "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2025",
+      "fin": null,
+      "fonction": "Candidate de Lutte ouvrière à l'élection présidentielle de 2027",
+      "details": "Désignée par le 55e congrès de LO (décembre 2025).",
+      "sources": [
+        {
+          "titre": "Le 55e congrès de Lutte ouvrière",
+          "url": "https://lutte-ouvriere.org/mensuel/article/55e-congres-lutte-ouvriere-189173.html",
+          "media": "Lutte ouvrière (revue Lutte de classe)",
+          "date": "2025-12-14"
+        },
+        {
+          "titre": "À Nantes, Nathalie Arthaud appelle les travailleurs à « peser » dans la présidentielle (reprise d'Ouest-France)",
+          "url": "https://www.lutte-ouvriere.org/portail/revue-de-presse/nantes-nathalie-arthaud-appelle-travailleurs-peser-presidentielle-197241.html",
+          "media": "Ouest-France (reproduit par Lutte ouvrière)",
+          "date": "2026-09-21"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Aucune procédure judiciaire connue la visant à ce jour.",
+    "affaires": []
+  },
+  "programme": {
+    "statut": "Propositions partielles",
+    "resume": "LO a publié en juin 2026 une brochure de campagne qui présente un « programme révolutionnaire à imposer par les luttes, pas un programme électoral », sans chiffrage budgétaire. Les revendications centrales portent sur les salaires (aucun salaire sous 2 200 € net, indexation sur les prix), le partage du travail entre tous sans perte de salaire, la levée du secret des affaires et l'expropriation sans indemnité des grands groupes, à commencer par le pétrole et l'armement. La candidate défend aussi la régularisation de tous les sans-papiers et la liberté de circulation, et s'oppose à la hausse des budgets militaires. Elle se démarque de LFI : selon elle, il faut remplacer le capitalisme et non chercher à le réguler.",
+    "documents": [
+      {
+        "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, Fête annuelle de Lutte ouvrière de mai 2026 ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+        "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+        "media": "Lutte ouvrière (document de campagne)",
+        "date": "2026-06-26"
+      },
+      {
+        "titre": "Présidentielle 2027 : soutenez la campagne de Nathalie Arthaud !",
+        "url": "https://www.lutte-ouvriere.org/portail/journal/presidentielle-2027-soutenez-campagne-nathalie-arthaud-196575.html",
+        "media": "Lutte ouvrière (hebdomadaire)",
+        "date": "2026-08-26"
+      },
+      {
+        "titre": "Nathalie Arthaud : une candidature « révolutionnaire » pour 2027 face à la recomposition de la gauche (entretien Lyon Bondy Blog)",
+        "url": "https://www.lutte-ouvriere.org/portail/revue-de-presse/nathalie-arthaud-candidature-revolutionnaire-2027-face-recomposition-gauche-194900.html",
+        "media": "Lyon Bondy Blog (reproduit par Lutte ouvrière)",
+        "date": "2026-06-10"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "arthaud-salaire-2200",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Aucun salaire sous 2 200 € net par mois",
+        "description": "Exiger une augmentation massive des salaires, allocations et pensions, avec un minimum de 2 200 € net par mois (« il faut gagner au moins 2 200 euros net par mois pour s'en sortir ») ; la brochure évoque des hausses de 300 à 500 €.",
+        "chiffres": [
+          "Revenu minimum revendiqué : 2 200 € net / mois",
+          "Hausses évoquées : 300 à 500 € par mois"
+        ],
+        "date": "2026-06-26",
+        "sources": [
+          {
+            "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, Fête annuelle de Lutte ouvrière de mai 2026 ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+            "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+            "media": "Lutte ouvrière (document de campagne)",
+            "date": "2026-06-26"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification ni chiffrage indépendant de cette revendication n'a été trouvé, et LO n'en publie pas le coût. Repère : le SMIC net mensuel (35 h) est d'environ 1 443 € au 1er janvier 2026 et 1 478 € depuis le 1er juin 2026 (1 867,02 € brut) ; 2 200 € net représenteraient une hausse d'environ 49 % du salaire minimum net.",
+          "sources": [
+            {
+              "titre": "Montant SMIC 2026 taux horaire net et brut (mis à jour le 07/10/2026)",
+              "url": "https://www.legisocial.fr/reperes-sociaux/montant-smic-2026-taux-horaire-net-brut.html",
+              "media": "LégiSocial",
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      },
+      {
+        "id": "arthaud-indexation-prix",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Indexer salaires, pensions et allocations sur les prix",
+        "description": "Indexer salaires, pensions et allocations sur la hausse réelle des prix constatée par les travailleurs eux-mêmes, et non sur l'inflation officielle jugée sous-estimée (« quand les prix montent, notre salaire doit suivre »).",
+        "chiffres": [],
+        "date": "2026-06-26",
+        "sources": [
+          {
+            "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, Fête annuelle de Lutte ouvrière de mai 2026 ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+            "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+            "media": "Lutte ouvrière (document de campagne)",
+            "date": "2026-06-26"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification ni chiffrage indépendant trouvé. La mesure ne précise ni l'indice de référence (la brochure rejette l'indice officiel des prix sans en proposer un autre), ni la fréquence de revalorisation, ce qui empêche tout chiffrage.",
+          "sources": [
+            {
+              "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, Fête annuelle de Lutte ouvrière de mai 2026 ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+              "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+              "media": "Lutte ouvrière (document de campagne)",
+              "date": "2026-06-26"
+            }
+          ]
+        }
+      },
+      {
+        "id": "arthaud-partage-travail",
+        "theme": "emploi-travail",
+        "type": "proposition",
+        "titre": "Répartir le travail entre tous sans perte de salaire",
+        "description": "Pour que personne ne soit au chômage, recenser les besoins, répartir le travail entre tous et baisser le temps et la charge de travail sans perte de salaire ; faire établir par les personnels des hôpitaux, Ehpad, de l'éducation et des transports publics la liste des embauches nécessaires (« des centaines de milliers d'emplois à créer tout de suite »).",
+        "chiffres": [
+          "Plans de licenciements en cours cités (selon la CGT) : environ 500, 200 000 à 300 000 salariés menacés"
+        ],
+        "date": "2026-06-26",
+        "sources": [
+          {
+            "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, Fête annuelle de Lutte ouvrière de mai 2026 ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+            "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+            "media": "Lutte ouvrière (document de campagne)",
+            "date": "2026-06-26"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante trouvée. La revendication ne fixe ni durée du travail cible ni nombre d'embauches, ce qui rend tout chiffrage impossible ; le décompte de 500 plans de licenciements est attribué par LO à la CGT, sans source publique consultée.",
+          "sources": [
+            {
+              "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, Fête annuelle de Lutte ouvrière de mai 2026 ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+              "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+              "media": "Lutte ouvrière (document de campagne)",
+              "date": "2026-06-26"
+            }
+          ]
+        }
+      },
+      {
+        "id": "arthaud-secret-affaires",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Lever le secret des affaires et rendre publics les comptes des grands groupes",
+        "description": "Lever le secret commercial et le secret des affaires pour rendre publique l'intégralité des comptes des grandes entreprises, de leurs filiales et maisons-mères, y compris leurs circuits financiers.",
+        "chiffres": [],
+        "date": "2026-06-26",
+        "sources": [
+          {
+            "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, Fête annuelle de Lutte ouvrière de mai 2026 ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+            "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+            "media": "Lutte ouvrière (document de campagne)",
+            "date": "2026-06-26"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante trouvée. La faisabilité juridique (encadrement du secret des affaires par le droit français et européen) n'a pas été analysée par un fact-checkeur dans les sources consultées.",
+          "sources": [
+            {
+              "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, Fête annuelle de Lutte ouvrière de mai 2026 ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+              "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+              "media": "Lutte ouvrière (document de campagne)",
+              "date": "2026-06-26"
+            }
+          ]
+        }
+      },
+      {
+        "id": "arthaud-expropriation",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Exproprier sans indemnité les actionnaires du pétrole et de l'armement",
+        "description": "Confisquer les bénéfices des « profiteurs de guerre » (« les milliards pour les hôpitaux, les écoles, pas pour la guerre ») et exproprier « sans indemnité ni rachat » les actionnaires des grands groupes, en commençant par l'industrie pétrolière et les industries d'armement.",
+        "chiffres": [],
+        "date": "2026-06-26",
+        "sources": [
+          {
+            "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, Fête annuelle de Lutte ouvrière de mai 2026 ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+            "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+            "media": "Lutte ouvrière (document de campagne)",
+            "date": "2026-06-26"
+          },
+          {
+            "titre": "Présidentielle 2027 : soutenez la campagne de Nathalie Arthaud !",
+            "url": "https://www.lutte-ouvriere.org/portail/journal/presidentielle-2027-soutenez-campagne-nathalie-arthaud-196575.html",
+            "media": "Lutte ouvrière (hebdomadaire)",
+            "date": "2026-08-26"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-faux",
+          "analyse": "Vérification maison de la faisabilité juridique. En l'état du droit, une expropriation sans indemnité se heurte à l'article 17 de la Déclaration de 1789, qui a valeur constitutionnelle : nul ne peut être privé de sa propriété que pour nécessité publique « et sous la condition d'une juste et préalable indemnité ». La mesure supposerait donc au minimum une révision constitutionnelle. LO revendique d'ailleurs un programme à imposer « par les luttes » et non par la voie électorale.",
+          "sources": [
+            {
+              "titre": "Déclaration des droits de l'homme et du citoyen de 1789 (article 17)",
+              "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789",
+              "media": "Conseil constitutionnel",
+              "date": "2026-11-13"
+            },
+            {
+              "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, Fête annuelle de Lutte ouvrière de mai 2026 ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+              "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+              "media": "Lutte ouvrière (document de campagne)",
+              "date": "2026-06-26"
+            }
+          ]
+        }
+      },
+      {
+        "id": "arthaud-regularisation",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "Régulariser tous les sans-papiers, liberté de circulation et d'installation",
+        "description": "Régularisation de tous les sans-papiers, fin des expulsions et de « l'Europe-forteresse », liberté de circulation et d'installation pour chaque être humain.",
+        "chiffres": [],
+        "date": "2026-06-26",
+        "sources": [
+          {
+            "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, Fête annuelle de Lutte ouvrière de mai 2026 ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+            "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+            "media": "Lutte ouvrière (document de campagne)",
+            "date": "2026-06-26"
+          },
+          {
+            "titre": "Nathalie Arthaud : une candidature « révolutionnaire » pour 2027 face à la recomposition de la gauche (entretien Lyon Bondy Blog)",
+            "url": "https://www.lutte-ouvriere.org/portail/revue-de-presse/nathalie-arthaud-candidature-revolutionnaire-2027-face-recomposition-gauche-194900.html",
+            "media": "Lyon Bondy Blog (reproduit par Lutte ouvrière)",
+            "date": "2026-06-10"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante trouvée ; la candidate ne fournit ni estimation du nombre de personnes concernées ni analyse de compatibilité avec le droit européen (espace Schengen, régime d'asile commun).",
+          "sources": [
+            {
+              "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, Fête annuelle de Lutte ouvrière de mai 2026 ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+              "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+              "media": "Lutte ouvrière (document de campagne)",
+              "date": "2026-06-26"
+            }
+          ]
+        }
+      },
+      {
+        "id": "arthaud-budget-militaire",
+        "theme": "defense",
+        "type": "proposition",
+        "titre": "Refuser la hausse des dépenses militaires et l'« unité nationale »",
+        "description": "S'opposer aux hausses de crédits militaires (la brochure dénonce « 36 milliards de rallonge pour l'armée » et les 10 milliards du futur porte-avions, qui « manqueront pour les hôpitaux ») et refuser l'unité nationale derrière les gouvernements et l'état-major.",
+        "chiffres": [
+          "Rallonge militaire dénoncée : 36 Md€",
+          "Nouveau porte-avions : 10 Md€ (selon LO)"
+        ],
+        "date": "2026-06-26",
+        "sources": [
+          {
+            "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, Fête annuelle de Lutte ouvrière de mai 2026 ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+            "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+            "media": "Lutte ouvrière (document de campagne)",
+            "date": "2026-06-26"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Les montants cités (36 Md€ de rallonge, 10 Md€ pour le porte-avions) n'ont pas pu être rapprochés d'une source officielle ou d'un fact-check dans le cadre de cette vérification.",
+          "sources": [
+            {
+              "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, Fête annuelle de Lutte ouvrière de mai 2026 ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+              "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+              "media": "Lutte ouvrière (document de campagne)",
+              "date": "2026-06-26"
+            }
+          ]
+        }
+      },
+      {
+        "id": "arthaud-270-md-aides",
+        "theme": "economie-fiscalite",
+        "type": "declaration-chiffree",
+        "titre": "« 270 milliards d'aides publiques et d'exonérations » par an aux capitalistes",
+        "description": "La brochure affirme qu'il n'est « jamais question de toucher aux 270 milliards d'aides publiques et d'exonérations diverses versés chaque année aux capitalistes privés ».",
+        "chiffres": [
+          "270 Md€ par an (selon LO)"
+        ],
+        "date": "2026-06-26",
+        "sources": [
+          {
+            "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, Fête annuelle de Lutte ouvrière de mai 2026 ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+            "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+            "media": "Lutte ouvrière (document de campagne)",
+            "date": "2026-06-26"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-faux",
+          "analyse": "Vérification maison. Le chiffre de 270 Md€ dépasse toutes les estimations publiques disponibles : la commission d'enquête du Sénat (2025) évalue les aides publiques aux entreprises à au moins 211 Md€ en 2023 (montant « plancher » incluant 75 Md€ d'allègements de cotisations et 41 Md€ d'interventions de Bpifrance), France Stratégie à 179-223 Md€ (2020), le Clersé à 157-205 Md€ (2022) et le Haut-commissariat au Plan à 112 Md€ hors allègements. Le Sénat précise que son estimation exclut les aides locales, régionales et européennes, ce qui laisse une marge, mais LO ne cite aucune source pour 270 Md€.",
+          "sources": [
+            {
+              "titre": "211 milliards d'euros d'aides publiques aux entreprises : sur quoi repose le calcul de la commission d'enquête du Sénat",
+              "url": "https://www.publicsenat.fr/actualites/economie/211-milliards-deuros-daides-publiques-aux-entreprises-sur-quoi-repose-le-calcul-de-la-commission-denquete-du-senat",
+              "media": "Public Sénat",
+              "date": "2025-09-15"
+            }
+          ]
+        }
+      },
+      {
+        "id": "arthaud-dette-macron",
+        "theme": "economie-fiscalite",
+        "type": "declaration-chiffree",
+        "titre": "« La dette est passée de 2 000 à 3 500 milliards » sous Macron",
+        "description": "La brochure affirme qu'« en dix ans, sous les quinquennats de Macron », la dette publique « est passée de 2 000 à 3 500 milliards d'euros ».",
+        "chiffres": [
+          "De 2 000 à 3 500 Md€ (selon LO)"
+        ],
+        "date": "2026-06-26",
+        "sources": [
+          {
+            "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, Fête annuelle de Lutte ouvrière de mai 2026 ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+            "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+            "media": "Lutte ouvrière (document de campagne)",
+            "date": "2026-06-26"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "Vérification maison. La dette publique au sens de Maastricht atteint 3 460,5 Md€ fin 2025 selon l'Insee (115,6 % du PIB), ce qui est proche des 3 500 Md€ cités. Le point de départ est en revanche sous-estimé : elle s'élevait à environ 2 258 Md€ fin 2017, première année du mandat d'Emmanuel Macron (Cour des comptes, citée par Wikipédia). La hausse réelle est donc d'environ 1 200 Md€, et non 1 500 Md€.",
+          "sources": [
+            {
+              "titre": "En 2025, le déficit public s'élève à 5,1 % du PIB, la dette publique à 115,6 % du PIB (Informations rapides n° 78)",
+              "url": "https://www.insee.fr/fr/statistiques/8956575",
+              "media": "Insee",
+              "date": "2026-03-27"
+            },
+            {
+              "titre": "Dette publique de la France",
+              "url": "https://fr.wikipedia.org/wiki/Dette_publique_de_la_France",
+              "media": "Wikipédia",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

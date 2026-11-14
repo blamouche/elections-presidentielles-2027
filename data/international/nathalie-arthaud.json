@@ -1,0 +1,141 @@
+{
+  "id": "nathalie-arthaud",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Nathalie Arthaud aborde la politique étrangère sous l'angle de la lutte des classes : les guerres (Ukraine, Gaza, Iran) sont présentées comme le produit des rivalités entre puissances capitalistes, et elle renvoie dos à dos les États-Unis, l'OTAN et la Russie de Poutine. Elle s'oppose à la hausse des dépenses militaires, au protectionnisme et au souverainisme, et oppose à « l'Europe capitaliste » la perspective des « États-Unis socialistes d'Europe ».",
+  "axes": {
+    "europe": {
+      "position": 0,
+      "titre": "Ni Frexit ni Union actuelle : « Europe des travailleurs »",
+      "resume": "Le dépliant de sa liste aux européennes de 2024 décrit une UE « créée dans l'intérêt de ces brigands » capitalistes et appelle : « À l'Europe capitaliste, opposons la perspective de l'Europe des travailleurs et des États-Unis socialistes d'Europe ! ». Sa brochure de 2026 rejette le protectionnisme et la « souveraineté nationale ». Cran 0 : elle ne prône ni sortie de l'UE ni réforme des institutions.",
+      "date": "2026-06-26",
+      "sources": [
+        {
+          "titre": "Élections européennes 2024 – dépliant de campagne de la liste conduite par Nathalie Arthaud",
+          "url": "https://WWW.LUTTE-OUVRIERE.ORG/medias/document/fichiers/2024/04/Europeennes-2024-depliant-campagne.pdf",
+          "media": "Lutte ouvrière (document de campagne)",
+          "date": "2024-04"
+        },
+        {
+          "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+          "media": "Lutte ouvrière (document de campagne)",
+          "date": "2026-06-26"
+        }
+      ]
+    },
+    "otan": {
+      "position": -1,
+      "titre": "OTAN renvoyée dos à dos avec Poutine",
+      "resume": "Le dépliant de 2024 affirme que les dirigeants français, « aux côtés de ceux des États-Unis et autres membres de l'Otan », sont responsables de la guerre en Ukraine « au même titre que Poutine ». En 2022, elle accusait l'OTAN d'avoir « poussé pour s'étendre jusqu'aux frontières de la Russie ». Aucune revendication explicite de sortie n'a été identifiée, d'où le cran −1.",
+      "date": "2024-04",
+      "sources": [
+        {
+          "titre": "Élections européennes 2024 – dépliant de campagne de la liste conduite par Nathalie Arthaud",
+          "url": "https://WWW.LUTTE-OUVRIERE.ORG/medias/document/fichiers/2024/04/Europeennes-2024-depliant-campagne.pdf",
+          "media": "Lutte ouvrière (document de campagne)",
+          "date": "2024-04"
+        },
+        {
+          "titre": "Guerre en Ukraine : « Que le camp occidental se pose en sauveur me révolte », dénonce Nathalie Arthaud",
+          "url": "https://www.publicsenat.fr/actualites/politique/guerre-en-ukraine-que-le-camp-occidental-se-pose-en-sauveur-me-revolte-denonce",
+          "media": "Public Sénat",
+          "date": "2022-03-08"
+        },
+        {
+          "titre": "OTAN : les marchands d'armes comblés (Lutte ouvrière n° 3023)",
+          "url": "https://www.lutte-ouvriere.org/medias/journalnumero/fichiers/2026/07/3023-web.pdf",
+          "media": "Lutte ouvrière (hebdomadaire)",
+          "date": "2026-07-10"
+        }
+      ]
+    },
+    "trump": {
+      "position": -2,
+      "titre": "Opposition à Trump et à l'impérialisme américain",
+      "resume": "Sa brochure de campagne (juin 2026) qualifie Donald Trump de « milliardaire mégalomane installé à la Maison-Blanche » et estime que son échec en Iran est un échec « dont on ne peut que se réjouir ». Elle présente la guerre contre l'Iran, la pression sur Cuba et la menace d'annexer le Groenland comme l'expression de la volonté des États-Unis de contrôler des territoires pour leurs capitalistes.",
+      "date": "2026-06-26",
+      "sources": [
+        {
+          "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+          "media": "Lutte ouvrière (document de campagne)",
+          "date": "2026-06-26"
+        }
+      ]
+    },
+    "russie": {
+      "position": -1,
+      "titre": "Contre les sanctions, Poutine et l'Occident renvoyés dos à dos",
+      "resume": "En mars 2022, elle estime que « Poutine a fait le pas décisif vers cette guerre fratricide » mais se déclare « contre les sanctions », qui frappent d'abord les populations. En 2024, sa liste juge les dirigeants occidentaux responsables de la guerre « au même titre que Poutine ». La déclaration sur les sanctions date de 2022 ; aucune position plus récente n'a été identifiée.",
+      "date": "2024-04",
+      "sources": [
+        {
+          "titre": "Guerre en Ukraine : « Que le camp occidental se pose en sauveur me révolte », dénonce Nathalie Arthaud",
+          "url": "https://www.publicsenat.fr/actualites/politique/guerre-en-ukraine-que-le-camp-occidental-se-pose-en-sauveur-me-revolte-denonce",
+          "media": "Public Sénat",
+          "date": "2022-03-08"
+        },
+        {
+          "titre": "Élections européennes 2024 – dépliant de campagne de la liste conduite par Nathalie Arthaud",
+          "url": "https://WWW.LUTTE-OUVRIERE.ORG/medias/document/fichiers/2024/04/Europeennes-2024-depliant-campagne.pdf",
+          "media": "Lutte ouvrière (document de campagne)",
+          "date": "2024-04"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": -2,
+      "titre": "Livraisons d'armes dénoncées comme « guerre par procuration »",
+      "resume": "Le dépliant de 2024 affirme qu'« en fournissant des armes à Zelensky, ils mènent une guerre par procuration pour affaiblir leur rival russe avec la peau des Ukrainiens ». Sa brochure de 2026 s'oppose aux hausses de crédits militaires et refuse l'« unité nationale » derrière les gouvernements et l'état-major.",
+      "date": "2026-06-26",
+      "sources": [
+        {
+          "titre": "Élections européennes 2024 – dépliant de campagne de la liste conduite par Nathalie Arthaud",
+          "url": "https://WWW.LUTTE-OUVRIERE.ORG/medias/document/fichiers/2024/04/Europeennes-2024-depliant-campagne.pdf",
+          "media": "Lutte ouvrière (document de campagne)",
+          "date": "2024-04"
+        },
+        {
+          "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+          "media": "Lutte ouvrière (document de campagne)",
+          "date": "2026-06-26"
+        }
+      ]
+    },
+    "chine": {
+      "position": 0,
+      "titre": "Rejet du protectionnisme, y compris face à la Chine",
+      "resume": "Sa brochure de 2026 rejette le protectionnisme, y compris de la part de ceux qui dénoncent « la concurrence chinoise », et présente l'offensive américaine contre la Chine comme une rivalité entre impérialismes. Elle ne défend ni coopération renforcée ni fermeté à l'égard de Pékin, d'où le cran 0.",
+      "date": "2026-06-26",
+      "sources": [
+        {
+          "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+          "media": "Lutte ouvrière (document de campagne)",
+          "date": "2026-06-26"
+        }
+      ]
+    },
+    "proche-orient": {
+      "position": 1,
+      "titre": "Dénonciation de la politique de Netanyahou et de ses soutiens",
+      "resume": "Sa brochure (juin 2026) affirme que les Palestiniens de Gaza et de Cisjordanie « continuent d'être colonisés, chassés de leurs terres et massacrés par l'armée et les colons israéliens », ce qui ne serait pas possible sans le soutien des dirigeants américains et européens. En 2024, sa liste jugeait les puissances occidentales « complices des crimes de Netanyahou ». Aucune revendication de sanctions ou d'embargo n'a été identifiée, d'où le cran +1.",
+      "date": "2026-06-26",
+      "sources": [
+        {
+          "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure ; supplément à Lutte ouvrière n° 3021 du 26 juin 2026)",
+          "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+          "media": "Lutte ouvrière (document de campagne)",
+          "date": "2026-06-26"
+        },
+        {
+          "titre": "Élections européennes 2024 – dépliant de campagne de la liste conduite par Nathalie Arthaud",
+          "url": "https://WWW.LUTTE-OUVRIERE.ORG/medias/document/fichiers/2024/04/Europeennes-2024-depliant-campagne.pdf",
+          "media": "Lutte ouvrière (document de campagne)",
+          "date": "2024-04"
+        }
+      ]
+    }
+  }
+}

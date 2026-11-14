@@ -1,0 +1,1245 @@
+{
+  "id": "jordan-bardella",
+  "prenom": "Jordan",
+  "nom": "Bardella",
+  "parti": "Rassemblement national",
+  "partiAbrev": "RN",
+  "famillePolitique": "extreme-droite",
+  "couleur": "#0D2C54",
+  "statutCandidature": "potentiel",
+  "candidature": {
+    "texte": "Non candidat déclaré. Président du RN, Jordan Bardella s'est présenté dès avril 2025 comme le candidat de substitution si Marine Le Pen était empêchée (« si elle devait être empêchée demain, je pense pouvoir dire que je serai son candidat »). Depuis la candidature de Marine Le Pen annoncée le 7 juillet 2026, il forme avec elle un « binôme » de campagne et serait son Premier ministre en cas de victoire. Son éventuelle candidature dépend de l'issue du pourvoi de Marine Le Pen devant la Cour de cassation (arrêt attendu au plus tard début avril 2027, QPC examinées le 16 décembre 2026) et de l'appréciation de son éligibilité par le Conseil constitutionnel, qui doit publier la liste des candidats au plus tard le 26 mars 2027.",
+    "date": "2025-04-26",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : Jordan Bardella se positionne comme plan B si Marine Le Pen ne peut pas se présenter",
+        "url": "https://www.franceinfo.fr/politique/jordan-bardella/presidentielle-2027-jordan-bardella-se-positionne-comme-plan-b-si-marine-le-pen-ne-peut-pas-se-presenter_7215402.html",
+        "media": "franceinfo",
+        "date": "2025-04-28"
+      },
+      {
+        "titre": "« Ce soir, je suis candidate à l'élection présidentielle » : malgré sa condamnation, Marine Le Pen se lance et se pourvoit en cassation",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-marine-le-pen-est-candidate-et-se-pourvoit-en-cassation",
+        "media": "Public Sénat",
+        "date": "2026-07-07"
+      },
+      {
+        "titre": "Affaire des assistants parlementaires du FN : la défense de Marine Le Pen dévoile ses arguments à la Cour de cassation",
+        "url": "https://www.leclubdesjuristes.com/?p=18085",
+        "media": "Le Club des Juristes",
+        "date": "2026-10-28"
+      },
+      {
+        "titre": "Affaire des assistants parlementaires du RN : la Cour de cassation fixera le sort de Marine Le Pen le 16 décembre",
+        "url": "https://actu.orange.fr/politique/affaire-des-assistants-parlementaires-du-rn-la-cour-de-cassation-fixera-le-sort-de-marine-le-pen-le-16-decembre-l-express-via-6medias-CNT000002t1bDR.html",
+        "media": "L'Express via 6Medias (Orange Actu)",
+        "date": "2026-10-17"
+      },
+      {
+        "titre": "Marine Le Pen est-elle vraiment inéligible à l'élection présidentielle, comme l'affirme un magistrat honoraire de la Cour de cassation ?",
+        "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-est-elle-vraiment-ineligible-a-l-election-presidentielle-comme-l-affirme-un-magistrat-honoraire-de-la-cour-de-cassation_8257378.html",
+        "media": "franceinfo",
+        "date": "2026-10-30"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1995-09-13",
+      "lieu": "Drancy (Seine-Saint-Denis)",
+      "sources": [
+        {
+          "titre": "Jordan BARDELLA – Accueil – Députés européens",
+          "url": "https://www.europarl.europa.eu/meps/fr/131580/JORDAN_BARDELLA/home",
+          "media": "Parlement européen",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Jordan Bardella",
+          "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Adhérent du Front national dès 2012, Jordan Bardella a gravi rapidement les échelons du parti : porte-parole en 2017, vice-président en 2019, président par intérim en 2021 puis président élu du Rassemblement national depuis novembre 2022, réélu le 24 octobre 2026. Député européen depuis 2019, il a conduit les listes RN arrivées en tête aux européennes de 2019 (23,3 %) et 2024 (31,37 %) et préside depuis juillet 2024 le groupe Patriotes pour l'Europe au Parlement européen. Présenté comme futur Premier ministre en cas de victoire de Marine Le Pen, il est aussi le candidat de substitution du RN si celle-ci était empêchée. Il n'a fait l'objet d'aucune condamnation pénale ; il est visé par des plaintes et une enquête en cours, dont il conteste le bien-fondé.",
+    "formation": [
+      {
+        "texte": "Baccalauréat économique et social (2013) ; échec au concours de Sciences Po Paris ; études de géographie à l'université Paris-Sorbonne interrompues sans diplôme.",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de Jordan Bardella",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-jordan-bardella",
+            "media": "Sud Radio",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Jordan Bardella",
+            "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Pas de carrière professionnelle durable hors de la politique : bref passage dans l'entreprise de son père ; assistant parlementaire de l'eurodéputé FN Jean-François Jalkh de février à juin 2015 (emploi dont la réalité est contestée par une plainte d'Anticor, voir rubrique judiciaire).",
+        "sources": [
+          {
+            "titre": "Jordan Bardella",
+            "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Anticor va demander qu'un juge d'instruction enquête pour détournement de fonds publics contre Bardella",
+            "url": "https://www.france24.com/fr/info-en-continu/20260630-anticor-va-demander-qu-un-juge-d-instruction-enqu%C3%AAte-pour-d%C3%A9tournement-de-fonds-publics-contre-bardella",
+            "media": "France 24 (AFP)",
+            "date": "2026-06-30"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "Jordan BARDELLA – Accueil – Députés européens",
+        "url": "https://www.europarl.europa.eu/meps/fr/131580/JORDAN_BARDELLA/home",
+        "media": "Parlement européen",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "La biographie et le CV de Jordan Bardella",
+        "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-jordan-bardella",
+        "media": "Sud Radio",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Jordan Bardella",
+        "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Jordan Bardella",
+        "url": "https://en.wikipedia.org/wiki/Jordan_Bardella",
+        "media": "Wikipedia (en)",
+        "date": "2026-11-13"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "2015",
+      "fin": "2025",
+      "fonction": "Conseiller régional d'Île-de-France",
+      "details": "Élu en décembre 2015 (mandat à partir du 18 décembre 2015), réélu en 2021 (tête de liste RN : 13,1 % au premier tour, 10,8 % au second) ; démission en février 2025.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Jordan Bardella",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-jordan-bardella",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Résultats des élections régionales 2021 – Île-de-France",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/regionales-2021/11/11.php",
+          "media": "Ministère de l'Intérieur",
+          "date": "2021-06-27"
+        },
+        {
+          "titre": "Jordan Bardella",
+          "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Jordan Bardella",
+          "url": "https://en.wikipedia.org/wiki/Jordan_Bardella",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2017",
+      "fin": "2017",
+      "fonction": "Candidat aux élections législatives (12e circonscription de Seine-Saint-Denis)",
+      "details": "Éliminé au premier tour avec 15,06 % des suffrages exprimés (3e position).",
+      "sources": [
+        {
+          "titre": "Résultats des élections législatives 2017 – Seine-Saint-Denis, 12e circonscription",
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/legislatives-2017/093/09312.php",
+          "media": "Ministère de l'Intérieur",
+          "date": "2017-06-11"
+        },
+        {
+          "titre": "Jordan Bardella",
+          "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2017",
+      "fin": "2019",
+      "fonction": "Porte-parole du Front national puis du Rassemblement national",
+      "details": "Du 21 septembre 2017 au 16 juin 2019.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Jordan Bardella",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-jordan-bardella",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Jordan Bardella",
+          "url": "https://en.wikipedia.org/wiki/Jordan_Bardella",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2018",
+      "fin": "2021",
+      "fonction": "Directeur national de Génération nation (mouvement de jeunesse du RN)",
+      "details": "Du 12 mars 2018 au 4 juillet 2021.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Jordan Bardella",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-jordan-bardella",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Jordan Bardella",
+          "url": "https://en.wikipedia.org/wiki/Jordan_Bardella",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2019",
+      "fin": "2022",
+      "fonction": "Vice-président du Rassemblement national",
+      "details": "Deuxième vice-président à partir de juin 2019, puis premier vice-président en 2021.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Jordan Bardella",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-jordan-bardella",
+          "media": "Sud Radio",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Jordan Bardella",
+          "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Jordan Bardella",
+          "url": "https://en.wikipedia.org/wiki/Jordan_Bardella",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2019",
+      "fin": null,
+      "fonction": "Député européen",
+      "details": "En fonction depuis le 2 juillet 2019. Tête de liste du RN aux européennes de 2019 (23,3 %, 23 sièges, première place) et de 2024 (31,37 %, 30 sièges, première place).",
+      "sources": [
+        {
+          "titre": "Jordan BARDELLA – Accueil – Députés européens",
+          "url": "https://www.europarl.europa.eu/meps/fr/131580/JORDAN_BARDELLA/home",
+          "media": "Parlement européen",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Jordan BARDELLA – 9e législature",
+          "url": "https://www.europarl.europa.eu/meps/fr/131580/JORDAN_BARDELLA/history/9",
+          "media": "Parlement européen",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Jordan Bardella",
+          "url": "https://en.wikipedia.org/wiki/Jordan_Bardella",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Jordan Bardella",
+          "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2021",
+      "fin": null,
+      "fonction": "Président du Rassemblement national",
+      "details": "Président par intérim à partir de septembre 2021, élu le 5 novembre 2022 (85 % des voix des adhérents face à Louis Aliot), réélu le 24 octobre 2026 au congrès d'Orléans, seul candidat, avec 98,98 % des suffrages exprimés et une participation de près de 68 % des adhérents.",
+      "sources": [
+        {
+          "titre": "Jordan Bardella réélu à la tête du Rassemblement national",
+          "url": "https://lcp.fr/actualites/jordan-bardella-reelu-a-la-tete-du-rassemblement-national-444251",
+          "media": "LCP",
+          "date": "2026-10-24"
+        },
+        {
+          "titre": "Jordan Bardella élu président du Rassemblement national : le sacre de la fidélité",
+          "url": "https://www.publicsenat.fr/actualites/politique/jordan-bardella-elu-sans-surprise-president-du-rassemblement-national-226265",
+          "media": "Public Sénat",
+          "date": "2022-11-05"
+        },
+        {
+          "titre": "Jordan Bardella",
+          "url": "https://en.wikipedia.org/wiki/Jordan_Bardella",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Jordan Bardella",
+          "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2024",
+      "fin": null,
+      "fonction": "Président du groupe Patriotes pour l'Europe au Parlement européen",
+      "details": "Depuis le 8 juillet 2024. Désigné à la tête du groupe lors de sa constitution en juillet 2024 ; la fiche officielle du Parlement européen le mentionne comme coprésident du groupe au 13 novembre 2026.",
+      "sources": [
+        {
+          "titre": "Jordan BARDELLA – Accueil – Députés européens",
+          "url": "https://www.europarl.europa.eu/meps/fr/131580/JORDAN_BARDELLA/home",
+          "media": "Parlement européen",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Far-right Patriots group springs to third force in European Parliament",
+          "url": "https://www.euronews.com/my-europe/2024/07/08/far-right-patriots-group-springs-to-third-force-in-european-parliament",
+          "media": "Euronews",
+          "date": "2024-07-08"
+        },
+        {
+          "titre": "Jordan Bardella",
+          "url": "https://en.wikipedia.org/wiki/Jordan_Bardella",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2024",
+      "fin": "2024",
+      "fonction": "Chef de file du RN aux élections législatives anticipées",
+      "details": "A conduit la campagne de la coalition RN lors des législatives de juin-juillet 2024, en tant que candidat du parti au poste de Premier ministre.",
+      "sources": [
+        {
+          "titre": "Législatives : Jordan Bardella expose ses priorités en cas de victoire et fait du Nouveau Front populaire son seul adversaire",
+          "url": "https://www.publicsenat.fr/actualites/politique/legislatives-jordan-bardella-expose-ses-priorites-en-cas-de-victoire-et-fait-du-nouveau-front-populaire-son-seul-adversaire",
+          "media": "Public Sénat",
+          "date": "2024-06"
+        },
+        {
+          "titre": "Jordan Bardella",
+          "url": "https://en.wikipedia.org/wiki/Jordan_Bardella",
+          "media": "Wikipedia (en)",
+          "date": "2026-11-13"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Aucune condamnation pénale connue à ce jour. Visé par une plainte d'Anticor (emploi d'assistant parlementaire européen en 2015) et cité dans une enquête du Parquet européen sur des formations aux médias, sans mise en examen connue : il bénéficie de la présomption d'innocence et conteste les faits. Il est par ailleurs plaignant dans plusieurs procédures en diffamation.",
+    "affaires": [
+      {
+        "titre": "Plainte pour emploi présumé fictif d'assistant parlementaire européen (2015)",
+        "statut": "enquete",
+        "role": "visé par une plainte (non mis en examen)",
+        "resume": "Jordan Bardella a été assistant parlementaire de l'eurodéputé FN Jean-François Jalkh pendant environ quatre mois et demi en 2015. Il n'a pas été poursuivi dans l'affaire principale des assistants parlementaires du FN. L'association Adelibe a déposé une plainte le 25 mars 2025 contre lui et M. Jalkh. En janvier 2026, Anticor a déposé une plainte simple contre sept personnes, dont M. Bardella, pour détournement de fonds publics, faux et usage de faux et escroquerie au jugement, contestant la réalité de son travail et l'authenticité d'un agenda et d'une revue de presse produits pour l'attester. Le parquet de Paris a indiqué ne pas pouvoir avancer tant que le dossier principal et les scellés restaient devant la cour d'appel. Le 30 juin 2026, Anticor a annoncé une plainte avec constitution de partie civile pour obtenir la désignation d'un juge d'instruction ; selon Le Canard enchaîné cité par 6Medias, l'ouverture d'une information judiciaire était annoncée comme imminente, sans confirmation trouvée. M. Bardella conteste les accusations, affirme n'avoir « rien à se reprocher » et dénonce une « manipulation ». Au 13 novembre 2026, aucune source de référence ne confirme l'ouverture d'une information judiciaire ni la désignation d'un juge d'instruction : issue non connue à la date de mise à jour. Aucune mise en examen n'est connue ; présomption d'innocence.",
+        "chronologie": [
+          {
+            "date": "2025-03-25",
+            "evenement": "Plainte de l'association Adelibe visant Jordan Bardella et Jean-François Jalkh.",
+            "sources": [
+              {
+                "titre": "Jordan Bardella",
+                "url": "https://en.wikipedia.org/wiki/Jordan_Bardella",
+                "media": "Wikipedia (en)",
+                "date": "2026-11-13"
+              },
+              {
+                "titre": "Anticor va demander qu'un juge d'instruction enquête pour détournement de fonds publics contre Bardella",
+                "url": "https://www.france24.com/fr/info-en-continu/20260630-anticor-va-demander-qu-un-juge-d-instruction-enqu%C3%AAte-pour-d%C3%A9tournement-de-fonds-publics-contre-bardella",
+                "media": "France 24 (AFP)",
+                "date": "2026-06-30"
+              }
+            ]
+          },
+          {
+            "date": "2026-01",
+            "evenement": "Plainte simple d'Anticor contre sept personnes, dont Jordan Bardella.",
+            "sources": [
+              {
+                "titre": "Anticor va demander qu'un juge d'instruction enquête pour détournement de fonds publics contre Bardella",
+                "url": "https://www.france24.com/fr/info-en-continu/20260630-anticor-va-demander-qu-un-juge-d-instruction-enqu%C3%AAte-pour-d%C3%A9tournement-de-fonds-publics-contre-bardella",
+                "media": "France 24 (AFP)",
+                "date": "2026-06-30"
+              }
+            ]
+          },
+          {
+            "date": "2026-06-30",
+            "evenement": "Anticor annonce une plainte avec constitution de partie civile pour obtenir la saisine d'un juge d'instruction.",
+            "sources": [
+              {
+                "titre": "Anticor va demander qu'un juge d'instruction enquête pour détournement de fonds publics contre Bardella",
+                "url": "https://www.france24.com/fr/info-en-continu/20260630-anticor-va-demander-qu-un-juge-d-instruction-enqu%C3%AAte-pour-d%C3%A9tournement-de-fonds-publics-contre-bardella",
+                "media": "France 24 (AFP)",
+                "date": "2026-06-30"
+              },
+              {
+                "titre": "Jordan Bardella visé par une plainte pour détournement de fonds publics, des anciens collaborateurs du RN perquisitionnés",
+                "url": "https://actu.orange.fr/politique/jordan-bardella-vise-par-une-plainte-pour-detournement-de-fonds-publics-des-anciens-collaborateurs-du-rn-perquisitionnes-magic-CNT000002qgk6H.html",
+                "media": "6Medias (Orange Actu)",
+                "date": "2026-07-01"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Anticor va demander qu'un juge d'instruction enquête pour détournement de fonds publics contre Bardella",
+            "url": "https://www.france24.com/fr/info-en-continu/20260630-anticor-va-demander-qu-un-juge-d-instruction-enqu%C3%AAte-pour-d%C3%A9tournement-de-fonds-publics-contre-bardella",
+            "media": "France 24 (AFP)",
+            "date": "2026-06-30"
+          },
+          {
+            "titre": "Jordan Bardella visé par une plainte pour détournement de fonds publics, des anciens collaborateurs du RN perquisitionnés",
+            "url": "https://actu.orange.fr/politique/jordan-bardella-vise-par-une-plainte-pour-detournement-de-fonds-publics-des-anciens-collaborateurs-du-rn-perquisitionnes-magic-CNT000002qgk6H.html",
+            "media": "6Medias (Orange Actu)",
+            "date": "2026-07-01"
+          }
+        ]
+      },
+      {
+        "titre": "Enquête du Parquet européen sur des formations aux médias financées par des fonds européens",
+        "statut": "enquete",
+        "role": "bénéficiaire présumé des formations selon la plainte ; pas de mise en cause formelle connue",
+        "resume": "Après un article du Canard enchaîné, l'association AC!! Anti-Corruption a déposé début décembre 2025 une plainte contre X auprès du parquet national financier, qui l'a transmise au Parquet européen. Celui-ci a ouvert le 7 mai 2026 une enquête pour suspicion de fraude aux fonds de l'UE portant sur des formations aux médias payées sur l'enveloppe des eurodéputés, dont aurait notamment bénéficié Jordan Bardella à partir de septembre 2021. Le RN affirme que ces formations ont été menées « dans les règles du Parlement européen » ; M. Bardella a déposé fin 2025 une plainte pour dénonciation calomnieuse contre l'association. Distincte, une enquête du Parquet européen ouverte en juillet 2025 vise l'ancien groupe Identité et démocratie (soupçon de plus de 4,3 M€ indûment dépensés entre 2019 et 2024), dans le cadre de laquelle des perquisitions ont eu lieu le 30 juin 2026 chez des prestataires de communication du RN. Aucune mise en examen ni poursuite de M. Bardella n'est connue ; présomption d'innocence.",
+        "chronologie": [
+          {
+            "date": "2025-12",
+            "evenement": "Plainte contre X d'AC!! Anti-Corruption auprès du parquet national financier.",
+            "sources": [
+              {
+                "titre": "Média training de Bardella : le RN dans le viseur de la justice européenne",
+                "url": "https://www.france24.com/fr/france/20260507-m%C3%A9dia-training-de-bardella-le-rn-dans-le-viseur-la-justice-europ%C3%A9enne",
+                "media": "France 24 (AFP)",
+                "date": "2026-05-07"
+              }
+            ]
+          },
+          {
+            "date": "2026-05-07",
+            "evenement": "Ouverture d'une enquête par le Parquet européen pour suspicion de fraude aux fonds de l'UE.",
+            "sources": [
+              {
+                "titre": "Média training de Bardella : le RN dans le viseur de la justice européenne",
+                "url": "https://www.france24.com/fr/france/20260507-m%C3%A9dia-training-de-bardella-le-rn-dans-le-viseur-la-justice-europ%C3%A9enne",
+                "media": "France 24 (AFP)",
+                "date": "2026-05-07"
+              }
+            ]
+          },
+          {
+            "date": "2026-06-30",
+            "evenement": "Perquisitions en France, Espagne, Italie et Belgique chez des prestataires de communication ayant travaillé avec le RN, dans la procédure ouverte en juillet 2025 sur le groupe Identité et démocratie.",
+            "sources": [
+              {
+                "titre": "Possible détournement de fonds de l'UE par l'extrême droite européenne : des perquisitions menées",
+                "url": "https://fr.euronews.com/my-europe/2026/06/30/possible-detournement-de-fonds-de-lue-par-lextreme-droite-europeenne-des-perquisitions-men",
+                "media": "Euronews",
+                "date": "2026-06-30"
+              },
+              {
+                "titre": "Jordan Bardella visé par une plainte pour détournement de fonds publics, des anciens collaborateurs du RN perquisitionnés",
+                "url": "https://actu.orange.fr/politique/jordan-bardella-vise-par-une-plainte-pour-detournement-de-fonds-publics-des-anciens-collaborateurs-du-rn-perquisitionnes-magic-CNT000002qgk6H.html",
+                "media": "6Medias (Orange Actu)",
+                "date": "2026-07-01"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Média training de Bardella : le RN dans le viseur de la justice européenne",
+            "url": "https://www.france24.com/fr/france/20260507-m%C3%A9dia-training-de-bardella-le-rn-dans-le-viseur-la-justice-europ%C3%A9enne",
+            "media": "France 24 (AFP)",
+            "date": "2026-05-07"
+          }
+        ]
+      },
+      {
+        "titre": "Plainte en diffamation du maire de Trappes (propos sur une « République islamique en miniature »)",
+        "statut": "autre",
+        "role": "prévenu (mis en examen en 2022)",
+        "resume": "Après la réélection d'Ali Rabeh à la mairie de Trappes, Jordan Bardella a publié en octobre 2021 un communiqué évoquant la « constitution de Républiques islamiques en miniature ». À la suite d'une plainte en diffamation du maire, il a annoncé le 1er février 2022 sa mise en examen ; en matière de diffamation, celle-ci est quasi automatique et ne préjuge pas du fond. En décembre 2023, M. Bardella a annoncé sur X avoir été relaxé ; la décision elle-même (juridiction, date, éventuel appel) n'a pas pu être consultée, l'issue repose donc sur sa déclaration relayée par la presse. Aucune source de presse de référence rapportant la décision n'a été trouvée lors de la vérification du 13 novembre 2026 ; le 26 octobre 2026 sur BFMTV, la sénatrice RN Edwige Diaz a de nouveau affirmé que M. Bardella avait « gagné au tribunal », sans précision (Ozap).",
+        "chronologie": [
+          {
+            "date": "2022-02-01",
+            "evenement": "Annonce par Jordan Bardella de sa mise en examen pour diffamation.",
+            "sources": [
+              {
+                "titre": "Islamisme : « Il y a des quartiers qui ont été verrouillés par des barbus », dénonce Bruno Retailleau",
+                "url": "https://www.publicsenat.fr/actualites/societe/islamisme-il-y-a-des-quartiers-qui-ont-ete-verrouilles-par-des-barbus-denonce",
+                "media": "Public Sénat",
+                "date": "2022-02-02"
+              },
+              {
+                "titre": "« Une République islamique en miniature » : le RN réitère les propos passés de Jordan Bardella sur Trappes",
+                "url": "https://fr.news.yahoo.com/r%C3%A9publique-islamique-miniature-rn-r%C3%A9it%C3%A8re-113733336.html",
+                "media": "Yahoo Actualités",
+                "date": "2026-10-27"
+              },
+              {
+                "titre": "Jordan Bardella",
+                "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          },
+          {
+            "date": "2023-12",
+            "evenement": "Jordan Bardella annonce sur X avoir été relaxé.",
+            "sources": [
+              {
+                "titre": "Message de Jordan Bardella sur X annonçant sa relaxe",
+                "url": "https://x.com/J_Bardella/status/1734580821695074730",
+                "media": "X (compte de Jordan Bardella)",
+                "date": "2023-12"
+              },
+              {
+                "titre": "« Une République islamique en miniature » : le RN réitère les propos passés de Jordan Bardella sur Trappes",
+                "url": "https://fr.news.yahoo.com/r%C3%A9publique-islamique-miniature-rn-r%C3%A9it%C3%A8re-113733336.html",
+                "media": "Yahoo Actualités",
+                "date": "2026-10-27"
+              }
+            ]
+          },
+          {
+            "date": "2026-10-26",
+            "evenement": "Sur BFMTV, la sénatrice RN Edwige Diaz affirme que Jordan Bardella a gagné le procès intenté par le maire de Trappes (affirmation non accompagnée de la décision).",
+            "sources": [
+              {
+                "titre": "« C'est insupportable » : Alice Darfeuille s'emporte sur BFMTV après les propos d'une sénatrice RN assimilant Trappes à une « République islamique »",
+                "url": "https://www.ozap.com/actu/cest-insupportable-alice-darfeuille-semporte-sur-bfmtv-apres-les-propos-dune-senatrice-rn-assimilant-trappes-a-une-republique-islamique/657673",
+                "media": "Ozap",
+                "date": "2026-10-27"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Islamisme : « Il y a des quartiers qui ont été verrouillés par des barbus », dénonce Bruno Retailleau",
+            "url": "https://www.publicsenat.fr/actualites/societe/islamisme-il-y-a-des-quartiers-qui-ont-ete-verrouilles-par-des-barbus-denonce",
+            "media": "Public Sénat",
+            "date": "2022-02-02"
+          },
+          {
+            "titre": "« Une République islamique en miniature » : le RN réitère les propos passés de Jordan Bardella sur Trappes",
+            "url": "https://fr.news.yahoo.com/r%C3%A9publique-islamique-miniature-rn-r%C3%A9it%C3%A8re-113733336.html",
+            "media": "Yahoo Actualités",
+            "date": "2026-10-27"
+          },
+          {
+            "titre": "« C'est insupportable » : Alice Darfeuille s'emporte sur BFMTV après les propos d'une sénatrice RN assimilant Trappes à une « République islamique »",
+            "url": "https://www.ozap.com/actu/cest-insupportable-alice-darfeuille-semporte-sur-bfmtv-apres-les-propos-dune-senatrice-rn-assimilant-trappes-a-une-republique-islamique/657673",
+            "media": "Ozap",
+            "date": "2026-10-27"
+          },
+          {
+            "titre": "Jordan Bardella",
+            "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "titre": "Procès en diffamation contre Libération (« assistant parlementaire fantôme »)",
+        "statut": "autre",
+        "role": "plaignant (débouté en première instance)",
+        "resume": "Jordan Bardella a poursuivi en diffamation le directeur de Libération pour le titre d'un article de septembre 2023 le qualifiant d'« assistant parlementaire fantôme ». Le 21 mars 2025, le tribunal correctionnel de Paris a jugé que ce titre n'était pas diffamatoire. Les sources consultées ne permettent pas de savoir si un appel a été formé.",
+        "chronologie": [
+          {
+            "date": "2025-03-21",
+            "evenement": "Le tribunal correctionnel de Paris déboute Jordan Bardella.",
+            "sources": [
+              {
+                "titre": "Assistants parlementaires européens du RN : Jordan Bardella perd un procès en diffamation contre le quotidien \"Libération\"",
+                "url": "https://www.franceinfo.fr/politique/jordan-bardella/assistants-parlementaires-europeens-du-rn-jordan-bardella-perd-un-proces-en-diffamation-contre-le-quotidien-liberation_7143501.html",
+                "media": "franceinfo",
+                "date": "2025-03-21"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Assistants parlementaires européens du RN : Jordan Bardella perd un procès en diffamation contre le quotidien \"Libération\"",
+            "url": "https://www.franceinfo.fr/politique/jordan-bardella/assistants-parlementaires-europeens-du-rn-jordan-bardella-perd-un-proces-en-diffamation-contre-le-quotidien-liberation_7143501.html",
+            "media": "franceinfo",
+            "date": "2025-03-21"
+          }
+        ]
+      },
+      {
+        "titre": "Plaintes après l'enquête de Mediapart sur des messages antisémites qui lui sont attribués",
+        "statut": "autre",
+        "role": "plaignant",
+        "resume": "Le 28 septembre 2026, Mediapart a publié des messages privés datant de 2013 attribués à Jordan Bardella, alors âgé de 17-18 ans, comportant des propos antisémites ; il en conteste formellement l'authenticité et parle de « faux grossiers ». Il a déposé le 30 septembre 2026 une plainte en diffamation avec constitution de partie civile contre Mediapart, puis une plainte contre X pour faux et usage de faux, reçue par le parquet de Paris la semaine du 10 novembre 2026, qui doit décider des suites. Mediapart, qui a publié une extraction des messages par Meta certifiée par huissier, dit attendre une enquête judiciaire sur l'authenticité des documents. M. Bardella n'est mis en cause dans aucune procédure à ce titre.",
+        "chronologie": [
+          {
+            "date": "2026-09-28",
+            "evenement": "Publication de l'enquête de Mediapart.",
+            "sources": [
+              {
+                "titre": "Accusations d'antisémitisme : Bardella a porté plainte pour faux et usage de faux",
+                "url": "https://www.france24.com/fr/info-en-continu/20261112-accusations-d-antis%C3%A9mitisme-bardella-a-port%C3%A9-plainte-pour-faux-et-usage-de-faux",
+                "media": "France 24 (AFP)",
+                "date": "2026-11-12"
+              }
+            ]
+          },
+          {
+            "date": "2026-09-30",
+            "evenement": "Plainte en diffamation avec constitution de partie civile contre Mediapart.",
+            "sources": [
+              {
+                "titre": "Accusations d'antisémitisme : Bardella a porté plainte pour faux et usage de faux",
+                "url": "https://www.france24.com/fr/info-en-continu/20261112-accusations-d-antis%C3%A9mitisme-bardella-a-port%C3%A9-plainte-pour-faux-et-usage-de-faux",
+                "media": "France 24 (AFP)",
+                "date": "2026-11-12"
+              }
+            ]
+          },
+          {
+            "date": "2026-11-10",
+            "evenement": "Plainte contre X pour faux et usage de faux reçue par le parquet de Paris (« mardi » selon l'AFP).",
+            "sources": [
+              {
+                "titre": "Accusations d'antisémitisme : Bardella a porté plainte pour faux et usage de faux",
+                "url": "https://www.france24.com/fr/info-en-continu/20261112-accusations-d-antis%C3%A9mitisme-bardella-a-port%C3%A9-plainte-pour-faux-et-usage-de-faux",
+                "media": "France 24 (AFP)",
+                "date": "2026-11-12"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Accusations d'antisémitisme : Bardella a porté plainte pour faux et usage de faux",
+            "url": "https://www.france24.com/fr/info-en-continu/20261112-accusations-d-antis%C3%A9mitisme-bardella-a-port%C3%A9-plainte-pour-faux-et-usage-de-faux",
+            "media": "France 24 (AFP)",
+            "date": "2026-11-12"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "statut": "Propositions partielles",
+    "resume": "Jordan Bardella n'est pas candidat déclaré et n'a pas de programme présidentiel propre : il porte le projet du RN et de Marine Le Pen. Textes de référence : le programme du RN aux législatives de 2024, dont il était le chef de file (chiffré par l'Institut Montaigne), et le plan budgétaire 2027-2032 qu'il a présenté avec Marine Le Pen le 6 octobre 2026 (140 Md€ d'économies, suppression de 120 taxes, priorité nationale, baisse de la contribution à l'UE, baisses de TVA). Thèmes principaux : pouvoir d'achat (TVA sur l'énergie), immigration et « priorité nationale », fiscalité des entreprises, sécurité, retraites.",
+    "documents": [
+      {
+        "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+        "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+        "media": "Institut Montaigne",
+        "date": "2024"
+      },
+      {
+        "titre": "Marine Le Pen a présenté son \"contre-budget\" pour dégager 140 milliards d'euros d'économies",
+        "url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
+        "media": "Planet.fr",
+        "date": "2026-10-06"
+      },
+      {
+        "titre": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+        "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html",
+        "media": "franceinfo",
+        "date": "2026-10-08"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "suppression-120-taxes",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Supprimer 120 taxes et impôts",
+        "description": "Jordan Bardella a présenté la suppression de « 120 taxes et impôts » comme sa première décision s'il devenait chef du gouvernement, dans le cadre du plan budgétaire présenté le 6 octobre 2026, qui prévoit 30 Md€ d'allègements fiscaux sur le quinquennat.",
+        "chiffres": [
+          "120 taxes et impôts supprimés",
+          "30 Md€ d'allègements fiscaux sur le quinquennat"
+        ],
+        "date": "2026-10-06",
+        "sources": [
+          {
+            "titre": "France : le gouvernement tire à boulets rouges sur le contre-budget de Marine Le Pen",
+            "url": "https://fr.euronews.com/2026/10/07/france-le-gouvernement-tire-a-boulets-rouges-sur-le-contre-budget-de-marine-le-pen",
+            "media": "Euronews",
+            "date": "2026-10-07"
+          },
+          {
+            "titre": "Marine Le Pen a présenté son \"contre-budget\" pour dégager 140 milliards d'euros d'économies",
+            "url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
+            "media": "Planet.fr",
+            "date": "2026-10-06"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La liste des 120 taxes et leur rendement n'ont pas été publiés dans les sources consultées, ce qui empêche d'évaluer le coût de la mesure ; aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Présidentielles 2027 – comparateur des programmes",
+              "url": "https://www.ifrap.org/comparateurs/presidentielles-2027",
+              "media": "Fondation iFRAP",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "plan-budgetaire-140-md",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "140 Md€ d'économies d'ici 2032 (plan co-présenté avec Marine Le Pen)",
+        "description": "Plan budgétaire 2027-2032 présenté le 6 octobre 2026 au siège du RN par Marine Le Pen et Jordan Bardella : 140 Md€ de baisses nettes de dépenses en 2032, déficit sous 3 % du PIB en 2030, dette contenue à 112 % du PIB.",
+        "chiffres": [
+          "140 Md€ d'économies en 2032",
+          "Déficit < 3 % du PIB en 2030 (5,4 % prévus en 2026)",
+          "Croissance supposée : 1,8 % en 2028, 1,7 % en 2029"
+        ],
+        "date": "2026-10-06",
+        "sources": [
+          {
+            "titre": "140 milliards d'euros d'économies d'ici 2032 : l'effort radical proposé par Marine Le Pen pour redresser les finances publiques",
+            "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+            "media": "Public Sénat",
+            "date": "2026-10-06"
+          },
+          {
+            "titre": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+            "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html",
+            "media": "franceinfo",
+            "date": "2026-10-08"
+          },
+          {
+            "titre": "Marine Le Pen a présenté son \"contre-budget\" pour dégager 140 milliards d'euros d'économies",
+            "url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
+            "media": "Planet.fr",
+            "date": "2026-10-06"
+          }
+        ],
+        "factCheck": {
+          "verdict": "trompeur",
+          "analyse": "Les hypothèses de croissance du RN (1,8 % en 2028, 1,7 % en 2029) sont supérieures à celles du Haut Conseil des finances publiques (1,2 %). L'économiste Mathieu Plane juge le scénario « pas du tout crédible », relevant 66 Md€ de coupes prévues en six mois en 2027 et une hypothèse de baisse des taux « très discutable ». Plusieurs postes dépendent d'obstacles juridiques ou de l'accord des partenaires européens, et la ventilation publiée ne couvre qu'environ 82 Md€ sur 140. Aucun chiffrage indépendant complet n'était disponible au 13 novembre 2026. Selon Public Sénat, le montant de 140 Md€ dépasse de 15 Md€ celui annoncé fin août devant le Medef, et le plan prévoit 3,4 Md€ d'économies en 2027 sur les agences et opérateurs de l'État, quand une commission d'enquête sénatoriale avait chiffré ce gisement à 500 M€.",
+          "sources": [
+            {
+              "titre": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+              "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html",
+              "media": "franceinfo",
+              "date": "2026-10-08"
+            },
+            {
+              "titre": "Marine Le Pen a présenté son \"contre-budget\" pour dégager 140 milliards d'euros d'économies",
+              "url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
+              "media": "Planet.fr",
+              "date": "2026-10-06"
+            },
+            {
+              "titre": "140 milliards d'euros d'économies d'ici 2032 : l'effort radical proposé par Marine Le Pen pour redresser les finances publiques",
+              "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+              "media": "Public Sénat",
+              "date": "2026-10-06"
+            }
+          ]
+        }
+      },
+      {
+        "id": "priorite-nationale-prestations",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "« Priorité nationale » : allocations familiales, RSA et prestations de solidarité",
+        "description": "Programme RN 2024 : réserver les allocations familiales aux foyers dont un parent est français et le RSA aux étrangers justifiant de 5 ans d'équivalent temps plein en France. Plan budgétaire 2026 : réserver les prestations de solidarité aux étrangers ayant travaillé cinq ans en France, avec 15 Md€ d'économies attendues en 2027 et 29 Md€ en année pleine.",
+        "chiffres": [
+          "Économie annoncée (2026) : 15 Md€ en 2027, 29 Md€ en année pleine",
+          "Chiffrage Institut Montaigne (2024) : 3,8 Md€ (allocations familiales) + 2,6 Md€ (RSA)"
+        ],
+        "date": "2026-10-06",
+        "sources": [
+          {
+            "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+            "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+            "media": "Institut Montaigne",
+            "date": "2024"
+          },
+          {
+            "titre": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+            "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html",
+            "media": "franceinfo",
+            "date": "2026-10-08"
+          },
+          {
+            "titre": "140 milliards d'euros d'économies d'ici 2032 : l'effort radical proposé par Marine Le Pen pour redresser les finances publiques",
+            "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+            "media": "Public Sénat",
+            "date": "2026-10-06"
+          }
+        ],
+        "factCheck": {
+          "verdict": "trompeur",
+          "analyse": "En avril 2024, le Conseil constitutionnel a censuré une proposition de référendum d'initiative partagée conditionnant l'accès des étrangers en situation régulière aux prestations sociales, jugeant l'atteinte disproportionnée ; une telle mesure suppose une révision constitutionnelle par l'article 89, avec l'accord du Sénat. Sur le chiffrage, l'Institut Montaigne évaluait en 2024 les principales mesures comparables du RN à environ 7 Md€ d'économies annuelles (allocations familiales 3,8 Md€, RSA 2,6 Md€, AME 0,7 Md€), loin des 29 Md€ annoncés en 2026, même si le périmètre exact du plan 2026 n'est pas détaillé.",
+          "sources": [
+            {
+              "titre": "Préférence nationale : l'impossible inscription dans la Constitution",
+              "url": "https://lessurligneurs.eu/preference-nationale-limpossible-inscription-dans-la-constitution/",
+              "media": "Les Surligneurs",
+              "date": "2024-06-28"
+            },
+            {
+              "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+              "media": "Institut Montaigne",
+              "date": "2024"
+            }
+          ]
+        }
+      },
+      {
+        "id": "baisse-contribution-ue",
+        "theme": "europe-international",
+        "type": "proposition",
+        "titre": "Réduire la contribution de la France au budget de l'UE",
+        "description": "Baisse de la contribution française au budget européen dans le plan budgétaire co-présenté le 6 octobre 2026 : 11,1 Md€ dès 2027 puis jusqu'à 20 Md€ par an selon franceinfo ; Jordan Bardella a cité 9 Md€ selon Public Sénat. En 2024, il évoquait 2 à 3 Md€.",
+        "chiffres": [
+          "11,1 Md€ dès 2027, jusqu'à 20 Md€/an ensuite (franceinfo)",
+          "9 Md€ (Jordan Bardella, cité par Public Sénat, octobre 2026)",
+          "2 à 3 Md€ (Jordan Bardella, juin 2024)"
+        ],
+        "date": "2026-10-06",
+        "sources": [
+          {
+            "titre": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+            "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html",
+            "media": "franceinfo",
+            "date": "2026-10-08"
+          },
+          {
+            "titre": "140 milliards d'euros d'économies d'ici 2032 : l'effort radical proposé par Marine Le Pen pour redresser les finances publiques",
+            "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+            "media": "Public Sénat",
+            "date": "2026-10-06"
+          },
+          {
+            "titre": "Diminuer la part française au budget de l'Union, la promesse incertaine du Rassemblement national",
+            "url": "https://www.publicsenat.fr/actualites/politique/diminuer-la-part-francaise-au-budget-de-lunion-la-promesse-incertaine-du-rassemblement-national",
+            "media": "Public Sénat",
+            "date": "2024-06-25"
+          }
+        ],
+        "factCheck": {
+          "verdict": "trompeur",
+          "analyse": "L'économie est présentée comme acquise alors qu'elle supposerait l'accord des 26 autres États membres et une renégociation des règles budgétaires européennes, sans garantie de succès (Nathalie Janson, Roland Lescure). La contribution française, estimée à 31,2 Md€ par le gouvernement, finance aussi des retours vers la France (agriculture, entreprises, recherche). Le compte rendu de Public Sénat du 6 octobre 2026 attribue à Jordan Bardella un montant de 9 Md€ d'économies sur la contribution à l'UE, sans préciser l'horizon, ce qui rejoint le chiffre de Planet.fr ; l'écart avec les 11,1 Md€ « dès 2027 » rapportés par franceinfo n'a pas pu être résolu faute de document chiffré publié par le RN. Sur la faisabilité, des économistes interrogés par Public Sénat dès 2024 (Jacques Le Cacheux, Eulalia Rubio) rappelaient que le cadre financier pluriannuel ne peut être modifié qu'à l'unanimité au Conseil et qu'un rabais pour la France reporterait la charge sur les autres États membres, ce qui rend la renégociation « presque impossible » avant la prochaine négociation.",
+          "sources": [
+            {
+              "titre": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+              "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html",
+              "media": "franceinfo",
+              "date": "2026-10-08"
+            },
+            {
+              "titre": "Marine Le Pen a présenté son \"contre-budget\" pour dégager 140 milliards d'euros d'économies",
+              "url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
+              "media": "Planet.fr",
+              "date": "2026-10-06"
+            },
+            {
+              "titre": "140 milliards d'euros d'économies d'ici 2032 : l'effort radical proposé par Marine Le Pen pour redresser les finances publiques",
+              "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+              "media": "Public Sénat",
+              "date": "2026-10-06"
+            },
+            {
+              "titre": "Diminuer la part française au budget de l'Union, la promesse incertaine du Rassemblement national",
+              "url": "https://www.publicsenat.fr/actualites/politique/diminuer-la-part-francaise-au-budget-de-lunion-la-promesse-incertaine-du-rassemblement-national",
+              "media": "Public Sénat",
+              "date": "2024-06-25"
+            }
+          ]
+        }
+      },
+      {
+        "id": "abrogation-reforme-retraites",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Abroger la réforme des retraites de 2023",
+        "description": "Programme RN des législatives 2024 porté par Jordan Bardella : abroger la réforme de 2023, avec départ à 60 ans après 40 annuités pour ceux ayant commencé à travailler avant 20 ans. En octobre 2026, Marine Le Pen a précisé viser un âge légal entre 60 et 62 ans et 40 à 42 annuités, détails attendus le 17 novembre 2026.",
+        "chiffres": [
+          "Départ à 60 ans après 40 annuités (carrières commencées avant 20 ans)",
+          "Chiffrage Institut Montaigne (2024) : 34,7 Md€/an"
+        ],
+        "date": "2024-06",
+        "sources": [
+          {
+            "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+            "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+            "media": "Institut Montaigne",
+            "date": "2024"
+          },
+          {
+            "titre": "Marine Le Pen présentera \"de manière extrêmement précise\" sa réforme des retraites le 17 novembre",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/marine-le-pen-presentera-de-maniere-extremement-precise-sa-reforme-des-retraites-le-17-novembre_8237821.html",
+            "media": "franceinfo (AFP)",
+            "date": "2026-10-14"
+          },
+          {
+            "titre": "140 milliards d'euros d'économies d'ici 2032 : l'effort radical proposé par Marine Le Pen pour redresser les finances publiques",
+            "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+            "media": "Public Sénat",
+            "date": "2026-10-06"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun chiffrage du RN n'a été trouvé à confronter. L'Institut Montaigne estimait en 2024 le coût de la mesure à 34,7 Md€/an, en faisant la plus coûteuse du programme RN, et jugeait qu'elle alourdirait le coût budgétaire avec des effets potentiellement néfastes sur l'économie. La version 2027 (âge légal entre 60 et 62 ans) n'était pas détaillée au 13 novembre 2026. Le plan budgétaire du 6 octobre 2026 attend 15 à 20 Md€ d'économies de « corrections de mesures injustes » du système de retraite, sans avoir dévoilé la réforme elle-même (Public Sénat).",
+          "sources": [
+            {
+              "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+              "media": "Institut Montaigne",
+              "date": "2024"
+            },
+            {
+              "titre": "140 milliards d'euros d'économies d'ici 2032 : l'effort radical proposé par Marine Le Pen pour redresser les finances publiques",
+              "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
+              "media": "Public Sénat",
+              "date": "2026-10-06"
+            }
+          ]
+        }
+      },
+      {
+        "id": "baisse-impots-production",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Supprimer la CVAE et la C3S (impôts de production)",
+        "description": "Baisser les impôts de production en supprimant la cotisation sur la valeur ajoutée des entreprises (CVAE) et la contribution sociale de solidarité des sociétés (C3S), mesure du programme RN 2024 que Jordan Bardella défend ; le plan budgétaire 2026 prévoit aussi une baisse des impôts de production.",
+        "chiffres": [
+          "Chiffrage Institut Montaigne (2024) : 5,1 Md€/an"
+        ],
+        "date": "2024-06",
+        "sources": [
+          {
+            "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+            "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+            "media": "Institut Montaigne",
+            "date": "2024"
+          },
+          {
+            "titre": "Jordan Bardella",
+            "url": "https://en.wikipedia.org/wiki/Jordan_Bardella",
+            "media": "Wikipedia (en)",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Pas de chiffrage du RN trouvé à confronter ; l'Institut Montaigne estimait en 2024 le coût de la mesure à 5,1 Md€/an.",
+          "sources": [
+            {
+              "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+              "media": "Institut Montaigne",
+              "date": "2024"
+            }
+          ]
+        }
+      },
+      {
+        "id": "pret-taux-zero-troisieme-enfant",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Prêt jeunes ménages transformé en subvention au troisième enfant et part fiscale pleine dès le deuxième enfant",
+        "description": "Mesures familiales du programme RN 2024 : transformer un prêt à taux zéro pour les jeunes ménages en subvention à la naissance du troisième enfant ; instaurer une part fiscale pleine dès le deuxième enfant ; rétablir la demi-part fiscale des veufs et veuves.",
+        "chiffres": [
+          "Chiffrage Institut Montaigne (2024) : 12,6 Md€/an (prêt-subvention), 3,4 Md€/an (part fiscale pleine), 0,5 Md€/an (demi-part des veufs)"
+        ],
+        "date": "2024-06",
+        "sources": [
+          {
+            "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+            "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+            "media": "Institut Montaigne",
+            "date": "2024"
+          },
+          {
+            "titre": "Présidentielles 2027 – comparateur des programmes",
+            "url": "https://www.ifrap.org/comparateurs/presidentielles-2027",
+            "media": "Fondation iFRAP",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Pas de chiffrage du RN trouvé à confronter. Selon l'Institut Montaigne (2024), ces trois mesures coûteraient au total environ 16,5 Md€ par an, dont 12,6 Md€ pour la seule transformation du prêt en subvention. Ces mesures figurent toujours dans le comparateur iFRAP 2027.",
+          "sources": [
+            {
+              "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+              "media": "Institut Montaigne",
+              "date": "2024"
+            }
+          ]
+        }
+      },
+      {
+        "id": "privatisation-audiovisuel-public",
+        "theme": "culture",
+        "type": "proposition",
+        "titre": "Privatiser l'audiovisuel public",
+        "description": "Mesure du programme RN 2024 : privatiser l'audiovisuel public, présentée comme une source d'économies.",
+        "chiffres": [
+          "Économie estimée par l'Institut Montaigne (2024) : 2 Md€/an"
+        ],
+        "date": "2024-06",
+        "sources": [
+          {
+            "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+            "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+            "media": "Institut Montaigne",
+            "date": "2024"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "L'Institut Montaigne estime l'économie à 2 Md€/an mais souligne que la « faisabilité juridique et politique demeure incertaine ». Aucune vérification d'un chiffre avancé par le RN n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+              "media": "Institut Montaigne",
+              "date": "2024"
+            }
+          ]
+        }
+      },
+      {
+        "id": "suppression-ars",
+        "theme": "sante",
+        "type": "proposition",
+        "titre": "Supprimer les ARS et réduire les postes administratifs à l'hôpital",
+        "description": "Supprimer les agences régionales de santé et réduire à 10 % la part des postes administratifs dans les hôpitaux (programme RN 2024) ; supprimer le numerus apertus en médecine.",
+        "chiffres": [
+          "Économie estimée par l'Institut Montaigne (2024) : 3,6 Md€/an (horizon 2026)",
+          "Suppression du numerus apertus : 0,1 Md€/an"
+        ],
+        "date": "2024-06",
+        "sources": [
+          {
+            "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+            "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+            "media": "Institut Montaigne",
+            "date": "2024"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun chiffre du RN n'a été trouvé à confronter ; l'Institut Montaigne évaluait l'économie à 3,6 Md€/an à l'horizon 2026.",
+          "sources": [
+            {
+              "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+              "media": "Institut Montaigne",
+              "date": "2024"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ame-aide-urgence-vitale",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "Remplacer l'aide médicale d'État par une aide d'urgence vitale et supprimer le droit du sol",
+        "description": "Mesures migratoires du programme RN 2024 : remplacer l'AME par une aide limitée aux urgences vitales, réformer la politique d'asile et supprimer le droit du sol.",
+        "chiffres": [
+          "Économie estimée par l'Institut Montaigne (2024) : 0,7 Md€/an (AME), 1,2 Md€/an (asile), effet marginal (droit du sol)"
+        ],
+        "date": "2024-06",
+        "sources": [
+          {
+            "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+            "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+            "media": "Institut Montaigne",
+            "date": "2024"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Pas de chiffrage du RN trouvé à confronter. L'Institut Montaigne chiffrait ces mesures à environ 1,9 Md€ d'économies annuelles au total et jugeait l'effet budgétaire de la suppression du droit du sol marginal ; il soulignait plus généralement la « faisabilité juridique et européenne » incertaine de nombreuses mesures du RN.",
+          "sources": [
+            {
+              "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+              "media": "Institut Montaigne",
+              "date": "2024"
+            }
+          ]
+        }
+      },
+      {
+        "id": "tva-carburants-12-md",
+        "theme": "pouvoir-achat-social",
+        "type": "declaration-chiffree",
+        "titre": "Baisse de la TVA à 5,5 % sur les carburants : « 12 milliards d'euros »",
+        "description": "Jordan Bardella a estimé à 12 Md€ le coût de la baisse de la TVA de 20 % à 5,5 % sur les carburants (et l'énergie) proposée par le RN, quand Bercy avançait 17 Md€.",
+        "chiffres": [
+          "Coût selon Jordan Bardella : 12 Md€",
+          "Coût selon Bercy : 17 Md€ (TVA et TICPE)",
+          "Coût selon le contre-budget RN : 10,96 Md€"
+        ],
+        "date": "2026-03-11",
+        "sources": [
+          {
+            "titre": "Baisse de la TVA sur l'énergie proposée par le RN : une mesure chiffrée à 17 milliards selon Bercy",
+            "url": "https://www.publicsenat.fr/actualites/politique/baisse-de-la-tva-sur-lenergie-proposee-par-le-rn-une-mesure-chiffree-a-17-milliards-selon-bercy",
+            "media": "Public Sénat",
+            "date": "2024-06-14"
+          },
+          {
+            "titre": "Baisser la TVA sur les carburants à 5,5%, une idée contraire au droit européen",
+            "url": "https://www.moneyvox.fr/votre-argent/actualites/107946/baisser-la-tva-sur-les-carburants-a-5-5-une-idee-contraire-au-droit-europeen",
+            "media": "MoneyVox (AFP)",
+            "date": "2026-03-11"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "L'ordre de grandeur est cohérent avec les autres estimations : Gabriel Attal, cité par l'AFP en septembre 2026, l'estimait à 12 à 15 Md€ ; l'Institut Montaigne chiffrait la mesure élargie (carburants, électricité, gaz, fioul) à 8,2-12,4 Md€/an en 2022 et 11,3 Md€/an en 2024. Le chiffre de Bercy (17 Md€) inclut une baisse de TICPE et ne porte donc pas sur le même périmètre. En revanche, la mesure se heurte au droit européen pour les carburants : la directive TVA révisée en 2022 n'autorise pas de taux réduit sur les carburants (seulement sur l'électricité et le gaz), ce que confirme le ministère des Comptes publics.",
+          "sources": [
+            {
+              "titre": "Baisser la TVA sur les carburants à 5,5%, une idée contraire au droit européen",
+              "url": "https://www.moneyvox.fr/votre-argent/actualites/107946/baisser-la-tva-sur-les-carburants-a-5-5-une-idee-contraire-au-droit-europeen",
+              "media": "MoneyVox (AFP)",
+              "date": "2026-03-11"
+            },
+            {
+              "titre": "La flambée des carburants bouscule Attal et Philippe dans la présidentielle",
+              "url": "https://www.connaissancedesenergies.org/afp/la-campagne-dattal-et-de-philippe-percutee-par-la-crise-des-carburants-260922",
+              "media": "Connaissance des Énergies (AFP)",
+              "date": "2026-09-22"
+            },
+            {
+              "titre": "Baisser la TVA de 20 à 5,5 % pour les carburants, l'électricité, le gaz et le fioul domestique",
+              "url": "https://www.institutmontaigne.org/presidentielle-2022/marine-le-pen/baisser-la-tva-de-20-a-55-pour-les-carburants-lelectricite-le-gaz-et-le-fioul-domestique",
+              "media": "Institut Montaigne",
+              "date": "2022"
+            },
+            {
+              "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+              "media": "Institut Montaigne",
+              "date": "2024"
+            }
+          ]
+        }
+      },
+      {
+        "id": "exoneration-jeunes-2-md",
+        "theme": "emploi-travail",
+        "type": "declaration-chiffree",
+        "titre": "Exonération d'impôt sur le revenu des moins de 30 ans : « 2 milliards d'euros »",
+        "description": "Jordan Bardella, comme l'équipe de Marine Le Pen, a chiffré à environ 2 Md€ par an l'exonération d'impôt sur le revenu des moins de 30 ans, mesure reprise dans le programme RN des législatives 2024.",
+        "chiffres": [
+          "Coût selon le RN : 2 Md€/an",
+          "Coût selon l'Institut Montaigne : 3,7 Md€/an (environ 18 Md€ sur un quinquennat)"
+        ],
+        "date": "2022",
+        "sources": [
+          {
+            "titre": "Exonérer tous les jeunes de moins de 30 ans d'impôt sur le revenu",
+            "url": "https://www.institutmontaigne.org/presidentielle-2022/marine-le-pen/exonerer-tous-les-jeunes-de-moins-de-30-ans-dimpot-sur-le-revenu/",
+            "media": "Institut Montaigne",
+            "date": "2022"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-faux",
+          "analyse": "L'Institut Montaigne estime le coût à 3,7 Md€ par an (un peu plus de 3,6 Md€ à législation constante, soit environ 18 Md€ sur le quinquennat), près du double du chiffre avancé, tout en qualifiant son estimation de « sujette à caution » faute de données fines sur les revenus par âge. Il juge en outre la mesure « probablement inconstitutionnelle » au regard de l'égalité devant les charges publiques. L'Institut a maintenu le chiffrage de 3,7 Md€ lors des législatives de 2024.",
+          "sources": [
+            {
+              "titre": "Exonérer tous les jeunes de moins de 30 ans d'impôt sur le revenu",
+              "url": "https://www.institutmontaigne.org/presidentielle-2022/marine-le-pen/exonerer-tous-les-jeunes-de-moins-de-30-ans-dimpot-sur-le-revenu/",
+              "media": "Institut Montaigne",
+              "date": "2022"
+            },
+            {
+              "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
+              "media": "Institut Montaigne",
+              "date": "2024"
+            }
+          ]
+        }
+      },
+      {
+        "id": "referendum-voile-ideologie-islamiste",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Interdire le voile dans l'espace public par un référendum sur « l'idéologie islamiste »",
+        "description": "Le 31 août 2026, devant le siège du RN, Jordan Bardella a proposé, en cas de victoire de Marine Le Pen, d'étendre l'interdiction des signes religieux de l'école à l'espace public et de soumettre cette mesure, avec « beaucoup d'autres », à un référendum sur « l'idéologie islamiste » organisé au cours du quinquennat, après un premier référendum sur l'immigration. Il s'est montré prudent sur les amendes évoquées la veille par Jean-Philippe Tanguy (« Il ne s'agit pas de mettre en place une police du vêtement »).",
+        "chiffres": [],
+        "date": "2026-08-31",
+        "sources": [
+          {
+            "titre": "Port du voile dans l'espace public : Jordan Bardella propose un référendum sur « l'idéologie islamiste »",
+            "url": "https://fr.euronews.com/my-europe/2026/08/31/port-du-voile-dans-lespace-public-jordan-bardella-propose-un-referendum-sur-lideologie-isl",
+            "media": "Euronews (AFP)",
+            "date": "2026-08-31"
+          },
+          {
+            "titre": "Sanctionner le port du voile par une amende : le RN maintient sa proposition polémique et inconstitutionnelle",
+            "url": "https://www.publicsenat.fr/actualites/politique/sanctionner-le-port-du-voile-par-une-amende-le-rn-maintient-sa-proposition-polemique-et-inconstitutionnelle",
+            "media": "Public Sénat",
+            "date": "2026-08-31"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun fact-check formel ni chiffrage n'a été trouvé ; la question porte sur la faisabilité juridique. Selon plusieurs juristes cités par Public Sénat (31 août 2026), une interdiction générale du voile dans l'espace public heurterait la liberté religieuse, l'égalité devant la loi et la liberté d'expression (Déclaration de 1789) ; la laïcité impose la neutralité de l'État, pas celle des usagers dans l'espace public (Serge Slama). Le référendum de l'article 11 ne couvre pas les libertés publiques (Mathieu Carpentier), et une telle loi violerait selon Nicolas Hervieu les articles 9 et 14 de la Convention européenne des droits de l'homme, ce qui permettrait aux juges d'écarter la sanction (article 55 de la Constitution). La loi du 11 octobre 2010 interdit déjà la dissimulation du visage dans l'espace public, sans viser une religion.",
+          "sources": [
+            {
+              "titre": "Sanctionner le port du voile par une amende : le RN maintient sa proposition polémique et inconstitutionnelle",
+              "url": "https://www.publicsenat.fr/actualites/politique/sanctionner-le-port-du-voile-par-une-amende-le-rn-maintient-sa-proposition-polemique-et-inconstitutionnelle",
+              "media": "Public Sénat",
+              "date": "2026-08-31"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

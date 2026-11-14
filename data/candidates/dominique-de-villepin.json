@@ -1,0 +1,896 @@
+{
+  "id": "dominique-de-villepin",
+  "prenom": "Dominique",
+  "nom": "de Villepin",
+  "parti": "La France humaniste",
+  "partiAbrev": "LFH",
+  "famillePolitique": "divers",
+  "couleur": "#48BEF9",
+  "statutCandidature": "potentiel",
+  "candidature": {
+    "texte": "Dominique de Villepin a lancé le 23 juin 2025 La France humaniste, mouvement dont il est président d'honneur (présidé par Benoît Jimenez, maire de Garges-lès-Gonesse), dans la perspective de la présidentielle de 2027. Le 30 août 2026 sur BFMTV, il a déclaré : « Je veux être candidat, je me bats pour être candidat », en revendiquant « plusieurs centaines » de parrainages, insuffisants à ce stade pour atteindre les 500 requis. Le 3 novembre 2026 sur France Inter, il a toutefois précisé : « Je ne suis pas encore candidat », jugeant que « ce n'est pas le moment » et appelant à la patience, tout en excluant toute alliance avec Édouard Philippe ou Gabriel Attal. Au 13 novembre 2026, aucune déclaration officielle de candidature n'a été faite ; LCP le classe parmi les candidats potentiels.",
+    "date": "2026-11-03",
+    "sources": [
+      {
+        "titre": "\"Je ne suis pas encore candidat\" à la présidentielle 2027, indique Dominique de Villepin",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/je-ne-suis-pas-encore-candidat-a-la-presidentielle-2027-indique-dominique-de-villepin_8265395.html",
+        "media": "franceinfo",
+        "date": "2026-11-03"
+      },
+      {
+        "titre": "Présidentielle 2027 : \"Je me bats pour être candidat\", déclare Dominique de Villepin, qui revendique \"plusieurs centaines\" de parrainages",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-me-bats-pour-etre-candidat-declare-dominique-de-villepin-qui-revendique-plusieurs-centaines-de-parrainages_8169629.html",
+        "media": "franceinfo (avec AFP)",
+        "date": "2026-08-30"
+      },
+      {
+        "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-10"
+      },
+      {
+        "titre": "« Sortir du traumatisme » du 64 ans : la vision de Villepin pour la retraite des Français",
+        "url": "https://econostrum.info/traumatisme-64-ans-vision-de-villepin-retraite/",
+        "media": "Econostrum.info",
+        "date": "2025-06-24"
+      },
+      {
+        "titre": "Dominique de Villepin",
+        "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1953-11-14",
+      "lieu": "Rabat (Maroc, alors protectorat français)",
+      "sources": [
+        {
+          "titre": "Dominique de Villepin",
+          "url": "https://www.info.gouv.fr/les-anciens-premiers-et-premieres-ministres-de-la-ve-republique/dominique-de-villepin",
+          "media": "Gouvernement (info.gouv.fr)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Dominique de Villepin",
+          "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    "resume": "Diplomate de carrière issu de l'ENA, Dominique de Villepin a été secrétaire général de l'Élysée sous Jacques Chirac (1995-2002), puis ministre des Affaires étrangères (2002-2004), ministre de l'Intérieur (2004-2005) et Premier ministre (2005-2007). Il n'a jamais exercé de mandat électif. Relaxé définitivement dans l'affaire Clearstream en 2011, il a fondé République solidaire en 2010 et renoncé à sa candidature présidentielle de 2012 faute de parrainages. Revenu au premier plan en 2024-2025, notamment par ses prises de position sur Gaza, il a lancé en juin 2025 La France humaniste, qui se réclame d'un « écogaullisme » et de l'humanisme, et dit vouloir être candidat en 2027 sans l'avoir officialisé.",
+    "formation": [
+      {
+        "texte": "Licence de droit (université Paris-II Assas), diplômé de l'Institut d'études politiques de Paris (1975), École nationale d'administration (promotion Voltaire, 1980).",
+        "sources": [
+          {
+            "titre": "Dominique de Villepin",
+            "url": "https://www.info.gouv.fr/les-anciens-premiers-et-premieres-ministres-de-la-ve-republique/dominique-de-villepin",
+            "media": "Gouvernement (info.gouv.fr)",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Dominique de Villepin",
+            "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Diplomate au ministère des Affaires étrangères à partir de 1980 (direction des Affaires africaines et malgaches, ambassade à Washington en 1984, New Delhi en 1989, directeur adjoint des Affaires africaines et malgaches en 1992).",
+        "sources": [
+          {
+            "titre": "Dominique de Villepin",
+            "url": "https://www.info.gouv.fr/les-anciens-premiers-et-premieres-ministres-de-la-ve-republique/dominique-de-villepin",
+            "media": "Gouvernement (info.gouv.fr)",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Dominique de Villepin",
+            "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "texte": "Avocat au barreau de Paris (2008-2015) puis dirigeant de la société de conseil Villepin International ; auteur d'essais, dont « Le Pouvoir de dire non » (Flammarion, 2025).",
+        "sources": [
+          {
+            "titre": "Dominique de Villepin",
+            "url": "https://www.info.gouv.fr/les-anciens-premiers-et-premieres-ministres-de-la-ve-republique/dominique-de-villepin",
+            "media": "Gouvernement (info.gouv.fr)",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Dominique de Villepin",
+            "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "Dominique de Villepin",
+        "url": "https://www.info.gouv.fr/les-anciens-premiers-et-premieres-ministres-de-la-ve-republique/dominique-de-villepin",
+        "media": "Gouvernement (info.gouv.fr)",
+        "date": "2026-11-13"
+      },
+      {
+        "titre": "Dominique de Villepin",
+        "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+        "media": "Wikipédia",
+        "date": "2026-11-13"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "1993",
+      "fin": "1995",
+      "fonction": "Directeur de cabinet du ministre des Affaires étrangères Alain Juppé",
+      "details": "",
+      "sources": [
+        {
+          "titre": "Dominique de Villepin",
+          "url": "https://www.info.gouv.fr/les-anciens-premiers-et-premieres-ministres-de-la-ve-republique/dominique-de-villepin",
+          "media": "Gouvernement (info.gouv.fr)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Dominique de Villepin",
+          "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "1995",
+      "fin": "2002",
+      "fonction": "Secrétaire général de la présidence de la République",
+      "details": "Auprès de Jacques Chirac, du 17 mai 1995 au 6 mai 2002.",
+      "sources": [
+        {
+          "titre": "Dominique de Villepin",
+          "url": "https://www.info.gouv.fr/les-anciens-premiers-et-premieres-ministres-de-la-ve-republique/dominique-de-villepin",
+          "media": "Gouvernement (info.gouv.fr)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Dominique de Villepin",
+          "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2002",
+      "fin": "2004",
+      "fonction": "Ministre des Affaires étrangères",
+      "details": "Gouvernements Raffarin I et II, du 7 mai 2002 au 30 mars 2004.",
+      "sources": [
+        {
+          "titre": "Dominique de Villepin",
+          "url": "https://www.info.gouv.fr/les-anciens-premiers-et-premieres-ministres-de-la-ve-republique/dominique-de-villepin",
+          "media": "Gouvernement (info.gouv.fr)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Dominique de Villepin",
+          "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2004",
+      "fin": "2005",
+      "fonction": "Ministre de l'Intérieur, de la Sécurité intérieure et des Libertés locales",
+      "details": "Gouvernement Raffarin III, du 31 mars 2004 au 31 mai 2005.",
+      "sources": [
+        {
+          "titre": "Dominique de Villepin",
+          "url": "https://www.info.gouv.fr/les-anciens-premiers-et-premieres-ministres-de-la-ve-republique/dominique-de-villepin",
+          "media": "Gouvernement (info.gouv.fr)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Dominique de Villepin",
+          "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2005",
+      "fin": "2007",
+      "fonction": "Premier ministre",
+      "details": "Du 31 mai 2005 au 15 mai 2007, sous la présidence de Jacques Chirac.",
+      "sources": [
+        {
+          "titre": "Dominique de Villepin",
+          "url": "https://www.info.gouv.fr/les-anciens-premiers-et-premieres-ministres-de-la-ve-republique/dominique-de-villepin",
+          "media": "Gouvernement (info.gouv.fr)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Dominique de Villepin",
+          "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2010",
+      "fin": "2011",
+      "fonction": "Président de République solidaire",
+      "details": "Mouvement fondé le 19 juin 2010 ; il en quitte la présidence en 2011 (Jean-Pierre Grand lui succède). Membre du RPR (1977-2002) puis de l'UMP (2002-2011).",
+      "sources": [
+        {
+          "titre": "Dominique de Villepin",
+          "url": "https://www.info.gouv.fr/les-anciens-premiers-et-premieres-ministres-de-la-ve-republique/dominique-de-villepin",
+          "media": "Gouvernement (info.gouv.fr)",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "Dominique de Villepin",
+          "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2011",
+      "fin": "2012",
+      "fonction": "Candidat à l'élection présidentielle de 2012",
+      "details": "Candidature annoncée le 11 décembre 2011 au 20 heures de TF1 ; retrait le 16 mars 2012 faute d'avoir réuni les 500 parrainages.",
+      "sources": [
+        {
+          "titre": "Dominique de Villepin",
+          "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "debut": "2025",
+      "fin": null,
+      "fonction": "Fondateur et président d'honneur de La France humaniste",
+      "details": "Mouvement lancé le 23 juin 2025, présidé par Benoît Jimenez.",
+      "sources": [
+        {
+          "titre": "Dominique de Villepin",
+          "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+          "media": "Wikipédia",
+          "date": "2026-11-13"
+        },
+        {
+          "titre": "« Sortir du traumatisme » du 64 ans : la vision de Villepin pour la retraite des Français",
+          "url": "https://econostrum.info/traumatisme-64-ans-vision-de-villepin-retraite/",
+          "media": "Econostrum.info",
+          "date": "2025-06-24"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Dominique de Villepin est visé depuis le 19 mai 2026 par une enquête préliminaire du parquet national financier (affaire des statuettes) ; aucune mise en examen ni poursuite n'est connue au 13 novembre 2026 et il est présumé innocent. Il a été définitivement relaxé dans l'affaire Clearstream (2011) et n'a pas été poursuivi dans l'affaire du bombardement de Bouaké (2019).",
+    "affaires": [
+      {
+        "titre": "Affaire des statuettes (cadeaux reçus comme ministre des Affaires étrangères)",
+        "statut": "enquete",
+        "role": "personne visée par l'enquête (entendu en audition libre)",
+        "resume": "Le 19 mai 2026, le parquet national financier a ouvert une enquête préliminaire des chefs de recel de détournement de fonds publics et infractions connexes, portant sur les conditions dans lesquelles une statuette et un buste de Napoléon auraient été offerts à Dominique de Villepin lorsqu'il était ministre des Affaires étrangères (2002-2004), puis conservés par lui. L'affaire fait suite aux déclarations de l'intermédiaire Robert Bourgi dans « Complément d'enquête » (France 2, 30 avril 2026), selon qui les objets avaient été payés par Blaise Compaoré, alors président du Burkina Faso, et par un homme d'affaires italien. Dominique de Villepin a restitué les deux statuettes au Quai d'Orsay fin avril 2026 et a été entendu en audition libre mi-juillet 2026. Le procureur financier a indiqué en juillet vouloir faire avancer ce dossier, tout en rappelant qu'une enquête ouverte n'est pas synonyme de poursuites. Aucune évolution ultérieure n'a été rendue publique au 13 novembre 2026 ; il est présumé innocent.",
+        "chronologie": [
+          {
+            "date": "2026-04-30",
+            "evenement": "Diffusion de « Complément d'enquête » où Robert Bourgi affirme avoir servi d'intermédiaire pour ces cadeaux ; restitution des statuettes au Quai d'Orsay fin avril.",
+            "sources": [
+              {
+                "titre": "Présidentielle 2027: le parquet national financier veut \"accélérer le déroulement des investigations\" visant des candidats",
+                "url": "https://lcp.fr/actualites/presidentielle-2027-le-parquet-national-financier-veut-accelerer-le-deroulement-des",
+                "media": "LCP",
+                "date": "2026-07-17"
+              },
+              {
+                "titre": "Affaire des statuettes : Dominique de Villepin a été entendu en audition libre mi-juillet",
+                "url": "https://www.franceinfo.fr/politique/affaire-des-statuettes-dominique-de-villepin-a-ete-entendu-en-audition-libre-mi-juillet_8124329.html",
+                "media": "franceinfo",
+                "date": "2026-07-27"
+              }
+            ]
+          },
+          {
+            "date": "2026-05-19",
+            "evenement": "Ouverture d'une enquête préliminaire par le PNF (recel de détournement de fonds publics et infractions connexes).",
+            "sources": [
+              {
+                "titre": "Communiqué de presse du procureur de la République financier du 20 mai 2026",
+                "url": "https://www.tribunal-de-paris.justice.fr/sites/default/files/2026-06/20260520-CP%20PNF%20du%2020%20mai%202026.pdf",
+                "media": "Parquet national financier",
+                "date": "2026-05-20"
+              }
+            ]
+          },
+          {
+            "date": "2026-07",
+            "evenement": "Audition libre de Dominique de Villepin (mi-juillet) ; le procureur financier Pascal Prache dit vouloir accélérer les investigations visant des candidats.",
+            "sources": [
+              {
+                "titre": "Affaire des statuettes : Dominique de Villepin a été entendu en audition libre mi-juillet",
+                "url": "https://www.franceinfo.fr/politique/affaire-des-statuettes-dominique-de-villepin-a-ete-entendu-en-audition-libre-mi-juillet_8124329.html",
+                "media": "franceinfo",
+                "date": "2026-07-27"
+              },
+              {
+                "titre": "Présidentielle 2027: le parquet national financier veut \"accélérer le déroulement des investigations\" visant des candidats",
+                "url": "https://lcp.fr/actualites/presidentielle-2027-le-parquet-national-financier-veut-accelerer-le-deroulement-des",
+                "media": "LCP",
+                "date": "2026-07-17"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Communiqué de presse du procureur de la République financier du 20 mai 2026",
+            "url": "https://www.tribunal-de-paris.justice.fr/sites/default/files/2026-06/20260520-CP%20PNF%20du%2020%20mai%202026.pdf",
+            "media": "Parquet national financier",
+            "date": "2026-05-20"
+          },
+          {
+            "titre": "Affaire des statuettes : Dominique de Villepin a été entendu en audition libre mi-juillet",
+            "url": "https://www.franceinfo.fr/politique/affaire-des-statuettes-dominique-de-villepin-a-ete-entendu-en-audition-libre-mi-juillet_8124329.html",
+            "media": "franceinfo",
+            "date": "2026-07-27"
+          },
+          {
+            "titre": "Présidentielle 2027: le parquet national financier veut \"accélérer le déroulement des investigations\" visant des candidats",
+            "url": "https://lcp.fr/actualites/presidentielle-2027-le-parquet-national-financier-veut-accelerer-le-deroulement-des",
+            "media": "LCP",
+            "date": "2026-07-17"
+          }
+        ]
+      },
+      {
+        "titre": "Affaire Clearstream",
+        "statut": "relaxe",
+        "role": "prévenu",
+        "resume": "Mis en examen le 27 juillet 2007 notamment pour complicité de dénonciation calomnieuse, recel et complicité d'usage de faux, dans l'affaire des faux listings Clearstream. Relaxé par le tribunal correctionnel de Paris le 28 janvier 2010, sur appel du parquet, il a vu sa relaxe confirmée par la cour d'appel de Paris le 14 septembre 2011. Le parquet général ayant renoncé le 19 septembre 2011 à se pourvoir en cassation, la relaxe est définitive.",
+        "chronologie": [
+          {
+            "date": "2007-07-27",
+            "evenement": "Mise en examen.",
+            "sources": [
+              {
+                "titre": "Clearstream : Villepin est mis en examen",
+                "url": "https://www.eurojuris.fr/actualites-juridiques/articles/clearstream-villepin-est-mis-examen-6390.htm",
+                "media": "Eurojuris",
+                "date": "2007-07-27"
+              },
+              {
+                "titre": "Dominique de Villepin",
+                "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          },
+          {
+            "date": "2010-01-28",
+            "evenement": "Relaxe en première instance ; appel du parquet.",
+            "sources": [
+              {
+                "titre": "Villepin relaxé; les petites phrases du procès Clearstream",
+                "url": "https://www.slate.fr/story/16455/villepin-relaxe-les-petites-phrases-du-proces-clearstream",
+                "media": "Slate.fr",
+                "date": "2010-01-28"
+              },
+              {
+                "titre": "Dominique de Villepin",
+                "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          },
+          {
+            "date": "2011-09-14",
+            "evenement": "Relaxe confirmée par la cour d'appel de Paris.",
+            "sources": [
+              {
+                "titre": "Clearstream: Villepin relaxé en appel",
+                "url": "https://www.slate.fr/story/43691/clearstream-villepin-relaxe-en-appel",
+                "media": "Slate.fr",
+                "date": "2011-09-14"
+              },
+              {
+                "titre": "Dominique de Villepin",
+                "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+                "media": "Wikipédia",
+                "date": "2026-11-13"
+              }
+            ]
+          },
+          {
+            "date": "2011-09-19",
+            "evenement": "Le parquet général renonce à se pourvoir en cassation : relaxe définitive.",
+            "sources": [
+              {
+                "titre": "Pourquoi vous entendrez encore parler de l'affaire Clearstream",
+                "url": "https://www.slate.fr/story/43743/affaire-clearstream-villepin-djouhri-chirac-sarkozy",
+                "media": "Slate.fr",
+                "date": "2011-09"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "Clearstream : Villepin est mis en examen",
+            "url": "https://www.eurojuris.fr/actualites-juridiques/articles/clearstream-villepin-est-mis-examen-6390.htm",
+            "media": "Eurojuris",
+            "date": "2007-07-27"
+          },
+          {
+            "titre": "Dominique de Villepin",
+            "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Clearstream: Villepin relaxé en appel",
+            "url": "https://www.slate.fr/story/43691/clearstream-villepin-relaxe-en-appel",
+            "media": "Slate.fr",
+            "date": "2011-09-14"
+          },
+          {
+            "titre": "Pourquoi vous entendrez encore parler de l'affaire Clearstream",
+            "url": "https://www.slate.fr/story/43743/affaire-clearstream-villepin-djouhri-chirac-sarkozy",
+            "media": "Slate.fr",
+            "date": "2011-09"
+          }
+        ]
+      },
+      {
+        "titre": "Bombardement de Bouaké (2004) – volet ministériel",
+        "statut": "classement",
+        "role": "ancien ministre visé par une demande de saisine de la Cour de justice de la République",
+        "resume": "En 2016, la juge d'instruction chargée de l'enquête sur le bombardement du camp français de Bouaké (Côte d'Ivoire, novembre 2004) avait souhaité que la Cour de justice de la République examine le cas de trois anciens ministres, dont Dominique de Villepin (alors ministre de l'Intérieur). En 2019, la commission des requêtes de la CJR a estimé qu'ils ne pouvaient être soupçonnés de recel de malfaiteurs, de non-dénonciation de crime ou d'entrave à l'enquête, et n'a pas engagé de poursuites.",
+        "chronologie": [
+          {
+            "date": "2019-05-23",
+            "evenement": "Révélation de l'avis de la commission des requêtes de la CJR écartant toute poursuite contre Michèle Alliot-Marie, Dominique de Villepin et Michel Barnier.",
+            "sources": [
+              {
+                "titre": "INFO EUROPE 1 - Bombardement de Bouaké : Alliot-Marie, Villepin et Barnier échappent aux poursuites",
+                "url": "https://www.europe1.fr/politique/info-europe-1-bombardement-de-bouake-alliot-marie-villepin-et-barnier-echappent-aux-poursuites-3900237",
+                "media": "Europe 1",
+                "date": "2019-05-23"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "titre": "INFO EUROPE 1 - Bombardement de Bouaké : Alliot-Marie, Villepin et Barnier échappent aux poursuites",
+            "url": "https://www.europe1.fr/politique/info-europe-1-bombardement-de-bouake-alliot-marie-villepin-et-barnier-echappent-aux-poursuites-3900237",
+            "media": "Europe 1",
+            "date": "2019-05-23"
+          },
+          {
+            "titre": "Dominique de Villepin",
+            "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "statut": "Pas de programme présidentiel complet (candidature non officialisée) : la fiche repose sur ses prises de position publiques 2025-2026 et sur les 20 propositions économiques publiées en 2026 par La France humaniste, complétées par ses tribunes thématiques.",
+    "resume": "Faute de candidature officielle, le projet de Dominique de Villepin se lit dans les textes publiés par La France humaniste en 2025-2026. Il propose un « big bang » fiscal (neuf grands impôts, suppression de toutes les niches, impôt unique sur le patrimoine des 1 % les plus aisés, bascule de plus de 200 Md€ de cotisations vers la CSG pour augmenter le salaire net) et un retour du déficit sous 3 % en 2031. Il défend l'abrogation de la retraite à 64 ans au profit d'un système à points, un « écogaullisme » adossé au nucléaire (6 EPR2) et à l'éolien en mer, un fonds souverain réunissant les actifs publics, une revalorisation des personnels de l'Éducation nationale et une Europe souveraine de la défense. Sur le plan international, il plaide pour une action européenne et onusienne à Gaza et une sécurité européenne moins dépendante des États-Unis.",
+    "documents": [
+      {
+        "titre": "Programme économique de Dominique de Villepin : 20 propositions",
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "media": "La France humaniste (site du mouvement)",
+        "date": "2026"
+      },
+      {
+        "titre": "Projet France 2027",
+        "url": "https://lafrancehumaniste.fr/france2027.html",
+        "media": "La France humaniste (site du mouvement)",
+        "date": "2026"
+      },
+      {
+        "titre": "Chroniques",
+        "url": "https://lafrancehumaniste.fr/chroniques.html",
+        "media": "La France humaniste (site du mouvement)",
+        "date": "2026-11"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "salaire-net-csg",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Bascule des cotisations vers la CSG pour augmenter le salaire net",
+        "description": "« Révolution du salaire net » : transférer plus de 200 Md€ de cotisations salariales et patronales vers une CSG universelle à taux unique, pour augmenter le salaire net d'environ 200 € par mois en moyenne et de 100 € au niveau du Smic. L'assiette de la CSG pourrait être élargie à certaines dépenses liées à l'intelligence artificielle.",
+        "chiffres": [
+          "Plus de 200 Md€ de cotisations transférées vers la CSG",
+          "+200 € nets par mois en moyenne",
+          "+100 € nets par mois au Smic"
+        ],
+        "date": "2026-08-28",
+        "sources": [
+          {
+            "titre": "Programme économique de Dominique de Villepin : 20 propositions",
+            "url": "https://lafrancehumaniste.fr/programme/economie.html",
+            "media": "La France humaniste (site du mouvement)",
+            "date": "2026"
+          },
+          {
+            "titre": "Dominique de Villepin propose un « big bang » fiscal pour ramener le déficit à 3 %",
+            "url": "https://entrevue.fr/entrevue/dominique-de-villepin-propose-un-big-bang-fiscal-pour-ramener-le-deficit-a-3-2/",
+            "media": "Entrevue",
+            "date": "2026-08-28"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante (fact-checkeur, institut ou organisme public) de cette mesure n'a été trouvée à la date de mise à jour, et La France humaniste n'a pas publié de chiffrage détaillé de son coût ou de son financement. Une bascule de cette ampleur reviendrait à transférer une partie du financement de la protection sociale des revenus du travail vers l'ensemble des revenus (retraites et revenus du capital compris) ; ses effets sur les retraités et sur le gain réel des salariés n'ont pas été documentés publiquement.",
+          "sources": [
+            {
+              "titre": "Programme économique de Dominique de Villepin : 20 propositions",
+              "url": "https://lafrancehumaniste.fr/programme/economie.html",
+              "media": "La France humaniste (site du mouvement)",
+              "date": "2026"
+            },
+            {
+              "titre": "Dominique de Villepin propose un « big bang » fiscal pour ramener le déficit à 3 %",
+              "url": "https://entrevue.fr/entrevue/dominique-de-villepin-propose-un-big-bang-fiscal-pour-ramener-le-deficit-a-3-2/",
+              "media": "Entrevue",
+              "date": "2026-08-28"
+            }
+          ]
+        }
+      },
+      {
+        "id": "big-bang-fiscal-patrimoine",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "« Big bang » fiscal : neuf impôts, fin des niches, impôt unique sur le patrimoine des 1 %",
+        "description": "Réduire le système à neuf grands impôts avec un code de quarante pages, supprimer toutes les niches fiscales et sociales par paliers sur cinq ans (« grande loi d'extinction »), exiger une majorité des trois cinquièmes pour créer un impôt ou une niche (règle inscrite dans la Constitution), instaurer un impôt unique et fortement progressif sur le patrimoine des 1 % les plus aisés, renforcer la taxation des successions tout en exonérant les transmissions de son vivant sous 1 M€ et les transmissions d'entreprise sans revente, et abolir les impôts de production. Une loi de finances couvrant les cinq ans du quinquennat fixerait une trajectoire opposable ramenant le déficit public sous 3 % du PIB en 2031.",
+        "chiffres": [
+          "Neuf impôts",
+          "Suppression de toutes les niches en 5 ans",
+          "Impôt sur le patrimoine dès 2,2 M€ (1 % les plus aisés)",
+          "Aucun droit sur les donations de son vivant sous 1 M€",
+          "Majorité des 3/5 pour créer un impôt ou une niche",
+          "Déficit public sous 3 % du PIB en 2031 (2032 selon le compte rendu d'Entrevue)"
+        ],
+        "date": "2026-08-28",
+        "sources": [
+          {
+            "titre": "Programme économique de Dominique de Villepin : 20 propositions",
+            "url": "https://lafrancehumaniste.fr/programme/economie.html",
+            "media": "La France humaniste (site du mouvement)",
+            "date": "2026"
+          },
+          {
+            "titre": "Dominique de Villepin propose un « big bang » fiscal pour ramener le déficit à 3 %",
+            "url": "https://entrevue.fr/entrevue/dominique-de-villepin-propose-un-big-bang-fiscal-pour-ramener-le-deficit-a-3-2/",
+            "media": "Entrevue",
+            "date": "2026-08-28"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante (fact-checkeur, institut ou organisme public) de cette mesure n'a été trouvée à la date de mise à jour, et La France humaniste n'a pas publié de chiffrage détaillé de son coût ou de son financement. Le rendement attendu de l'impôt sur le patrimoine et de la suppression des niches n'est pas chiffré, ce qui empêche de vérifier l'équilibre de l'ensemble avec la suppression des impôts de production. La règle de majorité qualifiée suppose une révision constitutionnelle. L'échéance du retour sous 3 % de déficit diffère selon les sources (2031 sur le site du mouvement, 2032 dans le compte rendu d'Entrevue) et aucune trajectoire chiffrée n'est publiée.",
+          "sources": [
+            {
+              "titre": "Programme économique de Dominique de Villepin : 20 propositions",
+              "url": "https://lafrancehumaniste.fr/programme/economie.html",
+              "media": "La France humaniste (site du mouvement)",
+              "date": "2026"
+            },
+            {
+              "titre": "Dominique de Villepin propose un « big bang » fiscal pour ramener le déficit à 3 %",
+              "url": "https://entrevue.fr/entrevue/dominique-de-villepin-propose-un-big-bang-fiscal-pour-ramener-le-deficit-a-3-2/",
+              "media": "Entrevue",
+              "date": "2026-08-28"
+            }
+          ]
+        }
+      },
+      {
+        "id": "abrogation-64-ans-retraite-points",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Abroger la retraite à 64 ans au profit d'un système à points",
+        "description": "Abroger la réforme de 2023 qui a porté l'âge légal à 64 ans, raisonner en nombre d'annuités plutôt qu'en âge légal (« sortir de ce traumatisme ») et instaurer un régime de retraite à points, présenté comme apportant « plus de visibilité et de justice » et la prise en compte de la pénibilité. Dans « Le chemin gaulliste » (mai 2026), il évoque un référendum sur les retraites.",
+        "chiffres": [
+          "Retour sur le report de l'âge légal à 64 ans (réforme de 2023)"
+        ],
+        "date": "2025-06-23",
+        "sources": [
+          {
+            "titre": "« Sortir du traumatisme » du 64 ans : la vision de Villepin pour la retraite des Français",
+            "url": "https://econostrum.info/traumatisme-64-ans-vision-de-villepin-retraite/",
+            "media": "Econostrum.info",
+            "date": "2025-06-24"
+          },
+          {
+            "titre": "Le chemin gaulliste",
+            "url": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html",
+            "media": "La France humaniste (tribune de D. de Villepin)",
+            "date": "2026-05-24"
+          },
+          {
+            "titre": "Dominique de Villepin",
+            "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+            "media": "Wikipédia",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante (fact-checkeur, institut ou organisme public) de cette mesure n'a été trouvée à la date de mise à jour, et La France humaniste n'a pas publié de chiffrage détaillé de son coût ou de son financement. Ni le coût de l'abrogation du report à 64 ans ni les paramètres du futur régime à points (valeur du point, âge pivot éventuel, transition) n'ont été rendus publics.",
+          "sources": [
+            {
+              "titre": "« Sortir du traumatisme » du 64 ans : la vision de Villepin pour la retraite des Français",
+              "url": "https://econostrum.info/traumatisme-64-ans-vision-de-villepin-retraite/",
+              "media": "Econostrum.info",
+              "date": "2025-06-24"
+            }
+          ]
+        }
+      },
+      {
+        "id": "nucleaire-epr2-electricite",
+        "theme": "environnement-energie",
+        "type": "proposition",
+        "titre": "« Écogaullisme » : 6 EPR2, éolien en mer et électricité au prix du nucléaire",
+        "description": "Construire 6 réacteurs EPR2 et industrialiser l'éolien en mer pour sortir de la « crise de Suez permanente », baisser de 15 % la facture d'électricité en la fixant au prix du nucléaire français, et financer la transition par un million de voitures électriques en leasing social, un million de pompes à chaleur et un « dividende climatique ».",
+        "chiffres": [
+          "6 EPR2",
+          "-15 % sur la facture d'électricité",
+          "1 million de voitures électriques en leasing social",
+          "1 million de pompes à chaleur"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Programme économique de Dominique de Villepin : 20 propositions",
+            "url": "https://lafrancehumaniste.fr/programme/economie.html",
+            "media": "La France humaniste (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "invérifiable",
+          "analyse": "Les 6 EPR2 reprennent l'objectif déjà inscrit dans la programmation pluriannuelle de l'énergie publiée le 13 février 2026 (6 EPR2, premier mis en service visé en 2038 ; 15 GW d'éolien en mer en 2035) : ce volet n'est donc pas une rupture. La baisse de 15 % de la facture n'est assortie d'aucun mécanisme ni chiffrage publié, ce qui la rend invérifiable en l'état.",
+          "sources": [
+            {
+              "titre": "La programmation pluriannuelle de l'énergie enfin publiée, le soutien aux énergies renouvelables maintenu",
+              "url": "https://www.maire-info.com/imprimer2.php?param=30480",
+              "media": "Maire-info (AMF)",
+              "date": "2026-02-13"
+            },
+            {
+              "titre": "Programme économique de Dominique de Villepin : 20 propositions",
+              "url": "https://lafrancehumaniste.fr/programme/economie.html",
+              "media": "La France humaniste (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "logement-500000",
+        "theme": "logement",
+        "type": "proposition",
+        "titre": "500 000 logements par an et taxe sur le foncier nu",
+        "description": "Construire 500 000 logements par an, instaurer une taxe sur le foncier nu et supprimer l'impôt lié à la construction et à la rénovation (« 0 € d'impôt pour bâtir et rénover »).",
+        "chiffres": [
+          "500 000 logements par an"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Programme économique de Dominique de Villepin : 20 propositions",
+            "url": "https://lafrancehumaniste.fr/programme/economie.html",
+            "media": "La France humaniste (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante (fact-checkeur, institut ou organisme public) de cette mesure n'a été trouvée à la date de mise à jour, et La France humaniste n'a pas publié de chiffrage détaillé de son coût ou de son financement. Le mode de financement et les leviers permettant d'atteindre ce rythme de construction ne sont pas précisés.",
+          "sources": [
+            {
+              "titre": "Programme économique de Dominique de Villepin : 20 propositions",
+              "url": "https://lafrancehumaniste.fr/programme/economie.html",
+              "media": "La France humaniste (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "fonds-france",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "« Fonds France » et capitalisation publique garantie",
+        "description": "Réunir 1 200 à 1 500 Md€ d'actifs publics dans une caisse inaliénable (« Fonds France »), créer un livret universel à rendement garanti ouvert dès la naissance et faire revenir les autoroutes en régie publique à l'échéance des concessions.",
+        "chiffres": [
+          "1 200 à 1 500 Md€ d'actifs publics regroupés"
+        ],
+        "date": "2026",
+        "sources": [
+          {
+            "titre": "Programme économique de Dominique de Villepin : 20 propositions",
+            "url": "https://lafrancehumaniste.fr/programme/economie.html",
+            "media": "La France humaniste (site du mouvement)",
+            "date": "2026"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante (fact-checkeur, institut ou organisme public) de cette mesure n'a été trouvée à la date de mise à jour, et La France humaniste n'a pas publié de chiffrage détaillé de son coût ou de son financement. Le périmètre des actifs publics retenu pour atteindre 1 200 à 1 500 Md€ n'est pas détaillé.",
+          "sources": [
+            {
+              "titre": "Programme économique de Dominique de Villepin : 20 propositions",
+              "url": "https://lafrancehumaniste.fr/programme/economie.html",
+              "media": "La France humaniste (site du mouvement)",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ecole-hausse-10pc",
+        "theme": "education",
+        "type": "proposition",
+        "titre": "Hausse d'au moins 10 % des rémunérations à l'école et sanctuarisation du budget",
+        "description": "Augmenter d'au moins 10 % la rémunération de tous les personnels de l'école, sanctuariser le budget de l'Éducation nationale (indexé sur l'inflation, puis part fixe du PIB une fois le déficit sous 3 %), accroître d'au moins 20 % la dépense réelle par élève en dix ans, consacrer les après-midi à des enseignements appliqués, interdire le téléphone dans l'enceinte scolaire, instaurer des évaluations nationales annuelles en français, maths et histoire et un « semestre civique » dès 15 ans.",
+        "chiffres": [
+          "+10 % minimum pour tous les personnels",
+          "+20 % de dépense réelle par élève en 10 ans",
+          "Semestre civique dès 15 ans"
+        ],
+        "date": "2026-09-01",
+        "sources": [
+          {
+            "titre": "Refonder l'école pour refaire société",
+            "url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+            "media": "La France humaniste (tribune de D. de Villepin)",
+            "date": "2026-09-01"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante (fact-checkeur, institut ou organisme public) de cette mesure n'a été trouvée à la date de mise à jour, et La France humaniste n'a pas publié de chiffrage détaillé de son coût ou de son financement. Le coût de la revalorisation de 10 % de l'ensemble des personnels n'est pas chiffré dans la tribune.",
+          "sources": [
+            {
+              "titre": "Refonder l'école pour refaire société",
+              "url": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+              "media": "La France humaniste (tribune de D. de Villepin)",
+              "date": "2026-09-01"
+            }
+          ]
+        }
+      },
+      {
+        "id": "europe-souveraine-defense",
+        "theme": "defense",
+        "type": "proposition",
+        "titre": "Europe souveraine de la défense : emprunt commun, DARPA européenne, porte-avions",
+        "description": "Financer une défense européenne commune par un emprunt mutualisé adossé à des ressources propres, créer un Conseil de sécurité européen, une « DARPA européenne » d'environ 4 milliards de dollars par an, un porte-avions nucléaire de nouvelle génération financé sur fonds européens et une « dissuasion avancée » associant huit pays ; construire un projet de sécurité « viable sans l'OTAN » et, pour l'Ukraine, une adhésion accélérée par étapes ou un statut d'association renforcé.",
+        "chiffres": [
+          "DARPA européenne : environ 4 Md$ par an",
+          "Porte-avions nucléaire : environ 10 Md€ l'unité, sur fonds européens",
+          "Dissuasion avancée associant 8 pays européens"
+        ],
+        "date": "2026-03-06",
+        "sources": [
+          {
+            "titre": "Le moment européen : manifeste pour une Europe souveraine",
+            "url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+            "media": "La France humaniste (texte paru dans Le Grand Continent)",
+            "date": "2026-03-06"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante de ces propositions n'a été trouvée. Leur mise en œuvre dépend de décisions unanimes ou largement partagées des États membres de l'Union européenne (emprunt commun, ressources propres), hors de la seule compétence nationale.",
+          "sources": [
+            {
+              "titre": "Le moment européen : manifeste pour une Europe souveraine",
+              "url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+              "media": "La France humaniste (texte paru dans Le Grand Continent)",
+              "date": "2026-03-06"
+            }
+          ]
+        }
+      },
+      {
+        "id": "institutions-confiance-defiance-constructive",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Vote de confiance systématique, défiance constructive et usage fréquent du référendum",
+        "description": "Rendre systématique le vote de confiance du gouvernement, encadrer la censure par une motion de défiance constructive, et recourir au référendum de l'article 11 « plusieurs fois par an si cela s'impose », sur le modèle gaullien ; en cas de blocage persistant, accord de gouvernement négocié entre parlementaires puis, à défaut, dissolution.",
+        "chiffres": [],
+        "date": "2026-05-24",
+        "sources": [
+          {
+            "titre": "Le chemin gaulliste",
+            "url": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html",
+            "media": "La France humaniste (tribune de D. de Villepin)",
+            "date": "2026-05-24"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante n'a été trouvée. L'instauration d'une motion de défiance constructive et d'un vote de confiance obligatoire supposerait une révision de la Constitution.",
+          "sources": [
+            {
+              "titre": "Le chemin gaulliste",
+              "url": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html",
+              "media": "La France humaniste (tribune de D. de Villepin)",
+              "date": "2026-05-24"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gaza-operation-humanitaire",
+        "theme": "europe-international",
+        "type": "proposition",
+        "titre": "Opération humanitaire internationale à Gaza",
+        "description": "Après l'annonce par la France de la reconnaissance de l'État de Palestine, lancer une vaste opération humanitaire internationale pour acheminer directement vivres, médicaments et matériel médical à Gaza, en informant le Conseil de sécurité de l'ONU et en saisissant l'Assemblée générale, avec une coalition d'États volontaires européens et non européens.",
+        "chiffres": [],
+        "date": "2025-07-24",
+        "sources": [
+          {
+            "titre": "Après la nécessité de reconnaissance de l'Etat palestinien, maintenant le devoir d'agir et de protéger",
+            "url": "https://lafrancehumaniste.fr/articles/le-devoir-dagir-et-proteger.html",
+            "media": "La France humaniste (tribune de D. de Villepin)",
+            "date": "2025-07-24"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Proposition de politique étrangère sans chiffrage ; aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Après la nécessité de reconnaissance de l'Etat palestinien, maintenant le devoir d'agir et de protéger",
+              "url": "https://lafrancehumaniste.fr/articles/le-devoir-dagir-et-proteger.html",
+              "media": "La France humaniste (tribune de D. de Villepin)",
+              "date": "2025-07-24"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

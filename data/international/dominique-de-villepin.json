@@ -1,0 +1,153 @@
+{
+  "id": "dominique-de-villepin",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Dominique de Villepin défend une « Europe souveraine », fédération d'États-nations dotée d'une défense commune « viable sans l'OTAN », et une diplomatie de désescalade fondée sur le droit international. Il critique la politique de Donald Trump et appelle depuis 2025 à isoler économiquement et stratégiquement Israël en raison de la guerre à Gaza.",
+  "axes": {
+    "europe": {
+      "position": 1,
+      "titre": "Fédération d'États-nations, majorité qualifiée élargie",
+      "resume": "Dans son manifeste de mars 2026, il propose d'étendre le vote à la majorité qualifiée, un Conseil de sécurité européen à cinq, un emprunt mutualisé pour des politiques sectorielles et davantage de ressources propres, tout en prônant une « fédération d'États-nations » et en rejetant une Europe « à taille unique ». Ce dernier point justifie le cran +1 plutôt que +2.",
+      "date": "2026-03-06",
+      "sources": [
+        {
+          "titre": "Le moment européen : manifeste pour une Europe souveraine",
+          "url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+          "media": "La France humaniste (texte paru dans Le Grand Continent)",
+          "date": "2026-03-06"
+        }
+      ]
+    },
+    "otan": {
+      "position": 0,
+      "titre": "Pilier européen, mais sécurité « viable sans l'OTAN »",
+      "resume": "En mars 2026, il veut consolider le pilier européen au sein de l'OTAN, mais aussi bâtir un projet de sécurité « viable sans l'OTAN » et éviter que l'Alliance devienne « une police globale aux mains de l'Amérique ». Ces deux orientations conduisent à retenir une position ambivalente.",
+      "date": "2026-03-06",
+      "sources": [
+        {
+          "titre": "Le moment européen : manifeste pour une Europe souveraine",
+          "url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+          "media": "La France humaniste (texte paru dans Le Grand Continent)",
+          "date": "2026-03-06"
+        }
+      ]
+    },
+    "trump": {
+      "position": -1,
+      "titre": "Critique de Trump et de la guerre en Iran",
+      "resume": "En mars 2026, il impute à Donald Trump un « chaos mondial » lié à la guerre contre l'Iran, dénonce le chantage exercé sur les alliés et appelle l'Europe à contester Washington, « en commençant par nos mots ». En 2018 déjà, il estimait que Trump « préfère les autocrates ». Entre −1 et −2, nous retenons le cran le plus prudent.",
+      "date": "2026-03-13",
+      "sources": [
+        {
+          "titre": "Le moment européen : manifeste pour une Europe souveraine",
+          "url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+          "media": "La France humaniste (texte paru dans Le Grand Continent)",
+          "date": "2026-03-06"
+        },
+        {
+          "titre": "Interview de Dominique de Villepin sur la guerre en Iran",
+          "url": "https://www.thenation.com/article/world/villepin-iran-war-us-israel-interview/",
+          "media": "The Nation",
+          "date": "2026-03-13"
+        },
+        {
+          "titre": "Villepin : face à Trump, l'UE doit « être dans l'initiative » avec la Chine, la Russie, l'Iran",
+          "url": "https://www.publicsenat.fr/actualites/politique/villepin-face-a-trump-l-ue-doit-etre-dans-l-initiative-avec-la-chine-la-russie-l",
+          "media": "Public Sénat",
+          "date": "2018-07-12"
+        }
+      ]
+    },
+    "russie": {
+      "position": 1,
+      "titre": "Fermeté et « nouveau traité d'Helsinki »",
+      "resume": "Il juge que les dirigeants européens ont « à juste titre » condamné l'invasion de 2022, souligne la menace russe sur les pays baltes et la Moldavie, et met en garde (décembre 2025) contre un accord qui récompenserait l'agression russe. Il propose aussi une « coexistence pacifique » et un « nouveau traité d'Helsinki » de désescalade (mars 2026).",
+      "date": "2026-03-13",
+      "sources": [
+        {
+          "titre": "Le moment européen : manifeste pour une Europe souveraine",
+          "url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+          "media": "La France humaniste (texte paru dans Le Grand Continent)",
+          "date": "2026-03-06"
+        },
+        {
+          "titre": "Russie : de Villepin qualifie la future rencontre Witkoff-Poutine de « comédie »",
+          "url": "https://lanouvelletribune.info/2025/12/russie-de-villepin-qualifie-la-future-rencontre-witkoff-poutine-de-comedie/",
+          "media": "La Nouvelle Tribune",
+          "date": "2025-12-02"
+        },
+        {
+          "titre": "Interview de Dominique de Villepin sur la guerre en Iran",
+          "url": "https://www.thenation.com/article/world/villepin-iran-war-us-israel-interview/",
+          "media": "The Nation",
+          "date": "2026-03-13"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": 1,
+      "titre": "Adhésion accélérée ou association renforcée",
+      "resume": "En mars 2026, il propose pour l'Ukraine une adhésion accélérée par étapes ou un « statut d'association renforcé », et anticipe un cessez-le-feu amélioré ou une « paix armée ». En décembre 2025, il rejette tout accord imposant des concessions inacceptables à Kyiv.",
+      "date": "2026-03-06",
+      "sources": [
+        {
+          "titre": "Le moment européen : manifeste pour une Europe souveraine",
+          "url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+          "media": "La France humaniste (texte paru dans Le Grand Continent)",
+          "date": "2026-03-06"
+        },
+        {
+          "titre": "Russie : de Villepin qualifie la future rencontre Witkoff-Poutine de « comédie »",
+          "url": "https://lanouvelletribune.info/2025/12/russie-de-villepin-qualifie-la-future-rencontre-witkoff-poutine-de-comedie/",
+          "media": "La Nouvelle Tribune",
+          "date": "2025-12-02"
+        }
+      ]
+    },
+    "chine": {
+      "position": 0,
+      "titre": "Du dialogue à la vigilance, sans doctrine détaillée",
+      "resume": "En 2018, il proposait un « comité de pilotage des Routes de la soie » avec Pékin et un dialogue avec la Russie et la Chine. Dans son manifeste de mars 2026, il décrit la Chine comme un modèle concurrent et demande à l'UE de parler « d'une voix forte » face à elle, sans proposer de politique précise. Nous retenons une position ambivalente.",
+      "date": "2026-03-06",
+      "sources": [
+        {
+          "titre": "Villepin : face à Trump, l'UE doit « être dans l'initiative » avec la Chine, la Russie, l'Iran",
+          "url": "https://www.publicsenat.fr/actualites/politique/villepin-face-a-trump-l-ue-doit-etre-dans-l-initiative-avec-la-chine-la-russie-l",
+          "media": "Public Sénat",
+          "date": "2018-07-12"
+        },
+        {
+          "titre": "Le moment européen : manifeste pour une Europe souveraine",
+          "url": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+          "media": "La France humaniste (texte paru dans Le Grand Continent)",
+          "date": "2026-03-06"
+        }
+      ]
+    },
+    "proche-orient": {
+      "position": 2,
+      "titre": "Embargo sur les armes et isolement d'Israël",
+      "resume": "Le 20 mai 2025 sur franceinfo, il appelle à « un isolement économique et stratégique » d'Israël, à un « embargo sur les armes de tous les pays européens » et à « suspendre immédiatement » l'accord européen avec Israël, accusant le gouvernement Netanyahou de viser la déportation des Gazaouis. En juillet 2025, il propose une opération humanitaire internationale à Gaza.",
+      "date": "2025-07-24",
+      "sources": [
+        {
+          "titre": "Gaza : De Villepin appelle à agir pour éviter l'« épuration ethnique » prévue par Israël",
+          "url": "https://fr.hespress.com/424985-gaza-de-villepin-appelle-a-agir-pour-eviter-lepuration-ethnique-prevue-par-israel.html",
+          "media": "Hespress (dépêche AFP)",
+          "date": "2025-05-20"
+        },
+        {
+          "titre": "L'ex-Premier ministre français Dominique de Villepin appelle à isoler Israël",
+          "url": "https://www.leconomistemaghrebin.com/2025/05/20/ex-premier-ministre-francais-dominique-de-villepin-appelle-a-isoler-israel/",
+          "media": "L'Economiste Maghrébin",
+          "date": "2025-05-20"
+        },
+        {
+          "titre": "Le devoir d'agir et protéger",
+          "url": "https://lafrancehumaniste.fr/articles/le-devoir-dagir-et-proteger.html",
+          "media": "La France humaniste (tribune de D. de Villepin)",
+          "date": "2025-07-24"
+        }
+      ]
+    }
+  }
+}

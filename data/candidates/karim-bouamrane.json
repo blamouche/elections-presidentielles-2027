@@ -1,0 +1,453 @@
+{
+  "id": "karim-bouamrane",
+  "prenom": "Karim",
+  "nom": "Bouamrane",
+  "parti": "Parti socialiste",
+  "partiAbrev": "PS",
+  "famillePolitique": "gauche",
+  "couleur": "#FF8080",
+  "statutCandidature": "declare",
+  "candidature": {
+    "texte": "Karim Bouamrane, maire socialiste de Saint-Ouen-sur-Seine, a officialisé sa candidature le 9 juin 2026 sur France Inter (« Moi, Karim Bouamrane, je suis candidat pour la prochaine élection présidentielle »), en se présentant comme un candidat qui « fédère » la gauche non mélenchoniste. Il a refusé de participer à la primaire du pôle socialiste, remportée le 11 octobre 2026 par Raphaël Glucksmann, jugeant notamment « scandaleux » le droit de vote de 15 euros. Fin août, il disait vouloir faire « le point fin octobre » puis se déterminer « au mois de janvier ». Le 9 novembre 2026, sur Sud Radio, il a réaffirmé : « Je suis candidat à l'élection présidentielle », sans se rallier à Glucksmann, et a indiqué que la suite dépendrait de sa position dans les sondages (« On verra »). LCP (10/11/2026) range sa candidature parmi celles dont le maintien reste en suspens. Il devra réunir 500 parrainages avant le 12 mars 2027.",
+    "date": "2026-06-09",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : qui est Karim Bouamrane, le maire socialiste de Saint-Ouen et nouveau candidat à l'élection ?",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-qui-est-karim-bouamrane-le-maire-socialiste-de-saint-ouen-et-nouveau",
+        "media": "LCP",
+        "date": "2026-06-09"
+      },
+      {
+        "titre": "Le maire de Saint-Ouen Karim Bouamrane (PS), « candidat pour être le prochain président de la République »",
+        "url": "https://www.brut.media/fr/articles/le-maire-de-saint-ouen-karim-bouamrane-ps-candidat-pour-etre-le-prochain-president-de-la-republique",
+        "media": "Brut (AFP)",
+        "date": "2026-06-24"
+      },
+      {
+        "titre": "Karim Bouamrane (PS) : « C'est moi le recours à gauche »",
+        "url": "https://www.sudradio.fr/sud-radio/karim-bouamrane-ps-cest-moi-le-recours-a-gauche",
+        "media": "Sud Radio",
+        "date": "2026-08-31"
+      },
+      {
+        "titre": "Karim Bouamrane : « Il faut arrêter de regarder Mélenchon comme le Superman de la gauche »",
+        "url": "https://www.sudradio.fr/linvite-politique/karim-bouamrane-il-faut-arreter-de-regarder-melenchon-comme-le-superman-de-la-gauche",
+        "media": "Sud Radio",
+        "date": "2026-11-09"
+      },
+      {
+        "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-10"
+      }
+    ]
+  },
+  "profil": {
+    "naissance": {
+      "date": "1973-02-21",
+      "lieu": "Clichy (Hauts-de-Seine)",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Karim Bouamrane",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-karim-bouamrane",
+          "media": "Sud Radio",
+          "date": "2026"
+        }
+      ]
+    },
+    "resume": "Karim Bouamrane, 53 ans, est maire de Saint-Ouen-sur-Seine (Seine-Saint-Denis) depuis 2020, réélu en mars 2026. Ancien élu communiste de Saint-Ouen de 1995 à 2014, il a rejoint le Parti socialiste en 2014, dont il a été porte-parole. Ancien cadre commercial dans la cybersécurité, il a lancé en octobre 2024 son propre mouvement, « La France humaine et forte ». Il défend une social-démocratie qu'il dit « pragmatique », renvoie dos à dos La France insoumise et le Rassemblement national, et met en avant à Saint-Ouen une politique de sécurité (couvre-feu pour les mineurs, renfort de la police municipale).",
+    "formation": [
+      {
+        "texte": "Scolarité à Saint-Ouen (école Anatole-France, en réseau d'éducation prioritaire), puis orientation vers les nouvelles technologies et l'informatique ; aucun diplôme précis n'est mentionné par les sources consultées.",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de Karim Bouamrane",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-karim-bouamrane",
+            "media": "Sud Radio",
+            "date": "2026"
+          }
+        ]
+      }
+    ],
+    "professionHorsPolitique": [
+      {
+        "texte": "Cadre commercial dans la sécurité informatique de 1999 à 2020 (directeur commercial chez RSA Security, Aruba Networks, puis fonctions de direction régionale ou européenne chez Xirrus, Guidance Software et Bitglass), avec un passage par la Silicon Valley.",
+        "sources": [
+          {
+            "titre": "La biographie et le CV de Karim Bouamrane",
+            "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-karim-bouamrane",
+            "media": "Sud Radio",
+            "date": "2026"
+          },
+          {
+            "titre": "À gauche, les grandes ambitions de Karim Bouamrane",
+            "url": "https://www.politis.fr/articles/2024/10/portrait-politique-les-grandes-ambitions-de-karim-bouamrane-maire-saint-ouen/",
+            "media": "Politis",
+            "date": "2024-10"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "titre": "La biographie et le CV de Karim Bouamrane",
+        "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-karim-bouamrane",
+        "media": "Sud Radio",
+        "date": "2026"
+      },
+      {
+        "titre": "Présidentielle 2027 : qui est Karim Bouamrane, le maire socialiste de Saint-Ouen et nouveau candidat à l'élection ?",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-qui-est-karim-bouamrane-le-maire-socialiste-de-saint-ouen-et-nouveau",
+        "media": "LCP",
+        "date": "2026-06-09"
+      },
+      {
+        "titre": "À gauche, les grandes ambitions de Karim Bouamrane",
+        "url": "https://www.politis.fr/articles/2024/10/portrait-politique-les-grandes-ambitions-de-karim-bouamrane-maire-saint-ouen/",
+        "media": "Politis",
+        "date": "2024-10"
+      }
+    ]
+  },
+  "parcoursPolitique": [
+    {
+      "debut": "1995",
+      "fin": "2014",
+      "fonction": "Conseiller municipal de Saint-Ouen (PCF)",
+      "details": "Élu sur une liste communiste, il est successivement adjoint chargé de la jeunesse, des sports puis des affaires économiques. Il quitte le PCF pour le PS en 2014 et conduit la liste socialiste aux municipales de 2014, sans l'emporter.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Karim Bouamrane",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-karim-bouamrane",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Présidentielle 2027 : qui est Karim Bouamrane, le maire socialiste de Saint-Ouen et nouveau candidat à l'élection ?",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-qui-est-karim-bouamrane-le-maire-socialiste-de-saint-ouen-et-nouveau",
+          "media": "LCP",
+          "date": "2026-06-09"
+        }
+      ]
+    },
+    {
+      "debut": "2016",
+      "fin": null,
+      "fonction": "Secrétaire national à l'innovation puis porte-parole du Parti socialiste",
+      "details": "La date de fin de ces fonctions n'est pas précisée par les sources consultées.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Karim Bouamrane",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-karim-bouamrane",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Présidentielle 2027 : qui est Karim Bouamrane, le maire socialiste de Saint-Ouen et nouveau candidat à l'élection ?",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-qui-est-karim-bouamrane-le-maire-socialiste-de-saint-ouen-et-nouveau",
+          "media": "LCP",
+          "date": "2026-06-09"
+        }
+      ]
+    },
+    {
+      "debut": "2020",
+      "fin": null,
+      "fonction": "Maire de Saint-Ouen-sur-Seine",
+      "details": "Élu en juillet 2020, réélu en mars 2026 au second tour d'une triangulaire face à la liste LFI. En avril 2026, il est battu par Bally Bagayoko (LFI) pour la présidence de l'établissement public territorial Plaine Commune.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Karim Bouamrane",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-karim-bouamrane",
+          "media": "Sud Radio",
+          "date": "2026"
+        },
+        {
+          "titre": "Présidentielle 2027 : qui est Karim Bouamrane, le maire socialiste de Saint-Ouen et nouveau candidat à l'élection ?",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-qui-est-karim-bouamrane-le-maire-socialiste-de-saint-ouen-et-nouveau",
+          "media": "LCP",
+          "date": "2026-06-09"
+        }
+      ]
+    },
+    {
+      "debut": "2021",
+      "fin": null,
+      "fonction": "Conseiller départemental de Seine-Saint-Denis (canton de Saint-Ouen)",
+      "details": "Troisième vice-président du conseil départemental, chargé de la culture.",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Karim Bouamrane",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-karim-bouamrane",
+          "media": "Sud Radio",
+          "date": "2026"
+        }
+      ]
+    },
+    {
+      "debut": "2022",
+      "fin": "2026",
+      "fonction": "Président du conseil de surveillance de la Société du Grand Paris (devenue Société des grands projets)",
+      "details": "",
+      "sources": [
+        {
+          "titre": "La biographie et le CV de Karim Bouamrane",
+          "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-karim-bouamrane",
+          "media": "Sud Radio",
+          "date": "2026"
+        }
+      ]
+    },
+    {
+      "debut": "2024",
+      "fin": null,
+      "fonction": "Fondateur du mouvement « La France humaine et forte »",
+      "details": "Mouvement social-démocrate lancé le 3 octobre 2024, avec le soutien de socialistes opposés à la ligne de Jean-Luc Mélenchon.",
+      "sources": [
+        {
+          "titre": "À gauche, les grandes ambitions de Karim Bouamrane",
+          "url": "https://www.politis.fr/articles/2024/10/portrait-politique-les-grandes-ambitions-de-karim-bouamrane-maire-saint-ouen/",
+          "media": "Politis",
+          "date": "2024-10"
+        },
+        {
+          "titre": "Le maire de Saint-Ouen Karim Bouamrane (PS), « candidat pour être le prochain président de la République »",
+          "url": "https://www.brut.media/fr/articles/le-maire-de-saint-ouen-karim-bouamrane-ps-candidat-pour-etre-le-prochain-president-de-la-republique",
+          "media": "Brut (AFP)",
+          "date": "2026-06-24"
+        }
+      ]
+    }
+  ],
+  "judiciaire": {
+    "note": "Aucune procédure judiciaire connue le visant à ce jour.",
+    "affaires": []
+  },
+  "programme": {
+    "statut": "Propositions partielles",
+    "resume": "Le site de campagne de Karim Bouamrane présente cinq « fondements » non chiffrés : protéger (violences faites aux femmes et aux enfants, narcotrafic, discriminations), loger, soigner, éduquer et « redonner de l'espoir » par la valorisation du travail. En entretien, il a avancé une baisse de la CSG pour permettre des hausses de salaires jusqu'au salaire médian et jugé qu'une hausse de 150 euros était « le minimum syndical ». Il met en avant son bilan de maire en matière de sécurité (couvre-feu pour les mineurs, police municipale). Aucun programme détaillé ni chiffré n'a été trouvé à la date de mise à jour.",
+    "documents": [
+      {
+        "titre": "Karim Bouamrane 2027 – site de campagne",
+        "url": "https://karimbouamrane2027.org",
+        "media": "Site de campagne de Karim Bouamrane",
+        "date": "2026-11-13"
+      }
+    ],
+    "propositions": [
+      {
+        "id": "baisse-csg-salaires",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Baisser la CSG pour augmenter les salaires",
+        "description": "Karim Bouamrane propose de « baisser la CSG pour donner la possibilité d'augmenter les salaires », y compris au-delà du SMIC, pour « toute une partie des salaires les plus bas, jusqu'au salaire médian ».",
+        "chiffres": [],
+        "date": "2026-11-09",
+        "sources": [
+          {
+            "titre": "Karim Bouamrane : « Il faut arrêter de regarder Mélenchon comme le Superman de la gauche »",
+            "url": "https://www.sudradio.fr/linvite-politique/karim-bouamrane-il-faut-arreter-de-regarder-melenchon-comme-le-superman-de-la-gauche",
+            "media": "Sud Radio",
+            "date": "2026-11-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La mesure n'est ni chiffrée ni précisée (ampleur de la baisse, compensation pour le financement de la Sécurité sociale, publics visés). Aucune vérification par un fact-checkeur ou un organisme indépendant n'a été trouvée à la date de mise à jour.",
+          "sources": [
+            {
+              "titre": "Karim Bouamrane : « Il faut arrêter de regarder Mélenchon comme le Superman de la gauche »",
+              "url": "https://www.sudradio.fr/linvite-politique/karim-bouamrane-il-faut-arreter-de-regarder-melenchon-comme-le-superman-de-la-gauche",
+              "media": "Sud Radio",
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      },
+      {
+        "id": "hausse-salaires-150-euros",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Hausse de salaire d'au moins 150 euros",
+        "description": "Interrogé sur une hausse de 25 euros par mois proposée pour un salaire de 1 500 euros, il juge que « ce n'est pas suffisant » et qu'une hausse de 150 euros est « le minimum syndical ». Il regrette qu'une conférence sur les salaires n'ait pas eu lieu « depuis dix ans ».",
+        "chiffres": [
+          "Hausse jugée minimale : 150 € par mois"
+        ],
+        "date": "2026-11-09",
+        "sources": [
+          {
+            "titre": "Karim Bouamrane : « Il faut arrêter de regarder Mélenchon comme le Superman de la gauche »",
+            "url": "https://www.sudradio.fr/linvite-politique/karim-bouamrane-il-faut-arreter-de-regarder-melenchon-comme-le-superman-de-la-gauche",
+            "media": "Sud Radio",
+            "date": "2026-11-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le candidat ne précise ni le mécanisme (SMIC, négociation de branche, baisse de cotisations) ni le coût pour les entreprises ou les finances publiques. Aucune vérification indépendante n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Karim Bouamrane : « Il faut arrêter de regarder Mélenchon comme le Superman de la gauche »",
+              "url": "https://www.sudradio.fr/linvite-politique/karim-bouamrane-il-faut-arreter-de-regarder-melenchon-comme-le-superman-de-la-gauche",
+              "media": "Sud Radio",
+              "date": "2026-11-09"
+            }
+          ]
+        }
+      },
+      {
+        "id": "narcotrafic-violences",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "Éradiquer le narcotrafic et les violences faites aux femmes et aux enfants",
+        "description": "Premier « fondement » de son projet : « Faire reculer les violences à l'encontre des femmes et des enfants, éradiquer le narcotrafic et toutes les formes de discrimination. » Aucune mesure précise n'est détaillée sur le site.",
+        "chiffres": [],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "Karim Bouamrane 2027 – site de campagne",
+            "url": "https://karimbouamrane2027.org",
+            "media": "Site de campagne de Karim Bouamrane",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Il s'agit d'un objectif général, sans mesure ni chiffrage associés sur le site consulté ; il ne peut donc pas être évalué à ce stade.",
+          "sources": [
+            {
+              "titre": "Karim Bouamrane 2027 – site de campagne",
+              "url": "https://karimbouamrane2027.org",
+              "media": "Site de campagne de Karim Bouamrane",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "couvre-feu-mineurs",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "Couvre-feu pour les mineurs non accompagnés (mesure appliquée à Saint-Ouen)",
+        "description": "Comme maire, il a instauré en juillet 2025 à Saint-Ouen un couvre-feu à 22 heures pour les mineurs de moins de 16 ans non accompagnés, dans le cadre de la lutte contre le trafic de drogue ; il met aussi en avant la multiplication par dix des effectifs de police municipale et l'ouverture d'un nouveau commissariat en 2023. Il présente ce bilan comme un gage de sa politique de sécurité.",
+        "chiffres": [],
+        "date": "2026-06-09",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : qui est Karim Bouamrane, le maire socialiste de Saint-Ouen et nouveau candidat à l'élection ?",
+            "url": "https://lcp.fr/actualites/presidentielle-2027-qui-est-karim-bouamrane-le-maire-socialiste-de-saint-ouen-et-nouveau",
+            "media": "LCP",
+            "date": "2026-06-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "Sur la faisabilité juridique : un maire peut, au titre de ses pouvoirs de police, restreindre la circulation des mineurs, mais le Conseil d'État exige que la mesure soit justifiée par des risques particuliers de troubles à l'ordre public, adaptée, proportionnée et limitée dans le temps et l'espace (il a annulé en 2018 le couvre-feu de Béziers de 2014). Sur l'efficacité, Public Sénat relève qu'elle « reste à prouver », aucune évaluation formelle n'étant disponible.",
+          "sources": [
+            {
+              "titre": "Couvre-feu pour les mineurs : quel pouvoir pour les maires ?",
+              "url": "https://www.publicsenat.fr/actualites/societe/couvre-feu-pour-les-mineurs-quel-pouvoir-pour-les-maires",
+              "media": "Public Sénat",
+              "date": "2024-04-24"
+            }
+          ]
+        }
+      },
+      {
+        "id": "logement-construire-renover",
+        "theme": "logement",
+        "type": "proposition",
+        "titre": "Construire, rénover et accompagner les familles",
+        "description": "Deuxième « fondement » : « construire, rénover et accompagner les familles, les jeunes actifs et les personnes âgées. » Le logement figure parmi ses priorités affichées avec la sécurité, la santé, l'éducation, la justice et l'emploi.",
+        "chiffres": [],
+        "date": "2026-11-13",
+        "sources": [
+          {
+            "titre": "Karim Bouamrane 2027 – site de campagne",
+            "url": "https://karimbouamrane2027.org",
+            "media": "Site de campagne de Karim Bouamrane",
+            "date": "2026-11-13"
+          },
+          {
+            "titre": "Karim Bouamrane : « Il faut arrêter de regarder Mélenchon comme le Superman de la gauche »",
+            "url": "https://www.sudradio.fr/linvite-politique/karim-bouamrane-il-faut-arreter-de-regarder-melenchon-comme-le-superman-de-la-gauche",
+            "media": "Sud Radio",
+            "date": "2026-11-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun objectif chiffré (nombre de logements, budget) n'est publié ; la proposition n'a pas pu être évaluée.",
+          "sources": [
+            {
+              "titre": "Karim Bouamrane 2027 – site de campagne",
+              "url": "https://karimbouamrane2027.org",
+              "media": "Site de campagne de Karim Bouamrane",
+              "date": "2026-11-13"
+            }
+          ]
+        }
+      },
+      {
+        "id": "discrimination-embauche-cinq-fois",
+        "theme": "emploi-travail",
+        "type": "declaration-chiffree",
+        "titre": "« Cinq fois plus de difficultés » à l'embauche avec un nom maghrébin",
+        "description": "Karim Bouamrane affirme qu'un candidat portant un nom à consonance maghrébine a, avec un master, « cinq fois plus de difficultés » à trouver un emploi. Il ne cite pas de source.",
+        "chiffres": [],
+        "date": "2026-11-09",
+        "sources": [
+          {
+            "titre": "Karim Bouamrane : « Il faut arrêter de regarder Mélenchon comme le Superman de la gauche »",
+            "url": "https://www.sudradio.fr/linvite-politique/karim-bouamrane-il-faut-arreter-de-regarder-melenchon-comme-le-superman-de-la-gauche",
+            "media": "Sud Radio",
+            "date": "2026-11-09"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-faux",
+          "analyse": "La discrimination est réelle et documentée, mais l'ordre de grandeur avancé est exagéré au regard de la principale étude disponible. Le testing de grande ampleur mené par la Dares avec l'IPP et ISM Corum (environ 9 600 candidatures fictives, 2019-2021) trouve un taux de rappel de 22,8 % pour les candidatures d'origine supposée maghrébine contre 33,3 % pour les autres, soit environ 32 % de rappels en moins, et non un écart du simple au quintuple. Cette étude ne porte pas spécifiquement sur les diplômés de master.",
+          "sources": [
+            {
+              "titre": "Les discriminations sur le marché du travail subies par les personnes d'origine maghrébine (Immigrés et descendants d'immigrés en France, édition 2023)",
+              "url": "https://www.insee.fr/fr/statistiques/6793310",
+              "media": "Insee (Insee Références, É. Arnoult, Dares)",
+              "date": "2023-03-30"
+            }
+          ]
+        }
+      },
+      {
+        "id": "points-de-deal-saint-ouen",
+        "theme": "securite-justice",
+        "type": "declaration-chiffree",
+        "titre": "« Démantelé tous les points de deal » à Saint-Ouen",
+        "description": "Il affirme avoir « démantelé tous les points de deal » de sa commune.",
+        "chiffres": [],
+        "date": "2026-08-31",
+        "sources": [
+          {
+            "titre": "Karim Bouamrane (PS) : « C'est moi le recours à gauche »",
+            "url": "https://www.sudradio.fr/sud-radio/karim-bouamrane-ps-cest-moi-le-recours-a-gauche",
+            "media": "Sud Radio",
+            "date": "2026-08-31"
+          }
+        ],
+        "factCheck": {
+          "verdict": "invérifiable",
+          "analyse": "Aucune donnée publique recensant les points de deal commune par commune n'a été trouvée pour confirmer ou infirmer l'affirmation.",
+          "sources": [
+            {
+              "titre": "Karim Bouamrane (PS) : « C'est moi le recours à gauche »",
+              "url": "https://www.sudradio.fr/sud-radio/karim-bouamrane-ps-cest-moi-le-recours-a-gauche",
+              "media": "Sud Radio",
+              "date": "2026-08-31"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "derniereMiseAJour": "2026-11-13"
+}

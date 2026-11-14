@@ -1,0 +1,177 @@
+{
+  "id": "jean-luc-melenchon",
+  "derniereMiseAJour": "2026-11-13",
+  "resume": "Jean-Luc Mélenchon veut que la France « prenne la tête du camp de la paix » : sortie de l'OTAN par étapes, confrontation assumée avec les règles européennes sans sortie de l'UE, et recherche d'une issue négociée en Ukraine. Son programme 2027 (« L'Avenir en commun », 6 novembre 2026) ajoute la protection du Groenland et le rejet de l'objectif de 5 % du PIB pour la défense demandé par les États-Unis. Ses propos du 7 novembre 2026 sur la consultation des habitants du Donbass ont été contestés par le gouvernement français et par la diplomatie ukrainienne.",
+  "axes": {
+    "europe": {
+      "position": -1,
+      "titre": "Confrontation avec les règles européennes, sans Frexit",
+      "resume": "Le programme 2027 (6 novembre 2026) prévoit un moratoire voté par le Parlement sur les règles européennes de libre circulation illimitée des marchandises et des capitaux et de mise en concurrence des services publics, en « assumant la confrontation avec les institutions européennes », et conserve l'idée de désobéir aux règles bloquantes. Il propose aussi de modifier les traités pour que la BCE puisse acheter directement de la dette publique. Selon LCP, le programme ne mentionne pas de sortie de l'UE.",
+      "date": "2026-11-06",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
+          "media": "LCP",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "otan": {
+      "position": -2,
+      "titre": "Sortie du commandement intégré puis de l'OTAN",
+      "resume": "Le programme 2027 reprend la sortie « immédiate » du commandement intégré de l'OTAN, puis de l'organisation « par étapes », et critique la conception d'une défense européenne comme « pilier européen de l'OTAN ». Le 16 mars 2025 sur France 3, il estimait que c'était « le moment ou jamais » de quitter l'OTAN.",
+      "date": "2026-11-06",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
+          "media": "LCP",
+          "date": "2026-11-06"
+        },
+        {
+          "titre": "Ukraine: « Celui qui nous menace physiquement, c'est monsieur Trump », lance Mélenchon",
+          "url": "https://www.lagazettefrance.fr/article/ukraine-celui-qui-nous-menace-physiquement-c-est-monsieur-trump-lance-melenchon",
+          "media": "La Gazette France (AFP)",
+          "date": "2025-03-16"
+        }
+      ]
+    },
+    "trump": {
+      "position": -2,
+      "titre": "Trump présenté comme une menace directe",
+      "resume": "Le 16 mars 2025, il déclare : « Celui qui nous menace physiquement, c'est monsieur Trump », en citant les pressions sur le Mexique, le Canada et le Groenland, et revendique la ligne « ni Trump, ni Poutine ». Le programme 2027 ajoute « protéger le Groenland » et « rejeter le tribut » de 5 % du PIB pour la défense ; son introduction décrit l'empire américain comme « un danger pour le monde entier ». Il s'oppose aussi aux concessions territoriales en Ukraine envisagées par Donald Trump et les Européens en décembre 2025.",
+      "date": "2026-11-06",
+      "sources": [
+        {
+          "titre": "Ukraine: « Celui qui nous menace physiquement, c'est monsieur Trump », lance Mélenchon",
+          "url": "https://www.lagazettefrance.fr/article/ukraine-celui-qui-nous-menace-physiquement-c-est-monsieur-trump-lance-melenchon",
+          "media": "La Gazette France (AFP)",
+          "date": "2025-03-16"
+        },
+        {
+          "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
+          "media": "LCP",
+          "date": "2026-11-06"
+        },
+        {
+          "titre": "Accusé de se faire le \"porte-parole du Kremlin\", Jean-Luc Mélenchon réplique sur l'Ukraine",
+          "url": "https://lcp.fr/actualites/accuse-de-se-faire-le-porte-parole-du-kremlin-jean-luc-melenchon-replique-sur-l-ukraine",
+          "media": "LCP",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    "russie": {
+      "position": -1,
+      "titre": "Négociation prioritaire, réserves sur la saisie des avoirs",
+      "resume": "Il condamne l'invasion (« qui que ce soit envahisse qui que ce soit », 7 novembre 2026) et son programme demande le retrait des troupes russes. Mais LFI a voté contre la résolution de l'Assemblée du 12 mars 2025 appelant notamment à saisir les avoirs russes gelés, en exprimant des réserves juridiques sur cette saisie. Le 7 novembre 2026, il a estimé que les habitants du Donbass avaient « le droit de savoir s'ils veulent être Ukrainiens ou Russes » ; le ministre Jean-Noël Barrot l'a qualifié de « porte-parole du Kremlin », ce qu'il conteste en niant toute intention de cession territoriale. Cran −1 plutôt que 0 en raison de la priorité donnée à la négociation et des réserves sur les avoirs.",
+      "date": "2026-11-10",
+      "sources": [
+        {
+          "titre": "Accusé de se faire le \"porte-parole du Kremlin\", Jean-Luc Mélenchon réplique sur l'Ukraine",
+          "url": "https://lcp.fr/actualites/accuse-de-se-faire-le-porte-parole-du-kremlin-jean-luc-melenchon-replique-sur-l-ukraine",
+          "media": "LCP",
+          "date": "2026-11-10"
+        },
+        {
+          "titre": "Statut du Donbass : la diplomatie ukrainienne recadre Jean-Luc Mélenchon",
+          "url": "https://fr.euronews.com/2026/11/09/statut-du-donbass-la-diplomatie-ukrainienne-recadre-jean-luc-melenchon",
+          "media": "Euronews",
+          "date": "2026-11-09"
+        },
+        {
+          "titre": "L'Assemblée nationale adopte une résolution de soutien à l'Ukraine appelant à saisir les avoirs russes",
+          "url": "https://lcp.fr/actualites/l-assemblee-nationale-adopte-une-resolution-de-soutien-a-l-ukraine-appelant-a-saisir-les",
+          "media": "LCP",
+          "date": "2025-03-13"
+        }
+      ]
+    },
+    "ukraine": {
+      "position": -1,
+      "titre": "Cessez-le-feu négocié, votes contre les textes de soutien",
+      "resume": "Le programme 2027 vise un cadre diplomatique pour un cessez-le-feu, le retrait des troupes russes et des négociations fondées sur des garanties de sécurité collectives. LFI a voté contre l'accord de sécurité France-Ukraine le 12 mars 2024 et contre la résolution de soutien du 12 mars 2025, en s'opposant notamment à l'adhésion de l'Ukraine à l'UE. Le 7 novembre 2026, il a demandé que les populations concernées soient consultées avant toute paix comportant des concessions territoriales.",
+      "date": "2026-11-07",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
+          "media": "LCP",
+          "date": "2026-11-06"
+        },
+        {
+          "titre": "L'Assemblée nationale soutient largement l'accord avec l'Ukraine, sans le RN qui s'abstient et LFI qui vote contre",
+          "url": "https://lcp.fr/actualites/l-assemblee-nationale-soutient-largement-l-accord-avec-l-ukraine-sans-le-rn-qui-s",
+          "media": "LCP",
+          "date": "2024-03-12"
+        },
+        {
+          "titre": "L'Assemblée nationale adopte une résolution de soutien à l'Ukraine appelant à saisir les avoirs russes",
+          "url": "https://lcp.fr/actualites/l-assemblee-nationale-adopte-une-resolution-de-soutien-a-l-ukraine-appelant-a-saisir-les",
+          "media": "LCP",
+          "date": "2025-03-13"
+        },
+        {
+          "titre": "Guerre en Ukraine : « Les Insoumis n'ont jamais soutenu l'Ukraine, ils ont toujours été pro-Poutine », fustige Anne Hidalgo",
+          "url": "https://www.publicsenat.fr/actualites/international/guerre-en-ukraine-les-insoumis-nont-jamais-soutenu-lukraine-ils-ont-toujours-ete-pro-poutine-fustige-anne-hidalgo",
+          "media": "Public Sénat",
+          "date": "2025-03-13"
+        },
+        {
+          "titre": "Statut du Donbass : la diplomatie ukrainienne recadre Jean-Luc Mélenchon",
+          "url": "https://fr.euronews.com/2026/11/09/statut-du-donbass-la-diplomatie-ukrainienne-recadre-jean-luc-melenchon",
+          "media": "Euronews",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    "chine": {
+      "position": -1,
+      "titre": "Chine jugée « bien plus fiable » que les États-Unis",
+      "resume": "Le 3 novembre 2026, sur X, à propos des négociations sur l'Ukraine, il écrit : « La Chine est un partenaire bien plus fiable que les USA ». Selon LCP, le programme 2027 ne traite pas de la Chine. Cran −1 et non −2 : aucune proposition de coopération renforcée n'a été identifiée.",
+      "date": "2026-11-03",
+      "sources": [
+        {
+          "titre": "Jean-Luc Mélenchon juge la Chine « bien plus fiable » que les États-Unis comme partenaire",
+          "url": "https://lanouvelletribune.info/2026/11/jean-luc-melenchon-juge-la-chine-bien-plus-fiable-que-les-etats-unis-comme-partenaire/",
+          "media": "La Nouvelle Tribune",
+          "date": "2026-11-03"
+        },
+        {
+          "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
+          "media": "LCP",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    "proche-orient": {
+      "position": 2,
+      "titre": "Sanctions, embargo et escorte des flottilles pour Gaza",
+      "resume": "Le programme « L'Avenir en commun » prévoit des sanctions contre le gouvernement de Benjamin Netanyahou, la suspension de l'accord d'association UE-Israël et un embargo sur les armes. Au meeting du Bourget (7 novembre 2026), il promet d'agir « frontalement au secours des Palestiniens » et déclare que des navires français escorteraient au besoin les flottilles civiles. Le programme défend la souveraineté de l'État de Palestine sur les territoires occupés depuis 1967 et envisage aussi un « État binational égalitaire ».",
+      "date": "2026-11-07",
+      "sources": [
+        {
+          "titre": "Mélenchon promet d'agir « frontalement » contre Israël, l'ambassadeur israélien le renvoie à ses prédécesseurs fascistes",
+          "url": "https://www.i24news.tv/fr/actu/france/artc-melenchon-promet-d-agir-frontalement-contre-la-politique-israelienne-s-il-est-elu",
+          "media": "i24NEWS",
+          "date": "2026-11-07"
+        },
+        {
+          "titre": "Mélenchon'dan seçim vaadi: Gazze'ye giden filolara Fransız donanması eşlik edecek",
+          "url": "https://gazeteoksijen.com/dunya/melenchondan-secim-vaadi-gazzeye-giden-filolara-fransiz-donanmasi-eslik-edecek-295525",
+          "media": "Gazete Oksijen (d'après Haaretz)",
+          "date": "2026-11-10"
+        },
+        {
+          "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
+          "media": "LCP",
+          "date": "2026-11-06"
+        }
+      ]
+    }
+  }
+}
