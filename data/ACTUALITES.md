@@ -1,6 +1,6 @@
 # Actualités de campagne — format
 
-`data/actualites.json` : faits marquants de la campagne intégrés à chaque mise à jour du site (bloc « Dernières actualités » de l'accueil, encadré dans chaque fiche candidat, et section du PDF).
+`data/actualites.json` : faits marquants de la campagne intégrés à chaque mise à jour du site (onglet « Actualités » avant « Sources & méthode », encadré dans chaque fiche candidat, et section du PDF).
 
 ```json
 {

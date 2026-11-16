@@ -474,6 +474,10 @@ a.chip { text-decoration: none; color: inherit; }
 .actus p { margin: 4px 0 2px; }
 .ac-who { font-size: 0.85rem; font-weight: 600; text-decoration: none; color: var(--ink); margin-left: 8px; white-space: nowrap; }
 .cand-actus { margin: 14px 0 0; }
+.ac-day { margin-top: 14px; }
+.ac-dayh { font-family: var(--font-data); font-size: 0.8rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); margin: 0 0 6px; }
+.ac-day .actus li { grid-template-columns: minmax(0, 1fr); }
+.ac-day .ac-date { display: none; }
 .more details summary { cursor: pointer; color: var(--accent); font-size: 0.88rem; margin-top: 4px; }
 .more details[open] summary { display: none; }
 .more details p { margin-top: 0.6em; }
@@ -654,7 +658,7 @@ function route() {
     const [id, tab] = h.slice(2).split("--");
     if (BY_ID[id]) return { view: "candidat", id, tab: tab || "programme" };
   }
-  if (["comparer", "carte", "international", "fact-check", "sources", "rapport", "sondages"].includes(h)) return { view: h };
+  if (["comparer", "carte", "international", "fact-check", "sources", "rapport", "sondages", "actualites"].includes(h)) return { view: h };
   if (h === "historique" || h.startsWith("historique-")) return { view: "historique", year: h.split("-")[1] };
   return { view: "accueil" };
 }
@@ -671,6 +675,7 @@ function render() {
     : r.view === "rapport" ? viewRapport()
     : r.view === "historique" ? viewHistorique(r.year)
     : r.view === "sondages" ? viewSondages()
+    : r.view === "actualites" ? viewActualites()
     : viewAccueil();
   app.innerHTML = `<div class="view">${html}</div>`;
   document.body.classList.toggle("is-report", r.view === "rapport");
@@ -680,9 +685,9 @@ function render() {
   document.title = r.view === "candidat" ? `${fullName(BY_ID[r.id])} · Présidentielle 2027` : r.view === "rapport" ? `Présidentielle 2027 · Dossier complet (${fmtDate(DATA.generatedAt)})` : "Présidentielle 2027";
 }
 function renderNav(view) {
-  const items = [["accueil", "Candidats"], ["comparer", "Comparer", state.compare.size || ""], ["carte", "Carte"], ["international", "International"], ["sondages", "Sondages"], ["historique", "Historique"], ["fact-check", "Fact-check"], ["sources", "Sources & méthode"]];
+  const items = [["accueil", "Candidats"], ["comparer", "Comparer", state.compare.size || ""], ["carte", "Carte"], ["international", "International"], ["sondages", "Sondages"], ["historique", "Historique"], ["fact-check", "Fact-check"], ["actualites", "Actualités"], ["sources", "Sources & méthode"]];
   const cur = view === "candidat" ? "accueil" : view;
-  document.getElementById("nav").innerHTML = items.filter(([h]) => h !== "sondages" || SD().length).map(([h, l, n]) =>
+  document.getElementById("nav").innerHTML = items.filter(([h]) => (h !== "sondages" || SD().length) && (h !== "actualites" || ACTUS().length)).map(([h, l, n]) =>
     `<a href="#${h}" ${cur === h ? 'aria-current="page"' : ""}>${l}${n ? `<span class="count">${n}</span>` : ""}</a>`).join("");
 }
 
@@ -698,14 +703,29 @@ function actuList(items) {
       <p>${esc(a.titre)}</p>${srcLinks(a.sources, "")}</div>
   </li>`).join("")}</ol>`;
 }
-function actusSection() {
-  const all = ACTUS(); if (!all.length) return "";
-  const n = state.actusAll ? all.length : 6;
-  return `<section class="section" aria-label="Dernières actualités">
-    <h2>Dernières actualités</h2>
-    <p class="muted prose" style="margin:4px 0 10px;font-size:.9rem">Faits marquants de la campagne intégrés lors de la dernière mise à jour (${esc(fmtDate(DATA.actualites.miseAJour))}), chacun avec sa source.</p>
-    <div class="panel">${actuList(all.slice(0, n))}
-    ${all.length > 6 ? `<button class="linkbtn" data-act="actus-all">${state.actusAll ? "Afficher moins" : `Afficher les ${all.length} actualités`}</button>` : ""}</div>
+function viewActualites() {
+  const all = ACTUS();
+  const head = `<header><p class="eyebrow">Actualités</p><h1>L'actualité de la campagne</h1>
+    <p class="prose muted" style="margin-top:8px">Faits marquants de la campagne intégrés à chaque mise à jour du site, chacun avec sa source. Les fiches des candidats concernés sont mises à jour en conséquence.</p></header>`;
+  if (!all.length) return head + `<p class="empty">Aucune actualité pour l'instant.</p>`;
+  const cat = state.acCat || "", cand = state.acCand || "";
+  const cats = Object.keys(ACT_CAT).filter((k) => all.some((a) => a.categorie === k));
+  const cands = CANDS.filter((c) => all.some((a) => (a.candidats || []).includes(c.id)));
+  const list = all.filter((a) => (!cat || a.categorie === cat) && (!cand || (a.candidats || []).includes(cand)));
+  // Regroupement par jour.
+  const days = []; list.forEach((a) => { const d = days[days.length - 1]; d && d.date === a.date ? d.items.push(a) : days.push({ date: a.date, items: [a] }); });
+  return `${head}
+  <div class="panel picker" style="margin-top:16px">
+    <div class="row"><span class="eyebrow">Catégorie</span>
+      <button class="chip" data-act="accat" data-v="" aria-pressed="${!cat}">Toutes <span class="n">${all.length}</span></button>
+      ${cats.map((k) => `<button class="chip" data-act="accat" data-v="${k}" aria-pressed="${cat === k}">${esc(ACT_CAT[k])} <span class="n">${all.filter((a) => a.categorie === k).length}</span></button>`).join("")}</div>
+    <div class="row"><label class="eyebrow" for="ac-cand">Candidat</label>
+      <select id="ac-cand"><option value="">Tous</option>${cands.map((c) => `<option value="${esc(c.id)}" ${c.id === cand ? "selected" : ""}>${esc(fullName(c))}</option>`).join("")}</select>
+      <span class="muted" style="font-size:.85rem">Mise à jour du ${esc(fmtDate(DATA.actualites.miseAJour))}</span></div>
+  </div>
+  <section class="section">
+    <h2>${list.length} actualité${list.length > 1 ? "s" : ""}</h2>
+    ${days.map((d) => `<div class="ac-day"><h3 class="ac-dayh">${esc(fmtDate(d.date))}</h3><div class="panel">${actuList(d.items)}</div></div>`).join("") || `<p class="empty">Aucune actualité pour ces critères.</p>`}
   </section>`;
 }
 
@@ -731,7 +751,6 @@ function viewAccueil() {
       <div class="kpi"><div class="n">${nAff}</div><div class="l">procédures visant un candidat</div></div>
     </div>
   </section>
-  ${actusSection()}
   <section class="section" aria-label="Candidats">
     <div class="toolbar" role="group" aria-label="Filtrer par statut de candidature">
       <button class="chip" data-act="statut" data-v="" aria-pressed="${!state.statut}">Tous <span class="n">${CANDS.length}</span></button>
@@ -804,7 +823,7 @@ function viewCandidat(c, tab) {
       ${c.candidature?.texte ? longText(c.candidature.texte) + srcLinks(c.candidature.sources) : ""}
     </div>
   </section>
-  ${(() => { const a = ACTUS().filter((x) => (x.candidats || []).includes(c.id)); return a.length ? `<details class="panel cand-actus"${a.length <= 3 ? " open" : ""}><summary><span class="eyebrow">Actualité récente</span> <span class="n mono">${a.length}</span></summary>${actuList(a)}</details>` : ""; })()}
+  ${(() => { const a = ACTUS().filter((x) => (x.candidats || []).includes(c.id)); return a.length ? `<details class="panel cand-actus"${a.length <= 3 ? " open" : ""}><summary><span class="eyebrow">Actualité récente</span> <span class="n mono">${a.length}</span></summary>${actuList(a)}<a class="linkbtn" href="#actualites">Toute l'actualité de la campagne →</a></details>` : ""; })()}
   <nav class="tabs" aria-label="Rubriques de la fiche">
     ${tabs.map(([t, l, n]) => `<a href="#c-${esc(c.id)}--${t}" aria-current="${t === tab}">${l}${n !== "" ? `<span class="n">${n}</span>` : ""}</a>`).join("")}
   </nav>
@@ -1651,7 +1670,7 @@ document.addEventListener("click", (e) => {
     case "ptheme": state.progTheme = v || null; break;
     case "fcv": state.fc.verdicts.has(v) ? state.fc.verdicts.delete(v) : state.fc.verdicts.add(v); break;
     case "sdtour": state.sdTour = +v; break;
-    case "actus-all": state.actusAll = !state.actusAll; break;
+    case "accat": state.acCat = v || null; break;
     case "sdper": state.sdPeriod = v; break;
     default: return;
   }
@@ -1669,6 +1688,7 @@ document.addEventListener("change", (e) => {
   if (e.target.id === "fc-theme") { state.fc.theme = e.target.value; render(); }
   if (e.target.id === "intl-x") { state.intlX = e.target.value; render(); }
   if (e.target.id === "sd-inst") { state.sdInst = e.target.value; render(); }
+  if (e.target.id === "ac-cand") { state.acCand = e.target.value; render(); }
   if (e.target.id === "intl-y") { state.intlY = e.target.value; render(); }
 });
 window.addEventListener("hashchange", render);
