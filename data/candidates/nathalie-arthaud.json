@@ -348,13 +348,19 @@
         ],
         "factCheck": {
           "verdict": "non-verifie",
-          "analyse": "Aucune vérification ni chiffrage indépendant de cette revendication n'a été trouvé, et LO n'en publie pas le coût. Repère : le SMIC net mensuel (35 h) est d'environ 1 443 € au 1er janvier 2026 et 1 478 € depuis le 1er juin 2026 (1 867,02 € brut) ; 2 200 € net représenteraient une hausse d'environ 49 % du salaire minimum net.",
+          "analyse": "Aucune vérification ni chiffrage indépendant de cette revendication n'a été trouvé, et LO n'en publie pas le coût. Repère : le SMIC net mensuel (35 h) est d'environ 1 443 € au 1er janvier 2026 et 1 478 € depuis le 1er juin 2026 (1 867,02 € brut) ; 2 200 € net représenteraient une hausse d'environ 49 % du salaire minimum net. Mise à jour (16/11/2026) : le 9 novembre 2026, le Premier ministre a annoncé une revalorisation du SMIC au 1er décembre 2026 (+1 % de revalorisation automatique et +0,6 % de « coup de pouce »), qui porte le SMIC net à environ 1 502 € par mois (AFP) ; par rapport à ce niveau, 2 200 € net représenteraient une hausse d'environ 46 %.",
           "sources": [
             {
               "titre": "Montant SMIC 2026 taux horaire net et brut (mis à jour le 07/10/2026)",
               "url": "https://www.legisocial.fr/reperes-sociaux/montant-smic-2026-taux-horaire-net-brut.html",
               "media": "LégiSocial",
               "date": "2026-10-07"
+            },
+            {
+              "titre": "Lecornu donne un coup de pouce au Smic, les syndicats entre colère et expectative",
+              "url": "https://www.dhnet.be/dernieres-depeches/2026/11/09/sans-latitude-lecornu-tente-de-repondre-a-la-colere-sociale-KWCY3XBQXBFR3JX7E55UFVXLVQ/",
+              "media": "La DH (AFP)",
+              "date": "2026-11-09"
             }
           ]
         }
@@ -626,5 +632,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-13"
+  "derniereMiseAJour": "2026-11-16"
 }

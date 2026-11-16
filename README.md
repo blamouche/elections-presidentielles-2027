@@ -15,6 +15,7 @@ Page HTML statique (un seul fichier) pour analyser et comparer les programmes de
 | `data/medias.json`, `data/photos/` | Photos sous licence libre (Wikimedia Commons, crédits) et sites officiels vérifiés |
 | `data/elections/*.json` | Résultats officiels des présidentielles 1965-2022, 1er et 2nd tours (format dans `data/elections/SCHEMA.md`) |
 | `data/sondages/sondages.json` | Sondages d'intentions de vote pour 2027 (format dans `data/sondages/SCHEMA.md`) |
+| `data/actualites.json` | Faits marquants de la campagne intégrés à chaque mise à jour (format dans `data/ACTUALITES.md`) |
 | `data/autres-candidatures.json` | Petites candidatures, noms évoqués et retraits, sans fiche détaillée |
 | `data/documents.json` | Registre des documents et URLs ajoutés pour alimenter l'analyse |
 | `documents/` | Copies locales des documents transmis (PDF, etc.) |

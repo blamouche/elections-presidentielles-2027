@@ -1,6 +1,475 @@
 {
-  "derniereMiseAJour": "2026-11-14",
+  "derniereMiseAJour": "2026-11-16",
   "sondages": [
+    {
+      "id": "elabe-2026-11-13-t1",
+      "institut": "Elabe",
+      "commanditaire": "BFMTV, La Tribune Dimanche",
+      "terrainDebut": "2026-11-12",
+      "terrainFin": "2026-11-13",
+      "publication": "2026-11-14",
+      "echantillon": 1500,
+      "methode": "Questionnaire auto-administré en ligne, méthode des quotas",
+      "tour": 1,
+      "hypotheses": [
+        {
+          "label": "Hypothèse 1 : Arthaud (LO), Mélenchon (LFI), Roussel (PCF), Tondelier (LE), Glucksmann (PP), Philippe (HOR), Retailleau (LR), Dupont-Aignan (DLF), Le Pen (RN), Zemmour (REC), de Villepin (LFH)",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 33
+            },
+            {
+              "candidat": "Jean-Luc Mélenchon",
+              "id": "jean-luc-melenchon",
+              "pct": 17
+            },
+            {
+              "candidat": "Édouard Philippe",
+              "id": "edouard-philippe",
+              "pct": 15
+            },
+            {
+              "candidat": "Raphaël Glucksmann",
+              "id": "raphael-glucksmann",
+              "pct": 13.5
+            },
+            {
+              "candidat": "Bruno Retailleau",
+              "id": "bruno-retailleau",
+              "pct": 6
+            },
+            {
+              "candidat": "Éric Zemmour",
+              "id": "eric-zemmour",
+              "pct": 4.5
+            },
+            {
+              "candidat": "Marine Tondelier",
+              "id": "marine-tondelier",
+              "pct": 3
+            },
+            {
+              "candidat": "Nicolas Dupont-Aignan",
+              "id": "nicolas-dupont-aignan",
+              "pct": 3
+            },
+            {
+              "candidat": "Dominique de Villepin",
+              "id": "dominique-de-villepin",
+              "pct": 2.5
+            },
+            {
+              "candidat": "Fabien Roussel",
+              "id": "fabien-roussel",
+              "pct": 2
+            },
+            {
+              "candidat": "Nathalie Arthaud",
+              "id": "nathalie-arthaud",
+              "pct": 0.5
+            }
+          ]
+        },
+        {
+          "label": "Hypothèse 2 : Arthaud (LO), Mélenchon (LFI), Roussel (PCF), Tondelier (LE), Glucksmann (PP), Attal (RE), Retailleau (LR), Dupont-Aignan (DLF), Le Pen (RN), Zemmour (REC), de Villepin (LFH)",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 33
+            },
+            {
+              "candidat": "Jean-Luc Mélenchon",
+              "id": "jean-luc-melenchon",
+              "pct": 17.5
+            },
+            {
+              "candidat": "Raphaël Glucksmann",
+              "id": "raphael-glucksmann",
+              "pct": 14
+            },
+            {
+              "candidat": "Gabriel Attal",
+              "id": "gabriel-attal",
+              "pct": 10
+            },
+            {
+              "candidat": "Bruno Retailleau",
+              "id": "bruno-retailleau",
+              "pct": 9
+            },
+            {
+              "candidat": "Éric Zemmour",
+              "id": "eric-zemmour",
+              "pct": 4.5
+            },
+            {
+              "candidat": "Marine Tondelier",
+              "id": "marine-tondelier",
+              "pct": 3
+            },
+            {
+              "candidat": "Dominique de Villepin",
+              "id": "dominique-de-villepin",
+              "pct": 3
+            },
+            {
+              "candidat": "Fabien Roussel",
+              "id": "fabien-roussel",
+              "pct": 2.5
+            },
+            {
+              "candidat": "Nicolas Dupont-Aignan",
+              "id": "nicolas-dupont-aignan",
+              "pct": 2.5
+            },
+            {
+              "candidat": "Nathalie Arthaud",
+              "id": "nathalie-arthaud",
+              "pct": 1
+            }
+          ]
+        },
+        {
+          "label": "Hypothèse 3 : Arthaud (LO), Mélenchon (LFI), Roussel (PCF), Tondelier (LE), Glucksmann (PP), Attal (RE), Philippe (HOR), Retailleau (LR), Dupont-Aignan (DLF), Le Pen (RN), Zemmour (REC)",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 33
+            },
+            {
+              "candidat": "Jean-Luc Mélenchon",
+              "id": "jean-luc-melenchon",
+              "pct": 17.5
+            },
+            {
+              "candidat": "Raphaël Glucksmann",
+              "id": "raphael-glucksmann",
+              "pct": 13
+            },
+            {
+              "candidat": "Édouard Philippe",
+              "id": "edouard-philippe",
+              "pct": 12
+            },
+            {
+              "candidat": "Bruno Retailleau",
+              "id": "bruno-retailleau",
+              "pct": 6
+            },
+            {
+              "candidat": "Gabriel Attal",
+              "id": "gabriel-attal",
+              "pct": 5.5
+            },
+            {
+              "candidat": "Éric Zemmour",
+              "id": "eric-zemmour",
+              "pct": 4
+            },
+            {
+              "candidat": "Marine Tondelier",
+              "id": "marine-tondelier",
+              "pct": 3.5
+            },
+            {
+              "candidat": "Nicolas Dupont-Aignan",
+              "id": "nicolas-dupont-aignan",
+              "pct": 3
+            },
+            {
+              "candidat": "Fabien Roussel",
+              "id": "fabien-roussel",
+              "pct": 2
+            },
+            {
+              "candidat": "Nathalie Arthaud",
+              "id": "nathalie-arthaud",
+              "pct": 0.5
+            }
+          ]
+        },
+        {
+          "label": "Hypothèse 4 : Arthaud (LO), Mélenchon (LFI), Roussel (PCF), Glucksmann (PP), Attal (RE), Lisnard (NE), Retailleau (LR), Dupont-Aignan (DLF), Le Pen (RN), Zemmour (REC), Ruffin (Debout)",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 32
+            },
+            {
+              "candidat": "Jean-Luc Mélenchon",
+              "id": "jean-luc-melenchon",
+              "pct": 17.5
+            },
+            {
+              "candidat": "Raphaël Glucksmann",
+              "id": "raphael-glucksmann",
+              "pct": 14
+            },
+            {
+              "candidat": "David Lisnard",
+              "id": "david-lisnard",
+              "pct": 10.5
+            },
+            {
+              "candidat": "Gabriel Attal",
+              "id": "gabriel-attal",
+              "pct": 8.5
+            },
+            {
+              "candidat": "Bruno Retailleau",
+              "id": "bruno-retailleau",
+              "pct": 6
+            },
+            {
+              "candidat": "Éric Zemmour",
+              "id": "eric-zemmour",
+              "pct": 4
+            },
+            {
+              "candidat": "François Ruffin",
+              "id": "francois-ruffin",
+              "pct": 3
+            },
+            {
+              "candidat": "Nicolas Dupont-Aignan",
+              "id": "nicolas-dupont-aignan",
+              "pct": 2.5
+            },
+            {
+              "candidat": "Fabien Roussel",
+              "id": "fabien-roussel",
+              "pct": 1.5
+            },
+            {
+              "candidat": "Nathalie Arthaud",
+              "id": "nathalie-arthaud",
+              "pct": 0.5
+            }
+          ]
+        },
+        {
+          "label": "Hypothèse 5 : Arthaud (LO), Mélenchon (LFI), Roussel (PCF), Glucksmann (PP), Philippe (HOR), Lisnard (NE), Retailleau (LR), Dupont-Aignan (DLF), Le Pen (RN), Zemmour (REC)",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 32.5
+            },
+            {
+              "candidat": "Jean-Luc Mélenchon",
+              "id": "jean-luc-melenchon",
+              "pct": 18.5
+            },
+            {
+              "candidat": "Raphaël Glucksmann",
+              "id": "raphael-glucksmann",
+              "pct": 13.5
+            },
+            {
+              "candidat": "Édouard Philippe",
+              "id": "edouard-philippe",
+              "pct": 13
+            },
+            {
+              "candidat": "David Lisnard",
+              "id": "david-lisnard",
+              "pct": 9
+            },
+            {
+              "candidat": "Bruno Retailleau",
+              "id": "bruno-retailleau",
+              "pct": 4
+            },
+            {
+              "candidat": "Éric Zemmour",
+              "id": "eric-zemmour",
+              "pct": 3.5
+            },
+            {
+              "candidat": "Nicolas Dupont-Aignan",
+              "id": "nicolas-dupont-aignan",
+              "pct": 3
+            },
+            {
+              "candidat": "Fabien Roussel",
+              "id": "fabien-roussel",
+              "pct": 2.5
+            },
+            {
+              "candidat": "Nathalie Arthaud",
+              "id": "nathalie-arthaud",
+              "pct": 0.5
+            }
+          ]
+        },
+        {
+          "label": "Hypothèse 6 : Arthaud (LO), Mélenchon (LFI), Roussel (PCF), Tondelier (LE), Glucksmann (PP), Attal (RE), Philippe (HOR), Lisnard (NE), Retailleau (LR), Dupont-Aignan (DLF), Le Pen (RN), Zemmour (REC), Polony (NSLF), Riner (SE)",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 31
+            },
+            {
+              "candidat": "Jean-Luc Mélenchon",
+              "id": "jean-luc-melenchon",
+              "pct": 17
+            },
+            {
+              "candidat": "Raphaël Glucksmann",
+              "id": "raphael-glucksmann",
+              "pct": 10.5
+            },
+            {
+              "candidat": "Édouard Philippe",
+              "id": "edouard-philippe",
+              "pct": 9.5
+            },
+            {
+              "candidat": "David Lisnard",
+              "id": "david-lisnard",
+              "pct": 8
+            },
+            {
+              "candidat": "Teddy Riner",
+              "id": "teddy-riner",
+              "pct": 4.5
+            },
+            {
+              "candidat": "Gabriel Attal",
+              "id": "gabriel-attal",
+              "pct": 4
+            },
+            {
+              "candidat": "Bruno Retailleau",
+              "id": "bruno-retailleau",
+              "pct": 4
+            },
+            {
+              "candidat": "Marine Tondelier",
+              "id": "marine-tondelier",
+              "pct": 3
+            },
+            {
+              "candidat": "Éric Zemmour",
+              "id": "eric-zemmour",
+              "pct": 3
+            },
+            {
+              "candidat": "Nicolas Dupont-Aignan",
+              "id": "nicolas-dupont-aignan",
+              "pct": 2
+            },
+            {
+              "candidat": "Fabien Roussel",
+              "id": "fabien-roussel",
+              "pct": 1.5
+            },
+            {
+              "candidat": "Natacha Polony",
+              "id": "natacha-polony",
+              "pct": 1.5
+            },
+            {
+              "candidat": "Nathalie Arthaud",
+              "id": "nathalie-arthaud",
+              "pct": 0.5
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Les Français et l'élection présidentielle 2027 – Sondage Elabe pour BFMTV et La Tribune Dimanche (rapport, 14 novembre 2026)",
+          "url": "https://elabe.fr/fichier-pdf/13399-les-francais-et-lelection-presidentielle-2027/",
+          "media": "Elabe",
+          "date": "2026-11-14"
+        },
+        {
+          "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+          "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "media": "Wikipédia",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "id": "elabe-2026-11-13-t2",
+      "institut": "Elabe",
+      "commanditaire": "BFMTV, La Tribune Dimanche",
+      "terrainDebut": "2026-11-12",
+      "terrainFin": "2026-11-13",
+      "publication": "2026-11-14",
+      "echantillon": 1500,
+      "methode": "Questionnaire auto-administré en ligne, méthode des quotas",
+      "tour": 2,
+      "hypotheses": [
+        {
+          "label": "Mélenchon / Le Pen",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 68.5
+            },
+            {
+              "candidat": "Jean-Luc Mélenchon",
+              "id": "jean-luc-melenchon",
+              "pct": 31.5
+            }
+          ]
+        },
+        {
+          "label": "Glucksmann / Le Pen",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 55
+            },
+            {
+              "candidat": "Raphaël Glucksmann",
+              "id": "raphael-glucksmann",
+              "pct": 45
+            }
+          ]
+        },
+        {
+          "label": "Philippe / Le Pen",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 55
+            },
+            {
+              "candidat": "Édouard Philippe",
+              "id": "edouard-philippe",
+              "pct": 45
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Les Français et l'élection présidentielle 2027 – Sondage Elabe pour BFMTV et La Tribune Dimanche (rapport, 14 novembre 2026)",
+          "url": "https://elabe.fr/fichier-pdf/13399-les-francais-et-lelection-presidentielle-2027/",
+          "media": "Elabe",
+          "date": "2026-11-14"
+        },
+        {
+          "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+          "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+          "media": "Wikipédia",
+          "date": "2026-11-16"
+        }
+      ]
+    },
     {
       "id": "opinionway-2026-11-12-t1",
       "institut": "OpinionWay",

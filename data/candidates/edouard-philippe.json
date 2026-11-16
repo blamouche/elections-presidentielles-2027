@@ -8,7 +8,7 @@
   "couleur": "#1F6FB5",
   "statutCandidature": "declare",
   "candidature": {
-    "texte": "Déclaré le 3 septembre 2024 dans un entretien à l'hebdomadaire Le Point, après la dissolution de l'Assemblée nationale de juin 2024 qui a marqué sa prise de distance avec Emmanuel Macron. Campagne lancée lors d'un premier grand meeting le 5 juillet 2026. Le 8 septembre 2026, il a annoncé quitter la présidence exécutive d'Horizons à compter du 1er octobre 2026 pour se consacrer à sa campagne, Christophe Béchu, secrétaire général, prenant le relais ; il reste membre du parti. Pas d'investiture par une primaire : le 1er novembre 2026 sur TF1, il a refusé de participer à la primaire de la droite et du centre proposée par Gabriel Attal, jugeant qu'elle serait celle de la « division ». Bruno Retailleau a de son côté proposé une primaire les 31 janvier et 7 février 2027, qui devrait selon lui se tenir même sans Édouard Philippe.",
+    "texte": "Déclaré le 3 septembre 2024 dans un entretien à l'hebdomadaire Le Point, après la dissolution de l'Assemblée nationale de juin 2024 qui a marqué sa prise de distance avec Emmanuel Macron. Campagne lancée lors d'un premier grand meeting le 5 juillet 2026. Le 8 septembre 2026, il a annoncé quitter la présidence exécutive d'Horizons à compter du 1er octobre 2026 pour se consacrer à sa campagne, Christophe Béchu, secrétaire général, prenant le relais ; il reste membre du parti. Pas d'investiture par une primaire : le 1er novembre 2026 sur TF1, il a refusé de participer à la primaire de la droite et du centre proposée par Gabriel Attal, jugeant qu'elle serait celle de « la division » et de « la confusion », et souhaite que les candidats les moins bien placés se rallient au mieux placé. Le 10 novembre 2026, Bruno Retailleau a écrit à Édouard Philippe, Gabriel Attal et David Lisnard pour proposer une primaire de la droite et du centre les 31 janvier et 7 février 2027 ; les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard doivent se réunir le 17 novembre 2026 pour en préparer l'organisation, un siège étant réservé à l'équipe d'Édouard Philippe. Le 14 novembre, le président du Sénat Gérard Larcher a proposé aux quatre candidats de se retrouver « dans les meilleurs délais » pour fixer « la méthode de départage » permettant d'aboutir à une candidature unique « au début de l'année prochaine ». Le 15 novembre, dans Le Parisien, Édouard Philippe a de nouveau refusé : « Cette primaire, je n'y participerai pas. Point. », tout en se disant prêt à une réunion consacrée au rassemblement plutôt qu'au mode de désignation. Après la lettre du 10 novembre, son porte-parole Jérémie Patrier-Leitus avait indiqué sur BFMTV qu'il ne participerait à une primaire à aucune date.",
     "date": "2024-09-03",
     "sources": [
       {
@@ -64,6 +64,30 @@
         "url": "https://www.boursorama.com/actualite-economique/actualites/retailleau-juge-que-la-primaire-doit-se-faire-meme-sans-philippe-1c232913a9486dae718d8aa85a692c69",
         "media": "AFP / Boursorama",
         "date": "2026-11-12"
+      },
+      {
+        "titre": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
+        "url": "https://www.france24.com/fr/france/20261111-bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-f%C3%A9vrier",
+        "media": "France 24 (avec AFP)",
+        "date": "2026-11-11"
+      },
+      {
+        "titre": "Quand ? Avec qui ? Comment ? A droite et au centre, l'idée d'une primaire fait encore débat à six mois de la présidentielle",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/quand-avec-qui-comment-a-droite-et-au-centre-l-idee-d-une-primaire-fait-encore-debat-a-six-mois-de-la-presidentielle_8277515.html",
+        "media": "franceinfo (avec AFP)",
+        "date": "2026-11-12"
+      },
+      {
+        "titre": "Présidentielle 2027 : \"Cette primaire, je n'y participerai pas\", répète Edouard Philippe après l'appel de Gérard Larcher",
+        "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html",
+        "media": "franceinfo (direct)",
+        "date": "2026-11-15"
+      },
+      {
+        "titre": "Présidentielle en France: Édouard Philippe accepte de discuter avec la droite et le centre mais refuse toujours une primaire",
+        "url": "https://fr.news.yahoo.com/presidentielle-france-edouard-philippe-accepte-082750305.html",
+        "media": "RFI (via Yahoo Actualités)",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -654,7 +678,7 @@
   },
   "programme": {
     "statut": "Programme complet publié",
-    "resume": "Le programme, publié sur le site de campagne « Avec Édouard 2027 » et détaillé lors de « L'Heure de vérité » (France 2, 8 octobre 2026), s'organise autour de l'ordre et de la protection, d'une économie forte avec des comptes en ordre, de l'avenir des enfants et des « grands défis » (IA, énergie, climat). Il prévoit de ramener le déficit public à 2 % du PIB en fin de mandat avec une règle d'or constitutionnelle, aucun nouvel impôt pendant cinq ans, la suppression de 250 000 postes de fonctionnaires et une retraite à 65 ans avec 45 annuités. Il propose aussi de diviser par deux l'immigration, une allocation familiale unique de 350 € dès le premier enfant et un « deal » de 50 Md€ de baisse d'impôts de production contre 50 Md€ d'aides en moins. Aucun chiffrage global indépendant n'était publié au 13 novembre 2026 (l'Institut Montaigne annonce le sien pour le premier trimestre 2027).",
+    "resume": "Le programme, publié sur le site de campagne « Avec Édouard 2027 » et détaillé lors de « L'Heure de vérité » (France 2, 8 octobre 2026), s'organise autour de l'ordre et de la protection, d'une économie forte avec des comptes en ordre, de l'avenir des enfants et des « grands défis » (IA, énergie, climat). Il prévoit de ramener le déficit public à 2 % du PIB en fin de mandat avec une règle d'or constitutionnelle, aucun nouvel impôt pendant cinq ans, la suppression de 250 000 postes de fonctionnaires et une retraite à 65 ans avec 45 annuités. Il propose aussi de diviser par deux l'immigration, de construire de l'ordre de 4 millions de logements en cinq ans, de défiscaliser les heures travaillées au-delà de 35 heures négociées en entreprise, une allocation familiale unique de 350 € dès le premier enfant et un « deal » de 50 Md€ de baisse d'impôts de production contre 50 Md€ d'aides en moins. Aucun chiffrage global indépendant n'était publié au 16 novembre 2026 (l'Institut Montaigne annonce le sien pour le premier trimestre 2027).",
     "documents": [
       {
         "titre": "Le programme — Avec Édouard 2027",
@@ -908,10 +932,12 @@
         "theme": "pouvoir-achat-social",
         "type": "proposition",
         "titre": "Exonérer de cotisations deux heures supplémentaires par semaine",
-        "description": "Exonérer de cotisations sociales les salariés qui acceptent de travailler deux heures de plus par semaine, pour un gain annoncé d'environ 1 000 € par an au niveau du Smic. Le programme prévoit aussi l'absence de cotisation patronale au-delà de la 37e heure et la liberté pour les entreprises de fixer le temps de travail (fin des 35 heures).",
+        "description": "Exonérer de cotisations sociales les salariés qui acceptent de travailler deux heures de plus par semaine, pour un gain annoncé d'environ 1 000 € par an au niveau du Smic. Le programme prévoit aussi l'absence de cotisation patronale au-delà de la 37e heure et la liberté pour les entreprises de fixer le temps de travail (fin des 35 heures). Le 15 novembre 2026, dans Le Parisien, il a précisé : « Je propose que le temps de travail puisse être négocié dans l'entreprise » ; en cas d'accord pour travailler au-delà de 35 heures, les heures en plus iraient « directement dans la poche du salarié, sans impôt ni cotisation », et ce serait « zéro cotisation au-delà de 37 heures » pour les employeurs.",
         "chiffres": [
           "2 heures supplémentaires par semaine",
-          "Gain annoncé : environ 1 000 € par an pour un salarié au Smic"
+          "Gain annoncé : environ 1 000 € par an pour un salarié au Smic",
+          "Heures au-delà de 35 h (si accord d'entreprise) : sans impôt ni cotisation salariale",
+          "Zéro cotisation patronale au-delà de 37 h"
         ],
         "date": "2026-10-08",
         "sources": [
@@ -926,6 +952,12 @@
             "url": "https://www.edouardphilippe.fr/programme/entreprises",
             "media": "Site de campagne d'Édouard Philippe",
             "date": "2026-11-13"
+          },
+          {
+            "titre": "Présidentielle 2027 : \"Cette primaire, je n'y participerai pas\", répète Edouard Philippe après l'appel de Gérard Larcher",
+            "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html",
+            "media": "franceinfo (direct)",
+            "date": "2026-11-15"
           }
         ],
         "factCheck": {
@@ -946,7 +978,7 @@
         "theme": "pouvoir-achat-social",
         "type": "proposition",
         "titre": "Allocation familiale unique de 350 € par mois dès le premier enfant",
-        "description": "Remplacer le système actuel par une allocation familiale unique de 350 € par mois dès le premier enfant, ensuite dégressive avec l'impôt sur le revenu, compléter par une réduction d'impôt d'environ 3 000 € à la naissance d'un enfant pour les familles qui travaillent (zéro impôt pour les classes moyennes les trois premières années de l'enfant) et un prêt à taux zéro à chaque naissance pour acheter un logement plus grand.",
+        "description": "Remplacer le système actuel par une allocation familiale unique de 350 € par mois dès le premier enfant, ensuite dégressive avec l'impôt sur le revenu, compléter par une réduction d'impôt d'environ 3 000 € à la naissance d'un enfant pour les familles qui travaillent (zéro impôt pour les classes moyennes les trois premières années de l'enfant) et un prêt à taux zéro à chaque naissance pour acheter un logement plus grand. Il a réaffirmé ces mesures (exonération d'impôt sur le revenu pendant trois ans après une naissance, allocation de 350 € par mois dès le premier enfant) dans Le Parisien le 15 novembre 2026.",
         "chiffres": [
           "350 € par mois dès le 1er enfant",
           "Réduction d'impôt d'environ 3 000 € à la naissance",
@@ -977,6 +1009,12 @@
             "url": "https://lcp.fr/actualites/allocations-familiales-edouard-philippe-propose-350-euros-des-le-premier-enfant-443576",
             "media": "LCP",
             "date": "2026-10-09"
+          },
+          {
+            "titre": "Présidentielle 2027 : \"Cette primaire, je n'y participerai pas\", répète Edouard Philippe après l'appel de Gérard Larcher",
+            "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html",
+            "media": "franceinfo (direct)",
+            "date": "2026-11-15"
           }
         ],
         "factCheck": {
@@ -1316,8 +1354,41 @@
             }
           ]
         }
+      },
+      {
+        "id": "logements-4-millions",
+        "theme": "logement",
+        "type": "proposition",
+        "titre": "Construire de l'ordre de 4 millions de logements en cinq ans",
+        "description": "Mener « une politique massive de construction de logements (de l'ordre de 4 millions sur un quinquennat) » afin de faire baisser le poids du logement dans le budget des ménages, mesure présentée dans un entretien au Parisien le 15 novembre 2026 (rapporté par franceinfo).",
+        "chiffres": [
+          "Environ 4 millions de logements sur cinq ans",
+          "Soit environ 800 000 logements par an (calcul)",
+          "Coût et instruments : non précisés"
+        ],
+        "date": "2026-11-15",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : \"Cette primaire, je n'y participerai pas\", répète Edouard Philippe après l'appel de Gérard Larcher",
+            "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html",
+            "media": "franceinfo (direct)",
+            "date": "2026-11-15"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification de fact-checkeur n'a été trouvée au 16 novembre 2026, et le candidat ne précise ni le coût ni les instruments (foncier, fiscalité, logement social). Ordre de grandeur (calcul propre) : 4 millions de logements en cinq ans représentent environ 800 000 logements par an, soit trois fois les 264 800 logements mis en chantier en 2025 selon l'Insee (données SDES-Sitadel), plus du double des 385 400 de 2019 et près du double du plus haut niveau de la série publiée depuis 2014 (433 900 en 2017). L'objectif supposerait donc un changement d'échelle sans précédent récent ; sa faisabilité ne peut être évaluée sans détail sur les moyens.",
+          "sources": [
+            {
+              "titre": "Logements mis en chantier",
+              "url": "https://www.insee.fr/fr/statistiques/2015606",
+              "media": "Insee (données SDES, Sitadel)",
+              "date": "2026-07-09"
+            }
+          ]
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-13"
+  "derniereMiseAJour": "2026-11-16"
 }

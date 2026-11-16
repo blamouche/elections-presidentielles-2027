@@ -8,7 +8,7 @@
   "couleur": "#D8232A",
   "statutCandidature": "declare",
   "candidature": {
-    "texte": "Candidature validée par une consultation des militants du PCF du 3 au 6 septembre 2026 (72,06 % de votes favorables, environ 24 000 votants selon le parti), puis annoncée le dimanche 6 septembre 2026 au journal de 20 heures de TF1. En juillet 2026, la conférence nationale du PCF avait proposé son nom à une large majorité. Candidature autonome, en dehors de la primaire PS-Place publique et malgré les critiques de La France insoumise.",
+    "texte": "Candidature validée par une consultation des militants du PCF du 3 au 6 septembre 2026 (72,06 % de votes favorables, environ 24 000 votants selon le parti), puis annoncée le dimanche 6 septembre 2026 au journal de 20 heures de TF1. En juillet 2026, la conférence nationale du PCF avait proposé son nom à une large majorité. Candidature autonome, en dehors de la primaire PS-Place publique et malgré les critiques de La France insoumise. Le 5 novembre 2026, neuf des dix-sept députés du groupe Gauche démocrate et républicaine (GDR), dont son président Stéphane Peu, ont annoncé soutenir Jean-Luc Mélenchon plutôt que lui (quatre députés communistes et cinq ultramarins selon LCP ; trois membres du PCF selon l'AFP). Le 7 novembre, le conseil national du PCF a indiqué que « celui ou celle qui fait ce choix se met de lui-même en dehors du parti et de ses instances » : ces élus restent adhérents mais ne siègent plus dans les instances du parti. Le 8 novembre, sur ICI et franceinfo, Fabien Roussel a confirmé sa candidature (« Oui, nous irons jusqu'au bout »), en regrettant ces défections, apprises selon lui « par la presse » de manière « très inélégante » (« Ce n'est pas une hémorragie, ils sont trois »). Il était alors crédité de 2 à 3 % des intentions de vote selon l'AFP. Le 10 novembre, Stéphane Peu a annoncé que le groupe GDR, qui « abrite en son sein au moins quatre positions différentes sur l'élection présidentielle », ne parlerait plus de la présidentielle dans l'hémicycle ni lors de sa conférence de presse hebdomadaire.",
     "date": "2026-09-06",
     "sources": [
       {
@@ -34,6 +34,30 @@
         "url": "https://fr.news.yahoo.com/sport/presidentielle-2027-fabien-roussel-officialise-183850312.html",
         "media": "Yahoo Actualités (Le HuffPost)",
         "date": "2026-09-06"
+      },
+      {
+        "titre": "Présidentielle: la moitié des députés communistes choisissent Jean-Luc Mélenchon plutôt que Fabien Roussel",
+        "url": "https://lcp.fr/actualites/presidentielle-la-moitie-des-deputes-communistes-choisissent-jean-luc-melenchon-plutot",
+        "media": "LCP",
+        "date": "2026-11-05"
+      },
+      {
+        "titre": "Écarté des instances du PCF après son soutien à Jean-Luc Mélenchon, Stéphane Peu…",
+        "url": "https://lcp.fr/actualites/ecarte-des-instances-du-pcf-apres-son-soutien-a-jean-luc-melenchon-stephane-peu-veut",
+        "media": "LCP",
+        "date": "2026-11-07"
+      },
+      {
+        "titre": "Présidentielle : malgré les défections, Roussel ira jusqu'au bout",
+        "url": "https://www.lagazettefrance.fr/article/presidentielle-malgre-les-defections-roussel-ira-jusqu-au-bout",
+        "media": "La Gazette France (AFP)",
+        "date": "2026-11-08"
+      },
+      {
+        "titre": "Présidentielle 2027 : divisés entre Mélenchon et Roussel, les députés communistes…",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-divises-entre-melenchon-et-roussel-les-deputes-communistes-s",
+        "media": "LCP",
+        "date": "2026-11-10"
       }
     ]
   },
@@ -474,7 +498,7 @@
         ],
         "factCheck": {
           "verdict": "non-verifie",
-          "analyse": "Aucune vérification ou chiffrage indépendant de la mesure n'a été trouvé pour la campagne 2027. Ordre de grandeur : le SMIC est de 1 867,02 € brut depuis le 1er juin 2026, soit environ 1 478 € net (LégiSocial) ; 1 600 € net représenteraient une hausse d'environ 8 %. L'équivalence « 2 021 € brut » de la page du PCF repose sur les taux de 2021 (l'Institut Montaigne retenait environ 2 000 € brut pour 1 600 € net en 2024). Pour une hausse plus forte (de 1 398,70 € à 1 600 € net, +14,4 %, programme du NFP en 2024), l'Institut Montaigne estimait le coût pour les finances publiques à environ 19 Md€ par an et l'effet sur l'emploi à environ -300 000 postes à moyen terme. Le PCF estime à environ 50 Md€ le coût pour les entreprises de la hausse du SMIC et de la reconnaissance des qualifications, et à environ 140 Md€ celui de l'égalité salariale femmes-hommes, sans évaluation externe.",
+          "analyse": "Aucune vérification ou chiffrage indépendant de la mesure n'a été trouvé pour la campagne 2027. Ordre de grandeur : le SMIC est de 1 867,02 € brut depuis le 1er juin 2026, soit environ 1 478 € net (LégiSocial) ; 1 600 € net représenteraient une hausse d'environ 8 %. L'équivalence « 2 021 € brut » de la page du PCF repose sur les taux de 2021 (l'Institut Montaigne retenait environ 2 000 € brut pour 1 600 € net en 2024). Pour une hausse plus forte (de 1 398,70 € à 1 600 € net, +14,4 %, programme du NFP en 2024), l'Institut Montaigne estimait le coût pour les finances publiques à environ 19 Md€ par an et l'effet sur l'emploi à environ -300 000 postes à moyen terme. Le PCF estime à environ 50 Md€ le coût pour les entreprises de la hausse du SMIC et de la reconnaissance des qualifications, et à environ 140 Md€ celui de l'égalité salariale femmes-hommes, sans évaluation externe. Mise à jour (16/11/2026) : le 9 novembre 2026, le Premier ministre a annoncé une revalorisation du SMIC au 1er décembre 2026 (+1 % de revalorisation automatique et +0,6 % de « coup de pouce »), qui porte le SMIC net à environ 1 502 € par mois (AFP) ; par rapport à ce niveau, 1 600 € net représenteraient une hausse d'environ 6,5 %.",
           "sources": [
             {
               "titre": "Augmenter le SMIC à 1 600 € net (programme du Nouveau Front populaire)",
@@ -493,6 +517,12 @@
               "url": "https://www.pcf.fr/moyen_1",
               "media": "PCF (site officiel)",
               "date": "2026-11-13"
+            },
+            {
+              "titre": "Lecornu donne un coup de pouce au Smic, les syndicats entre colère et expectative",
+              "url": "https://www.dhnet.be/dernieres-depeches/2026/11/09/sans-latitude-lecornu-tente-de-repondre-a-la-colere-sociale-KWCY3XBQXBFR3JX7E55UFVXLVQ/",
+              "media": "La DH (AFP)",
+              "date": "2026-11-09"
             }
           ]
         }
@@ -980,5 +1010,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-13"
+  "derniereMiseAJour": "2026-11-16"
 }

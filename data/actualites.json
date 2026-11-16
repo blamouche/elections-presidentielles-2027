@@ -1,0 +1,698 @@
+{
+  "miseAJour": "2026-11-16",
+  "periode": "2026-11-01/2026-11-16",
+  "items": [
+    {
+      "date": "2026-11-16",
+      "candidats": [
+        "marine-le-pen",
+        "jordan-bardella"
+      ],
+      "categorie": "programme",
+      "titre": "Le RN annonce la présentation de son projet de réforme des retraites pour le 17 novembre",
+      "sources": [
+        {
+          "titre": "Marine Le Pen cherche à concilier promesses électorales et réalité budgétaire",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/marine-le-pen-cherche-a-concilier-promesses-electorales-et-realite-budgetaire-e0aec0c412a9d56ea873bc2a4b67a9d4",
+          "media": "Reuters (via Boursorama)",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "candidats": [
+        "edouard-philippe"
+      ],
+      "categorie": "candidature",
+      "titre": "Dans Le Parisien, Édouard Philippe répète : « Cette primaire, je n'y participerai pas. Point. »",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : \"Cette primaire, je n'y participerai pas\", répète Edouard Philippe après l'appel de Gérard Larcher",
+          "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html",
+          "media": "franceinfo (direct)",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "candidats": [
+        "edouard-philippe"
+      ],
+      "categorie": "programme",
+      "titre": "Édouard Philippe propose de défiscaliser les heures au-delà de 35 heures et environ 4 millions de logements",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : \"Cette primaire, je n'y participerai pas\", répète Edouard Philippe après l'appel de Gérard Larcher",
+          "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html",
+          "media": "franceinfo (direct)",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "candidats": [
+        "marine-le-pen"
+      ],
+      "categorie": "programme",
+      "titre": "Sur LCP, Marine Le Pen promet le permis gratuit et renonce à interdire la double nationalité",
+      "sources": [
+        {
+          "titre": "Permis gratuit, APL, climatisation des écoles: Marine Le Pen passe son 'Brevet présidentiel'",
+          "url": "https://lcp.fr/actualites/permis-gratuit-apl-climatisation-des-ecoles-marine-le-pen-passe-son-brevet-presidentiel",
+          "media": "LCP",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "candidats": [
+        "bruno-retailleau",
+        "david-lisnard",
+        "gabriel-attal",
+        "edouard-philippe"
+      ],
+      "categorie": "candidature",
+      "titre": "Gérard Larcher propose aux quatre candidats de se réunir pour fixer une méthode de départage",
+      "sources": [
+        {
+          "titre": "Présidentielle en France: Édouard Philippe accepte de discuter avec la droite et le centre mais refuse toujours une primaire",
+          "url": "https://fr.news.yahoo.com/presidentielle-france-edouard-philippe-accepte-082750305.html",
+          "media": "RFI (via Yahoo Actualités)",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "candidats": [
+        "raphael-glucksmann"
+      ],
+      "categorie": "programme",
+      "titre": "Glucksmann diffuse un tract de dix propositions, dont le SMIC à 1 700 € net, et prépare un meeting le 6 décembre",
+      "sources": [
+        {
+          "titre": "INFO FRANCEINFO. Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour « sortir de la crise »",
+          "url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/info-franceinfo-raphael-glucksmann-va-diffuser-ce-week-end-un-tract-presentant-dix-propositions-pour-sortir-de-la-crise_8261228.html",
+          "media": "franceinfo",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "candidats": [
+        "marine-le-pen",
+        "jean-luc-melenchon"
+      ],
+      "categorie": "sondage",
+      "titre": "Sondage Elabe : Marine Le Pen en tête (31 à 33 %), Jean-Luc Mélenchon deuxième (17 à 18,5 %)",
+      "sources": [
+        {
+          "titre": "Les Français et l'élection présidentielle 2027 – Sondage Elabe pour BFMTV et La Tribune Dimanche (rapport, 14 novembre 2026)",
+          "url": "https://elabe.fr/fichier-pdf/13399-les-francais-et-lelection-presidentielle-2027/",
+          "media": "Elabe",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "candidats": [
+        "bruno-retailleau"
+      ],
+      "categorie": "autre",
+      "titre": "Bruno Retailleau déclare n'avoir « pas de prêt bancaire » pour sa campagne et met en cause le gouvernement",
+      "sources": [
+        {
+          "titre": "Bruno Retailleau, le candidat des Républicains à la présidentielle, n'a \"pas de prêt bancaire\" et accuse le gouvernement",
+          "url": "https://www.franceinfo.fr/elections/le-candidat-des-republicains-a-la-presidentielle-bruno-retailleau-n-a-pas-de-pret-bancaire-et-accuse-le-gouvernement_8280719.html",
+          "media": "franceinfo (avec AFP)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "candidats": [
+        "gabriel-attal"
+      ],
+      "categorie": "programme",
+      "titre": "Gabriel Attal promet qu'aucun poste ne serait supprimé dans l'Éducation nationale s'il est élu",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : Gabriel Attal promet qu'il n'y aura \"pas de poste supprimé\" dans l'Éducation nationale s'il est élu",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-le-candidat-renaissance-gabriel-attal-promet-qu-il-n-y-aura-pas-de-poste-supprime-dans-l-education-nationale-s-il-est-elu_8278985.html",
+          "media": "franceinfo",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "candidats": [
+        "marine-tondelier"
+      ],
+      "categorie": "programme",
+      "titre": "Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030 en France",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-marine-tondelier-promet-l-ouverture-de-2-000-centres-de-sante-d-ici-2030-en-france_8279639.html",
+          "media": "franceinfo",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "candidats": [
+        "gabriel-attal",
+        "bruno-retailleau",
+        "david-lisnard",
+        "edouard-philippe"
+      ],
+      "categorie": "candidature",
+      "titre": "Les directeurs de campagne d'Attal, Retailleau et Lisnard se réuniront le 17 novembre ; le camp Philippe refuse",
+      "sources": [
+        {
+          "titre": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
+          "url": "https://www.france24.com/fr/france/20261111-bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-f%C3%A9vrier",
+          "media": "France 24 (avec AFP)",
+          "date": "2026-11-11"
+        },
+        {
+          "titre": "Quand ? Avec qui ? Comment ? A droite et au centre, l'idée d'une primaire fait encore débat à six mois de la présidentielle",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/quand-avec-qui-comment-a-droite-et-au-centre-l-idee-d-une-primaire-fait-encore-debat-a-six-mois-de-la-presidentielle_8277515.html",
+          "media": "franceinfo (avec AFP)",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "candidats": [
+        "marine-le-pen"
+      ],
+      "categorie": "programme",
+      "titre": "Plus de cent constitutionnalistes critiquent le référendum par l'article 11 proposé par Marine Le Pen",
+      "sources": [
+        {
+          "titre": "Plus de cent constitutionnalistes critiquent le référendum pour changer la Constitution tel que proposé par Marine Le Pen",
+          "url": "https://www.franceinfo.fr/politique/marine-le-pen/plus-de-cent-constitutionnalistes-critiquent-le-referendum-pour-changer-la-constitution-tel-que-propose-par-marine-le-pen_8278388.html",
+          "media": "franceinfo",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "candidats": [
+        "bruno-retailleau",
+        "edouard-philippe",
+        "gabriel-attal",
+        "david-lisnard"
+      ],
+      "categorie": "candidature",
+      "titre": "Bruno Retailleau écrit à Philippe, Attal et Lisnard pour proposer une primaire les 31 janvier et 7 février",
+      "sources": [
+        {
+          "titre": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
+          "url": "https://www.france24.com/fr/france/20261111-bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-f%C3%A9vrier",
+          "media": "France 24 (avec AFP)",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "candidats": [
+        "eric-zemmour"
+      ],
+      "categorie": "candidature",
+      "titre": "Éric Zemmour officialise sa candidature au 20 heures de TF1 et promet « deux millions d'immigrés en moins »",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : Éric Zemmour, président du parti Reconquête, officialise sa candidature",
+          "url": "https://www.ici.fr/infos/politique/presidentielle-2027-eric-zemmour-officialise-sa-candidature-pour-conserver-une-france-francaise-2617133?at_chaine=ici&at_date=2026-11-10&at_detail=isere",
+          "media": "ICI",
+          "date": "2026-11-10"
+        },
+        {
+          "titre": "Éric Zemmour confirme sa candidature à la présidentielle pour \"enrayer le déclin\"",
+          "url": "https://france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin",
+          "media": "France 24",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "candidats": [
+        "jordan-bardella"
+      ],
+      "categorie": "judiciaire",
+      "titre": "Le parquet de Paris reçoit la plainte de Jordan Bardella pour faux après l'enquête de Mediapart",
+      "sources": [
+        {
+          "titre": "Accusations d'antisémitisme : Bardella a porté plainte pour faux et usage de faux",
+          "url": "https://www.france24.com/fr/info-en-continu/20261112-accusations-d-antis%C3%A9mitisme-bardella-a-port%C3%A9-plainte-pour-faux-et-usage-de-faux",
+          "media": "France 24 (AFP)",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "candidats": [
+        "fabien-roussel",
+        "jean-luc-melenchon"
+      ],
+      "categorie": "autre",
+      "titre": "Divisé sur la présidentielle, le groupe GDR renonce à en parler dans l'hémicycle et en conférence de presse",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : divisés entre Mélenchon et Roussel, les députés communistes…",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-divises-entre-melenchon-et-roussel-les-deputes-communistes-s",
+          "media": "LCP",
+          "date": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "candidats": [
+        "teddy-riner"
+      ],
+      "categorie": "candidature",
+      "titre": "Le judoka Teddy Riner annonce sa candidature à l'élection présidentielle, « ni de droite, ni de gauche »",
+      "sources": [
+        {
+          "titre": "Le judoka Teddy Riner annonce sa candidature à l'élection présidentielle de 2027",
+          "url": "https://lcp.fr/actualites/le-judoka-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-de-2027-444920",
+          "media": "LCP",
+          "date": "2026-11-09"
+        },
+        {
+          "titre": "Présidentielle 2027 : le judoka Teddy Riner se lance dans la course à l'Élysée, au milieu d'une multitude de candidats",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats",
+          "media": "Public Sénat",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "candidats": [
+        "marine-le-pen"
+      ],
+      "categorie": "autre",
+      "titre": "Sur la chaîne américaine CBS, Marine Le Pen affirme qu'il n'y a « pas de discriminations en France »",
+      "sources": [
+        {
+          "titre": "\"Pas de discriminations en France\" : les affirmations de Marine Le Pen sur la chaîne américaine CBS à l'épreuve des chiffres",
+          "url": "https://www.franceinfo.fr/politique/marine-le-pen/pas-de-discriminations-en-france-les-affirmations-de-marine-le-pen-sur-la-chaine-americaine-cbs-a-l-epreuve-des-chiffres_8275217.html",
+          "media": "franceinfo",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "candidats": [
+        "raphael-glucksmann"
+      ],
+      "categorie": "programme",
+      "titre": "Glucksmann présente un plan de 200 milliards d'euros d'investissements publics pour sortir des énergies fossiles",
+      "sources": [
+        {
+          "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles",
+          "url": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
+          "media": "France 24 (AFP)",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "candidats": [
+        "karim-bouamrane"
+      ],
+      "categorie": "candidature",
+      "titre": "Sur Sud Radio, Karim Bouamrane réaffirme être candidat à l'élection présidentielle",
+      "sources": [
+        {
+          "titre": "Karim Bouamrane : « Il faut arrêter de regarder Mélenchon comme le Superman de la gauche »",
+          "url": "https://www.sudradio.fr/linvite-politique/karim-bouamrane-il-faut-arreter-de-regarder-melenchon-comme-le-superman-de-la-gauche",
+          "media": "Sud Radio",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "candidats": [
+        "marine-tondelier"
+      ],
+      "categorie": "autre",
+      "titre": "Marine Tondelier qualifie de « provocation » le coup de pouce de 0,6 % au SMIC annoncé par le gouvernement",
+      "sources": [
+        {
+          "titre": "Lecornu donne un coup de pouce au Smic, les syndicats entre colère et expectative",
+          "url": "https://www.dhnet.be/dernieres-depeches/2026/11/09/sans-latitude-lecornu-tente-de-repondre-a-la-colere-sociale-KWCY3XBQXBFR3JX7E55UFVXLVQ/",
+          "media": "La DH (AFP)",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "candidats": [],
+      "categorie": "candidature",
+      "titre": "Laurent Wauquiez réclame une rencontre des candidats de droite sous quinze jours pour s'accorder sur un nom unique",
+      "sources": [
+        {
+          "titre": "\"Que ce jeu de massacre cesse\" : Laurent Wauquiez veut une rencontre des candidats de droite à la présidentielle dans les 15 jours pour s'accorder sur un nom",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/que-ce-jeu-de-massacre-cesse-laurent-wauquiez-veut-une-rencontre-des-candidats-de-droite-a-la-presidentielle-dans-les-15-jours-pour-aboutir-a-un-seul-nom_8273387.html",
+          "media": "franceinfo",
+          "date": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "candidats": [
+        "fabien-roussel"
+      ],
+      "categorie": "candidature",
+      "titre": "Malgré les défections de députés, Fabien Roussel maintient sa candidature : « Oui, nous irons jusqu'au bout »",
+      "sources": [
+        {
+          "titre": "Présidentielle : malgré les défections, Roussel ira jusqu'au bout",
+          "url": "https://www.lagazettefrance.fr/article/presidentielle-malgre-les-defections-roussel-ira-jusqu-au-bout",
+          "media": "La Gazette France (AFP)",
+          "date": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "candidats": [
+        "fabien-roussel",
+        "jean-luc-melenchon"
+      ],
+      "categorie": "ralliement",
+      "titre": "Le conseil national du PCF écarte de ses instances les adhérents soutenant un autre candidat que Roussel",
+      "sources": [
+        {
+          "titre": "Écarté des instances du PCF après son soutien à Jean-Luc Mélenchon, Stéphane Peu…",
+          "url": "https://lcp.fr/actualites/ecarte-des-instances-du-pcf-apres-son-soutien-a-jean-luc-melenchon-stephane-peu-veut",
+          "media": "LCP",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "candidats": [
+        "jean-luc-melenchon"
+      ],
+      "categorie": "programme",
+      "titre": "Au Bourget, Jean-Luc Mélenchon présente son programme et affirme qu'il ne déviera pas de sa ligne",
+      "sources": [
+        {
+          "titre": "Sûr de sa force, Mélenchon prévient en meeting qu'il ne déviera pas de sa ligne",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/sur-de-sa-force-melenchon-previent-en-meeting-qu-il-ne-deviera-pas-de-sa-ligne-132cad1c2c97609065388aa54215be59",
+          "media": "AFP (via Boursorama)",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "candidats": [
+        "raphael-glucksmann"
+      ],
+      "categorie": "autre",
+      "titre": "Glucksmann juge que la large coalition suggérée par Emmanuel Macron « décrédibilise la politique »",
+      "sources": [
+        {
+          "titre": "La large coalition suggérée par Macron « décrédibilise la politique », estime Glucksmann",
+          "url": "https://www.lagazettefrance.fr/article/la-large-coalition-suggeree-par-macron-decredibilise-la-politique-estime-glucksmann",
+          "media": "La Gazette France (AFP)",
+          "date": "2026-11-07"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "candidats": [
+        "jean-luc-melenchon"
+      ],
+      "categorie": "programme",
+      "titre": "LFI publie l'édition 2027 de « L'Avenir en commun », revendiquant 1 069 mesures",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
+          "media": "LCP",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "candidats": [
+        "francois-ruffin"
+      ],
+      "categorie": "candidature",
+      "titre": "François Ruffin se dit prêt à retirer sa candidature « si une solution se dégage pour battre Marine Le Pen »",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027: François Ruffin retirera sa candidature \"si une solution se dégage pour battre Marine Le Pen\"",
+          "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-2027-fran%C3%A7ois-ruffin-retirera-092541933.html",
+          "media": "BFMTV (via Yahoo Actualités)",
+          "date": "2026-11-06"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "candidats": [
+        "marine-tondelier"
+      ],
+      "categorie": "candidature",
+      "titre": "Marine Tondelier se dit candidate mais prête à se retirer ; les adhérents écologistes voteront du 10 au 13 décembre",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : « Personne ne gagnera seul », assure Marine Tondelier",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-personne-ne-gagnera-seul-assure-marine-tondelier",
+          "media": "Public Sénat",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "candidats": [
+        "bruno-retailleau",
+        "gabriel-attal",
+        "edouard-philippe"
+      ],
+      "categorie": "candidature",
+      "titre": "Au salon Euronaval, Bruno Retailleau affirme que « les héritiers du macronisme » ne pourront pas gagner la primaire",
+      "sources": [
+        {
+          "titre": "Primaire de la droite et du centre: les héritiers du macronisme ne pourront pas la gagner, affirme Retailleau",
+          "url": "https://www.lagazettefrance.fr/article/primaire-de-la-droite-et-du-centre-les-heritiers-du-macronisme-ne-pourront-pas-la-gagner-affirme-retailleau",
+          "media": "La Gazette France (dépêche AFP)",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "candidats": [
+        "jean-luc-melenchon",
+        "fabien-roussel"
+      ],
+      "categorie": "ralliement",
+      "titre": "Neuf des dix-sept députés du groupe GDR, dont son président Stéphane Peu, soutiennent Mélenchon plutôt que Roussel",
+      "sources": [
+        {
+          "titre": "Présidentielle: la moitié des députés communistes choisissent Jean-Luc Mélenchon plutôt que Fabien Roussel",
+          "url": "https://lcp.fr/actualites/presidentielle-la-moitie-des-deputes-communistes-choisissent-jean-luc-melenchon-plutot",
+          "media": "LCP",
+          "date": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "candidats": [
+        "david-lisnard",
+        "bruno-retailleau",
+        "edouard-philippe"
+      ],
+      "categorie": "sondage",
+      "titre": "Sondage Ifop-LCI : David Lisnard devance Bruno Retailleau de 2,5 à 3 points selon les hypothèses",
+      "sources": [
+        {
+          "titre": "Sondage présidentielle 2027 : un second tour Le Pen-Mélenchon assuré, la droite et le bloc central peinent à remonter, Lisnard confirme sa percée",
+          "url": "https://www.publicsenat.fr/actualites/politique/sondage-presidentielle-2027-un-second-tour-le-pen-melenchon-assure-la-droite-et-le-bloc-central-peine-a-remonter-lisnard-confirme-sa-percee",
+          "media": "Public Sénat",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "candidats": [
+        "jordan-bardella"
+      ],
+      "categorie": "programme",
+      "titre": "Jordan Bardella publie « Gouverner » (Fayard) : retraite à 62 voire 60 ans, validation des trimestres durcie",
+      "sources": [
+        {
+          "titre": "Après des jours sans, Bardella rêve déjà de ses « cent jours » à Matignon",
+          "url": "https://www.lagazettefrance.fr/article/apres-des-jours-sans-bardella-reve-deja-de-ses-cent-jours-a-matignon",
+          "media": "La Gazette France (AFP)",
+          "date": "2026-11-04"
+        },
+        {
+          "titre": "Retraites : le RN va proposer de travailler plus pour valider un trimestre, prévient Bardella",
+          "url": "https://www.moneyvox.fr/retraite/actualites/111101/retraites-le-rn-va-proposer-de-travailler-plus-pour-valider-un-trimestre-previent-bardella",
+          "media": "MoneyVox (AFP)",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "candidats": [
+        "francois-hollande",
+        "raphael-glucksmann"
+      ],
+      "categorie": "candidature",
+      "titre": "François Hollande poursuit sa campagne malgré la victoire de Glucksmann et repousse sa décision à janvier 2027",
+      "sources": [
+        {
+          "titre": "Présidentielle : Hollande ne lâche rien, malgré la victoire de Glucksmann",
+          "url": "https://www.france24.com/fr/info-en-continu/20261104-pr%C3%A9sidentielle-hollande-ne-l%C3%A2che-rien-malgr%C3%A9-la-victoire-de-glucksmann",
+          "media": "AFP / France 24",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "candidats": [
+        "bruno-retailleau",
+        "edouard-philippe",
+        "gabriel-attal",
+        "david-lisnard"
+      ],
+      "categorie": "candidature",
+      "titre": "Bruno Retailleau se rallie au principe d'une primaire et prévient qu'à défaut il ira « jusqu'au bout »",
+      "sources": [
+        {
+          "titre": "Primaire à droite et au centre : Retailleau remet la pression sur Philippe",
+          "url": "https://www.dhnet.be/dernieres-depeches/2026/11/04/primaire-a-droite-et-au-centre-retailleau-remet-la-pression-sur-philippe-C25CTRDLU5AMRJLJ2B5SM5QT6Q/",
+          "media": "La DH (dépêche AFP)",
+          "date": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "candidats": [
+        "dominique-de-villepin"
+      ],
+      "categorie": "candidature",
+      "titre": "Sur France Inter, Dominique de Villepin dit ne « pas encore » être candidat",
+      "sources": [
+        {
+          "titre": "\"Je ne suis pas encore candidat\" à la présidentielle 2027, indique Dominique de Villepin",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/je-ne-suis-pas-encore-candidat-a-la-presidentielle-2027-indique-dominique-de-villepin_8265395.html",
+          "media": "franceinfo",
+          "date": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "candidats": [
+        "eric-zemmour"
+      ],
+      "categorie": "judiciaire",
+      "titre": "L'Arcom annonce avoir signalé à la justice des propos d'Éric Zemmour tenus le 18 octobre sur LCI, BFMTV et CNews",
+      "sources": [
+        {
+          "titre": "L'Arcom saisit la justice à la suite de propos tenus par Éric Zemmour",
+          "url": "https://www.leclubdesjuristes.com/?p=18226",
+          "media": "Le Club des juristes",
+          "date": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "candidats": [
+        "gabriel-attal",
+        "edouard-philippe"
+      ],
+      "categorie": "candidature",
+      "titre": "Gabriel Attal juge une primaire de la droite et du centre « inéluctable » malgré le refus d'Édouard Philippe",
+      "sources": [
+        {
+          "titre": "\"C'est inéluctable\": Gabriel Attal s'accroche à sa primaire, malgré le refus d'Édouard Philippe",
+          "url": "https://lcp.fr/actualites/c-est-ineluctable-gabriel-attal-s-accroche-a-sa-primaire-malgre-le-refus-d-edouard",
+          "media": "LCP",
+          "date": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "candidats": [
+        "edouard-philippe",
+        "gabriel-attal"
+      ],
+      "categorie": "candidature",
+      "titre": "Sur TF1, Édouard Philippe refuse la primaire proposée par Gabriel Attal, « primaire de la division »",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027: Edouard Philippe ne veut pas de la primaire de Gabriel Attal",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-edouard-philippe-ne-veut-pas-de-la-primaire-de-gabriel-attal-444599",
+          "media": "LCP",
+          "date": "2026-11-01"
+        },
+        {
+          "titre": "Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire, source de \"division\"",
+          "url": "https://www.france24.com/fr/france/20261101-pr%C3%A9sidentielle-2027-%C3%A9douard-philippe-refuse-de-participer-%C3%A0-une-primaire-source-de-division",
+          "media": "France 24",
+          "date": "2026-11-01"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "candidats": [
+        "natacha-polony"
+      ],
+      "categorie": "ralliement",
+      "titre": "Jean-Pierre Chevènement apporte son soutien à Natacha Polony, qui revendique 174 promesses de parrainage",
+      "sources": [
+        {
+          "titre": "Présidentielle : Jean-Pierre Chevènement apporte son soutien à la candidature de Natacha Polony",
+          "url": "https://www.macommune.info/presidentielle-jean-pierre-chevenement-apporte-son-soutien-a-la-candidature-de-natacha-polony/",
+          "media": "maCommune.info (AFP)",
+          "date": "2026-11-01"
+        }
+      ]
+    }
+  ]
+}

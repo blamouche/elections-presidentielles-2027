@@ -8,7 +8,7 @@
   "couleur": "#5B6BBF",
   "statutCandidature": "declare",
   "candidature": {
-    "texte": "Après avoir affirmé sur RTL le 21 janvier 2026 qu'il serait candidat « même s'il n'y a pas de primaire », David Lisnard a officialisé sa candidature et son départ des Républicains le 31 mars 2026 au journal de 20 heures de France 2, en protestation contre le mode de désignation du candidat LR. Il se présente sous l'étiquette de Nouvelle Énergie, le mouvement qu'il a fondé en 2021, avec un projet qu'il qualifie de « libéral, sécuritaire, éducatif et scientifique », et défend une primaire ouverte de la droite et du centre. En novembre 2026, Bruno Retailleau lui a proposé, ainsi qu'à Édouard Philippe et Gabriel Attal, une primaire les 31 janvier et 7 février 2027.",
+    "texte": "Après avoir affirmé sur RTL le 21 janvier 2026 qu'il serait candidat « même s'il n'y a pas de primaire », David Lisnard a officialisé sa candidature et son départ des Républicains le 31 mars 2026 au journal de 20 heures de France 2, en protestation contre le mode de désignation du candidat LR. Il se présente sous l'étiquette de Nouvelle Énergie, le mouvement qu'il a fondé en 2021, avec un projet qu'il qualifie de « libéral, sécuritaire, éducatif et scientifique ». Partisan de longue date d'une primaire, il a soutenu fin octobre 2026 une « grande primaire de la droite » incluant Sarah Knafo (qui n'est pas candidate) et se dit prêt à participer à la primaire de la droite et du centre. Le 10 novembre 2026, Bruno Retailleau a écrit à Édouard Philippe, Gabriel Attal et David Lisnard pour proposer une primaire de la droite et du centre les 31 janvier et 7 février 2027 ; les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard doivent se réunir le 17 novembre 2026 pour en préparer l'organisation, un siège étant réservé à l'équipe d'Édouard Philippe. Le 14 novembre, le président du Sénat Gérard Larcher a proposé aux quatre candidats de se retrouver « dans les meilleurs délais » pour fixer « la méthode de départage » permettant d'aboutir à une candidature unique « au début de l'année prochaine ». Le 15 novembre, dans Le Parisien, Édouard Philippe a de nouveau refusé : « Cette primaire, je n'y participerai pas. Point. », tout en se disant prêt à une réunion consacrée au rassemblement plutôt qu'au mode de désignation. Dans le sondage Ifop pour LCI réalisé du 27 au 29 octobre 2026, il devance Bruno Retailleau de 2,5 à 3 points selon les hypothèses (jusqu'à 9 % des intentions de vote).",
     "date": "2026-03-31",
     "sources": [
       {
@@ -40,6 +40,30 @@
         "url": "https://www.boursorama.com/actualite-economique/actualites/retailleau-juge-que-la-primaire-doit-se-faire-meme-sans-philippe-1c232913a9486dae718d8aa85a692c69",
         "media": "AFP / Boursorama",
         "date": "2026-11-12"
+      },
+      {
+        "titre": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
+        "url": "https://www.france24.com/fr/france/20261111-bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-f%C3%A9vrier",
+        "media": "France 24 (avec AFP)",
+        "date": "2026-11-11"
+      },
+      {
+        "titre": "Quand ? Avec qui ? Comment ? A droite et au centre, l'idée d'une primaire fait encore débat à six mois de la présidentielle",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/quand-avec-qui-comment-a-droite-et-au-centre-l-idee-d-une-primaire-fait-encore-debat-a-six-mois-de-la-presidentielle_8277515.html",
+        "media": "franceinfo (avec AFP)",
+        "date": "2026-11-12"
+      },
+      {
+        "titre": "Présidentielle 2027 : \"Cette primaire, je n'y participerai pas\", répète Edouard Philippe après l'appel de Gérard Larcher",
+        "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html",
+        "media": "franceinfo (direct)",
+        "date": "2026-11-15"
+      },
+      {
+        "titre": "Sondage présidentielle 2027 : un second tour Le Pen-Mélenchon assuré, la droite et le bloc central peinent à remonter, Lisnard confirme sa percée",
+        "url": "https://www.publicsenat.fr/actualites/politique/sondage-presidentielle-2027-un-second-tour-le-pen-melenchon-assure-la-droite-et-le-bloc-central-peine-a-remonter-lisnard-confirme-sa-percee",
+        "media": "Public Sénat",
+        "date": "2026-11-04"
       }
     ]
   },
@@ -850,5 +874,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-13"
+  "derniereMiseAJour": "2026-11-16"
 }

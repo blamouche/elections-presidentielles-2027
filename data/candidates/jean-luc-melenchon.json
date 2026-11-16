@@ -8,7 +8,7 @@
   "couleur": "#C9452E",
   "statutCandidature": "declare",
   "candidature": {
-    "texte": "Candidature annoncée le dimanche 3 mai 2026 au journal de TF1 (« Oui, je suis candidat »), après approbation le même jour par l'intergroupe des élus insoumis (députés, eurodéputés, maires ; environ une centaine d'élus), sans autre candidature ni opposition exprimée selon le coordinateur Manuel Bompard. Il s'agit de sa quatrième candidature après 2012, 2017 et 2022. LFI refuse de participer à une primaire de la gauche. Comme en 2022, LFI s'est fixé l'objectif de recueillir 150 000 parrainages citoyens. Premier grand meeting prévu le 7 juin 2026 à Saint-Denis ; contre-budget pour 2027 présenté le 14 octobre 2026 ; programme « L'Avenir en commun » (édition 2027) publié le 6 novembre 2026, meeting au Bourget le 7 novembre 2026.",
+    "texte": "Candidature annoncée le dimanche 3 mai 2026 au journal de TF1 (« Oui, je suis candidat »), après approbation le même jour par l'intergroupe des élus insoumis (députés, eurodéputés, maires ; environ une centaine d'élus), sans autre candidature ni opposition exprimée selon le coordinateur Manuel Bompard. Il s'agit de sa quatrième candidature après 2012, 2017 et 2022. LFI refuse de participer à une primaire de la gauche. Comme en 2022, LFI s'est fixé l'objectif de recueillir 150 000 parrainages citoyens. Premier grand meeting prévu le 7 juin 2026 à Saint-Denis ; contre-budget pour 2027 présenté le 14 octobre 2026 ; programme « L'Avenir en commun » (édition 2027) publié le 6 novembre 2026, meeting au Bourget le 7 novembre 2026. Le 5 novembre 2026, neuf des dix-sept députés du groupe GDR (communistes et ultramarins), dont son président Stéphane Peu, ont annoncé soutenir sa candidature plutôt que celle de Fabien Roussel, candidat désigné du PCF ; il s'est dit « très ému de me retrouver au coude-à-coude avec le groupe communiste à nos côtés ». Un meeting est annoncé au Havre le 5 décembre 2026.",
     "date": "2026-05-03",
     "sources": [
       {
@@ -46,6 +46,24 @@
         "url": "https://www.boursorama.com/actualite-economique/actualites/sur-de-sa-force-melenchon-previent-en-meeting-qu-il-ne-deviera-pas-de-sa-ligne-132cad1c2c97609065388aa54215be59",
         "media": "AFP (dépêche reprise par Boursorama)",
         "date": "2026-11-07"
+      },
+      {
+        "titre": "Présidentielle: la moitié des députés communistes choisissent Jean-Luc Mélenchon plutôt que Fabien Roussel",
+        "url": "https://lcp.fr/actualites/presidentielle-la-moitie-des-deputes-communistes-choisissent-jean-luc-melenchon-plutot",
+        "media": "LCP",
+        "date": "2026-11-05"
+      },
+      {
+        "titre": "Écarté des instances du PCF après son soutien à Jean-Luc Mélenchon, Stéphane Peu…",
+        "url": "https://lcp.fr/actualites/ecarte-des-instances-du-pcf-apres-son-soutien-a-jean-luc-melenchon-stephane-peu-veut",
+        "media": "LCP",
+        "date": "2026-11-07"
+      },
+      {
+        "titre": "INFO FRANCEINFO. Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour « sortir de la crise »",
+        "url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/info-franceinfo-raphael-glucksmann-va-diffuser-ce-week-end-un-tract-presentant-dix-propositions-pour-sortir-de-la-crise_8261228.html",
+        "media": "franceinfo",
+        "date": "2026-11-14"
       }
     ]
   },
@@ -871,7 +889,7 @@
         ],
         "factCheck": {
           "verdict": "non-verifie",
-          "analyse": "Aucun chiffrage indépendant de la mesure dans sa version 2027 n'a été trouvé, et le contre-budget publié par LFI le 14 octobre 2026 ne lui attribue pas de coût. Ordre de grandeur : depuis la revalorisation du 1er juin 2026, le SMIC est de 1 867,02 € brut, soit environ 1 478 € net (LégiSocial) ; 1 700 € net représente une hausse d'environ 15 %. Pour une hausse comparable (SMIC porté de 1 398,70 € à 1 600 € net, soit +14,4 %, programme du NFP en 2024), l'Institut Montaigne estimait le coût pour les finances publiques à environ 19 Md€ par an (17 à 21 Md€), surtout via les allègements de cotisations, et un effet négatif sur l'emploi d'environ 300 000 postes à moyen terme (estimation incertaine). Ces repères ne constituent pas un chiffrage de la mesure 2027.",
+          "analyse": "Aucun chiffrage indépendant de la mesure dans sa version 2027 n'a été trouvé, et le contre-budget publié par LFI le 14 octobre 2026 ne lui attribue pas de coût. Ordre de grandeur : depuis la revalorisation du 1er juin 2026, le SMIC est de 1 867,02 € brut, soit environ 1 478 € net (LégiSocial) ; 1 700 € net représente une hausse d'environ 15 %. Pour une hausse comparable (SMIC porté de 1 398,70 € à 1 600 € net, soit +14,4 %, programme du NFP en 2024), l'Institut Montaigne estimait le coût pour les finances publiques à environ 19 Md€ par an (17 à 21 Md€), surtout via les allègements de cotisations, et un effet négatif sur l'emploi d'environ 300 000 postes à moyen terme (estimation incertaine). Ces repères ne constituent pas un chiffrage de la mesure 2027. Mise à jour (16/11/2026) : le 9 novembre 2026, le Premier ministre a annoncé une revalorisation du SMIC au 1er décembre 2026 (+1 % de revalorisation automatique et +0,6 % de « coup de pouce »), qui porte le SMIC net à environ 1 502 € par mois (AFP) ; par rapport à ce niveau, 1 700 € net représenteraient une hausse d'environ 13 %.",
           "sources": [
             {
               "titre": "Montant du SMIC 2026 : taux horaire net et brut",
@@ -896,6 +914,12 @@
               "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
               "media": "Mélenchon 2027 (site de campagne)",
               "date": "2026-10-14"
+            },
+            {
+              "titre": "Lecornu donne un coup de pouce au Smic, les syndicats entre colère et expectative",
+              "url": "https://www.dhnet.be/dernieres-depeches/2026/11/09/sans-latitude-lecornu-tente-de-repondre-a-la-colere-sociale-KWCY3XBQXBFR3JX7E55UFVXLVQ/",
+              "media": "La DH (AFP)",
+              "date": "2026-11-09"
             }
           ]
         }
@@ -1528,5 +1552,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-13"
+  "derniereMiseAJour": "2026-11-16"
 }

@@ -1,20 +1,307 @@
 {
-  "miseAJour": "2026-11-13",
+  "miseAJour": "2026-11-16",
   "declarees": [
-    { "nom": "Mira Markovic", "parti": "Parti animaliste", "detail": "Candidature recensée par LCP ; aucune autre confirmation de presse nationale trouvée.", "sources": [{ "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932", "media": "LCP", "date": "2026-11-10" }] },
-    { "nom": "Clara Egger", "parti": "Solution démocratique", "detail": "Déclarée le 20 avril 2026.", "sources": [{ "titre": "Présidentielle 2027 : le point sur toutes les candidatures", "url": "https://www.sudradio.fr/politique/presidentielle-2027-le-point-sur-toutes-les-candidatures", "media": "Sud Radio", "date": "2026-08-24" }] },
-    { "nom": "Antoine Mikolajczak", "parti": "Équinoxe", "detail": "Déclaré le 27 juin 2026.", "sources": [{ "titre": "Présidentielle 2027 : le point sur toutes les candidatures", "url": "https://www.sudradio.fr/politique/presidentielle-2027-le-point-sur-toutes-les-candidatures", "media": "Sud Radio", "date": "2026-08-24" }] },
-    { "nom": "Benoît Mathieu", "parti": "Non précisé", "detail": "Candidature déclarée, recensée par Public Sénat.", "sources": [{ "titre": "Présidentielle 2027 : le dernier décompte des candidats déjà sur la ligne de départ", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-dernier-decompte-des-candidats-deja-sur-la-ligne-de-depart", "media": "Public Sénat", "date": "2026-09-18" }] },
-    { "nom": "Augustin Billetdoux, Joël Chevé (La France adulte), Christian Collovati, Sylvain Durif, Jean-François Legendre (À nous maintenant), Manolo Mlekuz (Trajectoire), Erwan Rohou (Mouvement écologiste indépendant)", "parti": "Divers", "detail": "Candidatures déclarées, très peu couvertes par la presse ; l'obtention des 500 parrainages (clôture le 12 mars 2027) n'est pas assurée.", "sources": [{ "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932", "media": "LCP", "date": "2026-11-10" }] }
+    {
+      "nom": "Mira Markovic",
+      "parti": "Parti animaliste",
+      "detail": "Psychologue ; défend la fin de l'élevage intensif, de la chasse et de la corrida. Candidature recensée par franceinfo (point au 9 novembre 2026) et LCP (mise à jour du 14 novembre 2026).",
+      "sources": [
+        {
+          "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "media": "franceinfo",
+          "date": "2026-11-09"
+        },
+        {
+          "titre": "Présidentielle 2027: la liste des candidats déclarés et potentiels",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+          "media": "LCP",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "nom": "Clara Egger",
+      "parti": "Solution démocratique",
+      "detail": "Politologue, défend le référendum d'initiative citoyenne. Déclarée le 20 avril 2026 ; toujours recensée par franceinfo (9 novembre 2026) et LCP (14 novembre 2026).",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : le point sur toutes les candidatures",
+          "url": "https://www.sudradio.fr/politique/presidentielle-2027-le-point-sur-toutes-les-candidatures",
+          "media": "Sud Radio",
+          "date": "2026-08-24"
+        },
+        {
+          "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "media": "franceinfo",
+          "date": "2026-11-09"
+        },
+        {
+          "titre": "Présidentielle 2027: la liste des candidats déclarés et potentiels",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+          "media": "LCP",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "nom": "Antoine Mikolajczak",
+      "parti": "Équinoxe",
+      "detail": "Ingénieur de 28 ans. Déclaré le 27 juin 2026 ; toujours recensé par franceinfo (9 novembre 2026) et LCP (14 novembre 2026).",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : le point sur toutes les candidatures",
+          "url": "https://www.sudradio.fr/politique/presidentielle-2027-le-point-sur-toutes-les-candidatures",
+          "media": "Sud Radio",
+          "date": "2026-08-24"
+        },
+        {
+          "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "media": "franceinfo",
+          "date": "2026-11-09"
+        },
+        {
+          "titre": "Présidentielle 2027: la liste des candidats déclarés et potentiels",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+          "media": "LCP",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "nom": "Benoît Mathieu",
+      "parti": "Sans parti",
+      "detail": "Ingénieur qui sillonne la France à vélo pour réunir les 500 parrainages. Recensé par Public Sénat, franceinfo (9 novembre 2026) et LCP (14 novembre 2026).",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : le dernier décompte des candidats déjà sur la ligne de départ",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-dernier-decompte-des-candidats-deja-sur-la-ligne-de-depart",
+          "media": "Public Sénat",
+          "date": "2026-09-18"
+        },
+        {
+          "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "media": "franceinfo",
+          "date": "2026-11-09"
+        },
+        {
+          "titre": "Présidentielle 2027: la liste des candidats déclarés et potentiels",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+          "media": "LCP",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "nom": "Augustin Billetdoux, Joël Chevé (La France adulte), Christian Collovati, Sylvain Durif, Jean-François Legendre (À nous maintenant), Manolo Mlekuz (Trajectoire), Erwan Rohou (Mouvement écologiste indépendant)",
+      "parti": "Divers",
+      "detail": "Candidatures déclarées, très peu couvertes par la presse, toujours recensées par franceinfo (9 novembre 2026) et LCP (14 novembre 2026) ; l'obtention des 500 parrainages (clôture le 12 mars 2027) n'est pas assurée.",
+      "sources": [
+        {
+          "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "media": "franceinfo",
+          "date": "2026-11-09"
+        },
+        {
+          "titre": "Présidentielle 2027: la liste des candidats déclarés et potentiels",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+          "media": "LCP",
+          "date": "2026-11-14"
+        }
+      ]
+    }
   ],
   "evoquees": [
-    { "nom": "Christine Lagarde", "parti": "Sans parti", "detail": "Présidente de la BCE jusqu'au 7 février 2027 ; envisage de quitter la BCE pour peser dans le débat, sans vouloir concourir directement.", "sources": [{ "titre": "Lagarde envisage de quitter la BCE pour jouer un rôle dans le débat présidentiel en France", "url": "https://fr.euronews.com/2026/07/03/lagarde-envisage-de-quitter-la-bce-pour-jouer-un-role-dans-le-debat-presidentiel-en-france", "media": "Euronews", "date": "2026-07-03" }] },
-    { "nom": "Thierry Breton, Élisabeth Borne, Matthieu Pigasse", "parti": "Divers", "detail": "Ne ferment pas la porte selon LCP au 10 novembre 2026, sans démarche de candidature.", "sources": [{ "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932", "media": "LCP", "date": "2026-11-10" }] },
-    { "nom": "Laurent Wauquiez", "parti": "Les Républicains", "detail": "S'est dit « prêt » sans se déclarer ; LR a désigné Bruno Retailleau.", "sources": [{ "titre": "Un vrai homme d'État : pour leur rentrée, les Jeunes Républicains placent leurs espoirs en Laurent Wauquiez", "url": "https://www.europe1.fr/politique/un-vrai-homme-detat-pour-leur-rentree-les-jeunes-republicains-placent-leurs-espoirs-en-laurent-wauquiez-4206539", "media": "Europe 1", "date": "2026" }] }
+    {
+      "nom": "Bernard Cazeneuve",
+      "parti": "La Convention",
+      "detail": "Se dit prêt à être candidat (Le Figaro, 28 avril 2026) et affirme une « volonté pleine et entière » le 19 mai 2026, sans officialiser ; refuse la primaire socialiste (30 juillet 2026). Absent des listes de candidats déclarés de franceinfo (9 novembre) et de LCP (14 novembre 2026).",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : Bernard Cazeneuve annonce sa candidature, le barrage à Jean-Luc Mélenchon se précise",
+          "url": "https://www.europe1.fr/politique/presidentielle-2027-bernard-cazeneuve-annonce-sa-candidature-le-barrage-a-jean-luc-melenchon-se-precise-929339",
+          "media": "Europe 1",
+          "date": "2026-04-29"
+        },
+        {
+          "titre": "Présidentielle 2027: Bernard Cazeneuve fait part de sa \"volonté pleine et entière\" d'être candidat",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-bernard-cazeneuve-fait-part-de-sa-volonte-pleine-et-entiere-d-etre",
+          "media": "LCP",
+          "date": "2026-05-19"
+        },
+        {
+          "titre": "Présidentielle 2027: \"L'objectif\" de Bernard Cazeneuve est de \"devenir président de la République\"",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-l-objectif-de-bernard-cazeneuve-est-de-devenir-president-de-la",
+          "media": "LCP",
+          "date": "2026-07-30"
+        },
+        {
+          "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "media": "franceinfo",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "nom": "Christine Lagarde",
+      "parti": "Sans parti",
+      "detail": "A annoncé le 29 octobre 2026 qu'elle quittera la présidence de la BCE le 7 février 2027 ; dit ne pas vouloir refaire de politique en France et ne pas vouloir concourir directement. Toujours citée par LCP au 14 novembre 2026, qui la dit aussi pressentie pour présider le Forum économique mondial.",
+      "sources": [
+        {
+          "titre": "Lagarde envisage de quitter la BCE pour jouer un rôle dans le débat présidentiel en France",
+          "url": "https://fr.euronews.com/2026/07/03/lagarde-envisage-de-quitter-la-bce-pour-jouer-un-role-dans-le-debat-presidentiel-en-france",
+          "media": "Euronews",
+          "date": "2026-07-03"
+        },
+        {
+          "titre": "Présidentielle 2027 : Christine Lagarde va quitter la BCE pour devenir candidate en février ?",
+          "url": "https://www.sudradio.fr/sud-radio/presidentielle-2027-christine-lagarde-candidate-en-fevrier",
+          "media": "Sud Radio",
+          "date": "2026-10-29"
+        },
+        {
+          "titre": "Présidentielle 2027: la liste des candidats déclarés et potentiels",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+          "media": "LCP",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "nom": "Thierry Breton, Élisabeth Borne, Matthieu Pigasse",
+      "parti": "Divers",
+      "detail": "Ne ferment pas la porte selon LCP (mise à jour du 14 novembre 2026), sans démarche de candidature.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027: la liste des candidats déclarés et potentiels",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+          "media": "LCP",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "nom": "Laurent Wauquiez",
+      "parti": "Les Républicains",
+      "detail": "S'était dit « prêt » sans se déclarer ; LR a désigné Bruno Retailleau. Le 8 novembre 2026, redit ne pas envisager de candidature en cas de primaire et réclame une rencontre des candidats de droite sous quinze jours pour s'accorder sur un nom unique.",
+      "sources": [
+        {
+          "titre": "Un vrai homme d'État : pour leur rentrée, les Jeunes Républicains placent leurs espoirs en Laurent Wauquiez",
+          "url": "https://www.europe1.fr/politique/un-vrai-homme-detat-pour-leur-rentree-les-jeunes-republicains-placent-leurs-espoirs-en-laurent-wauquiez-4206539",
+          "media": "Europe 1",
+          "date": "2026"
+        },
+        {
+          "titre": "\"Que ce jeu de massacre cesse\" : Laurent Wauquiez veut une rencontre des candidats de droite à la présidentielle dans les 15 jours pour s'accorder sur un nom",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/que-ce-jeu-de-massacre-cesse-laurent-wauquiez-veut-une-rencontre-des-candidats-de-droite-a-la-presidentielle-dans-les-15-jours-pour-aboutir-a-un-seul-nom_8273387.html",
+          "media": "franceinfo",
+          "date": "2026-11-08"
+        }
+      ]
+    }
   ],
   "retirees": [
-    { "nom": "Gérald Darmanin", "parti": "Renaissance (ex)", "detail": "Renonce le 17 août 2026 et soutient Édouard Philippe.", "sources": [{ "titre": "Présidentielle 2027 : Gérald Darmanin ne sera pas candidat et soutient Édouard Philippe", "url": "https://lcp.fr/actualites/presidentielle-2027-gerald-darmanin-ne-sera-pas-candidat-et-soutient-edouard-philippe", "media": "LCP", "date": "2026-08-17" }] },
-    { "nom": "Olivier Faure, Ségolène Royal, Emmanuel Maurel, Jérôme Guedj", "parti": "PS / GRS", "detail": "Battus à la primaire PS-Place publique remportée par Raphaël Glucksmann dès le 1er tour le 11 octobre 2026.", "sources": [{ "titre": "Primaire socialiste : vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la…", "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la", "media": "LCP", "date": "2026-10-11" }] },
-    { "nom": "Sarah Knafo", "parti": "Reconquête", "detail": "Non candidate : Éric Zemmour porte les couleurs du parti.", "sources": [{ "titre": "Présidentielle 2027 : le dernier décompte des candidats déjà sur la ligne de départ", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-dernier-decompte-des-candidats-deja-sur-la-ligne-de-depart", "media": "Public Sénat", "date": "2026-09-18" }] }
+    {
+      "nom": "Gérald Darmanin",
+      "parti": "Renaissance (ex)",
+      "detail": "Renonce le 17 août 2026 et soutient Édouard Philippe.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : Gérald Darmanin ne sera pas candidat et soutient Édouard Philippe",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-gerald-darmanin-ne-sera-pas-candidat-et-soutient-edouard-philippe",
+          "media": "LCP",
+          "date": "2026-08-17"
+        }
+      ]
+    },
+    {
+      "nom": "Olivier Faure, Ségolène Royal, Emmanuel Maurel, Jérôme Guedj",
+      "parti": "PS / GRS",
+      "detail": "Battus à la primaire PS-Place publique remportée par Raphaël Glucksmann dès le 1er tour le 11 octobre 2026.",
+      "sources": [
+        {
+          "titre": "Primaire socialiste : vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la…",
+          "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
+          "media": "LCP",
+          "date": "2026-10-11"
+        }
+      ]
+    },
+    {
+      "nom": "François Bayrou",
+      "parti": "MoDem",
+      "detail": "Annonce ne pas être candidat à l'élection présidentielle le 10 juin 2026 (franceinfo).",
+      "sources": [
+        {
+          "titre": "L'ancien Premier ministre François Bayrou n'est \"pas candidat\" à l'élection présidentielle de 2027",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/l-ancien-premier-ministre-francois-bayrou-n-est-pas-candidat-a-l-election-presidentielle-de-2027_8054486.html",
+          "media": "franceinfo",
+          "date": "2026-06-10"
+        }
+      ]
+    },
+    {
+      "nom": "Philippe Poutou",
+      "parti": "NPA-l'Anticapitaliste",
+      "detail": "Le NPA-l'Anticapitaliste renonce le 28 juin 2026 à présenter un candidat, une première depuis 2009, et soutient Jean-Luc Mélenchon.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027: Philippe Poutou renonce à se présenter et se range derrière Jean-Luc Mélenchon",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-philippe-poutou-renonce-a-se-presenter-et-se-range-derriere-jean-luc",
+          "media": "LCP",
+          "date": "2026-06-29"
+        }
+      ]
+    },
+    {
+      "nom": "Clémentine Autain",
+      "parti": "L'Après",
+      "detail": "Candidate à la primaire unitaire de la gauche, elle en acte la fin le 11 juillet 2026 et renonce à ajouter une candidature à gauche.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : la députée Clémentine Autain acte la fin de la primaire de la gauche et ne souhaite pas « l'empilement des candidatures » dans son camp",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-la-deputee-clementine-autain-retire-sa-candidature-denoncant-l-empilement-des-candidatures-a-gauche_8103848.html",
+          "media": "franceinfo",
+          "date": "2026-07-11"
+        },
+        {
+          "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "media": "franceinfo",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "nom": "Lydie Massard",
+      "parti": "Union démocratique bretonne",
+      "detail": "Classée parmi les candidatures retirées par franceinfo (point au 9 novembre 2026).",
+      "sources": [
+        {
+          "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "media": "franceinfo",
+          "date": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "nom": "Sarah Knafo",
+      "parti": "Reconquête",
+      "detail": "Non candidate : Éric Zemmour porte les couleurs du parti.",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : le dernier décompte des candidats déjà sur la ligne de départ",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-dernier-decompte-des-candidats-deja-sur-la-ligne-de-depart",
+          "media": "Public Sénat",
+          "date": "2026-09-18"
+        }
+      ]
+    }
   ]
 }

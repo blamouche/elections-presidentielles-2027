@@ -8,7 +8,7 @@
   "couleur": "#0066CC",
   "statutCandidature": "declare",
   "candidature": {
-    "texte": "Candidature annoncée le 12 février 2026 dans une allocution de neuf minutes diffusée sur les réseaux sociaux, alors qu'il préside Les Républicains. Désigné candidat du parti le 19 avril 2026 par un vote des adhérents (73,4 % des voix selon le communiqué des Républicains du 19 avril 2026 rapporté par franceinfo, avec 60,01 % de participation et près de 46 000 votants), qui ont préféré la désignation directe à une primaire ouverte (14 %) ou fermée (12,2 %). En novembre 2026, il a proposé à Édouard Philippe, Gabriel Attal et David Lisnard une primaire de la droite et du centre les 31 janvier et 7 février 2027 ; Édouard Philippe a refusé d'y participer.",
+    "texte": "Candidature annoncée le 12 février 2026 dans une allocution de neuf minutes diffusée sur les réseaux sociaux, alors qu'il préside Les Républicains. Désigné candidat du parti le 19 avril 2026 par un vote des adhérents (73,4 % des voix selon le communiqué des Républicains du 19 avril 2026 rapporté par franceinfo, avec 60,01 % de participation et près de 46 000 votants), qui ont préféré la désignation directe à une primaire ouverte (14 %) ou fermée (12,2 %). Le 3 novembre 2026, sur BFMTV, il s'est rallié au principe d'une primaire de la droite et du centre proposée par Gabriel Attal, en prévenant qu'à défaut d'un départage par un vote, il irait « jusqu'au bout ». Le 10 novembre 2026, Bruno Retailleau a écrit à Édouard Philippe, Gabriel Attal et David Lisnard pour proposer une primaire de la droite et du centre les 31 janvier et 7 février 2027 ; les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard doivent se réunir le 17 novembre 2026 pour en préparer l'organisation, un siège étant réservé à l'équipe d'Édouard Philippe. Le 14 novembre, le président du Sénat Gérard Larcher a proposé aux quatre candidats de se retrouver « dans les meilleurs délais » pour fixer « la méthode de départage » permettant d'aboutir à une candidature unique « au début de l'année prochaine ». Le 15 novembre, dans Le Parisien, Édouard Philippe a de nouveau refusé : « Cette primaire, je n'y participerai pas. Point. », tout en se disant prêt à une réunion consacrée au rassemblement plutôt qu'au mode de désignation. Le 13 novembre 2026, sur France 2, il a indiqué ne disposer d'« aucun prêt bancaire » pour financer sa campagne, comme « la plupart des candidats », reprochant au gouvernement d'avoir retiré la garantie de l'État promise.",
     "date": "2026-02-12",
     "sources": [
       {
@@ -34,6 +34,36 @@
         "url": "https://www.boursorama.com/actualite-economique/actualites/retailleau-juge-que-la-primaire-doit-se-faire-meme-sans-philippe-1c232913a9486dae718d8aa85a692c69",
         "media": "AFP / Boursorama",
         "date": "2026-11-12"
+      },
+      {
+        "titre": "Primaire à droite et au centre : Retailleau remet la pression sur Philippe",
+        "url": "https://www.dhnet.be/dernieres-depeches/2026/11/04/primaire-a-droite-et-au-centre-retailleau-remet-la-pression-sur-philippe-C25CTRDLU5AMRJLJ2B5SM5QT6Q/",
+        "media": "La DH (dépêche AFP)",
+        "date": "2026-11-04"
+      },
+      {
+        "titre": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
+        "url": "https://www.france24.com/fr/france/20261111-bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-f%C3%A9vrier",
+        "media": "France 24 (avec AFP)",
+        "date": "2026-11-11"
+      },
+      {
+        "titre": "Quand ? Avec qui ? Comment ? A droite et au centre, l'idée d'une primaire fait encore débat à six mois de la présidentielle",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/quand-avec-qui-comment-a-droite-et-au-centre-l-idee-d-une-primaire-fait-encore-debat-a-six-mois-de-la-presidentielle_8277515.html",
+        "media": "franceinfo (avec AFP)",
+        "date": "2026-11-12"
+      },
+      {
+        "titre": "Présidentielle 2027 : \"Cette primaire, je n'y participerai pas\", répète Edouard Philippe après l'appel de Gérard Larcher",
+        "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html",
+        "media": "franceinfo (direct)",
+        "date": "2026-11-15"
+      },
+      {
+        "titre": "Bruno Retailleau, le candidat des Républicains à la présidentielle, n'a \"pas de prêt bancaire\" et accuse le gouvernement",
+        "url": "https://www.franceinfo.fr/elections/le-candidat-des-republicains-a-la-presidentielle-bruno-retailleau-n-a-pas-de-pret-bancaire-et-accuse-le-gouvernement_8280719.html",
+        "media": "franceinfo (avec AFP)",
+        "date": "2026-11-13"
       }
     ]
   },
@@ -1161,5 +1191,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-13"
+  "derniereMiseAJour": "2026-11-16"
 }

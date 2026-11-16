@@ -8,7 +8,7 @@
   "couleur": "#F2B92B",
   "statutCandidature": "declare",
   "candidature": {
-    "texte": "Déclaré le 22 mai 2026 à Mur-de-Barrez (Aveyron), à l'issue d'un débat citoyen, en tant qu'ancien Premier ministre et secrétaire général de Renaissance, après plusieurs semaines de pré-campagne (livre, déplacements, réunions publiques). Pas de primaire organisée à ce stade : il plaide pour une primaire commune de la droite et du centre (dates des 31 janvier et 7 février évoquées par Bruno Retailleau), qu'Édouard Philippe refuse pour l'instant.",
+    "texte": "Déclaré le 22 mai 2026 à Mur-de-Barrez (Aveyron), à l'issue d'un débat citoyen, en tant qu'ancien Premier ministre et secrétaire général de Renaissance, après plusieurs semaines de pré-campagne (livre, déplacements, réunions publiques). Pas de primaire organisée à ce stade : fin octobre 2026, il a proposé une « grande primaire des démocrates », qu'il a qualifiée d'« inéluctable » le 2 novembre sur TF1 après le refus d'Édouard Philippe ; Bruno Retailleau et David Lisnard se sont ralliés au principe. Le 10 novembre 2026, Bruno Retailleau a écrit à Édouard Philippe, Gabriel Attal et David Lisnard pour proposer une primaire de la droite et du centre les 31 janvier et 7 février 2027 ; les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard doivent se réunir le 17 novembre 2026 pour en préparer l'organisation, un siège étant réservé à l'équipe d'Édouard Philippe. Le 14 novembre, le président du Sénat Gérard Larcher a proposé aux quatre candidats de se retrouver « dans les meilleurs délais » pour fixer « la méthode de départage » permettant d'aboutir à une candidature unique « au début de l'année prochaine ». Le 15 novembre, dans Le Parisien, Édouard Philippe a de nouveau refusé : « Cette primaire, je n'y participerai pas. Point. », tout en se disant prêt à une réunion consacrée au rassemblement plutôt qu'au mode de désignation. Dans un entretien à Sud-Ouest (novembre 2026), Gabriel Attal a dit ne pas imaginer qu'Édouard Philippe se présente en dehors d'un processus de rassemblement.",
     "date": "2026-05-22",
     "sources": [
       {
@@ -28,6 +28,30 @@
         "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
         "media": "Wikipédia",
         "date": "2026-11-13"
+      },
+      {
+        "titre": "\"C'est inéluctable\": Gabriel Attal s'accroche à sa primaire, malgré le refus d'Édouard Philippe",
+        "url": "https://lcp.fr/actualites/c-est-ineluctable-gabriel-attal-s-accroche-a-sa-primaire-malgre-le-refus-d-edouard",
+        "media": "LCP",
+        "date": "2026-11-02"
+      },
+      {
+        "titre": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
+        "url": "https://www.france24.com/fr/france/20261111-bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-f%C3%A9vrier",
+        "media": "France 24 (avec AFP)",
+        "date": "2026-11-11"
+      },
+      {
+        "titre": "Quand ? Avec qui ? Comment ? A droite et au centre, l'idée d'une primaire fait encore débat à six mois de la présidentielle",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/quand-avec-qui-comment-a-droite-et-au-centre-l-idee-d-une-primaire-fait-encore-debat-a-six-mois-de-la-presidentielle_8277515.html",
+        "media": "franceinfo (avec AFP)",
+        "date": "2026-11-12"
+      },
+      {
+        "titre": "Présidentielle 2027 : \"Cette primaire, je n'y participerai pas\", répète Edouard Philippe après l'appel de Gérard Larcher",
+        "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html",
+        "media": "franceinfo (direct)",
+        "date": "2026-11-15"
       }
     ]
   },
@@ -1169,5 +1193,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-13"
+  "derniereMiseAJour": "2026-11-16"
 }

@@ -467,6 +467,18 @@ a.chip { text-decoration: none; color: inherit; }
 .pl-hyps { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px 24px; }
 .pl-hyp .eyebrow { text-transform: none; letter-spacing: 0; font-size: 0.75rem; }
 @media (max-width: 760px) { .poll summary { grid-template-columns: 5.5rem minmax(0, 1fr); } .pl-top { grid-column: 1 / -1; } .pl-n { display: none; } }
+.actus { list-style: none; margin: 0; padding: 0; display: grid; }
+.actus li { display: grid; grid-template-columns: 5.5rem minmax(0, 1fr); gap: 12px; padding: 10px 0; border-bottom: 1px solid var(--line); }
+.actus li:last-child { border-bottom: 0; }
+.ac-date { font-size: 0.8rem; color: var(--muted); padding-top: 2px; }
+.actus p { margin: 4px 0 2px; }
+.ac-who { font-size: 0.85rem; font-weight: 600; text-decoration: none; color: var(--ink); margin-left: 8px; white-space: nowrap; }
+.cand-actus { margin: 14px 0 0; }
+.more details summary { cursor: pointer; color: var(--accent); font-size: 0.88rem; margin-top: 4px; }
+.more details[open] summary { display: none; }
+.more details p { margin-top: 0.6em; }
+.cand-actus summary { cursor: pointer; }
+@media (max-width: 560px) { .actus li { grid-template-columns: minmax(0, 1fr); gap: 2px; } }
 .dl-btn { display: inline-flex; align-items: center; gap: 6px; font: 600 0.82rem var(--font-body); color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 5px 10px; cursor: pointer; white-space: nowrap; }
 .dl-btn:hover { border-color: var(--accent); color: var(--accent); }
 .dl-btn:disabled { opacity: 0.6; cursor: progress; }
@@ -675,6 +687,28 @@ function renderNav(view) {
 }
 
 /* ---------- Vue : accueil ---------- */
+/* ---------- Actualités (data/actualites.json) ---------- */
+const ACT_CAT = { candidature: "Candidature", programme: "Programme", judiciaire: "Judiciaire", sondage: "Sondage", ralliement: "Ralliement", international: "International", autre: "Actualité" };
+const ACTUS = () => [...(DATA.actualites?.items || [])].sort((a, b) => String(b.date).localeCompare(String(a.date)));
+function actuList(items) {
+  return `<ol class="actus">${items.map((a) => `<li>
+    <span class="ac-date mono">${esc(shortDate(a.date))}</span>
+    <div><span class="pill ${a.categorie === "judiciaire" ? "warn" : a.categorie === "sondage" ? "neutral" : "accent"}">${esc(ACT_CAT[a.categorie] || "Actualité")}</span>
+      ${(a.candidats || []).filter((id) => BY_ID[id]).map((id) => `<a class="ac-who" href="#c-${esc(id)}"><span class="thdot" style="background:${esc(BY_ID[id].couleur)}"></span>${esc(fullName(BY_ID[id]))}</a>`).join("")}
+      <p>${esc(a.titre)}</p>${srcLinks(a.sources, "")}</div>
+  </li>`).join("")}</ol>`;
+}
+function actusSection() {
+  const all = ACTUS(); if (!all.length) return "";
+  const n = state.actusAll ? all.length : 6;
+  return `<section class="section" aria-label="Dernières actualités">
+    <h2>Dernières actualités</h2>
+    <p class="muted prose" style="margin:4px 0 10px;font-size:.9rem">Faits marquants de la campagne intégrés lors de la dernière mise à jour (${esc(fmtDate(DATA.actualites.miseAJour))}), chacun avec sa source.</p>
+    <div class="panel">${actuList(all.slice(0, n))}
+    ${all.length > 6 ? `<button class="linkbtn" data-act="actus-all">${state.actusAll ? "Afficher moins" : `Afficher les ${all.length} actualités`}</button>` : ""}</div>
+  </section>`;
+}
+
 function viewAccueil() {
   const fams = FAM_ORDER.filter((f) => CANDS.some((c) => c.famillePolitique === f));
   const isDecl = (c) => c.statutCandidature === "declare";
@@ -697,6 +731,7 @@ function viewAccueil() {
       <div class="kpi"><div class="n">${nAff}</div><div class="l">procédures visant un candidat</div></div>
     </div>
   </section>
+  ${actusSection()}
   <section class="section" aria-label="Candidats">
     <div class="toolbar" role="group" aria-label="Filtrer par statut de candidature">
       <button class="chip" data-act="statut" data-v="" aria-pressed="${!state.statut}">Tous <span class="n">${CANDS.length}</span></button>
@@ -737,6 +772,13 @@ function candCard(c) {
 }
 
 /* ---------- Vue : fiche candidat ---------- */
+// Texte long : on affiche les premières phrases (≈ 320 caractères), la suite se déplie.
+function longText(t, max = 320) {
+  if (t.length <= max * 1.4) return `<p class="prose" style="margin-top:10px">${esc(t)}</p>`;
+  const cut = t.slice(0, max).lastIndexOf(". ");
+  const i = cut > 120 ? cut + 1 : max;
+  return `<div class="prose more" style="margin-top:10px"><p>${esc(t.slice(0, i))}</p><details><summary>Lire la suite</summary><p>${esc(t.slice(i).trim())}</p></details></div>`;
+}
 function viewCandidat(c, tab) {
   const ps = props(c), aff = c.judiciaire?.affaires || [], st = STATUTS[c.statutCandidature] || STATUTS.incertain;
   const tabs = [["programme", "Programme", ps.length], ["profil", "Profil & parcours", ""], ["judiciaire", "Judiciaire", aff.length], ["international", "International", ""], ["sources", "Sources", collectSources(c).length]];
@@ -759,9 +801,10 @@ function viewCandidat(c, tab) {
       <div class="sites">${(c.sites || []).length
         ? c.sites.filter((s) => safeUrl(s.url)).map((s) => `<a class="site" href="${esc(s.url)}" target="_blank" rel="noopener noreferrer"><span>${esc(s.label)}</span><b>${esc(hostOf(s.url))}</b></a>`).join("")
         : `<span class="muted" style="font-size:.85rem">Aucun site officiel de campagne identifié</span>`}</div>
-      ${c.candidature?.texte ? `<p class="prose" style="margin-top:10px">${esc(c.candidature.texte)}</p>${srcLinks(c.candidature.sources)}` : ""}
+      ${c.candidature?.texte ? longText(c.candidature.texte) + srcLinks(c.candidature.sources) : ""}
     </div>
   </section>
+  ${(() => { const a = ACTUS().filter((x) => (x.candidats || []).includes(c.id)); return a.length ? `<details class="panel cand-actus"${a.length <= 3 ? " open" : ""}><summary><span class="eyebrow">Actualité récente</span> <span class="n mono">${a.length}</span></summary>${actuList(a)}</details>` : ""; })()}
   <nav class="tabs" aria-label="Rubriques de la fiche">
     ${tabs.map(([t, l, n]) => `<a href="#c-${esc(c.id)}--${t}" aria-current="${t === tab}">${l}${n !== "" ? `<span class="n">${n}</span>` : ""}</a>`).join("")}
   </nav>
@@ -1443,6 +1486,7 @@ function rapportCandidat(c, i) {
       </div>
     </header>
 
+    ${(() => { const a = ACTUS().filter((x) => (x.candidats || []).includes(c.id)); return a.length ? `<h2>Actualité récente</h2><table class="r-table"><tbody>${a.map((x) => `<tr><td class="r-when">${esc(fmtDate(x.date))}</td><td>${esc(x.titre)}${R.cite(x.sources)}</td></tr>`).join("")}</tbody></table>` : ""; })()}
     <h2>Profil</h2>
     ${pr.resume ? `<p>${esc(pr.resume)}${R.cite(pr.sources)}</p>` : ""}
     <dl class="r-dl">
@@ -1509,7 +1553,7 @@ function viewRapport() {
       <h1>Sommaire</h1>
       <ol class="r-toc"><li><a href="#r-methode">Méthode et clés de lecture</a></li><li><a href="#r-synthese">Synthèse comparative</a></li>
       ${byFam.map(([f, l]) => `<li>${esc(FAMILLES[f])}<ol>${l.map((c) => `<li><a href="#r-${esc(c.id)}">${esc(fullName(c))}</a> <span class="r-meta">${esc(c.partiAbrev || c.parti)}</span></li>`).join("")}</ol></li>`).join("")}
-      ${SD().length ? `<li><a href="#r-sondages">Sondages d'intentions de vote</a></li>` : ""}${(DATA.historique || []).length ? `<li><a href="#r-historique">Historique des élections présidentielles</a></li>` : ""}
+      ${ACTUS().length ? `<li><a href="#r-actus">Dernières actualités</a></li>` : ""}${SD().length ? `<li><a href="#r-sondages">Sondages d'intentions de vote</a></li>` : ""}${(DATA.historique || []).length ? `<li><a href="#r-historique">Historique des élections présidentielles</a></li>` : ""}
       <li><a href="#r-autres">Autres candidatures recensées</a></li><li><a href="#r-annexes">Documents ajoutés et crédits</a></li></ol>
     </section>
 
@@ -1542,6 +1586,12 @@ function viewRapport() {
     </section>
 
     ${CANDS.map((c, i) => rapportCandidat(c, i)).join("")}
+
+    ${ACTUS().length ? `<section class="r-part" id="r-actus">
+      <h1>Dernières actualités</h1>
+      <p>Faits marquants intégrés lors de la mise à jour du ${esc(fmtDate(DATA.actualites.miseAJour))}.</p>
+      ${(() => { const AR2 = mkRefs("actus"); return `<table class="r-table"><tbody>${ACTUS().map((x) => `<tr><td class="r-when">${esc(fmtDate(x.date))}</td><td><strong>${esc(ACT_CAT[x.categorie] || "Actualité")}</strong>${(x.candidats || []).filter((id) => BY_ID[id]).length ? ` · ${x.candidats.filter((id) => BY_ID[id]).map((id) => esc(fullName(BY_ID[id]))).join(", ")}` : ""}<br>${esc(x.titre)}${AR2.cite(x.sources)}</td></tr>`).join("")}</tbody></table><h2>Sources (${AR2.size()})</h2>${AR2.render()}`; })()}
+    </section>` : ""}
 
     ${SD().length ? `<section class="r-part" id="r-sondages">
       <h1>Sondages d'intentions de vote</h1>
@@ -1601,6 +1651,7 @@ document.addEventListener("click", (e) => {
     case "ptheme": state.progTheme = v || null; break;
     case "fcv": state.fc.verdicts.has(v) ? state.fc.verdicts.delete(v) : state.fc.verdicts.add(v); break;
     case "sdtour": state.sdTour = +v; break;
+    case "actus-all": state.actusAll = !state.actusAll; break;
     case "sdper": state.sdPeriod = v; break;
     default: return;
   }

@@ -306,13 +306,13 @@
     }
   ],
   "judiciaire": {
-    "note": "Éric Zemmour a fait l'objet de nombreuses poursuites, essentiellement pour des délits de presse (provocation à la haine, injure, diffamation, contestation de crime contre l'humanité) ; plusieurs condamnations à des amendes sont définitives (dont, en 2025-2026, celles des affaires de la Convention de la droite, des mineurs isolés, de Patrick Klugman et de l'Ined), deux condamnations de 2025 (Pétain, Crépol) font l'objet de recours dont l'issue n'a pas été trouvée au 13/11/2026, et il a aussi obtenu plusieurs relaxes. La liste ci-dessous retient les procédures les mieux documentées et n'est pas exhaustive.",
+    "note": "Éric Zemmour a fait l'objet de nombreuses poursuites, essentiellement pour des délits de presse (provocation à la haine, injure, diffamation, contestation de crime contre l'humanité) ; plusieurs condamnations à des amendes sont définitives (dont, en 2025-2026, celles des affaires de la Convention de la droite, des mineurs isolés, de Patrick Klugman et de l'Ined), deux condamnations de 2025 (Pétain, Crépol) font l'objet de recours dont l'issue n'a pas été trouvée au 16/11/2026, et il a aussi obtenu plusieurs relaxes. La liste ci-dessous retient les procédures les mieux documentées et n'est pas exhaustive. Le 3 novembre 2026, l'Arcom a annoncé avoir signalé à la justice des propos qu'il a tenus le 18 octobre 2026 sur LCI, BFMTV et CNews ; aucune enquête ni poursuite n'est connue à ce stade : ce signalement ne constitue pas une procédure le visant et n'est donc pas listé ci-dessous.",
     "affaires": [
       {
         "titre": "Propos sur Pétain « sauveur » des juifs français (contestation de crime contre l'humanité)",
         "statut": "condamnation-non-definitive",
         "role": "prévenu",
-        "resume": "Propos tenus le 21 octobre 2019 sur CNews (« Face à l'info »). Relaxé en première instance (février 2021) puis en appel (12 mai 2022) ; la Cour de cassation, saisie par le parquet général et cinq associations, annule la relaxe le 5 septembre 2023 (pourvoi n° 22-83.959) et ordonne un nouveau procès. Le 2 avril 2025, la cour d'appel de Paris le condamne à 10 000 € d'amende, 1 € de dommages-intérêts et 1 200 € de frais à chacune des cinq associations. M. Zemmour a annoncé un pourvoi en cassation ; aucune décision de la Cour de cassation sur ce pourvoi n'a été trouvée dans la presse ni dans les sources juridiques consultées : issue non connue à la date de mise à jour (13/11/2026). Présomption d'innocence : tant qu'aucune décision définitive n'est rendue, M. Zemmour est présumé innocent.",
+        "resume": "Propos tenus le 21 octobre 2019 sur CNews (« Face à l'info »). Relaxé en première instance (février 2021) puis en appel (12 mai 2022) ; la Cour de cassation, saisie par le parquet général et cinq associations, annule la relaxe le 5 septembre 2023 (pourvoi n° 22-83.959) et ordonne un nouveau procès. Le 2 avril 2025, la cour d'appel de Paris le condamne à 10 000 € d'amende, 1 € de dommages-intérêts et 1 200 € de frais à chacune des cinq associations. M. Zemmour a annoncé un pourvoi en cassation ; aucune décision de la Cour de cassation sur ce pourvoi n'a été trouvée dans la presse ni dans les sources juridiques consultées : issue non connue à la date de mise à jour (16/11/2026). Présomption d'innocence : tant qu'aucune décision définitive n'est rendue, M. Zemmour est présumé innocent.",
         "chronologie": [
           {
             "date": "2019-10-21",
@@ -424,7 +424,7 @@
         "titre": "Propos sur le drame de Crépol (injure raciale)",
         "statut": "condamnation-non-definitive",
         "role": "prévenu",
-        "resume": "Propos tenus le 30 novembre 2023 sur RMC et BFMTV après la mort du lycéen Thomas à Crépol (« deux peuples, deux France », « racailles arabo-musulmanes »). Le 26 mars 2025, le tribunal correctionnel de Paris le condamne pour injure raciale à 60 jours-amende à 150 € (9 000 €). M. Zemmour a annoncé faire appel ; aucun arrêt de la cour d'appel n'a été trouvé dans les sources consultées : issue non connue à la date de mise à jour (13/11/2026). Présomption d'innocence : tant qu'aucune décision définitive n'est rendue, M. Zemmour est présumé innocent.",
+        "resume": "Propos tenus le 30 novembre 2023 sur RMC et BFMTV après la mort du lycéen Thomas à Crépol (« deux peuples, deux France », « racailles arabo-musulmanes »). Le 26 mars 2025, le tribunal correctionnel de Paris le condamne pour injure raciale à 60 jours-amende à 150 € (9 000 €). M. Zemmour a annoncé faire appel ; aucun arrêt de la cour d'appel n'a été trouvé dans les sources consultées : issue non connue à la date de mise à jour (16/11/2026). Présomption d'innocence : tant qu'aucune décision définitive n'est rendue, M. Zemmour est présumé innocent.",
         "chronologie": [
           {
             "date": "2023-11-30",
@@ -1134,6 +1134,20 @@
           }
         ]
       }
+    ],
+    "sources": [
+      {
+        "titre": "L'Arcom saisit la justice à la suite de propos tenus par Éric Zemmour",
+        "url": "https://www.leclubdesjuristes.com/?p=18226",
+        "media": "Le Club des juristes",
+        "date": "2026-11-03"
+      },
+      {
+        "titre": "« C'est relativement rare » : l'Arcom saisit la justice après des propos d'Éric Zemmour tenus sur BFMTV, CNews et LCI",
+        "url": "https://www.ozap.com/actu/cest-relativement-rare-larcom-saisit-la-justice-apres-des-propos-deric-zemmour-tenus-sur-bfmtv-cnews-et-lci/657834",
+        "media": "Ozap",
+        "date": "2026-11"
+      }
     ]
   },
   "programme": {
@@ -1669,5 +1683,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-13"
+  "derniereMiseAJour": "2026-11-16"
 }

@@ -387,13 +387,25 @@
         ],
         "factCheck": {
           "verdict": "non-verifie",
-          "analyse": "Aucun chiffrage du coût ni des effets sur l'emploi n'a été publié par la candidate ni trouvé chez un organisme indépendant. Référence officielle : au 1er janvier 2026, le SMIC brut mensuel (35 h) est de 1 823,03 € ; la mesure représente donc une hausse d'environ 9,7 %. Son coût pour les finances publiques dépendra notamment du sort des allègements de cotisations indexés sur le SMIC, non précisé.",
+          "analyse": "Aucun chiffrage du coût ni des effets sur l'emploi n'a été publié par la candidate ni trouvé chez un organisme indépendant. Repères officiels : le SMIC brut mensuel (35 h) était de 1 823,03 € au 1er janvier 2026, puis de 1 867,02 € depuis la revalorisation du 1er juin 2026 (LégiSocial) ; le 9 novembre 2026, le Premier ministre a annoncé une nouvelle hausse de 1,6 % au 1er décembre 2026 (dont 0,6 % de « coup de pouce »), soit environ 1 897 € brut (environ 1 502 € net selon l'AFP). Par rapport à ce niveau, 2 000 € brut représenteraient une hausse d'environ 5,4 % (contre environ 9,7 % calculés sur la base de janvier 2026 dans une version précédente de cette fiche). Le coût pour les finances publiques dépendra notamment du sort des allègements de cotisations indexés sur le SMIC, non précisé. Marine Tondelier a qualifié de « provocation » le coup de pouce annoncé par le gouvernement.",
           "sources": [
             {
               "titre": "Le SMIC revalorisé au 1er janvier 2026",
               "url": "https://www.info.gouv.fr/actualite/le-smic-revalorise-au-1er-janvier-2026",
               "media": "info.gouv.fr (Gouvernement)",
               "date": "2026-01"
+            },
+            {
+              "titre": "Montant du SMIC 2026 : taux horaire net et brut",
+              "url": "https://www.legisocial.fr/reperes-sociaux/montant-smic-2026-taux-horaire-net-brut.html",
+              "media": "LégiSocial",
+              "date": "2026-06"
+            },
+            {
+              "titre": "Lecornu donne un coup de pouce au Smic, les syndicats entre colère et expectative",
+              "url": "https://www.dhnet.be/dernieres-depeches/2026/11/09/sans-latitude-lecornu-tente-de-repondre-a-la-colere-sociale-KWCY3XBQXBFR3JX7E55UFVXLVQ/",
+              "media": "La DH (AFP)",
+              "date": "2026-11-09"
             }
           ]
         }
@@ -813,5 +825,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-13"
+  "derniereMiseAJour": "2026-11-16"
 }

@@ -431,7 +431,7 @@
         ],
         "factCheck": {
           "verdict": "non-verifie",
-          "analyse": "Le cahier ne chiffre ni le coût ni le financement, et aucun chiffrage indépendant de la mesure n'a été trouvé. Ordre de grandeur : le SMIC brut mensuel est de 1 867,02 € depuis le 1er juin 2026, soit environ 1 478 € net (LégiSocial) ; un SMIC à 1 600 € net représenterait une hausse d'environ 8 % (s'il s'agissait de 1 600 € brut, ce serait inférieur au SMIC actuel, ce qui confirme qu'il s'agit vraisemblablement d'un montant net). Pour une hausse presque deux fois plus forte (de 1 398,70 € à 1 600 € net, soit +14,4 %, programme du NFP en 2024), l'Institut Montaigne estimait le coût pour les finances publiques à environ 19 Md€ par an, principalement via les allègements de cotisations, avec un effet négatif estimé à environ 300 000 emplois ; ce repère suggère un coût de plusieurs milliards d'euros par an pour la mesure de François Ruffin, sans pouvoir le chiffrer précisément.",
+          "analyse": "Le cahier ne chiffre ni le coût ni le financement, et aucun chiffrage indépendant de la mesure n'a été trouvé. Ordre de grandeur : le SMIC brut mensuel est de 1 867,02 € depuis le 1er juin 2026, soit environ 1 478 € net (LégiSocial) ; un SMIC à 1 600 € net représenterait une hausse d'environ 8 % (s'il s'agissait de 1 600 € brut, ce serait inférieur au SMIC actuel, ce qui confirme qu'il s'agit vraisemblablement d'un montant net). Pour une hausse presque deux fois plus forte (de 1 398,70 € à 1 600 € net, soit +14,4 %, programme du NFP en 2024), l'Institut Montaigne estimait le coût pour les finances publiques à environ 19 Md€ par an, principalement via les allègements de cotisations, avec un effet négatif estimé à environ 300 000 emplois ; ce repère suggère un coût de plusieurs milliards d'euros par an pour la mesure de François Ruffin, sans pouvoir le chiffrer précisément. Mise à jour (16/11/2026) : le 9 novembre 2026, le Premier ministre a annoncé une revalorisation du SMIC au 1er décembre 2026 (+1 % de revalorisation automatique et +0,6 % de « coup de pouce »), qui porte le SMIC net à environ 1 502 € par mois (AFP) ; par rapport à ce niveau, 1 600 € net représenteraient une hausse d'environ 6,5 %.",
           "sources": [
             {
               "titre": "Montant du SMIC 2026 : taux horaire net et brut",
@@ -444,6 +444,12 @@
               "url": "https://www.institutmontaigne.org/legislatives-2024/nouveau-front-populaire/augmenter-le-smic-a-1600-e-net",
               "media": "Institut Montaigne",
               "date": "2024-06-24"
+            },
+            {
+              "titre": "Lecornu donne un coup de pouce au Smic, les syndicats entre colère et expectative",
+              "url": "https://www.dhnet.be/dernieres-depeches/2026/11/09/sans-latitude-lecornu-tente-de-repondre-a-la-colere-sociale-KWCY3XBQXBFR3JX7E55UFVXLVQ/",
+              "media": "La DH (AFP)",
+              "date": "2026-11-09"
             }
           ]
         }
@@ -957,5 +963,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-13"
+  "derniereMiseAJour": "2026-11-16"
 }

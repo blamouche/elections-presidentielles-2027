@@ -82,7 +82,14 @@ const sondages = fs.existsSync(sondPath) ? JSON.parse(fs.readFileSync(sondPath, 
 for (const s of sondages?.sondages || []) {
   if (!(s.sources || []).some((x) => /^https?:\/\//.test(x.url || "") && !/wikipedia\.org/.test(x.url))) warnings.push(`sondage ${s.id} : pas de source primaire`);
 }
-const data = { generatedAt: new Date().toISOString().slice(0, 10), candidats, documents, autres, historique, sondages };
+// Actualités de campagne (data/actualites.json) : chaque entrée doit être sourcée.
+const actuPath = path.join(root, "data/actualites.json");
+const actualites = fs.existsSync(actuPath) ? JSON.parse(fs.readFileSync(actuPath, "utf8")) : null;
+for (const a of actualites?.items || []) {
+  if (!(a.sources || []).some((x) => /^https?:\/\//.test(x.url || ""))) warnings.push(`actualité « ${a.titre} » sans source`);
+  for (const id of a.candidats || []) if (!candidats.some((c) => c.id === id)) warnings.push(`actualité « ${a.titre} » : candidat inconnu ${id}`);
+}
+const data = { generatedAt: new Date().toISOString().slice(0, 10), candidats, documents, autres, historique, sondages, actualites };
 const json = JSON.stringify(data).replace(/</g, "\\u003c");
 const tpl = fs.readFileSync(path.join(root, "src/template.html"), "utf8");
 const marker = "/*__DATA__*/null";

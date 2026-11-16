@@ -661,7 +661,7 @@
   },
   "programme": {
     "statut": "Propositions partielles",
-    "resume": "Jordan Bardella n'est pas candidat déclaré et n'a pas de programme présidentiel propre : il porte le projet du RN et de Marine Le Pen. Textes de référence : le programme du RN aux législatives de 2024, dont il était le chef de file (chiffré par l'Institut Montaigne), et le plan budgétaire 2027-2032 qu'il a présenté avec Marine Le Pen le 6 octobre 2026 (140 Md€ d'économies, suppression de 120 taxes, priorité nationale, baisse de la contribution à l'UE, baisses de TVA). Thèmes principaux : pouvoir d'achat (TVA sur l'énergie), immigration et « priorité nationale », fiscalité des entreprises, sécurité, retraites.",
+    "resume": "Jordan Bardella n'est pas candidat déclaré et n'a pas de programme présidentiel propre : il porte le projet du RN et de Marine Le Pen. Textes de référence : le programme du RN aux législatives de 2024, dont il était le chef de file (chiffré par l'Institut Montaigne), le plan budgétaire 2027-2032 qu'il a présenté avec Marine Le Pen le 6 octobre 2026 (140 Md€ d'économies, suppression de 120 taxes, priorité nationale, baisse de la contribution à l'UE, baisses de TVA) et son livre « Gouverner » (Fayard, 4 novembre 2026), où il décrit ses « cent jours » s'il était nommé à Matignon (retour de l'âge de départ à 62 voire 60 ans compensé par un durcissement de la validation des trimestres, exonérations pour l'emploi des seniors, examen national avant l'entrée au collège, référendums sur l'immigration et l'islamisme). Thèmes principaux : pouvoir d'achat (TVA sur l'énergie), immigration et « priorité nationale », fiscalité des entreprises, sécurité, retraites.",
     "documents": [
       {
         "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
@@ -680,6 +680,12 @@
         "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html",
         "media": "franceinfo",
         "date": "2026-10-08"
+      },
+      {
+        "titre": "Après des jours sans, Bardella rêve déjà de ses « cent jours » à Matignon",
+        "url": "https://www.lagazettefrance.fr/article/apres-des-jours-sans-bardella-reve-deja-de-ses-cent-jours-a-matignon",
+        "media": "La Gazette France (AFP)",
+        "date": "2026-11-04"
       }
     ],
     "propositions": [
@@ -1238,8 +1244,74 @@
             }
           ]
         }
+      },
+      {
+        "id": "retraites-trimestres-seniors",
+        "theme": "retraites",
+        "type": "proposition",
+        "titre": "Durcir la validation des trimestres et exonérer l'emploi des seniors",
+        "description": "Dans son livre « Gouverner » (Fayard, 4 novembre 2026), Jordan Bardella propose, pour financer en partie le retour à un âge de départ de 62 voire 60 ans, de « renforcer les conditions de validation d'un trimestre » afin de la « rapprocher de la réalité du travail et des cotisations versées » (aujourd'hui, quatre trimestres peuvent être validés sans avoir travaillé douze mois), en préservant maternité, maladie, handicap et carrières longues. Il prévoit des exonérations de cotisations pour le maintien en emploi des seniors, « équivalant à une baisse de 30 % du coût du travail », dont une partie serait reversée en salaire, et une capitalisation volontaire via un fonds souverain. Il présente l'ensemble comme « un compromis juste ».",
+        "chiffres": [
+          "Âge de départ : retour à 62 ans, voire 60 ans",
+          "Exonérations seniors : équivalent à une baisse de 30 % du coût du travail"
+        ],
+        "date": "2026-11-04",
+        "sources": [
+          {
+            "titre": "Retraites : le RN va proposer de travailler plus pour valider un trimestre, prévient Bardella",
+            "url": "https://www.moneyvox.fr/retraite/actualites/111101/retraites-le-rn-va-proposer-de-travailler-plus-pour-valider-un-trimestre-previent-bardella",
+            "media": "MoneyVox (AFP)",
+            "date": "2026-11-04"
+          },
+          {
+            "titre": "Après des jours sans, Bardella rêve déjà de ses « cent jours » à Matignon",
+            "url": "https://www.lagazettefrance.fr/article/apres-des-jours-sans-bardella-reve-deja-de-ses-cent-jours-a-matignon",
+            "media": "La Gazette France (AFP)",
+            "date": "2026-11-04"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun chiffrage du coût des exonérations ni du rendement du durcissement de la validation des trimestres n'a été publié au 16 novembre 2026, le détail de la réforme du RN devant être présenté le 17 novembre. Reuters rapporte que des économistes et investisseurs doutent de la faisabilité du projet, l'objectif de 15 à 20 Md€ d'économies annuelles paraissant difficile à atteindre avec un départ à 60 ans ; la Cour des comptes chiffre jusqu'à 10 Md€ par an le coût de l'annulation de la réforme de 2023.",
+          "sources": [
+            {
+              "titre": "Marine Le Pen cherche à concilier promesses électorales et réalité budgétaire",
+              "url": "https://www.boursorama.com/actualite-economique/actualites/marine-le-pen-cherche-a-concilier-promesses-electorales-et-realite-budgetaire-e0aec0c412a9d56ea873bc2a4b67a9d4",
+              "media": "Reuters (via Boursorama)",
+              "date": "2026-11-16"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ecole-lecture-cp-examen-college",
+        "theme": "education",
+        "type": "proposition",
+        "titre": "Conditionner le passage en CE1 à la lecture et créer un examen d'entrée au collège",
+        "description": "Dans « Gouverner » (Fayard, 4 novembre 2026), Jordan Bardella propose de conditionner le passage du CP au CE1 à la maîtrise de la lecture et d'instaurer un examen national avant l'entrée au collège ; il évoque aussi un « collège modulaire » et une réforme de la formation professionnelle pour faire entrer les jeunes plus tôt dans la vie active.",
+        "chiffres": [],
+        "date": "2026-11-04",
+        "sources": [
+          {
+            "titre": "Après des jours sans, Bardella rêve déjà de ses « cent jours » à Matignon",
+            "url": "https://www.lagazettefrance.fr/article/apres-des-jours-sans-bardella-reve-deja-de-ses-cent-jours-a-matignon",
+            "media": "La Gazette France (AFP)",
+            "date": "2026-11-04"
+          },
+          {
+            "titre": "Retraites : le RN va proposer de travailler plus pour valider un trimestre, prévient Bardella",
+            "url": "https://www.moneyvox.fr/retraite/actualites/111101/retraites-le-rn-va-proposer-de-travailler-plus-pour-valider-un-trimestre-previent-bardella",
+            "media": "MoneyVox (AFP)",
+            "date": "2026-11-04"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Mesures non chiffrées et sans calendrier ; aucune vérification publiée n'a été trouvée au 16 novembre 2026. Leurs modalités (contenu de l'examen, sort des élèves qui échoueraient) ne sont pas précisées dans les comptes rendus consultés.",
+          "sources": []
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-13"
+  "derniereMiseAJour": "2026-11-16"
 }

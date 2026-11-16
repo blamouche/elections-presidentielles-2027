@@ -918,7 +918,7 @@
   },
   "programme": {
     "statut": "Propositions partielles",
-    "resume": "Pas encore de programme complet publié au 13 novembre 2026. Les grandes lignes connues sont : un plan budgétaire quinquennal présenté le 6 octobre 2026 avec Jordan Bardella (140 Md€ d'économies d'ici 2032, déficit sous 3 % en 2030), fondé notamment sur la « priorité nationale » dans l'accès aux prestations et une baisse de la contribution française au budget de l'UE, finançant des baisses de TVA (énergie, produits de première nécessité) ; une révision de la Constitution par référendum (article 11) pour mettre en œuvre sa politique migratoire ; un plan logement (abrogation de la loi SRU, suppression du ZAN, priorité nationale dans le logement social) ; un âge légal de retraite entre 60 et 62 ans, dont le détail doit être présenté le 17 novembre 2026.",
+    "resume": "Pas encore de programme complet publié au 16 novembre 2026. Les grandes lignes connues sont : un plan budgétaire quinquennal présenté le 6 octobre 2026 avec Jordan Bardella (140 Md€ d'économies d'ici 2032, déficit sous 3 % en 2030), fondé notamment sur la « priorité nationale » dans l'accès aux prestations et une baisse de la contribution française au budget de l'UE, finançant des baisses de TVA (énergie, produits de première nécessité) ; une révision de la Constitution par référendum (article 11) pour mettre en œuvre sa politique migratoire ; un plan logement (abrogation de la loi SRU, suppression du ZAN, priorité nationale dans le logement social et les APL) ; un permis de conduire gratuit pour les jeunes sans casier judiciaire et la climatisation des écoles, Ehpad et hôpitaux (LCP, 15 novembre 2026) ; un âge légal de retraite entre 60 et 62 ans, dont le détail doit être présenté le 17 novembre 2026. Le 15 novembre 2026, elle a déclaré renoncer à l'interdiction de la double nationalité et ne plus vouloir abroger le mariage pour tous.",
     "documents": [
       {
         "titre": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
@@ -1212,7 +1212,7 @@
         "theme": "retraites",
         "type": "proposition",
         "titre": "Âge légal de départ entre 60 et 62 ans",
-        "description": "Maintenir un âge légal compris entre 60 et 62 ans selon l'âge d'entrée sur le marché du travail (départ à 60 ans pour ceux ayant commencé avant 20 ans), avec 40 à 42 annuités pour une pension à taux plein ; financement annoncé par 15 à 20 Md€ d'économies sur des mesures jugées injustes ou inefficaces du système actuel et par la hausse du taux d'emploi. Une composante de capitalisation est évoquée dans le plan budgétaire. Présentation détaillée annoncée pour le 17 novembre 2026.",
+        "description": "Maintenir un âge légal compris entre 60 et 62 ans selon l'âge d'entrée sur le marché du travail (départ à 60 ans pour ceux ayant commencé avant 20 ans), avec 40 à 42 annuités pour une pension à taux plein ; financement annoncé par 15 à 20 Md€ d'économies sur des mesures jugées injustes ou inefficaces du système actuel et par la hausse du taux d'emploi. Une composante de capitalisation est évoquée dans le plan budgétaire. Présentation détaillée annoncée pour le 17 novembre 2026. À la veille de cette présentation, Reuters (16 novembre 2026) rapporte que le RN maintient la promesse d'un départ à 60 ans pour les carrières commencées tôt, avec 40 à 42 annuités pour le taux plein, et que Jordan Bardella évoque un durcissement des règles de validation des trimestres, des incitations au maintien en emploi des seniors et la possibilité de verser une partie des cotisations dans un fonds d'investissement « de type souverain ».",
         "chiffres": [
           "Âge légal : 60 à 62 ans",
           "Durée de cotisation : 40 à 42 annuités",
@@ -1237,11 +1237,23 @@
             "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
             "media": "Public Sénat",
             "date": "2026-10-06"
+          },
+          {
+            "titre": "Marine Le Pen cherche à concilier promesses électorales et réalité budgétaire",
+            "url": "https://www.boursorama.com/actualite-economique/actualites/marine-le-pen-cherche-a-concilier-promesses-electorales-et-realite-budgetaire-e0aec0c412a9d56ea873bc2a4b67a9d4",
+            "media": "Reuters (via Boursorama)",
+            "date": "2026-11-16"
+          },
+          {
+            "titre": "Retraites : le RN va proposer de travailler plus pour valider un trimestre, prévient Bardella",
+            "url": "https://www.moneyvox.fr/retraite/actualites/111101/retraites-le-rn-va-proposer-de-travailler-plus-pour-valider-un-trimestre-previent-bardella",
+            "media": "MoneyVox (AFP)",
+            "date": "2026-11-04"
           }
         ],
         "factCheck": {
           "verdict": "non-verifie",
-          "analyse": "La réforme détaillée et son chiffrage n'étaient pas publiés au 13 novembre 2026 (présentation prévue le 17 novembre), ce qui empêche une vérification. Ordres de grandeur disponibles : en 2024, l'Institut Montaigne estimait à 34,7 Md€/an le coût de la mesure du RN d'abrogation de la réforme de 2023 avec départ à 60 ans après 40 annuités pour les carrières commencées avant 20 ans ; la Cour des comptes estimait à environ 13 Md€ à l'horizon 2035 le coût d'un simple gel de l'âge légal à 63 ans. L'écart avec les 15 à 20 Md€ d'économies annoncés devra être examiné une fois le projet publié. Le plan budgétaire du 6 octobre 2026 présente ces 15 à 20 Md€ comme des « corrections de mesures injustes » et prévoit un « pilier de capitalisation », sans détail publié (Public Sénat).",
+          "analyse": "La réforme détaillée et son chiffrage n'étaient pas publiés au 16 novembre 2026 (présentation prévue le 17 novembre), ce qui empêche une vérification. Ordres de grandeur disponibles : en 2024, l'Institut Montaigne estimait à 34,7 Md€/an le coût de la mesure du RN d'abrogation de la réforme de 2023 avec départ à 60 ans après 40 annuités pour les carrières commencées avant 20 ans ; la Cour des comptes estimait à environ 13 Md€ à l'horizon 2035 le coût d'un simple gel de l'âge légal à 63 ans, et Reuters (16 novembre 2026) rapporte une estimation de la Cour des comptes pouvant atteindre 10 Md€ par an pour l'annulation de la réforme. Reuters juge difficile d'atteindre les 15 à 20 Md€ d'économies annuelles évoqués si la promesse d'un départ à 60 ans est tenue. Le plan budgétaire du 6 octobre 2026 présente ces économies comme des « corrections de mesures injustes » et prévoit un « pilier de capitalisation », sans détail publié (Public Sénat).",
           "sources": [
             {
               "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
@@ -1260,6 +1272,12 @@
               "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f",
               "media": "Public Sénat",
               "date": "2026-10-06"
+            },
+            {
+              "titre": "Marine Le Pen cherche à concilier promesses électorales et réalité budgétaire",
+              "url": "https://www.boursorama.com/actualite-economique/actualites/marine-le-pen-cherche-a-concilier-promesses-electorales-et-realite-budgetaire-e0aec0c412a9d56ea873bc2a4b67a9d4",
+              "media": "Reuters (via Boursorama)",
+              "date": "2026-11-16"
             }
           ]
         }
@@ -1506,8 +1524,80 @@
             }
           ]
         }
+      },
+      {
+        "id": "permis-gratuit-jeunes",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Permis de conduire gratuit pour les jeunes sans casier judiciaire",
+        "description": "Financer le permis de conduire des jeunes majeurs qui en feraient la demande dans leur dix-huitième année, à condition qu'ils n'aient « pas de casier judiciaire », au nom de l'accès à l'emploi et de l'autonomie, notamment en zone rurale. Mesure figurant dans le plan budgétaire du 6 octobre 2026 et réaffirmée par Marine Le Pen dans l'émission « Brevet présidentiel » de LCP (article publié le 15 novembre 2026).",
+        "chiffres": [],
+        "date": "2026-11-15",
+        "sources": [
+          {
+            "titre": "Permis gratuit, APL, climatisation des écoles: Marine Le Pen passe son 'Brevet présidentiel'",
+            "url": "https://lcp.fr/actualites/permis-gratuit-apl-climatisation-des-ecoles-marine-le-pen-passe-son-brevet-presidentiel",
+            "media": "LCP",
+            "date": "2026-11-15"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun chiffrage officiel détaillé ni vérification indépendante n'ont été trouvés au 16 novembre 2026. Le nombre de bénéficiaires et le mode de vérification de la condition d'absence de casier judiciaire ne sont pas précisés.",
+          "sources": []
+        }
+      },
+      {
+        "id": "climatisation-ecoles-ehpad-hopitaux",
+        "theme": "education",
+        "type": "proposition",
+        "titre": "Climatiser toutes les écoles, les Ehpad et les hôpitaux",
+        "description": "Dans l'émission « Brevet présidentiel » de LCP, Marine Le Pen s'est engagée à climatiser l'ensemble des écoles, ainsi que les Ehpad et les hôpitaux. Elle a aussi proposé une infirmière dans chaque établissement scolaire, formée aux difficultés psychologiques et au repérage des violences sexuelles.",
+        "chiffres": [],
+        "date": "2026-11-15",
+        "sources": [
+          {
+            "titre": "Permis gratuit, APL, climatisation des écoles: Marine Le Pen passe son 'Brevet présidentiel'",
+            "url": "https://lcp.fr/actualites/permis-gratuit-apl-climatisation-des-ecoles-marine-le-pen-passe-son-brevet-presidentiel",
+            "media": "LCP",
+            "date": "2026-11-15"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun coût ni calendrier n'a été annoncé et aucune vérification n'a été trouvée au 16 novembre 2026 : la mesure ne peut pas être évaluée en l'état.",
+          "sources": []
+        }
+      },
+      {
+        "id": "abandon-interdiction-double-nationalite",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "Renoncement à l'interdiction de la double nationalité",
+        "description": "Interrogée dans l'émission « Brevet présidentiel » de LCP, Marine Le Pen a déclaré avoir « commis une erreur » en proposant par le passé d'interdire la double nationalité et a regretté d'avoir laissé penser que les binationaux étaient suspects. Elle a aussi indiqué ne plus vouloir abroger le mariage pour tous, qu'elle promettait d'abroger en 2013 (« Non, clairement j'ai changé »), tout en restant opposée à la GPA.",
+        "chiffres": [],
+        "date": "2026-11-15",
+        "sources": [
+          {
+            "titre": "Permis gratuit, APL, climatisation des écoles: Marine Le Pen passe son 'Brevet présidentiel'",
+            "url": "https://lcp.fr/actualites/permis-gratuit-apl-climatisation-des-ecoles-marine-le-pen-passe-son-brevet-presidentiel",
+            "media": "LCP",
+            "date": "2026-11-15"
+          },
+          {
+            "titre": "Présidentielle 2027 : Marine Le Pen affirme avoir changé d'avis sur l'interdiction de la double nationalité et le mariage pour tous",
+            "url": "https://www.cnews.fr/france/2026-11-16/presidentielle-2027-marine-le-pen-affirme-avoir-change-davis-sur-linterdiction-de",
+            "media": "CNews",
+            "date": "2026-11-16"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Il s'agit d'un changement de position déclaré, non d'une affirmation chiffrée : il n'appelle pas de vérification factuelle au-delà du constat que l'interdiction de la double nationalité figurait dans ses propositions antérieures, ce que ses propres propos confirment. Aucune vérification publiée n'a été trouvée au 16 novembre 2026.",
+          "sources": []
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-13"
+  "derniereMiseAJour": "2026-11-16"
 }

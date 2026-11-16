@@ -8,7 +8,7 @@
   "couleur": "#E8556D",
   "statutCandidature": "declare",
   "candidature": {
-    "texte": "Candidature annoncée le 23 août 2026 au journal de 20 heures de TF1 (« Oui, je suis candidat à l'élection présidentielle »), en s'engageant à participer à la primaire sociale-démocrate et à en respecter le résultat. Après l'abandon à l'été 2026 d'une primaire unitaire de toute la gauche, il remporte dès le premier tour, le 11 octobre 2026, la primaire organisée par le Parti socialiste, Place publique et la Gauche républicaine et socialiste : 66,17 % des suffrages exprimés (79 613 voix, pour 120 787 votants), selon les résultats proclamés par Patrick Mennucci, président de la commission d'organisation de la primaire, devant Olivier Faure (14,46 %), Ségolène Royal (7,62 %), Emmanuel Maurel (5,92 %) et Jérôme Guedj (5,83 %) ; le chiffre de 66,13 % parfois repris ne correspond pas au résultat proclamé. Il exclut tout accord avec La France insoumise. Il est crédité d'environ 9 à 14 % des intentions de vote au premier tour selon les sondages cités par la presse (environ 12 % dans un sondage Ifop pour LCI publié le 3 novembre 2026).",
+    "texte": "Candidature annoncée le 23 août 2026 au journal de 20 heures de TF1 (« Oui, je suis candidat à l'élection présidentielle »), en s'engageant à participer à la primaire sociale-démocrate et à en respecter le résultat. Après l'abandon à l'été 2026 d'une primaire unitaire de toute la gauche, il remporte dès le premier tour, le 11 octobre 2026, la primaire organisée par le Parti socialiste, Place publique et la Gauche républicaine et socialiste : 66,17 % des suffrages exprimés (79 613 voix, pour 120 787 votants), selon les résultats proclamés par Patrick Mennucci, président de la commission d'organisation de la primaire, devant Olivier Faure (14,46 %), Ségolène Royal (7,62 %), Emmanuel Maurel (5,92 %) et Jérôme Guedj (5,83 %) ; le chiffre de 66,13 % parfois repris ne correspond pas au résultat proclamé. Il exclut tout accord avec La France insoumise. Il est crédité d'environ 9 à 14 % des intentions de vote au premier tour selon les sondages cités par la presse (environ 12 % dans un sondage Ifop pour LCI publié le 3 novembre 2026). Le 7 novembre 2026, dans La Tribune Dimanche, il a rejeté l'idée, prêtée à Emmanuel Macron, d'une large coalition allant de lui à David Lisnard, qui selon lui « décrédibilise la politique » (« Comment imaginer une seconde une fusion entre mon projet et celui de David Lisnard ? »). Au 14 novembre 2026, aucun retrait ni ralliement de candidat de gauche en sa faveur n'était rapporté (LCP) ; sa campagne prépare un meeting présenté comme « le vrai coup d'envoi de la campagne », le 6 décembre 2026 au Paris Event Center.",
     "date": "2026-08-23",
     "sources": [
       {
@@ -46,6 +46,24 @@
         "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-personne-ne-gagnera-seul-assure-marine-tondelier",
         "media": "Public Sénat",
         "date": "2026-11-05"
+      },
+      {
+        "titre": "La large coalition suggérée par Macron « décrédibilise la politique », estime Glucksmann",
+        "url": "https://www.lagazettefrance.fr/article/la-large-coalition-suggeree-par-macron-decredibilise-la-politique-estime-glucksmann",
+        "media": "La Gazette France (AFP)",
+        "date": "2026-11-07"
+      },
+      {
+        "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels (mise à jour du 14 novembre 2026)",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-14"
+      },
+      {
+        "titre": "INFO FRANCEINFO. Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour « sortir de la crise »",
+        "url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/info-franceinfo-raphael-glucksmann-va-diffuser-ce-week-end-un-tract-presentant-dix-propositions-pour-sortir-de-la-crise_8261228.html",
+        "media": "franceinfo",
+        "date": "2026-11-14"
       }
     ]
   },
@@ -380,7 +398,7 @@
   },
   "programme": {
     "statut": "Propositions partielles",
-    "resume": "Le programme complet n'est pas encore publié ; le projet est coordonné par Marguerite Cazeneuve. Le 9 novembre 2026, Raphaël Glucksmann a présenté le volet écologique et les « 100 premiers jours » : 200 milliards d'euros d'investissements publics sur le quinquennat, financés notamment par une contribution exceptionnelle de 5 % sur les patrimoines de plus de 100 millions d'euros, et des mesures de pouvoir d'achat (leasing social, chèque énergie, pompes à chaleur). Il défend aussi une surtaxe des « méga-héritages » pour baisser la CSG sur les salaires, l'abrogation de la réforme des retraites de 2023 avec un âge de référence à 62 ans, un service civique obligatoire et une convention citoyenne sur l'immigration. Il affiche l'objectif de stabiliser la dette à l'horizon 2032. Un second volet (biodiversité, eau, agriculture, santé) est annoncé.",
+    "resume": "Le programme complet n'est pas encore publié ; le projet est coordonné par Marguerite Cazeneuve. Le 9 novembre 2026, Raphaël Glucksmann a présenté le volet écologique et les « 100 premiers jours » : 200 milliards d'euros d'investissements publics sur le quinquennat, financés notamment par une contribution exceptionnelle de 5 % sur les patrimoines de plus de 100 millions d'euros, et des mesures de pouvoir d'achat (leasing social, chèque énergie, pompes à chaleur). Il défend aussi une surtaxe des « méga-héritages » pour baisser la CSG sur les salaires, l'abrogation de la réforme des retraites de 2023 avec un âge de référence à 62 ans, un service civique obligatoire et une convention citoyenne sur l'immigration. Il affiche l'objectif de stabiliser la dette à l'horizon 2032. Un second volet (biodiversité, eau, agriculture, santé) est annoncé. Le week-end des 14 et 15 novembre 2026, sa campagne diffuse un tract de dix propositions « pour sortir de la crise », dont le SMIC à 1 700 € net, l'abrogation de Parcoursup et une aide d'urgence contre la hausse des prix des carburants et de l'énergie (montant non précisé).",
     "documents": [
       {
         "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles",
@@ -399,6 +417,12 @@
         "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html",
         "media": "franceinfo",
         "date": "2026-08"
+      },
+      {
+        "titre": "INFO FRANCEINFO. Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour « sortir de la crise »",
+        "url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/info-franceinfo-raphael-glucksmann-va-diffuser-ce-week-end-un-tract-presentant-dix-propositions-pour-sortir-de-la-crise_8261228.html",
+        "media": "franceinfo",
+        "date": "2026-11-14"
       }
     ],
     "propositions": [
@@ -521,7 +545,7 @@
         "theme": "economie-fiscalite",
         "type": "proposition",
         "titre": "Surtaxer les « méga-héritages » pour baisser la CSG sur les salaires",
-        "description": "Taxation renforcée du 1 % des successions les plus élevées, censée rapporter environ 15 milliards d'euros par an, affectés à une baisse de la CSG / des cotisations sur les salaires afin d'augmenter les salaires nets. Le candidat assure que 99 % des héritages ne seraient pas concernés. Seuil et barème non précisés.",
+        "description": "Taxation renforcée du 1 % des successions les plus élevées, censée rapporter environ 15 milliards d'euros par an, affectés à une baisse de la CSG / des cotisations sur les salaires afin d'augmenter les salaires nets. Le candidat assure que 99 % des héritages ne seraient pas concernés. Fin octobre 2026, son porte-parole Sacha Houlié a fixé à 2 millions d'euros le seuil de la taxe sur les « méga-héritages » ; le barème n'est pas précisé. Selon Public Sénat, il reprend par ailleurs la CSG à barème progressif (de 0,25 % à 10,2 %) du contre-budget socialiste, présentée comme rapportant 130 € de plus par mois à un célibataire sans enfant au SMIC.",
         "chiffres": [
           "Recette annoncée : environ 15 Md€/an",
           "Cible : 1 % des successions les plus élevées"
@@ -539,6 +563,12 @@
             "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election",
             "media": "LCP",
             "date": "2026-08-27"
+          },
+          {
+            "titre": "Présidentielle : que proposent les candidats pour augmenter les salaires ?",
+            "url": "https://www.publicsenat.fr/actualites/economie/presidentielle-que-proposent-les-candidats-pour-augmenter-les-salaires",
+            "media": "Public Sénat",
+            "date": "2026-10-30"
           }
         ],
         "factCheck": {
@@ -925,8 +955,119 @@
             }
           ]
         }
+      },
+      {
+        "id": "smic-1700-net",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "SMIC à 1 700 € net",
+        "description": "Porter le SMIC à 1 700 € net par mois. La mesure figure parmi les dix propositions du tract diffusé par sa campagne les 14 et 15 novembre 2026. Fin octobre 2026, son porte-parole Sacha Houlié avait évoqué sur BFMTV une hausse de « 100 euros par an », avant de reconnaître quelques heures plus tard s'être embrouillé (Public Sénat). Le calendrier de la hausse et ses modalités (compensation des allègements de cotisations) ne sont pas précisés dans les sources consultées.",
+        "chiffres": [
+          "SMIC : 1 700 € net/mois",
+          "Environ +13 % par rapport au SMIC net d'environ 1 502 € au 1er décembre 2026"
+        ],
+        "date": "2026-11-14",
+        "sources": [
+          {
+            "titre": "INFO FRANCEINFO. Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour « sortir de la crise »",
+            "url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/info-franceinfo-raphael-glucksmann-va-diffuser-ce-week-end-un-tract-presentant-dix-propositions-pour-sortir-de-la-crise_8261228.html",
+            "media": "franceinfo",
+            "date": "2026-11-14"
+          },
+          {
+            "titre": "Présidentielle : que proposent les candidats pour augmenter les salaires ?",
+            "url": "https://www.publicsenat.fr/actualites/economie/presidentielle-que-proposent-les-candidats-pour-augmenter-les-salaires",
+            "media": "Public Sénat",
+            "date": "2026-10-30"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun chiffrage de la mesure par le candidat ni par un organisme indépendant n'a été trouvé. Repères : le SMIC net est d'environ 1 478 € depuis le 1er juin 2026 (LégiSocial) et sera d'environ 1 502 € au 1er décembre 2026 après le coup de pouce annoncé le 9 novembre (AFP) ; 1 700 € net représenteraient une hausse d'environ 13 %. Pour une hausse comparable (de 1 398,70 € à 1 600 € net, soit +14,4 %, programme du Nouveau Front populaire en 2024), l'Institut Montaigne estimait le coût pour les finances publiques à environ 19 Md€ par an (17 à 21 Md€), surtout via les allègements de cotisations, et un effet négatif d'au moins 300 000 emplois à moyen terme (estimation incertaine). Ces repères ne constituent pas un chiffrage de la mesure.",
+          "sources": [
+            {
+              "titre": "Montant du SMIC 2026 : taux horaire net et brut",
+              "url": "https://www.legisocial.fr/reperes-sociaux/montant-smic-2026-taux-horaire-net-brut.html",
+              "media": "LégiSocial",
+              "date": "2026-06"
+            },
+            {
+              "titre": "Lecornu donne un coup de pouce au Smic, les syndicats entre colère et expectative",
+              "url": "https://www.dhnet.be/dernieres-depeches/2026/11/09/sans-latitude-lecornu-tente-de-repondre-a-la-colere-sociale-KWCY3XBQXBFR3JX7E55UFVXLVQ/",
+              "media": "La DH (AFP)",
+              "date": "2026-11-09"
+            },
+            {
+              "titre": "Augmenter le SMIC à 1 600 € net (programme du Nouveau Front populaire)",
+              "url": "https://www.institutmontaigne.org/legislatives-2024/nouveau-front-populaire/augmenter-le-smic-a-1600-e-net",
+              "media": "Institut Montaigne",
+              "date": "2024-06-24"
+            }
+          ]
+        }
+      },
+      {
+        "id": "abrogation-parcoursup",
+        "theme": "education",
+        "type": "proposition",
+        "titre": "Abrogation de Parcoursup",
+        "description": "Abroger Parcoursup, la plateforme nationale d'admission dans l'enseignement supérieur. La mesure figure parmi les dix propositions du tract de campagne diffusé les 14 et 15 novembre 2026 ; le dispositif appelé à la remplacer n'est pas précisé dans la source consultée.",
+        "chiffres": [],
+        "date": "2026-11-14",
+        "sources": [
+          {
+            "titre": "INFO FRANCEINFO. Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour « sortir de la crise »",
+            "url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/info-franceinfo-raphael-glucksmann-va-diffuser-ce-week-end-un-tract-presentant-dix-propositions-pour-sortir-de-la-crise_8261228.html",
+            "media": "franceinfo",
+            "date": "2026-11-14"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La proposition n'est ni chiffrée ni détaillée dans les sources disponibles (pas de description du système d'affectation qui remplacerait la plateforme), et aucune vérification publiée n'a été trouvée au 16 novembre 2026. Son coût et sa faisabilité ne peuvent donc pas être évalués.",
+          "sources": [
+            {
+              "titre": "INFO FRANCEINFO. Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour « sortir de la crise »",
+              "url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/info-franceinfo-raphael-glucksmann-va-diffuser-ce-week-end-un-tract-presentant-dix-propositions-pour-sortir-de-la-crise_8261228.html",
+              "media": "franceinfo",
+              "date": "2026-11-14"
+            }
+          ]
+        }
+      },
+      {
+        "id": "stages-1000-euros",
+        "theme": "emploi-travail",
+        "type": "proposition",
+        "titre": "Rémunération minimale de 1 000 € pour les stages de plus de deux mois",
+        "description": "Porter à 1 000 € la rémunération minimale de tout stage de plus de deux mois, contre 683 € actuellement selon Public Sénat.",
+        "chiffres": [
+          "1 000 € minimum par mois pour les stages de plus de deux mois",
+          "Contre 683 € actuellement (Public Sénat), soit environ +46 %"
+        ],
+        "date": "2026-10-30",
+        "sources": [
+          {
+            "titre": "Présidentielle : que proposent les candidats pour augmenter les salaires ?",
+            "url": "https://www.publicsenat.fr/actualites/economie/presidentielle-que-proposent-les-candidats-pour-augmenter-les-salaires",
+            "media": "Public Sénat",
+            "date": "2026-10-30"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun chiffrage du coût pour les employeurs (entreprises, administrations, associations) ni des effets possibles sur le nombre d'offres de stage n'a été trouvé, ni vérification publiée. La hausse annoncée représente environ 46 % par rapport au montant de 683 € cité par Public Sénat.",
+          "sources": [
+            {
+              "titre": "Présidentielle : que proposent les candidats pour augmenter les salaires ?",
+              "url": "https://www.publicsenat.fr/actualites/economie/presidentielle-que-proposent-les-candidats-pour-augmenter-les-salaires",
+              "media": "Public Sénat",
+              "date": "2026-10-30"
+            }
+          ]
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-13"
+  "derniereMiseAJour": "2026-11-16"
 }
