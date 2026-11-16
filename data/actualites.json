@@ -5,6 +5,42 @@
     {
       "date": "2026-11-16",
       "candidats": [
+        "gabriel-attal",
+        "raphael-glucksmann",
+        "marine-le-pen",
+        "jean-luc-melenchon",
+        "bruno-retailleau"
+      ],
+      "categorie": "autre",
+      "titre": "Attal, Glucksmann, Le Pen, Mélenchon et Retailleau débattent du pouvoir d'achat sur TF1-LCI avec les Restos du cœur",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : candidats, horaires, thèmes… Ce qu'il faut savoir sur le débat du 16 novembre sur TF1 et LCI",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-candidats-horaires-themes-ce-qu-il-faut-savoir-sur-le-debat-du-16-novembre-sur-tf1-et-lci/",
+          "media": "Touteleurope.eu",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "candidats": [
+        "edouard-philippe"
+      ],
+      "categorie": "autre",
+      "titre": "Invité au débat TF1-LCI, Édouard Philippe décline, son équipe indiquant qu'il reste à la mairie du Havre",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : candidats, horaires, thèmes… Ce qu'il faut savoir sur le débat du 16 novembre sur TF1 et LCI",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-candidats-horaires-themes-ce-qu-il-faut-savoir-sur-le-debat-du-16-novembre-sur-tf1-et-lci/",
+          "media": "Touteleurope.eu",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "candidats": [
         "marine-le-pen",
         "jordan-bardella"
       ],
