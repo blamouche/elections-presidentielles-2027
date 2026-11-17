@@ -8,7 +8,7 @@
   "couleur": "#F2B92B",
   "statutCandidature": "declare",
   "candidature": {
-    "texte": "Déclaré le 22 mai 2026 à Mur-de-Barrez (Aveyron), à l'issue d'un débat citoyen, en tant qu'ancien Premier ministre et secrétaire général de Renaissance, après plusieurs semaines de pré-campagne (livre, déplacements, réunions publiques). Pas de primaire organisée à ce stade : fin octobre 2026, il a proposé une « grande primaire des démocrates », qu'il a qualifiée d'« inéluctable » le 2 novembre sur TF1 après le refus d'Édouard Philippe ; Bruno Retailleau et David Lisnard se sont ralliés au principe. Le 10 novembre 2026, Bruno Retailleau a écrit à Édouard Philippe, Gabriel Attal et David Lisnard pour proposer une primaire de la droite et du centre les 31 janvier et 7 février 2027 ; les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard doivent se réunir le 17 novembre 2026 pour en préparer l'organisation, un siège étant réservé à l'équipe d'Édouard Philippe. Le 14 novembre, le président du Sénat Gérard Larcher a proposé aux quatre candidats de se retrouver « dans les meilleurs délais » pour fixer « la méthode de départage » permettant d'aboutir à une candidature unique « au début de l'année prochaine ». Le 15 novembre, dans Le Parisien, Édouard Philippe a de nouveau refusé : « Cette primaire, je n'y participerai pas. Point. », tout en se disant prêt à une réunion consacrée au rassemblement plutôt qu'au mode de désignation. Dans un entretien à Sud-Ouest (novembre 2026), Gabriel Attal a dit ne pas imaginer qu'Édouard Philippe se présente en dehors d'un processus de rassemblement.",
+    "texte": "Déclaré le 22 mai 2026 à Mur-de-Barrez (Aveyron), à l'issue d'un débat citoyen, en tant qu'ancien Premier ministre et secrétaire général de Renaissance, après plusieurs semaines de pré-campagne (livre, déplacements, réunions publiques). Pas de primaire organisée à ce stade : fin octobre 2026, il a proposé une « grande primaire des démocrates », qu'il a qualifiée d'« inéluctable » le 2 novembre sur TF1 après le refus d'Édouard Philippe ; Bruno Retailleau et David Lisnard se sont ralliés au principe. Le 10 novembre 2026, Bruno Retailleau a écrit à Édouard Philippe, Gabriel Attal et David Lisnard pour proposer une primaire de la droite et du centre les 31 janvier et 7 février 2027 ; les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard doivent se réunir le 17 novembre 2026 pour en préparer l'organisation, un siège étant réservé à l'équipe d'Édouard Philippe. Le 14 novembre, le président du Sénat Gérard Larcher a proposé aux quatre candidats de se retrouver « dans les meilleurs délais » pour fixer « la méthode de départage » permettant d'aboutir à une candidature unique « au début de l'année prochaine ». Le 15 novembre, dans Le Parisien, Édouard Philippe a de nouveau refusé : « Cette primaire, je n'y participerai pas. Point. », tout en se disant prêt à une réunion consacrée au rassemblement plutôt qu'au mode de désignation. Dans un entretien à Sud-Ouest (novembre 2026), Gabriel Attal a dit ne pas imaginer qu'Édouard Philippe se présente en dehors d'un processus de rassemblement. Le 16 novembre 2026, environ 1 000 élus locaux de la droite et du centre ont signé un appel à une primaire ouverte (Europe 1). Le 17 novembre, les représentants des équipes de Gabriel Attal (trois), Bruno Retailleau (deux) et David Lisnard (deux) se sont réunis pour négocier le calendrier, les débats, le prix du vote et le périmètre d'une primaire, une chaise restant vide pour l'équipe d'Édouard Philippe, absente ; le périmètre reste discuté, David Lisnard plaidant pour une primaire très large n'excluant pas Éric Zemmour, ce que refuse Gabriel Attal. Aucune issue de cette réunion n'était connue à la date de mise à jour. Le 16 novembre, il a participé au débat TF1-LCI organisé avec les Restos du cœur, auquel Édouard Philippe n'a pas pris part.",
     "date": "2026-05-22",
     "sources": [
       {
@@ -52,6 +52,24 @@
         "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html",
         "media": "franceinfo (direct)",
         "date": "2026-11-15"
+      },
+      {
+        "titre": "Primaire de la droite et du centre : réunion décisive ce mardi entre les représentants des candidats, mais sans Édouard Philippe",
+        "url": "https://www.europe1.fr/politique/primaire-de-la-droite-et-du-centre-reunion-decisive-ce-mardi-entre-les-representants-des-candidats-mais-sans-edouard-philippe-1238208",
+        "media": "Europe 1",
+        "date": "2026-11-16"
+      },
+      {
+        "titre": "Les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard négocient les modalités d'une potentielle primaire de la droite et du centre",
+        "url": "https://www.franceinfo.fr/elections/primaire-ou-pas-primaire-gabriel-attal-bruno-retailleau-et-david-lisnard-semblent-favorables_8285471.html",
+        "media": "franceinfo",
+        "date": "2026-11-17"
+      },
+      {
+        "titre": "Présidentielle 2027 : Gabriel Attal, Bruno Retailleau et David Lisnard passent aux négociations pour une primaire",
+        "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-bruno-retailleau-et-david-lisnard-passent-aux-negociations-pour-une-primaire-l-express-via-6medias-CNT000002tLevK.html",
+        "media": "6Medias avec L'Express (Orange Actu)",
+        "date": "2026-11-17"
       }
     ]
   },
@@ -686,7 +704,7 @@
         "theme": "pouvoir-achat-social",
         "type": "proposition",
         "titre": "« Droit au brut » : 250 € nets de plus par mois au niveau du salaire médian",
-        "description": "Supprimer des cotisations pesant sur le travail pour réduire l'écart entre salaire brut et net, afin d'augmenter de 250 € nets par mois (« l'équivalent d'un treizième mois ») un salarié au salaire médian, présenté comme égal à 2 200 € nets, dès début 2027, sans coût supplémentaire pour l'employeur. Financement annoncé : économies sur le modèle social, d'abord sur l'assurance chômage et les indemnités journalières.",
+        "description": "Supprimer des cotisations pesant sur le travail pour réduire l'écart entre salaire brut et net, afin d'augmenter de 250 € nets par mois (« l'équivalent d'un treizième mois ») un salarié au salaire médian, présenté comme égal à 2 200 € nets, dès début 2027, sans coût supplémentaire pour l'employeur. Financement annoncé : économies sur le modèle social, d'abord sur l'assurance chômage et les indemnités journalières. Lors du débat TF1-LCI du 16 novembre 2026, il a présenté la suppression de la CSG comme le moyen d'augmenter les salaires, en jugeant inefficace la baisse de TVA proposée par Marine Le Pen ; les comptes rendus ne précisent pas si cette suppression est totale ou limitée à la part salariale, ni son articulation avec le « droit au brut ».",
         "chiffres": [
           "+250 € nets par mois au salaire médian",
           "Salaire médian invoqué : 2 200 € nets",
@@ -705,6 +723,18 @@
             "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-revele-les-premieres-lignes-de-son-programme-magic-CNT000002pzsbo.html",
             "media": "6Medias (Orange Actu)",
             "date": "2026-05-24"
+          },
+          {
+            "titre": "Impôts, logement, Smic... les candidats à la présidentielle débattent de leurs propositions",
+            "url": "https://www.france24.com/fr/france/20261116-imp%C3%B4ts-logement-smic-les-candidats-%C3%A0-la-pr%C3%A9sidentielle-d%C3%A9battent-de-leurs-propositions",
+            "media": "France 24 (avec AFP)",
+            "date": "2026-11-16"
+          },
+          {
+            "titre": "Présidentielle 2027 : pauvreté, pouvoir d'achat, logement… Le Pen, Mélenchon, Glucksmann, Retailleau, Attal confrontent leurs visions de la solidarité aux Restos du Cœur",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-pauvrete-pouvoir-dachat-logement-le-pen-melenchon-glucksmann-retailleau-attal-confrontent-leurs-visions-de-la-solidarite-aux-restos",
+            "media": "Public Sénat",
+            "date": "2026-11-17"
           }
         ],
         "factCheck": {
@@ -1190,8 +1220,119 @@
             }
           ]
         }
+      },
+      {
+        "id": "logement-priorite-actifs-banque-logement",
+        "theme": "logement",
+        "type": "proposition",
+        "titre": "Priorité aux actifs dans le logement social et « banque nationale pour le logement »",
+        "description": "Lors du débat TF1-LCI du 16 novembre 2026, il a proposé de donner la priorité, dans l'attribution des logements sociaux, aux personnes qui travaillent, notamment dans les métiers « essentiels » et les services publics, et de créer une « banque nationale pour le logement » qui financerait une partie de l'achat d'un logement par les ménages, ceux-ci remboursant le solde à la revente.",
+        "chiffres": [
+          "Coût et volume de la banque nationale pour le logement : non précisés"
+        ],
+        "date": "2026-11-16",
+        "sources": [
+          {
+            "titre": "Impôts, logement, Smic... les candidats à la présidentielle débattent de leurs propositions",
+            "url": "https://www.france24.com/fr/france/20261116-imp%C3%B4ts-logement-smic-les-candidats-%C3%A0-la-pr%C3%A9sidentielle-d%C3%A9battent-de-leurs-propositions",
+            "media": "France 24 (avec AFP)",
+            "date": "2026-11-16"
+          },
+          {
+            "titre": "Présidentielle 2027 : pauvreté, pouvoir d'achat, logement… Le Pen, Mélenchon, Glucksmann, Retailleau, Attal confrontent leurs visions de la solidarité aux Restos du Cœur",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-pauvrete-pouvoir-dachat-logement-le-pen-melenchon-glucksmann-retailleau-attal-confrontent-leurs-visions-de-la-solidarite-aux-restos",
+            "media": "Public Sénat",
+            "date": "2026-11-17"
+          },
+          {
+            "titre": "Logement, associations, jeunesse... : ce qu'il faut retenir du débat présidentiel sur LCI",
+            "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
+            "media": "LCP",
+            "date": "2026-11-17"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Proposition présentée oralement lors du débat, sans chiffrage ni modalités (critères de priorité, capital de la banque, conditions de remboursement) dans les comptes rendus consultés. Aucune vérification indépendante n'a été trouvée au 17 novembre 2026.",
+          "sources": [
+            {
+              "titre": "Présidentielle 2027 : pauvreté, pouvoir d'achat, logement… Le Pen, Mélenchon, Glucksmann, Retailleau, Attal confrontent leurs visions de la solidarité aux Restos du Cœur",
+              "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-pauvrete-pouvoir-dachat-logement-le-pen-melenchon-glucksmann-retailleau-attal-confrontent-leurs-visions-de-la-solidarite-aux-restos",
+              "media": "Public Sénat",
+              "date": "2026-11-17"
+            }
+          ]
+        }
+      },
+      {
+        "id": "defiscalisation-pensions-alimentaires",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Défiscaliser les pensions alimentaires perçues par les mères",
+        "description": "Lors du débat TF1-LCI du 16 novembre 2026 consacré à la précarité, il a proposé de défiscaliser les pensions alimentaires perçues par les mères (aujourd'hui imposables pour le parent qui les reçoit).",
+        "chiffres": [
+          "Coût : non chiffré par le candidat"
+        ],
+        "date": "2026-11-16",
+        "sources": [
+          {
+            "titre": "Impôts, logement, Smic... les candidats à la présidentielle débattent de leurs propositions",
+            "url": "https://www.france24.com/fr/france/20261116-imp%C3%B4ts-logement-smic-les-candidats-%C3%A0-la-pr%C3%A9sidentielle-d%C3%A9battent-de-leurs-propositions",
+            "media": "France 24 (avec AFP)",
+            "date": "2026-11-16"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Mesure évoquée lors du débat sans chiffrage. Aucune estimation indépendante de son coût ni vérification n'a été trouvée au 17 novembre 2026.",
+          "sources": [
+            {
+              "titre": "Impôts, logement, Smic... les candidats à la présidentielle débattent de leurs propositions",
+              "url": "https://www.france24.com/fr/france/20261116-imp%C3%B4ts-logement-smic-les-candidats-%C3%A0-la-pr%C3%A9sidentielle-d%C3%A9battent-de-leurs-propositions",
+              "media": "France 24 (avec AFP)",
+              "date": "2026-11-16"
+            }
+          ]
+        }
+      },
+      {
+        "id": "declaration-rn-3-7-md-associations",
+        "theme": "pouvoir-achat-social",
+        "type": "declaration-chiffree",
+        "titre": "Le RN veut « 3,7 milliards d'euros » d'économies sur les associations",
+        "description": "Lors du débat TF1-LCI du 16 novembre 2026, il a accusé Marine Le Pen de vouloir réaliser 3,7 milliards d'euros d'économies sur le secteur associatif, estimant que seules les associations faisant « allégeance » au pouvoir resteraient financées.",
+        "chiffres": [
+          "3,7 Md€ d'économies sur les subventions aux associations (programme du RN)"
+        ],
+        "date": "2026-11-16",
+        "sources": [
+          {
+            "titre": "Présidentielle 2027 : pauvreté, pouvoir d'achat, logement… Le Pen, Mélenchon, Glucksmann, Retailleau, Attal confrontent leurs visions de la solidarité aux Restos du Cœur",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-pauvrete-pouvoir-dachat-logement-le-pen-melenchon-glucksmann-retailleau-attal-confrontent-leurs-visions-de-la-solidarite-aux-restos",
+            "media": "Public Sénat",
+            "date": "2026-11-17"
+          },
+          {
+            "titre": "Marine Le Pen critiquée en plein débat de la présidentielle pour sa volonté de couper les subventions des associations \"politisées\"",
+            "url": "https://www.franceinfo.fr/elections/marine-le-pen-critiquee-en-plein-debat-de-la-presidentielle-pour-sa-volonte-de-couper-les-subventions-des-associations-politisees_8285558.html",
+            "media": "franceinfo",
+            "date": "2026-11-17"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-vrai",
+          "analyse": "Selon franceinfo, le programme du RN prévoit bien de « baisser les subventions aux associations ne relevant pas de l'intérêt général » pour économiser 3,7 milliards d'euros par an. Le montant est donc exact, mais la mesure du RN vise les associations qu'il juge hors de l'intérêt général et non l'ensemble du secteur ; l'effet sur les associations caritatives n'est pas documenté. Aucun fact-check dédié n'a été trouvé au 17 novembre 2026.",
+          "sources": [
+            {
+              "titre": "Marine Le Pen critiquée en plein débat de la présidentielle pour sa volonté de couper les subventions des associations \"politisées\"",
+              "url": "https://www.franceinfo.fr/elections/marine-le-pen-critiquee-en-plein-debat-de-la-presidentielle-pour-sa-volonte-de-couper-les-subventions-des-associations-politisees_8285558.html",
+              "media": "franceinfo",
+              "date": "2026-11-17"
+            }
+          ]
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-16"
+  "derniereMiseAJour": "2026-11-17"
 }

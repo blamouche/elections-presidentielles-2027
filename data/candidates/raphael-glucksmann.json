@@ -678,7 +678,7 @@
         "theme": "environnement-energie",
         "type": "proposition",
         "titre": "Pompes à chaleur à tarif social et Pass Mobilité Durable à 1 € par jour",
-        "description": "Vente d'un million de pompes à chaleur à tarif social (environ 1 € par jour) et création d'un « Pass Mobilité Durable » à 1 € par jour pour les moins de 25 ans.",
+        "description": "Vente d'un million de pompes à chaleur à tarif social (environ 1 € par jour) et création d'un « Pass Mobilité Durable » à 1 € par jour pour les moins de 25 ans. Lors du débat TF1-LCI du 16 novembre 2026, il a présenté le pass mobilité à 1 € par jour comme destiné aux moins de 25 ans, pour tous les transports du quotidien, financé par une taxation des plus hauts patrimoines (Euronews).",
         "chiffres": [
           "1 000 000 de pompes à chaleur à environ 1 €/jour",
           "Pass mobilité à 1 €/jour pour les moins de 25 ans"
@@ -696,6 +696,12 @@
             "url": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
             "media": "France 24 (AFP)",
             "date": "2026-11-09"
+          },
+          {
+            "titre": "Présidentielle 2027 : Le Pen promet une \"prime d'activité\" pour les jeunes, Mélenchon souhaite une allocation",
+            "url": "https://fr.euronews.com/2026/11/17/presidentielle-2027-le-pen-promet-une-prime-dactivite-pour-les-jeunes-melenchon-souhaite-u",
+            "media": "Euronews",
+            "date": "2026-11-17"
           }
         ],
         "factCheck": {
@@ -1066,8 +1072,39 @@
             }
           ]
         }
+      },
+      {
+        "id": "loger-enfants-rue-trois-semaines",
+        "theme": "logement",
+        "type": "proposition",
+        "titre": "Loger en trois semaines les « 3 000 enfants » qui dorment dans la rue",
+        "description": "Lors du débat TF1-LCI du 16 novembre 2026 organisé avec les Restos du cœur, Raphaël Glucksmann a promis : « Si je suis élu président de la République, en trois semaines, on loge ces 3.000 enfants qui dorment dans la rue », mesure présentée comme prioritaire en fin d'émission. Ni coût ni modalités n'ont été précisés.",
+        "chiffres": [
+          "Objectif : 3 000 enfants à la rue logés en trois semaines après l'élection"
+        ],
+        "date": "2026-11-16",
+        "sources": [
+          {
+            "titre": "Logement, associations, jeunesse... : ce qu'il faut retenir du débat présidentiel sur LCI",
+            "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
+            "media": "LCP",
+            "date": "2026-11-17"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante de cette déclaration n'a été trouvée au 17 novembre 2026. Ordre de grandeur : le baromètre Unicef France / Fédération des acteurs de la solidarité publié le 26 août 2026 recense au moins 2 355 enfants, dont 514 de moins de trois ans, restés sans hébergement après un appel au 115 de leurs parents (+9 % en un an) ; les associations soulignent que ce chiffre est sous-estimé (familles n'appelant pas le 115, mineurs non accompagnés, squats et bidonvilles non comptés). Le chiffre de 3 000 est donc compatible avec ces données sans en être directement issu ; la faisabilité du délai de trois semaines n'a pas été évaluée.",
+          "sources": [
+            {
+              "titre": "Plus de 2.300 enfants dorment encore dans la rue",
+              "url": "https://fr.aleteia.org/2026/08/26/le-nombre-denfants-a-la-rue-continue-daugmenter/",
+              "media": "Aleteia",
+              "date": "2026-08-26"
+            }
+          ]
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-16"
+  "derniereMiseAJour": "2026-11-17"
 }

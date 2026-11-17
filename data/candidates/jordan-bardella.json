@@ -1250,7 +1250,7 @@
         "theme": "retraites",
         "type": "proposition",
         "titre": "Durcir la validation des trimestres et exonérer l'emploi des seniors",
-        "description": "Dans son livre « Gouverner » (Fayard, 4 novembre 2026), Jordan Bardella propose, pour financer en partie le retour à un âge de départ de 62 voire 60 ans, de « renforcer les conditions de validation d'un trimestre » afin de la « rapprocher de la réalité du travail et des cotisations versées » (aujourd'hui, quatre trimestres peuvent être validés sans avoir travaillé douze mois), en préservant maternité, maladie, handicap et carrières longues. Il prévoit des exonérations de cotisations pour le maintien en emploi des seniors, « équivalant à une baisse de 30 % du coût du travail », dont une partie serait reversée en salaire, et une capitalisation volontaire via un fonds souverain. Il présente l'ensemble comme « un compromis juste ».",
+        "description": "Dans son livre « Gouverner » (Fayard, 4 novembre 2026), Jordan Bardella propose, pour financer en partie le retour à un âge de départ de 62 voire 60 ans, de « renforcer les conditions de validation d'un trimestre » afin de la « rapprocher de la réalité du travail et des cotisations versées » (aujourd'hui, quatre trimestres peuvent être validés sans avoir travaillé douze mois), en préservant maternité, maladie, handicap et carrières longues. Il prévoit des exonérations de cotisations pour le maintien en emploi des seniors, « équivalant à une baisse de 30 % du coût du travail », dont une partie serait reversée en salaire, et une capitalisation volontaire via un fonds souverain. Il présente l'ensemble comme « un compromis juste ». Le 17 novembre 2026, il a coprésenté avec Marine Le Pen, au siège du RN, le projet de réforme des retraites du parti : retour à 62 ans avec 42 annuités (60 ans avec 40 annuités pour les carrières commencées avant 20 ans), part de capitalisation présentée comme obligatoire, durcissement de la validation des trimestres et exonérations de cotisations pour les seniors (AFP, franceinfo).",
         "chiffres": [
           "Âge de départ : retour à 62 ans, voire 60 ans",
           "Exonérations seniors : équivalent à une baisse de 30 % du coût du travail"
@@ -1268,17 +1268,35 @@
             "url": "https://www.lagazettefrance.fr/article/apres-des-jours-sans-bardella-reve-deja-de-ses-cent-jours-a-matignon",
             "media": "La Gazette France (AFP)",
             "date": "2026-11-04"
+          },
+          {
+            "titre": "Travailler plus, partir plus tôt : Le Pen abat sa carte retraite",
+            "url": "https://www.boursorama.com/actualite-economique/actualites/travailler-plus-partir-plus-tot-le-pen-abat-sa-carte-retraite-f57f33aec1430fcd974629a4c2e3e4ce",
+            "media": "AFP (via Boursorama)",
+            "date": "2026-11-17"
+          },
+          {
+            "titre": "Retour de l'âge légal de départ à 62 ans, capitalisation obligatoire… Le RN présente sa réforme des retraites",
+            "url": "https://www.franceinfo.fr/politique/front-national/retour-de-l-age-legal-de-depart-a-62-ans-capitalisation-obligatoire-le-rn-presente-sa-reforme-des-retraites_8285453.html",
+            "media": "franceinfo",
+            "date": "2026-11-17"
           }
         ],
         "factCheck": {
           "verdict": "non-verifie",
-          "analyse": "Aucun chiffrage du coût des exonérations ni du rendement du durcissement de la validation des trimestres n'a été publié au 16 novembre 2026, le détail de la réforme du RN devant être présenté le 17 novembre. Reuters rapporte que des économistes et investisseurs doutent de la faisabilité du projet, l'objectif de 15 à 20 Md€ d'économies annuelles paraissant difficile à atteindre avec un départ à 60 ans ; la Cour des comptes chiffre jusqu'à 10 Md€ par an le coût de l'annulation de la réforme de 2023.",
+          "analyse": "Aucun chiffrage indépendant du coût des exonérations ni du rendement du durcissement de la validation des trimestres n'a été trouvé au 17 novembre 2026. Un député RN chiffre le coût global de la réforme présentée le 17 novembre à « une quinzaine de milliards d'euros » compensés par une hausse du volume de travail (franceinfo). Reuters rapporte que des économistes et investisseurs doutent de la faisabilité du projet, l'objectif de 15 à 20 Md€ d'économies annuelles paraissant difficile à atteindre avec un départ à 60 ans ; la Cour des comptes chiffre jusqu'à 10 Md€ par an le coût de l'annulation de la réforme de 2023.",
           "sources": [
             {
               "titre": "Marine Le Pen cherche à concilier promesses électorales et réalité budgétaire",
               "url": "https://www.boursorama.com/actualite-economique/actualites/marine-le-pen-cherche-a-concilier-promesses-electorales-et-realite-budgetaire-e0aec0c412a9d56ea873bc2a4b67a9d4",
               "media": "Reuters (via Boursorama)",
               "date": "2026-11-16"
+            },
+            {
+              "titre": "Retour de l'âge légal de départ à 62 ans, capitalisation obligatoire… Le RN présente sa réforme des retraites",
+              "url": "https://www.franceinfo.fr/politique/front-national/retour-de-l-age-legal-de-depart-a-62-ans-capitalisation-obligatoire-le-rn-presente-sa-reforme-des-retraites_8285453.html",
+              "media": "franceinfo",
+              "date": "2026-11-17"
             }
           ]
         }
@@ -1313,5 +1331,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-16"
+  "derniereMiseAJour": "2026-11-17"
 }

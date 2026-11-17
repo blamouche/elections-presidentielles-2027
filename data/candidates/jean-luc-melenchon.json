@@ -981,7 +981,7 @@
         "theme": "pouvoir-achat-social",
         "type": "proposition",
         "titre": "Garantie d'autonomie au seuil de pauvreté (1 337 €)",
-        "description": "Porter le revenu mensuel de chaque personne au niveau du seuil de pauvreté, soit 1 337 € pour une personne seule ; garantie d'autonomie pour les jeunes ne vivant plus chez leurs parents.",
+        "description": "Porter le revenu mensuel de chaque personne au niveau du seuil de pauvreté, soit 1 337 € pour une personne seule ; garantie d'autonomie pour les jeunes ne vivant plus chez leurs parents. Lors du débat TF1-LCI du 16 novembre 2026, il a présenté une allocation d'autonomie de 1 337 € par mois pour les jeunes qui étudient, dès 16 ans dans les filières professionnelles (« Il faut que les étudiants étudient »), financée selon lui par la limitation des héritages à 12 M€.",
         "chiffres": [
           "Revenu minimum garanti : 1 337 € par mois pour une personne seule",
           "Coût annoncé pour la garantie d'autonomie des jeunes : 9,5 Md€ (contre-budget LFI, octobre 2026)"
@@ -999,6 +999,18 @@
             "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
             "media": "LCP",
             "date": "2026-11-06"
+          },
+          {
+            "titre": "Présidentielle 2027 : Le Pen promet une \"prime d'activité\" pour les jeunes, Mélenchon souhaite une allocation",
+            "url": "https://fr.euronews.com/2026/11/17/presidentielle-2027-le-pen-promet-une-prime-dactivite-pour-les-jeunes-melenchon-souhaite-u",
+            "media": "Euronews",
+            "date": "2026-11-17"
+          },
+          {
+            "titre": "Logement, associations, jeunesse... : ce qu'il faut retenir du débat présidentiel sur LCI",
+            "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
+            "media": "LCP",
+            "date": "2026-11-17"
           }
         ],
         "factCheck": {
@@ -1145,7 +1157,7 @@
         "theme": "economie-fiscalite",
         "type": "proposition",
         "titre": "Héritage maximal de 12 millions d'euros",
-        "description": "Plafonner à 12 M€ l'héritage qu'une personne peut recevoir au cours de sa vie (tous dons et héritages cumulés), et exonérer les héritages inférieurs à 150 000 €.",
+        "description": "Plafonner à 12 M€ l'héritage qu'une personne peut recevoir au cours de sa vie (tous dons et héritages cumulés), et exonérer les héritages inférieurs à 150 000 €. Au débat TF1-LCI du 16 novembre 2026, il a proposé de prendre la totalité de ce qui dépasse 12 M€ pour financer l'allocation d'autonomie des jeunes (9,5 Md€ par an selon LFI) ; le rendement de cette mesure n'a pas été chiffré indépendamment.",
         "chiffres": [
           "Héritage maximal : 12 M€ sur la vie",
           "Exonération des héritages inférieurs à 150 000 €",
@@ -1164,6 +1176,18 @@
             "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
             "media": "LCP",
             "date": "2026-11-06"
+          },
+          {
+            "titre": "Présidentielle 2027 : Le Pen promet une \"prime d'activité\" pour les jeunes, Mélenchon souhaite une allocation",
+            "url": "https://fr.euronews.com/2026/11/17/presidentielle-2027-le-pen-promet-une-prime-dactivite-pour-les-jeunes-melenchon-souhaite-u",
+            "media": "Euronews",
+            "date": "2026-11-17"
+          },
+          {
+            "titre": "Logement, associations, jeunesse... : ce qu'il faut retenir du débat présidentiel sur LCI",
+            "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
+            "media": "LCP",
+            "date": "2026-11-17"
           }
         ],
         "factCheck": {
@@ -1552,5 +1576,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-16"
+  "derniereMiseAJour": "2026-11-17"
 }

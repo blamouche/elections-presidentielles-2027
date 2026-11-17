@@ -1211,15 +1211,40 @@
         "id": "retraites-60-62-ans",
         "theme": "retraites",
         "type": "proposition",
-        "titre": "Âge légal de départ entre 60 et 62 ans",
-        "description": "Maintenir un âge légal compris entre 60 et 62 ans selon l'âge d'entrée sur le marché du travail (départ à 60 ans pour ceux ayant commencé avant 20 ans), avec 40 à 42 annuités pour une pension à taux plein ; financement annoncé par 15 à 20 Md€ d'économies sur des mesures jugées injustes ou inefficaces du système actuel et par la hausse du taux d'emploi. Une composante de capitalisation est évoquée dans le plan budgétaire. Présentation détaillée annoncée pour le 17 novembre 2026. À la veille de cette présentation, Reuters (16 novembre 2026) rapporte que le RN maintient la promesse d'un départ à 60 ans pour les carrières commencées tôt, avec 40 à 42 annuités pour le taux plein, et que Jordan Bardella évoque un durcissement des règles de validation des trimestres, des incitations au maintien en emploi des seniors et la possibilité de verser une partie des cotisations dans un fonds d'investissement « de type souverain ».",
+        "titre": "Retour à 62 ans avec 42 annuités, 60 ans pour les carrières longues et part de capitalisation obligatoire",
+        "description": "Projet présenté le 17 novembre 2026 au siège du RN par Marine Le Pen, avec Jordan Bardella et Jean-Philippe Tanguy : retour de l'âge légal de départ à 62 ans avec 42 annuités, ou 60 ans avec 40 annuités pour ceux ayant commencé à travailler avant 20 ans ; l'âge légal est maintenu, contrairement à ce que suggéraient au printemps des proches de Jordan Bardella (franceinfo). Introduction d'une « part de capitalisation pour tous les Français », présentée comme obligatoire, financée par la réorientation d'une partie des cotisations, avec une mise de départ visée de 20 Md€, soit à peu près le montant du Fonds de réserve pour les retraites (AFP) ; la veille sur LCI, Marine Le Pen a affirmé vouloir créer ce pilier « sans augmenter les cotisations retraite et sans baisser les pensions de retraite », et Jean-Philippe Tanguy a déclaré sur France 2 que « tous les salariés » auraient une part de capitalisation, financée par des « économies dans le système social ». Financement annoncé par une hausse du « volume de travail » (entrée plus précoce des jeunes, maintien des seniors via des exonérations de cotisations), un durcissement de la validation des trimestres (notamment pour les plus hauts revenus et les chômeurs) et 15 à 20 Md€ d'économies « à terme », dont la possible suppression de la majoration de pension de 10 % des parents de trois enfants et plus (AFP). Un député RN chiffre le coût à « une quinzaine de milliards d'euros », « compensés par une augmentation globale du volume de travail » (franceinfo) ; Marine Le Pen évalue le seul maintien à 62 ans à 9 Md€ par an (Europe 1).",
         "chiffres": [
-          "Âge légal : 60 à 62 ans",
-          "Durée de cotisation : 40 à 42 annuités",
-          "Économies annoncées pour financer la réforme : 15 à 20 Md€"
+          "Âge légal : 62 ans avec 42 annuités ; 60 ans avec 40 annuités si début de carrière avant 20 ans",
+          "Capitalisation : mise de départ visée de 20 Md€ (selon l'AFP)",
+          "Coût : « une quinzaine de milliards d'euros » selon un député RN ; 9 Md€/an pour le maintien à 62 ans selon Marine Le Pen",
+          "Économies annoncées : 15 à 20 Md€ « à terme »"
         ],
-        "date": "2026-10-14",
+        "date": "2026-11-17",
         "sources": [
+          {
+            "titre": "Retour de l'âge légal de départ à 62 ans, capitalisation obligatoire… Le RN présente sa réforme des retraites",
+            "url": "https://www.franceinfo.fr/politique/front-national/retour-de-l-age-legal-de-depart-a-62-ans-capitalisation-obligatoire-le-rn-presente-sa-reforme-des-retraites_8285453.html",
+            "media": "franceinfo",
+            "date": "2026-11-17"
+          },
+          {
+            "titre": "Travailler plus, partir plus tôt : Le Pen abat sa carte retraite",
+            "url": "https://www.boursorama.com/actualite-economique/actualites/travailler-plus-partir-plus-tot-le-pen-abat-sa-carte-retraite-f57f33aec1430fcd974629a4c2e3e4ce",
+            "media": "AFP (via Boursorama)",
+            "date": "2026-11-17"
+          },
+          {
+            "titre": "Maintien de l'âge légal à 62 ans, dose de capitalisation... Le Rassemblement national veut défendre sa crédibilité sur les retraites",
+            "url": "https://www.europe1.fr/politique/maintien-de-lage-legal-a-62-ans-dose-de-capitalisation-le-rassemblement-national-veut-defendre-sa-credibilite-sur-les-retraites-1238295",
+            "media": "Europe 1",
+            "date": "2026-11-17"
+          },
+          {
+            "titre": "Marine Le Pen, qui va présenter mardi son projet de réforme des retraites, a \"une solution pour financer une part de capitalisation pour tous les Français\", assure Jean-Philippe Tanguy",
+            "url": "https://www.franceinfo.fr/economie/retraite/il-y-a-30-ans-de-mensonges-sur-le-systeme-des-retraites-lance-jean-philippe-tanguy-depute-rn_8284433.html",
+            "media": "franceinfo",
+            "date": "2026-11-16"
+          },
           {
             "titre": "Marine Le Pen présentera \"de manière extrêmement précise\" sa réforme des retraites le 17 novembre",
             "url": "https://www.franceinfo.fr/elections/presidentielle/marine-le-pen-presentera-de-maniere-extremement-precise-sa-reforme-des-retraites-le-17-novembre_8237821.html",
@@ -1253,8 +1278,20 @@
         ],
         "factCheck": {
           "verdict": "non-verifie",
-          "analyse": "La réforme détaillée et son chiffrage n'étaient pas publiés au 16 novembre 2026 (présentation prévue le 17 novembre), ce qui empêche une vérification. Ordres de grandeur disponibles : en 2024, l'Institut Montaigne estimait à 34,7 Md€/an le coût de la mesure du RN d'abrogation de la réforme de 2023 avec départ à 60 ans après 40 annuités pour les carrières commencées avant 20 ans ; la Cour des comptes estimait à environ 13 Md€ à l'horizon 2035 le coût d'un simple gel de l'âge légal à 63 ans, et Reuters (16 novembre 2026) rapporte une estimation de la Cour des comptes pouvant atteindre 10 Md€ par an pour l'annulation de la réforme. Reuters juge difficile d'atteindre les 15 à 20 Md€ d'économies annuelles évoqués si la promesse d'un départ à 60 ans est tenue. Le plan budgétaire du 6 octobre 2026 présente ces économies comme des « corrections de mesures injustes » et prévoit un « pilier de capitalisation », sans détail publié (Public Sénat).",
+          "analyse": "Aucune vérification indépendante du chiffrage présenté le 17 novembre 2026 n'a été trouvée à cette date. Les estimations disponibles divergent : le RN avance un coût d'environ 9 Md€/an pour le maintien à 62 ans (Europe 1 note que ce chiffre est bien inférieur à celui de certaines institutions) et « une quinzaine de milliards » pour l'ensemble ; en 2024, l'Institut Montaigne estimait à 34,7 Md€/an le coût de la mesure du RN d'abrogation de la réforme de 2023 avec départ à 60 ans après 40 annuités ; la Cour des comptes chiffre jusqu'à 10 Md€ par an l'annulation de la réforme de 2023 (Reuters). Reuters juge difficile d'atteindre 15 à 20 Md€ d'économies annuelles si le départ à 60 ans pour les carrières longues est maintenu. Le financement de la part de capitalisation (20 Md€ de mise de départ selon l'AFP) n'a pas fait l'objet d'une évaluation publiée.",
           "sources": [
+            {
+              "titre": "Maintien de l'âge légal à 62 ans, dose de capitalisation... Le Rassemblement national veut défendre sa crédibilité sur les retraites",
+              "url": "https://www.europe1.fr/politique/maintien-de-lage-legal-a-62-ans-dose-de-capitalisation-le-rassemblement-national-veut-defendre-sa-credibilite-sur-les-retraites-1238295",
+              "media": "Europe 1",
+              "date": "2026-11-17"
+            },
+            {
+              "titre": "Travailler plus, partir plus tôt : Le Pen abat sa carte retraite",
+              "url": "https://www.boursorama.com/actualite-economique/actualites/travailler-plus-partir-plus-tot-le-pen-abat-sa-carte-retraite-f57f33aec1430fcd974629a4c2e3e4ce",
+              "media": "AFP (via Boursorama)",
+              "date": "2026-11-17"
+            },
             {
               "titre": "Législatives 2024 – Rassemblement national : synthèse du chiffrage",
               "url": "https://www.institutmontaigne.org/legislatives-2024/rassemblement-national/synthese",
@@ -1596,8 +1633,81 @@
           "analyse": "Il s'agit d'un changement de position déclaré, non d'une affirmation chiffrée : il n'appelle pas de vérification factuelle au-delà du constat que l'interdiction de la double nationalité figurait dans ses propositions antérieures, ce que ses propres propos confirment. Aucune vérification publiée n'a été trouvée au 16 novembre 2026.",
           "sources": []
         }
+      },
+      {
+        "id": "subventions-associations-politisees",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Couper les subventions aux associations « politisées »",
+        "description": "Lors du débat TF1-LCI du 16 novembre 2026 organisé avec les Restos du cœur, Marine Le Pen a déclaré : « Nous allons arrêter de subventionner les associations politisées », estimant qu'une association qui dit pour qui voter fait de la politique et devrait se constituer en parti ; elle a précisé que les Restos du cœur ne seraient pas concernés et qualifié la Ligue des droits de l'Homme de « ramassis de gauchistes ». Son programme prévoit de baisser les subventions aux associations ne relevant pas de l'intérêt général pour économiser 3,7 Md€ par an. Gabriel Attal, Raphaël Glucksmann et Jean-Luc Mélenchon ont critiqué la proposition, Attal citant la mairie RN de Hayange, qui avait coupé l'électricité et le gaz au Secours populaire avant que la justice ne l'oblige à revenir sur cette décision.",
+        "chiffres": [
+          "Économies annoncées : 3,7 Md€ par an"
+        ],
+        "date": "2026-11-16",
+        "sources": [
+          {
+            "titre": "Marine Le Pen critiquée en plein débat de la présidentielle pour sa volonté de couper les subventions des associations \"politisées\"",
+            "url": "https://www.franceinfo.fr/elections/marine-le-pen-critiquee-en-plein-debat-de-la-presidentielle-pour-sa-volonte-de-couper-les-subventions-des-associations-politisees_8285558.html",
+            "media": "franceinfo",
+            "date": "2026-11-17"
+          },
+          {
+            "titre": "Logement, associations, jeunesse... : ce qu'il faut retenir du débat présidentiel sur LCI",
+            "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
+            "media": "LCP",
+            "date": "2026-11-17"
+          },
+          {
+            "titre": "Présidentielle : Marine Le Pen promet de couper les subventions aux «associations politisées»",
+            "url": "https://www.lejdd.fr/politique/ramassis-de-gauchistes-marine-le-pen-promet-de-couper-les-subventions-aux-associations-politisees-188904",
+            "media": "Le JDD",
+            "date": "2026-11-17"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante du montant de 3,7 Md€ n'a été trouvée au 17 novembre 2026. Le critère d'une association « politisée » n'a pas été défini sur le plateau, et interrogée par Raphaël Glucksmann, Marine Le Pen n'a pas cité de structure précise, ce qui empêche d'évaluer le périmètre et le rendement de la mesure. Les comptes rendus du débat (franceinfo, LCP) rapportent les déclarations sans les confronter à des données.",
+          "sources": [
+            {
+              "titre": "Marine Le Pen critiquée en plein débat de la présidentielle pour sa volonté de couper les subventions des associations \"politisées\"",
+              "url": "https://www.franceinfo.fr/elections/marine-le-pen-critiquee-en-plein-debat-de-la-presidentielle-pour-sa-volonte-de-couper-les-subventions-des-associations-politisees_8285558.html",
+              "media": "franceinfo",
+              "date": "2026-11-17"
+            },
+            {
+              "titre": "Logement, associations, jeunesse... : ce qu'il faut retenir du débat présidentiel sur LCI",
+              "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
+              "media": "LCP",
+              "date": "2026-11-17"
+            }
+          ]
+        }
+      },
+      {
+        "id": "prime-activite-etudiante",
+        "theme": "pouvoir-achat-social",
+        "type": "proposition",
+        "titre": "Prime d'activité étudiante",
+        "description": "Lors du débat TF1-LCI du 16 novembre 2026, Marine Le Pen a proposé une « prime d'activité étudiante » égale à 20 % du salaire, plafonnée à 200 euros (30 % plafonnée à 300 euros pour les boursiers), en plus de la gratuité du permis de conduire et des trains aux heures creuses pour les jeunes. Elle a aussi défendu une priorité d'accès des Français au logement social (« Ça ne veut pas dire une exclusivité, ça veut dire une priorité ») et l'indexation des aides et minima sur l'inflation.",
+        "chiffres": [
+          "20 % du salaire, plafond 200 € ; 30 %, plafond 300 € pour les boursiers"
+        ],
+        "date": "2026-11-16",
+        "sources": [
+          {
+            "titre": "Logement, associations, jeunesse... : ce qu'il faut retenir du débat présidentiel sur LCI",
+            "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
+            "media": "LCP",
+            "date": "2026-11-17"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun coût n'a été annoncé pour cette mesure et aucune vérification indépendante n'a été trouvée au 17 novembre 2026.",
+          "sources": []
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-16"
+  "derniereMiseAJour": "2026-11-17"
 }

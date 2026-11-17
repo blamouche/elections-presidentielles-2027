@@ -1,7 +1,338 @@
 {
-  "miseAJour": "2026-11-16",
-  "periode": "2026-11-01/2026-11-16",
+  "miseAJour": "2026-11-17",
+  "periode": "2026-11-01/2026-11-17",
   "items": [
+    {
+      "date": "2026-11-17",
+      "candidats": [
+        "gabriel-attal",
+        "bruno-retailleau",
+        "david-lisnard",
+        "edouard-philippe"
+      ],
+      "categorie": "candidature",
+      "titre": "Les équipes d'Attal, Retailleau et Lisnard négocient les modalités d'une primaire, sans représentant d'Édouard Philippe",
+      "sources": [
+        {
+          "titre": "Les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard négocient les modalités d'une potentielle primaire de la droite et du centre",
+          "url": "https://www.franceinfo.fr/elections/primaire-ou-pas-primaire-gabriel-attal-bruno-retailleau-et-david-lisnard-semblent-favorables_8285471.html",
+          "media": "franceinfo",
+          "date": "2026-11-17"
+        },
+        {
+          "titre": "Présidentielle 2027 : Gabriel Attal, Bruno Retailleau et David Lisnard passent aux négociations pour une primaire",
+          "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-bruno-retailleau-et-david-lisnard-passent-aux-negociations-pour-une-primaire-l-express-via-6medias-CNT000002tLevK.html",
+          "media": "6Medias avec L'Express (Orange Actu)",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "candidats": [
+        "marine-le-pen",
+        "jordan-bardella"
+      ],
+      "categorie": "programme",
+      "titre": "Le RN présente sa réforme des retraites : retour à 62 ans avec 42 annuités et part de capitalisation obligatoire",
+      "sources": [
+        {
+          "titre": "Retour de l'âge légal de départ à 62 ans, capitalisation obligatoire… Le RN présente sa réforme des retraites",
+          "url": "https://www.franceinfo.fr/politique/front-national/retour-de-l-age-legal-de-depart-a-62-ans-capitalisation-obligatoire-le-rn-presente-sa-reforme-des-retraites_8285453.html",
+          "media": "franceinfo",
+          "date": "2026-11-17"
+        },
+        {
+          "titre": "Travailler plus, partir plus tôt : Le Pen abat sa carte retraite",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/travailler-plus-partir-plus-tot-le-pen-abat-sa-carte-retraite-f57f33aec1430fcd974629a4c2e3e4ce",
+          "media": "AFP (via Boursorama)",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "candidats": [
+        "jean-luc-melenchon"
+      ],
+      "categorie": "autre",
+      "titre": "L'entourage de Jean-Luc Mélenchon confirme qu'il doit dîner le 17 novembre avec Bernard Arnault et Patrick Pouyanné",
+      "sources": [
+        {
+          "titre": "Jean-Luc Mélenchon dîne avec Bernard Arnault et de grands patrons français",
+          "url": "https://www.lessentiel.lu/fr/story/france-melenchon-va-diner-avec-bernard-arnault-103669011",
+          "media": "L'essentiel (AFP)",
+          "date": "2026-11-17"
+        },
+        {
+          "titre": "Jean-Luc Mélenchon en dîner avec Bernard Arnault et Patrick Pouyanné ?",
+          "url": "https://www.lalibre.be/economie/entreprises-startup/2026/11/16/jean-luc-melenchon-dinera-ce-mardi-avec-deux-des-plus-grands-patrons-francais-XHQUHAVKXJHCVEX2NWZTZ4SS6A/",
+          "media": "La Libre Belgique",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "candidats": [],
+      "categorie": "candidature",
+      "titre": "Environ 1 000 élus locaux de la droite et du centre signent un appel à une primaire ouverte",
+      "sources": [
+        {
+          "titre": "Primaire de la droite et du centre : réunion décisive ce mardi entre les représentants des candidats, mais sans Édouard Philippe",
+          "url": "https://www.europe1.fr/politique/primaire-de-la-droite-et-du-centre-reunion-decisive-ce-mardi-entre-les-representants-des-candidats-mais-sans-edouard-philippe-1238208",
+          "media": "Europe 1",
+          "date": "2026-11-16"
+        },
+        {
+          "titre": "Présidentielle 2027 : Gabriel Attal, Bruno Retailleau et David Lisnard passent aux négociations pour une primaire",
+          "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-bruno-retailleau-et-david-lisnard-passent-aux-negociations-pour-une-primaire-l-express-via-6medias-CNT000002tLevK.html",
+          "media": "6Medias avec L'Express (Orange Actu)",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "candidats": [
+        "bruno-retailleau",
+        "raphael-glucksmann",
+        "david-lisnard"
+      ],
+      "categorie": "candidature",
+      "titre": "Sur LCP, Marc Fesneau plaide pour une primaire large, de Retailleau à Glucksmann, mais sans David Lisnard",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027: Marc Fesneau plaide pour une primaire large de Bruno Retailleau à Raphaël Glucksmann",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-marc-fesneau-plaide-pour-une-primaire-large-de-bruno-retailleau-a",
+          "media": "LCP",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "candidats": [
+        "gabriel-attal"
+      ],
+      "categorie": "programme",
+      "titre": "Au débat TF1-LCI, Gabriel Attal propose de supprimer la CSG et de défiscaliser les pensions alimentaires des mères",
+      "sources": [
+        {
+          "titre": "Impôts, logement, Smic... les candidats à la présidentielle débattent de leurs propositions",
+          "url": "https://www.france24.com/fr/france/20261116-imp%C3%B4ts-logement-smic-les-candidats-%C3%A0-la-pr%C3%A9sidentielle-d%C3%A9battent-de-leurs-propositions",
+          "media": "France 24 (avec AFP)",
+          "date": "2026-11-16"
+        },
+        {
+          "titre": "Présidentielle 2027 : pauvreté, pouvoir d'achat, logement… Le Pen, Mélenchon, Glucksmann, Retailleau, Attal confrontent leurs visions de la solidarité aux Restos du Cœur",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-pauvrete-pouvoir-dachat-logement-le-pen-melenchon-glucksmann-retailleau-attal-confrontent-leurs-visions-de-la-solidarite-aux-restos",
+          "media": "Public Sénat",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "candidats": [
+        "gabriel-attal",
+        "marine-le-pen"
+      ],
+      "categorie": "autre",
+      "titre": "Gabriel Attal reproche au RN de vouloir réduire de 3,7 milliards d'euros les subventions aux associations",
+      "sources": [
+        {
+          "titre": "Marine Le Pen critiquée en plein débat de la présidentielle pour sa volonté de couper les subventions des associations \"politisées\"",
+          "url": "https://www.franceinfo.fr/elections/marine-le-pen-critiquee-en-plein-debat-de-la-presidentielle-pour-sa-volonte-de-couper-les-subventions-des-associations-politisees_8285558.html",
+          "media": "franceinfo",
+          "date": "2026-11-17"
+        },
+        {
+          "titre": "Présidentielle 2027 : pauvreté, pouvoir d'achat, logement… Le Pen, Mélenchon, Glucksmann, Retailleau, Attal confrontent leurs visions de la solidarité aux Restos du Cœur",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-pauvrete-pouvoir-dachat-logement-le-pen-melenchon-glucksmann-retailleau-attal-confrontent-leurs-visions-de-la-solidarite-aux-restos",
+          "media": "Public Sénat",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "candidats": [
+        "bruno-retailleau",
+        "jean-luc-melenchon"
+      ],
+      "categorie": "programme",
+      "titre": "Au débat TF1-LCI, Bruno Retailleau propose de supprimer Parcoursup, rejoignant Jean-Luc Mélenchon",
+      "sources": [
+        {
+          "titre": "Impôts, logement, Smic... les candidats à la présidentielle débattent de leurs propositions",
+          "url": "https://www.france24.com/fr/france/20261116-imp%C3%B4ts-logement-smic-les-candidats-%C3%A0-la-pr%C3%A9sidentielle-d%C3%A9battent-de-leurs-propositions",
+          "media": "France 24 (avec AFP)",
+          "date": "2026-11-16"
+        },
+        {
+          "titre": "Impôts, logement, Smic : ce qu'il faut retenir du débat entre candidats à la présidentielle",
+          "url": "https://www.france24.com/fr/info-en-continu/20261116-imp%C3%B4ts-logement-smic-ce-qu-il-faut-retenir-du-d%C3%A9bat-entre-candidats-%C3%A0-la-pr%C3%A9sidentielle",
+          "media": "France 24 (AFP)",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "candidats": [
+        "bruno-retailleau"
+      ],
+      "categorie": "programme",
+      "titre": "Au débat TF1-LCI, Bruno Retailleau évoque un âge légal de 65 ans et la priorité aux actifs dans le logement social",
+      "sources": [
+        {
+          "titre": "Logement, associations, jeunesse... : ce qu'il faut retenir du débat présidentiel sur LCI",
+          "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
+          "media": "LCP",
+          "date": "2026-11-17"
+        },
+        {
+          "titre": "Présidentielle 2027 : pauvreté, pouvoir d'achat, logement… Le Pen, Mélenchon, Glucksmann, Retailleau, Attal confrontent leurs visions de la solidarité aux Restos du Cœur",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-pauvrete-pouvoir-dachat-logement-le-pen-melenchon-glucksmann-retailleau-attal-confrontent-leurs-visions-de-la-solidarite-aux-restos",
+          "media": "Public Sénat",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "candidats": [
+        "marine-le-pen",
+        "gabriel-attal",
+        "raphael-glucksmann",
+        "jean-luc-melenchon"
+      ],
+      "categorie": "programme",
+      "titre": "Au débat TF1-LCI, Marine Le Pen veut couper les subventions des associations « politisées » et essuie les critiques",
+      "sources": [
+        {
+          "titre": "Marine Le Pen critiquée en plein débat de la présidentielle pour sa volonté de couper les subventions des associations \"politisées\"",
+          "url": "https://www.franceinfo.fr/elections/marine-le-pen-critiquee-en-plein-debat-de-la-presidentielle-pour-sa-volonte-de-couper-les-subventions-des-associations-politisees_8285558.html",
+          "media": "franceinfo",
+          "date": "2026-11-17"
+        },
+        {
+          "titre": "Logement, associations, jeunesse... : ce qu'il faut retenir du débat présidentiel sur LCI",
+          "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
+          "media": "LCP",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "candidats": [
+        "marine-le-pen"
+      ],
+      "categorie": "programme",
+      "titre": "Au débat TF1-LCI, Marine Le Pen propose une « prime d'activité étudiante » plafonnée à 200 euros",
+      "sources": [
+        {
+          "titre": "Logement, associations, jeunesse... : ce qu'il faut retenir du débat présidentiel sur LCI",
+          "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
+          "media": "LCP",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "candidats": [
+        "marine-le-pen"
+      ],
+      "categorie": "programme",
+      "titre": "Sur France 2, Jean-Philippe Tanguy (RN) promet une part de capitalisation retraite pour « tous les salariés »",
+      "sources": [
+        {
+          "titre": "Marine Le Pen, qui va présenter mardi son projet de réforme des retraites, a \"une solution pour financer une part de capitalisation pour tous les Français\", assure Jean-Philippe Tanguy",
+          "url": "https://www.franceinfo.fr/economie/retraite/il-y-a-30-ans-de-mensonges-sur-le-systeme-des-retraites-lance-jean-philippe-tanguy-depute-rn_8284433.html",
+          "media": "franceinfo",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "candidats": [
+        "raphael-glucksmann"
+      ],
+      "categorie": "programme",
+      "titre": "Au débat TF1-LCI, Glucksmann promet de loger en trois semaines les « 3 000 enfants » dormant dans la rue",
+      "sources": [
+        {
+          "titre": "Logement, associations, jeunesse... : ce qu'il faut retenir du débat présidentiel sur LCI",
+          "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
+          "media": "LCP",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "candidats": [
+        "jean-luc-melenchon"
+      ],
+      "categorie": "programme",
+      "titre": "Mélenchon défend une allocation de 1 337 € pour les étudiants, financée par un plafond d'héritage à 12 M€",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : Le Pen promet une \"prime d'activité\" pour les jeunes, Mélenchon souhaite une allocation",
+          "url": "https://fr.euronews.com/2026/11/17/presidentielle-2027-le-pen-promet-une-prime-dactivite-pour-les-jeunes-melenchon-souhaite-u",
+          "media": "Euronews",
+          "date": "2026-11-17"
+        },
+        {
+          "titre": "Logement, associations, jeunesse... : ce qu'il faut retenir du débat présidentiel sur LCI",
+          "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
+          "media": "LCP",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "candidats": [
+        "raphael-glucksmann"
+      ],
+      "categorie": "programme",
+      "titre": "Glucksmann propose un pass mobilité à 1 € par jour pour les moins de 25 ans",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : Le Pen promet une \"prime d'activité\" pour les jeunes, Mélenchon souhaite une allocation",
+          "url": "https://fr.euronews.com/2026/11/17/presidentielle-2027-le-pen-promet-une-prime-dactivite-pour-les-jeunes-melenchon-souhaite-u",
+          "media": "Euronews",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "candidats": [
+        "marine-le-pen"
+      ],
+      "categorie": "sondage",
+      "titre": "Enquête Fractures françaises d'Ipsos BVA : Marine Le Pen en tête des personnalités jugées meilleures présidentes",
+      "sources": [
+        {
+          "titre": "Notice technique – Fractures françaises, 14e édition, novembre 2026 (Ipsos BVA pour Le Monde, Fondation Jean-Jaurès, Cevipof, Institut Montaigne)",
+          "url": "http://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10377-pres-fractures-francaises-le-monde-16-novembre.pdf",
+          "media": "Commission des sondages",
+          "date": "2026-11-16"
+        },
+        {
+          "titre": "FRACTURES FRANÇAISES Novembre 2026",
+          "url": "https://www.jean-jaures.org/wp-content/uploads/2026/11/Enquete_Fractures_francaises_2026.pdf",
+          "media": "Fondation Jean-Jaurès",
+          "date": "2026-11-16"
+        }
+      ]
+    },
     {
       "date": "2026-11-16",
       "candidats": [

@@ -8,7 +8,7 @@
   "couleur": "#0066CC",
   "statutCandidature": "declare",
   "candidature": {
-    "texte": "Candidature annoncée le 12 février 2026 dans une allocution de neuf minutes diffusée sur les réseaux sociaux, alors qu'il préside Les Républicains. Désigné candidat du parti le 19 avril 2026 par un vote des adhérents (73,4 % des voix selon le communiqué des Républicains du 19 avril 2026 rapporté par franceinfo, avec 60,01 % de participation et près de 46 000 votants), qui ont préféré la désignation directe à une primaire ouverte (14 %) ou fermée (12,2 %). Le 3 novembre 2026, sur BFMTV, il s'est rallié au principe d'une primaire de la droite et du centre proposée par Gabriel Attal, en prévenant qu'à défaut d'un départage par un vote, il irait « jusqu'au bout ». Le 10 novembre 2026, Bruno Retailleau a écrit à Édouard Philippe, Gabriel Attal et David Lisnard pour proposer une primaire de la droite et du centre les 31 janvier et 7 février 2027 ; les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard doivent se réunir le 17 novembre 2026 pour en préparer l'organisation, un siège étant réservé à l'équipe d'Édouard Philippe. Le 14 novembre, le président du Sénat Gérard Larcher a proposé aux quatre candidats de se retrouver « dans les meilleurs délais » pour fixer « la méthode de départage » permettant d'aboutir à une candidature unique « au début de l'année prochaine ». Le 15 novembre, dans Le Parisien, Édouard Philippe a de nouveau refusé : « Cette primaire, je n'y participerai pas. Point. », tout en se disant prêt à une réunion consacrée au rassemblement plutôt qu'au mode de désignation. Le 13 novembre 2026, sur France 2, il a indiqué ne disposer d'« aucun prêt bancaire » pour financer sa campagne, comme « la plupart des candidats », reprochant au gouvernement d'avoir retiré la garantie de l'État promise.",
+    "texte": "Candidature annoncée le 12 février 2026 dans une allocution de neuf minutes diffusée sur les réseaux sociaux, alors qu'il préside Les Républicains. Désigné candidat du parti le 19 avril 2026 par un vote des adhérents (73,4 % des voix selon le communiqué des Républicains du 19 avril 2026 rapporté par franceinfo, avec 60,01 % de participation et près de 46 000 votants), qui ont préféré la désignation directe à une primaire ouverte (14 %) ou fermée (12,2 %). Le 3 novembre 2026, sur BFMTV, il s'est rallié au principe d'une primaire de la droite et du centre proposée par Gabriel Attal, en prévenant qu'à défaut d'un départage par un vote, il irait « jusqu'au bout ». Le 10 novembre 2026, Bruno Retailleau a écrit à Édouard Philippe, Gabriel Attal et David Lisnard pour proposer une primaire de la droite et du centre les 31 janvier et 7 février 2027 ; les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard doivent se réunir le 17 novembre 2026 pour en préparer l'organisation, un siège étant réservé à l'équipe d'Édouard Philippe. Le 14 novembre, le président du Sénat Gérard Larcher a proposé aux quatre candidats de se retrouver « dans les meilleurs délais » pour fixer « la méthode de départage » permettant d'aboutir à une candidature unique « au début de l'année prochaine ». Le 15 novembre, dans Le Parisien, Édouard Philippe a de nouveau refusé : « Cette primaire, je n'y participerai pas. Point. », tout en se disant prêt à une réunion consacrée au rassemblement plutôt qu'au mode de désignation. Le 13 novembre 2026, sur France 2, il a indiqué ne disposer d'« aucun prêt bancaire » pour financer sa campagne, comme « la plupart des candidats », reprochant au gouvernement d'avoir retiré la garantie de l'État promise. Le 16 novembre 2026, environ 1 000 élus locaux de la droite et du centre ont signé un appel à une primaire ouverte (Europe 1). Le 17 novembre, les représentants des équipes de Gabriel Attal (trois), Bruno Retailleau (deux) et David Lisnard (deux) se sont réunis pour négocier le calendrier, les débats, le prix du vote et le périmètre d'une primaire, une chaise restant vide pour l'équipe d'Édouard Philippe, absente ; le périmètre reste discuté, David Lisnard plaidant pour une primaire très large n'excluant pas Éric Zemmour, ce que refuse Gabriel Attal. Aucune issue de cette réunion n'était connue à la date de mise à jour. Le 16 novembre, il a participé au débat TF1-LCI organisé avec les Restos du cœur.",
     "date": "2026-02-12",
     "sources": [
       {
@@ -64,6 +64,24 @@
         "url": "https://www.franceinfo.fr/elections/le-candidat-des-republicains-a-la-presidentielle-bruno-retailleau-n-a-pas-de-pret-bancaire-et-accuse-le-gouvernement_8280719.html",
         "media": "franceinfo (avec AFP)",
         "date": "2026-11-13"
+      },
+      {
+        "titre": "Primaire de la droite et du centre : réunion décisive ce mardi entre les représentants des candidats, mais sans Édouard Philippe",
+        "url": "https://www.europe1.fr/politique/primaire-de-la-droite-et-du-centre-reunion-decisive-ce-mardi-entre-les-representants-des-candidats-mais-sans-edouard-philippe-1238208",
+        "media": "Europe 1",
+        "date": "2026-11-16"
+      },
+      {
+        "titre": "Les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard négocient les modalités d'une potentielle primaire de la droite et du centre",
+        "url": "https://www.franceinfo.fr/elections/primaire-ou-pas-primaire-gabriel-attal-bruno-retailleau-et-david-lisnard-semblent-favorables_8285471.html",
+        "media": "franceinfo",
+        "date": "2026-11-17"
+      },
+      {
+        "titre": "Présidentielle 2027 : Gabriel Attal, Bruno Retailleau et David Lisnard passent aux négociations pour une primaire",
+        "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-bruno-retailleau-et-david-lisnard-passent-aux-negociations-pour-une-primaire-l-express-via-6medias-CNT000002tLevK.html",
+        "media": "6Medias avec L'Express (Orange Actu)",
+        "date": "2026-11-17"
       }
     ]
   },
@@ -1188,8 +1206,90 @@
             }
           ]
         }
+      },
+      {
+        "id": "suppression-parcoursup-selection-universite",
+        "theme": "education",
+        "type": "proposition",
+        "titre": "Supprimer Parcoursup et assumer une sélection à l'université",
+        "description": "Lors du débat TF1-LCI du 16 novembre 2026, il a demandé la suppression de Parcoursup, point d'accord avec Jean-Luc Mélenchon, et assumé une sélection à l'entrée de l'université, en qualifiant l'école française de « la plus inégalitaire d'Europe ».",
+        "chiffres": [],
+        "date": "2026-11-16",
+        "sources": [
+          {
+            "titre": "Impôts, logement, Smic... les candidats à la présidentielle débattent de leurs propositions",
+            "url": "https://www.france24.com/fr/france/20261116-imp%C3%B4ts-logement-smic-les-candidats-%C3%A0-la-pr%C3%A9sidentielle-d%C3%A9battent-de-leurs-propositions",
+            "media": "France 24 (avec AFP)",
+            "date": "2026-11-16"
+          },
+          {
+            "titre": "Impôts, logement, Smic : ce qu'il faut retenir du débat entre candidats à la présidentielle",
+            "url": "https://www.france24.com/fr/info-en-continu/20261116-imp%C3%B4ts-logement-smic-ce-qu-il-faut-retenir-du-d%C3%A9bat-entre-candidats-%C3%A0-la-pr%C3%A9sidentielle",
+            "media": "France 24 (AFP)",
+            "date": "2026-11-16"
+          },
+          {
+            "titre": "Présidentielle 2027 : pauvreté, pouvoir d'achat, logement… Le Pen, Mélenchon, Glucksmann, Retailleau, Attal confrontent leurs visions de la solidarité aux Restos du Cœur",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-pauvrete-pouvoir-dachat-logement-le-pen-melenchon-glucksmann-retailleau-attal-confrontent-leurs-visions-de-la-solidarite-aux-restos",
+            "media": "Public Sénat",
+            "date": "2026-11-17"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Les comptes rendus ne précisent pas le dispositif d'affectation qui remplacerait Parcoursup. L'affirmation sur l'école « la plus inégalitaire d'Europe » renvoie vraisemblablement aux enquêtes PISA de l'OCDE, où la France figure parmi les pays où le lien entre milieu social et performances est le plus fort, mais aucune vérification de cette déclaration précise n'a été trouvée au 17 novembre 2026.",
+          "sources": [
+            {
+              "titre": "Présidentielle 2027 : pauvreté, pouvoir d'achat, logement… Le Pen, Mélenchon, Glucksmann, Retailleau, Attal confrontent leurs visions de la solidarité aux Restos du Cœur",
+              "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-pauvrete-pouvoir-dachat-logement-le-pen-melenchon-glucksmann-retailleau-attal-confrontent-leurs-visions-de-la-solidarite-aux-restos",
+              "media": "Public Sénat",
+              "date": "2026-11-17"
+            }
+          ]
+        }
+      },
+      {
+        "id": "logement-priorite-travail-normes",
+        "theme": "logement",
+        "type": "proposition",
+        "titre": "Logement : priorité aux actifs et suppression de normes de construction",
+        "description": "Lors du débat TF1-LCI du 16 novembre 2026, il a défendu la « priorité au travail » dans l'accès au logement social et la suppression des « normes » qui ont, selon lui, « bloqué la construction ». Il y a aussi résumé sa ligne par « Oui à la solidarité, non à l'assistanat » et estimé que « la pauvreté, on ne la combat pas avec des impôts ».",
+        "chiffres": [],
+        "date": "2026-11-16",
+        "sources": [
+          {
+            "titre": "Impôts, logement, Smic... les candidats à la présidentielle débattent de leurs propositions",
+            "url": "https://www.france24.com/fr/france/20261116-imp%C3%B4ts-logement-smic-les-candidats-%C3%A0-la-pr%C3%A9sidentielle-d%C3%A9battent-de-leurs-propositions",
+            "media": "France 24 (avec AFP)",
+            "date": "2026-11-16"
+          },
+          {
+            "titre": "Présidentielle 2027 : pauvreté, pouvoir d'achat, logement… Le Pen, Mélenchon, Glucksmann, Retailleau, Attal confrontent leurs visions de la solidarité aux Restos du Cœur",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-pauvrete-pouvoir-dachat-logement-le-pen-melenchon-glucksmann-retailleau-attal-confrontent-leurs-visions-de-la-solidarite-aux-restos",
+            "media": "Public Sénat",
+            "date": "2026-11-17"
+          },
+          {
+            "titre": "Logement, associations, jeunesse... : ce qu'il faut retenir du débat présidentiel sur LCI",
+            "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
+            "media": "LCP",
+            "date": "2026-11-17"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Proposition présentée sans liste des normes visées ni chiffrage de l'effet attendu sur la construction. Aucune vérification indépendante n'a été trouvée au 17 novembre 2026.",
+          "sources": [
+            {
+              "titre": "Présidentielle 2027 : pauvreté, pouvoir d'achat, logement… Le Pen, Mélenchon, Glucksmann, Retailleau, Attal confrontent leurs visions de la solidarité aux Restos du Cœur",
+              "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-pauvrete-pouvoir-dachat-logement-le-pen-melenchon-glucksmann-retailleau-attal-confrontent-leurs-visions-de-la-solidarite-aux-restos",
+              "media": "Public Sénat",
+              "date": "2026-11-17"
+            }
+          ]
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-16"
+  "derniereMiseAJour": "2026-11-17"
 }

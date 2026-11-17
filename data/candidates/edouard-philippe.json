@@ -8,7 +8,7 @@
   "couleur": "#1F6FB5",
   "statutCandidature": "declare",
   "candidature": {
-    "texte": "Déclaré le 3 septembre 2024 dans un entretien à l'hebdomadaire Le Point, après la dissolution de l'Assemblée nationale de juin 2024 qui a marqué sa prise de distance avec Emmanuel Macron. Campagne lancée lors d'un premier grand meeting le 5 juillet 2026. Le 8 septembre 2026, il a annoncé quitter la présidence exécutive d'Horizons à compter du 1er octobre 2026 pour se consacrer à sa campagne, Christophe Béchu, secrétaire général, prenant le relais ; il reste membre du parti. Pas d'investiture par une primaire : le 1er novembre 2026 sur TF1, il a refusé de participer à la primaire de la droite et du centre proposée par Gabriel Attal, jugeant qu'elle serait celle de « la division » et de « la confusion », et souhaite que les candidats les moins bien placés se rallient au mieux placé. Le 10 novembre 2026, Bruno Retailleau a écrit à Édouard Philippe, Gabriel Attal et David Lisnard pour proposer une primaire de la droite et du centre les 31 janvier et 7 février 2027 ; les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard doivent se réunir le 17 novembre 2026 pour en préparer l'organisation, un siège étant réservé à l'équipe d'Édouard Philippe. Le 14 novembre, le président du Sénat Gérard Larcher a proposé aux quatre candidats de se retrouver « dans les meilleurs délais » pour fixer « la méthode de départage » permettant d'aboutir à une candidature unique « au début de l'année prochaine ». Le 15 novembre, dans Le Parisien, Édouard Philippe a de nouveau refusé : « Cette primaire, je n'y participerai pas. Point. », tout en se disant prêt à une réunion consacrée au rassemblement plutôt qu'au mode de désignation. Après la lettre du 10 novembre, son porte-parole Jérémie Patrier-Leitus avait indiqué sur BFMTV qu'il ne participerait à une primaire à aucune date.",
+    "texte": "Déclaré le 3 septembre 2024 dans un entretien à l'hebdomadaire Le Point, après la dissolution de l'Assemblée nationale de juin 2024 qui a marqué sa prise de distance avec Emmanuel Macron. Campagne lancée lors d'un premier grand meeting le 5 juillet 2026. Le 8 septembre 2026, il a annoncé quitter la présidence exécutive d'Horizons à compter du 1er octobre 2026 pour se consacrer à sa campagne, Christophe Béchu, secrétaire général, prenant le relais ; il reste membre du parti. Pas d'investiture par une primaire : le 1er novembre 2026 sur TF1, il a refusé de participer à la primaire de la droite et du centre proposée par Gabriel Attal, jugeant qu'elle serait celle de « la division » et de « la confusion », et souhaite que les candidats les moins bien placés se rallient au mieux placé. Le 10 novembre 2026, Bruno Retailleau a écrit à Édouard Philippe, Gabriel Attal et David Lisnard pour proposer une primaire de la droite et du centre les 31 janvier et 7 février 2027 ; les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard doivent se réunir le 17 novembre 2026 pour en préparer l'organisation, un siège étant réservé à l'équipe d'Édouard Philippe. Le 14 novembre, le président du Sénat Gérard Larcher a proposé aux quatre candidats de se retrouver « dans les meilleurs délais » pour fixer « la méthode de départage » permettant d'aboutir à une candidature unique « au début de l'année prochaine ». Le 15 novembre, dans Le Parisien, Édouard Philippe a de nouveau refusé : « Cette primaire, je n'y participerai pas. Point. », tout en se disant prêt à une réunion consacrée au rassemblement plutôt qu'au mode de désignation. Après la lettre du 10 novembre, son porte-parole Jérémie Patrier-Leitus avait indiqué sur BFMTV qu'il ne participerait à une primaire à aucune date. Le 16 novembre 2026, environ 1 000 élus locaux de la droite et du centre ont signé un appel à une primaire ouverte. Le 17 novembre, aucun représentant de son équipe n'a participé à la réunion des équipes de Gabriel Attal, Bruno Retailleau et David Lisnard consacrée aux modalités d'une primaire, une chaise lui restant réservée ; il avait déclaré au Parisien : « Si c'est pour reparler d'une primaire, je ne vois pas l'intérêt ».",
     "date": "2024-09-03",
     "sources": [
       {
@@ -88,6 +88,24 @@
         "url": "https://fr.news.yahoo.com/presidentielle-france-edouard-philippe-accepte-082750305.html",
         "media": "RFI (via Yahoo Actualités)",
         "date": "2026-11-16"
+      },
+      {
+        "titre": "Primaire de la droite et du centre : réunion décisive ce mardi entre les représentants des candidats, mais sans Édouard Philippe",
+        "url": "https://www.europe1.fr/politique/primaire-de-la-droite-et-du-centre-reunion-decisive-ce-mardi-entre-les-representants-des-candidats-mais-sans-edouard-philippe-1238208",
+        "media": "Europe 1",
+        "date": "2026-11-16"
+      },
+      {
+        "titre": "Les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard négocient les modalités d'une potentielle primaire de la droite et du centre",
+        "url": "https://www.franceinfo.fr/elections/primaire-ou-pas-primaire-gabriel-attal-bruno-retailleau-et-david-lisnard-semblent-favorables_8285471.html",
+        "media": "franceinfo",
+        "date": "2026-11-17"
+      },
+      {
+        "titre": "Présidentielle 2027 : Gabriel Attal, Bruno Retailleau et David Lisnard passent aux négociations pour une primaire",
+        "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-bruno-retailleau-et-david-lisnard-passent-aux-negociations-pour-une-primaire-l-express-via-6medias-CNT000002tLevK.html",
+        "media": "6Medias avec L'Express (Orange Actu)",
+        "date": "2026-11-17"
       }
     ]
   },
@@ -1390,5 +1408,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-16"
+  "derniereMiseAJour": "2026-11-17"
 }

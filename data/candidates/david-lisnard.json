@@ -8,7 +8,7 @@
   "couleur": "#5B6BBF",
   "statutCandidature": "declare",
   "candidature": {
-    "texte": "Après avoir affirmé sur RTL le 21 janvier 2026 qu'il serait candidat « même s'il n'y a pas de primaire », David Lisnard a officialisé sa candidature et son départ des Républicains le 31 mars 2026 au journal de 20 heures de France 2, en protestation contre le mode de désignation du candidat LR. Il se présente sous l'étiquette de Nouvelle Énergie, le mouvement qu'il a fondé en 2021, avec un projet qu'il qualifie de « libéral, sécuritaire, éducatif et scientifique ». Partisan de longue date d'une primaire, il a soutenu fin octobre 2026 une « grande primaire de la droite » incluant Sarah Knafo (qui n'est pas candidate) et se dit prêt à participer à la primaire de la droite et du centre. Le 10 novembre 2026, Bruno Retailleau a écrit à Édouard Philippe, Gabriel Attal et David Lisnard pour proposer une primaire de la droite et du centre les 31 janvier et 7 février 2027 ; les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard doivent se réunir le 17 novembre 2026 pour en préparer l'organisation, un siège étant réservé à l'équipe d'Édouard Philippe. Le 14 novembre, le président du Sénat Gérard Larcher a proposé aux quatre candidats de se retrouver « dans les meilleurs délais » pour fixer « la méthode de départage » permettant d'aboutir à une candidature unique « au début de l'année prochaine ». Le 15 novembre, dans Le Parisien, Édouard Philippe a de nouveau refusé : « Cette primaire, je n'y participerai pas. Point. », tout en se disant prêt à une réunion consacrée au rassemblement plutôt qu'au mode de désignation. Dans le sondage Ifop pour LCI réalisé du 27 au 29 octobre 2026, il devance Bruno Retailleau de 2,5 à 3 points selon les hypothèses (jusqu'à 9 % des intentions de vote).",
+    "texte": "Après avoir affirmé sur RTL le 21 janvier 2026 qu'il serait candidat « même s'il n'y a pas de primaire », David Lisnard a officialisé sa candidature et son départ des Républicains le 31 mars 2026 au journal de 20 heures de France 2, en protestation contre le mode de désignation du candidat LR. Il se présente sous l'étiquette de Nouvelle Énergie, le mouvement qu'il a fondé en 2021, avec un projet qu'il qualifie de « libéral, sécuritaire, éducatif et scientifique ». Partisan de longue date d'une primaire, il a soutenu fin octobre 2026 une « grande primaire de la droite » incluant Sarah Knafo (qui n'est pas candidate) et se dit prêt à participer à la primaire de la droite et du centre. Le 10 novembre 2026, Bruno Retailleau a écrit à Édouard Philippe, Gabriel Attal et David Lisnard pour proposer une primaire de la droite et du centre les 31 janvier et 7 février 2027 ; les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard doivent se réunir le 17 novembre 2026 pour en préparer l'organisation, un siège étant réservé à l'équipe d'Édouard Philippe. Le 14 novembre, le président du Sénat Gérard Larcher a proposé aux quatre candidats de se retrouver « dans les meilleurs délais » pour fixer « la méthode de départage » permettant d'aboutir à une candidature unique « au début de l'année prochaine ». Le 15 novembre, dans Le Parisien, Édouard Philippe a de nouveau refusé : « Cette primaire, je n'y participerai pas. Point. », tout en se disant prêt à une réunion consacrée au rassemblement plutôt qu'au mode de désignation. Dans le sondage Ifop pour LCI réalisé du 27 au 29 octobre 2026, il devance Bruno Retailleau de 2,5 à 3 points selon les hypothèses (jusqu'à 9 % des intentions de vote). Le 16 novembre 2026, environ 1 000 élus locaux de la droite et du centre ont signé un appel à une primaire ouverte (Europe 1). Le 17 novembre, les représentants des équipes de Gabriel Attal (trois), Bruno Retailleau (deux) et David Lisnard (deux) se sont réunis pour négocier le calendrier, les débats, le prix du vote et le périmètre d'une primaire, une chaise restant vide pour l'équipe d'Édouard Philippe, absente ; le périmètre reste discuté, David Lisnard plaidant pour une primaire très large n'excluant pas Éric Zemmour, ce que refuse Gabriel Attal. Aucune issue de cette réunion n'était connue à la date de mise à jour. Son entourage a déclaré à franceinfo : « On combat le macronisme » et « cette primaire, on veut la gagner ». Le 16 novembre, sur LCP, Marc Fesneau (MoDem) s'est opposé à sa participation à une primaire, disant avoir « un désaccord de fond » avec lui.",
     "date": "2026-03-31",
     "sources": [
       {
@@ -64,6 +64,30 @@
         "url": "https://www.publicsenat.fr/actualites/politique/sondage-presidentielle-2027-un-second-tour-le-pen-melenchon-assure-la-droite-et-le-bloc-central-peine-a-remonter-lisnard-confirme-sa-percee",
         "media": "Public Sénat",
         "date": "2026-11-04"
+      },
+      {
+        "titre": "Primaire de la droite et du centre : réunion décisive ce mardi entre les représentants des candidats, mais sans Édouard Philippe",
+        "url": "https://www.europe1.fr/politique/primaire-de-la-droite-et-du-centre-reunion-decisive-ce-mardi-entre-les-representants-des-candidats-mais-sans-edouard-philippe-1238208",
+        "media": "Europe 1",
+        "date": "2026-11-16"
+      },
+      {
+        "titre": "Les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard négocient les modalités d'une potentielle primaire de la droite et du centre",
+        "url": "https://www.franceinfo.fr/elections/primaire-ou-pas-primaire-gabriel-attal-bruno-retailleau-et-david-lisnard-semblent-favorables_8285471.html",
+        "media": "franceinfo",
+        "date": "2026-11-17"
+      },
+      {
+        "titre": "Présidentielle 2027 : Gabriel Attal, Bruno Retailleau et David Lisnard passent aux négociations pour une primaire",
+        "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-bruno-retailleau-et-david-lisnard-passent-aux-negociations-pour-une-primaire-l-express-via-6medias-CNT000002tLevK.html",
+        "media": "6Medias avec L'Express (Orange Actu)",
+        "date": "2026-11-17"
+      },
+      {
+        "titre": "Présidentielle 2027: Marc Fesneau plaide pour une primaire large de Bruno Retailleau à Raphaël Glucksmann",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-marc-fesneau-plaide-pour-une-primaire-large-de-bruno-retailleau-a",
+        "media": "LCP",
+        "date": "2026-11-16"
       }
     ]
   },
@@ -874,5 +898,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-16"
+  "derniereMiseAJour": "2026-11-17"
 }
