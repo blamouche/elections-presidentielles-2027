@@ -1,7 +1,119 @@
 {
-  "miseAJour": "2026-11-17",
-  "periode": "2026-11-01/2026-11-17",
+  "miseAJour": "2026-11-18",
+  "periode": "2026-11-01/2026-11-18",
   "items": [
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "edouard-philippe"
+      ],
+      "categorie": "programme",
+      "titre": "Édouard Philippe convoque une conférence de presse pour présenter le premier volume de son programme présidentiel",
+      "sources": [
+        {
+          "titre": "Présidentielle : en panne dans les sondages, Philippe mise sur son projet et un duel avec Le Pen",
+          "url": "https://imazpress.com/france-monde/presidentielle-philippe-duel-avec-le-pen",
+          "media": "Imaz Press Réunion (AFP)",
+          "date": "2026-11-18"
+        },
+        {
+          "titre": "Édouard Philippe présente le premier volume de son programme présidentiel",
+          "url": "https://www.edouardphilippe.fr/actualites/edouard-philippe-presente-le-premier-volume-de-son-programme-presidentiel",
+          "media": "Avec Édouard 2027 (site de campagne)",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "david-lisnard",
+        "edouard-philippe",
+        "nicolas-dupont-aignan",
+        "gabriel-attal"
+      ],
+      "categorie": "candidature",
+      "titre": "Sur TF1, David Lisnard juge « indispensable » la présence de Philippe et ouvre la primaire à Dupont-Aignan et Reconquête",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027: Entre Gabriel Attal, Bruno Retailleau et David Lisnard, une primaire se profile malgré le refus d'Edouard Philippe",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-entre-gabriel-attal-bruno-retailleau-et-david-lisnard-une-primaire",
+          "media": "LCP",
+          "date": "2026-11-18"
+        },
+        {
+          "titre": "Une primaire de la droite et du centre prend forme avec les équipes d'Attal, Retailleau et Lisnard",
+          "url": "https://www.france24.com/fr/france/20261117-equipes-attal-retailleau-lisnard-avancent-sur-une-primaire-droite-centre-sans-edouard-philippe-presidentielle-2027-election-candidats-lr-nouvelle-energie-renaissance",
+          "media": "France 24 (avec AFP)",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "bruno-retailleau"
+      ],
+      "categorie": "candidature",
+      "titre": "Sur Sud Radio, Bruno Retailleau affirme qu'il n'y aura « pas de primaire » si Éric Zemmour y participe",
+      "sources": [
+        {
+          "titre": "Bruno Retailleau : « La primaire n'aura pas lieu si on inclut Éric Zemmour »",
+          "url": "https://www.sudradio.fr/sud-radio/bruno-retailleau-la-primaire-naura-pas-lieu-si-on-inclut-eric-zemmour",
+          "media": "Sud Radio",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "bruno-retailleau"
+      ],
+      "categorie": "programme",
+      "titre": "Bruno Retailleau propose « zéro cotisation » au-delà de 1 623 heures travaillées par an",
+      "sources": [
+        {
+          "titre": "Bruno Retailleau : « La primaire n'aura pas lieu si on inclut Éric Zemmour »",
+          "url": "https://www.sudradio.fr/sud-radio/bruno-retailleau-la-primaire-naura-pas-lieu-si-on-inclut-eric-zemmour",
+          "media": "Sud Radio",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "marine-le-pen"
+      ],
+      "categorie": "programme",
+      "titre": "Franceinfo juge juridiquement impossible de couper une subvention au seul motif qu'une association serait « politisée »",
+      "sources": [
+        {
+          "titre": "VRAI OU FAUX. Est-il possible d'arrêter de subventionner des associations parce qu'elles sont \"politisées\", comme le souhaite Marine Le Pen ?",
+          "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-est-il-possible-d-arreter-de-subventionner-des-associations-parce-qu-elles-sont-politisees-comme-le-souhaite-marine-le-pen_8266754.html",
+          "media": "franceinfo (Le vrai du faux)",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "marine-le-pen",
+        "jordan-bardella"
+      ],
+      "categorie": "programme",
+      "titre": "Bertrand Martinot (Institut Montaigne) juge la réforme des retraites du RN partiellement financée mais déséquilibrée à long terme",
+      "sources": [
+        {
+          "titre": "Nouvelle réforme des retraites : les calculs hasardeux du Rassemblement national",
+          "url": "https://atlantico.fr/article/decryptage/nouvelle-reforme-des-retraites-les-calculs-hasardeux-du-rassemblement-national-bertrand-martinot",
+          "media": "Atlantico",
+          "date": "2026-11-18"
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "candidats": [
@@ -69,6 +181,180 @@
           "url": "https://www.lalibre.be/economie/entreprises-startup/2026/11/16/jean-luc-melenchon-dinera-ce-mardi-avec-deux-des-plus-grands-patrons-francais-XHQUHAVKXJHCVEX2NWZTZ4SS6A/",
           "media": "La Libre Belgique",
           "date": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "candidats": [],
+      "categorie": "candidature",
+      "titre": "franceinfo recense Serge Tinland, 64 ans, apartisan, parmi les 38 candidatures déclarées à la présidentielle",
+      "sources": [
+        {
+          "titre": "PORTRAITS. Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html",
+          "media": "franceinfo",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "candidats": [
+        "teddy-riner"
+      ],
+      "categorie": "sondage",
+      "titre": "Ifop pour Paris Match : 25,6 % jugent que Teddy Riner a la stature d'un président",
+      "sources": [
+        {
+          "titre": "Notice Ifop pour Paris Match : le regard des Français sur Teddy Riner",
+          "url": "http://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10379-pres-t-riner-ifop-paris-match-17-novembre.pdf",
+          "media": "Commission des sondages",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "candidats": [
+        "gabriel-attal",
+        "bruno-retailleau",
+        "david-lisnard",
+        "edouard-philippe"
+      ],
+      "categorie": "candidature",
+      "titre": "Les équipes d'Attal, Retailleau et Lisnard s'entendent sur une primaire à deux tours fin janvier, à 2 euros",
+      "sources": [
+        {
+          "titre": "Refus d'\"alliance avec les extrêmes\", participation à deux euros... les premières modalités de la primaire de la droite et du centre dévoilées",
+          "url": "https://www.franceinfo.fr/elections/refus-d-alliance-avec-les-extremes-participation-a-deux-euros-les-premieres-modalites-de-la-primaire-de-la-droite-et-du-centre-devoilees_8286980.html",
+          "media": "franceinfo",
+          "date": "2026-11-17"
+        },
+        {
+          "titre": "Une primaire de la droite et du centre prend forme avec les équipes d'Attal, Retailleau et Lisnard",
+          "url": "https://www.france24.com/fr/france/20261117-equipes-attal-retailleau-lisnard-avancent-sur-une-primaire-droite-centre-sans-edouard-philippe-presidentielle-2027-election-candidats-lr-nouvelle-energie-renaissance",
+          "media": "France 24 (avec AFP)",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "candidats": [
+        "david-lisnard",
+        "gabriel-attal",
+        "bruno-retailleau"
+      ],
+      "categorie": "candidature",
+      "titre": "Primaire : le parti de David Lisnard affirme qu'« aucun accord n'a été conclu à ce stade »",
+      "sources": [
+        {
+          "titre": "Élection présidentielle 2027 : Gabriel Attal, David Lisnard et Bruno Retailleau en passe de s'accorder sur une primaire en janvier",
+          "url": "https://www.europe1.fr/politique/election-presidentielle-2027-gabriel-attal-david-lisnard-et-bruno-retailleau-en-passe-de-saccorder-sur-une-primaire-en-janvier-1239033",
+          "media": "Europe 1",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "candidats": [
+        "marine-le-pen",
+        "jordan-bardella"
+      ],
+      "categorie": "programme",
+      "titre": "Le RN chiffre sa réforme des retraites à 18,6 Md€ brut en 2032 et envisage un référendum sans majorité absolue",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : que contient la réforme des retraites présentée par Marine Le Pen ?",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-que-contient-la-reforme-des-retraites-presentee-par-marine-le-pen",
+          "media": "Public Sénat",
+          "date": "2026-11-17"
+        },
+        {
+          "titre": "Age de départ, part de capitalisation, possible référendum… Que propose le Rassemblement national pour réformer les retraites ?",
+          "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/age-de-depart-part-de-capitalisation-referendum-que-propose-le-rassemblement-national-pour-reformer-les-retraites_8286419.html",
+          "media": "franceinfo",
+          "date": "2026-11-17"
+        },
+        {
+          "titre": "Réforme des retraites : c'est quoi la capitalisation obligatoire que Marine Le Pen veut mettre en place ?",
+          "url": "https://lcp.fr/actualites/reforme-des-retraites-c-est-quoi-la-capitalisation-obligatoire-que-marine-le-pen-veut",
+          "media": "LCP",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "candidats": [
+        "jordan-bardella"
+      ],
+      "categorie": "programme",
+      "titre": "Sur CNews et Europe 1, Jordan Bardella promet des « sanctions planchers » contre les élèves violents",
+      "sources": [
+        {
+          "titre": "Jordan Bardella : «Nous allons mettre en place dans les établissements scolaires des sanctions plancher»",
+          "url": "https://www.cnews.fr/france/2026-11-17/jordan-bardella-nous-allons-mettre-en-place-dans-les-etablissements-scolaires-des",
+          "media": "CNews",
+          "date": "2026-11-17"
+        },
+        {
+          "titre": "Éducation : Jordan Bardella plaide pour des «sanctions planchers» contre les élèves coupables de violences",
+          "url": "https://www.europe1.fr/societe/education-jordan-bardella-plaide-pour-des-sanctions-planchers-contre-les-eleves-coupables-de-violences-1239090",
+          "media": "Europe 1",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "candidats": [
+        "raphael-glucksmann"
+      ],
+      "categorie": "programme",
+      "titre": "Raphaël Glucksmann se dit favorable à la régularisation de 250 000 à 300 000 travailleurs sans papiers",
+      "sources": [
+        {
+          "titre": "A Villeurbanne, Glucksmann défend la \"solidarité\" et étrille Le Pen et la \"xénophobie ambiante\"",
+          "url": "https://fr.news.yahoo.com/villeurbanne-glucksmann-d%C3%A9fend-solidarit%C3%A9-%C3%A9trille-204656152.html",
+          "media": "AFP (via Yahoo Actualités)",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "candidats": [
+        "raphael-glucksmann",
+        "marine-le-pen"
+      ],
+      "categorie": "autre",
+      "titre": "À Villeurbanne, Glucksmann promet « la solidarité et l'humanisme au sommet de l'État » et attaque Marine Le Pen sur le logement",
+      "sources": [
+        {
+          "titre": "A Villeurbanne, Glucksmann défend la \"solidarité\" et étrille Le Pen et la \"xénophobie ambiante\"",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/a-villeurbanne-glucksmann-defend-la-solidarite-et-etrille-le-pen-et-la-xenophobie-ambiante-cda8e4eed9db562b8b991e82bf5ff6b1",
+          "media": "AFP (via Boursorama)",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "candidats": [
+        "raphael-glucksmann",
+        "jean-luc-melenchon"
+      ],
+      "categorie": "autre",
+      "titre": "Glucksmann juge le vote Mélenchon « inutile », estimant qu'il perdrait au second tour face à Marine Le Pen",
+      "sources": [
+        {
+          "titre": "A Villeurbanne, Glucksmann défend la \"solidarité\" et étrille Le Pen et la \"xénophobie ambiante\"",
+          "url": "https://fr.news.yahoo.com/villeurbanne-glucksmann-d%C3%A9fend-solidarit%C3%A9-%C3%A9trille-204656152.html",
+          "media": "AFP (via Yahoo Actualités)",
+          "date": "2026-11-17"
         }
       ]
     },
@@ -535,6 +821,34 @@
       ]
     },
     {
+      "date": "2026-11-12",
+      "candidats": [
+        "bruno-le-maire"
+      ],
+      "categorie": "programme",
+      "titre": "Bruno Le Maire présente 50 propositions, dont 3 points de TVA en plus, sans se déclarer candidat",
+      "sources": [
+        {
+          "titre": "Fin de l'emploi à vie des fonctionnaires, hausse de la TVA et du salaire net, RIC, suppression du département et du 49.3 : le projet de Bruno Le Maire, non candidat à la présidentielle",
+          "url": "https://www.publicsenat.fr/actualites/politique/fin-de-lemploi-a-vie-des-fonctionnaires-hausse-de-la-tva-et-du-salaire-net-ric-suppression-du-departement-et-du-49-3-le-projet-de-bruno-le-maire-non-candidat-a-la-presidentielle",
+          "media": "Public Sénat",
+          "date": "2026-11-12"
+        },
+        {
+          "titre": "\"Nous devons aller vers des solutions beaucoup plus radicales\", affirme Bruno Le Maire à propos des augmentations de salaires",
+          "url": "https://www.franceinfo.fr/politique/nous-devons-aller-vers-des-solutions-beaucoup-plus-radicales-affirme-bruno-le-maire-a-propos-des-augmentations-de-salaires_8278877.html",
+          "media": "franceinfo",
+          "date": "2026-11-12"
+        },
+        {
+          "titre": "Bruno Le Maire a présenté 50 propositions sans se déclarer candidat à la présidentielle",
+          "url": "https://fr.qz.com/bruno-le-maire-presente-projet-autre-france-candidature-111326",
+          "media": "Quartz (d'après l'AFP)",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
       "date": "2026-11-11",
       "candidats": [
         "gabriel-attal",
@@ -646,6 +960,22 @@
           "url": "https://lcp.fr/actualites/presidentielle-2027-divises-entre-melenchon-et-roussel-les-deputes-communistes-s",
           "media": "LCP",
           "date": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "candidats": [
+        "fabien-roussel"
+      ],
+      "categorie": "programme",
+      "titre": "À Metz, Fabien Roussel défend un plan de 100 000 emplois supplémentaires dans l'hôpital public",
+      "sources": [
+        {
+          "titre": "Arthaud, Polony et Roussel : trois candidats en campagne en Moselle",
+          "url": "https://moselle.tv/roussel-arthaud-et-polony-trois-candidats-en-campagne-en-moselle/",
+          "media": "Moselle TV",
+          "date": "2026-11-17"
         }
       ]
     },

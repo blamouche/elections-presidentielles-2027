@@ -1328,8 +1328,36 @@
           "analyse": "Mesures non chiffrées et sans calendrier ; aucune vérification publiée n'a été trouvée au 16 novembre 2026. Leurs modalités (contenu de l'examen, sort des élèves qui échoueraient) ne sont pas précisées dans les comptes rendus consultés.",
           "sources": []
         }
+      },
+      {
+        "id": "sanctions-planchers-ecole",
+        "theme": "education",
+        "type": "proposition",
+        "titre": "Instaurer des « sanctions planchers » contre les élèves violents",
+        "description": "Invité de l'émission « Face à Jordan Bardella » sur CNews et Europe 1 le 17 novembre 2026, Jordan Bardella a déclaré que le RN mettrait en place « dans les établissements scolaires des sanctions plancher » contre les élèves auteurs de violences, jugeant les décisions des conseils de discipline trop clémentes et plaidant pour l'exclusion des élèves violents et une « tolérance zéro ». Il avait déjà défendu des sanctions planchers pour les conseils de discipline lors des législatives de 2024.",
+        "chiffres": [],
+        "date": "2026-11-17",
+        "sources": [
+          {
+            "titre": "Jordan Bardella : «Nous allons mettre en place dans les établissements scolaires des sanctions plancher»",
+            "url": "https://www.cnews.fr/france/2026-11-17/jordan-bardella-nous-allons-mettre-en-place-dans-les-etablissements-scolaires-des",
+            "media": "CNews",
+            "date": "2026-11-17"
+          },
+          {
+            "titre": "Éducation : Jordan Bardella plaide pour des «sanctions planchers» contre les élèves coupables de violences",
+            "url": "https://www.europe1.fr/societe/education-jordan-bardella-plaide-pour-des-sanctions-planchers-contre-les-eleves-coupables-de-violences-1239090",
+            "media": "Europe 1",
+            "date": "2026-11-17"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante n'a été trouvée au 18 novembre 2026. La proposition n'a pas été détaillée (échelle des sanctions, articulation avec le code de l'éducation et la procédure disciplinaire existante), ce qui empêche d'en évaluer la portée et la faisabilité.",
+          "sources": []
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-17"
+  "derniereMiseAJour": "2026-11-18"
 }

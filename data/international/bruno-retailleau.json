@@ -1,6 +1,6 @@
 {
   "id": "bruno-retailleau",
-  "derniereMiseAJour": "2026-11-13",
+  "derniereMiseAJour": "2026-11-18",
   "resume": "Bruno Retailleau, candidat des Républicains, défend une primauté du droit national sur certaines normes européennes et internationales. Il soutient l'Ukraine face à la Russie, à qui il a consacré son premier déplacement international de campagne en mai 2026, tout en jugeant l'adhésion de Kiev à l'UE et à l'OTAN impossible à court et moyen terme. Aucune position publique récente n'a été identifiée sur l'OTAN, Donald Trump ou la Chine.",
   "axes": {
     "europe": {
@@ -34,8 +34,8 @@
     "russie": {
       "position": 1,
       "titre": "Empêcher une victoire russe",
-      "resume": "Au Sénat le 13 mars 2024, il a déclaré que la ligne de la France devait être de « tout faire pour que la Russie ne gagne pas cette guerre » sans être entraînée dans une guerre qu'elle ne veut pas. En mai 2026 à Kiev, il a dénoncé l'agression russe et refusé une politique où « l'agression » pourrait « payer ». Aucune prise de position sur les sanctions ou les avoirs russes gelés n'a été identifiée : le cran +1 est retenu par prudence plutôt que +2.",
-      "date": "2026-05-20",
+      "resume": "Au Sénat le 13 mars 2024, il a déclaré que la ligne de la France devait être de « tout faire pour que la Russie ne gagne pas cette guerre » sans être entraînée dans une guerre qu'elle ne veut pas. En mai 2026 à Kiev, il a dénoncé l'agression russe et refusé une politique où « l'agression » pourrait « payer ». Aucune prise de position sur les sanctions ou les avoirs russes gelés n'a été identifiée : le cran +1 est retenu par prudence plutôt que +2. Le 18 novembre 2026 sur Sud Radio, il a répété que « l'agresseur de la sécurité européenne et de l'Ukraine, c'est la Russie ».",
+      "date": "2026-11-18",
       "sources": [
         {
           "titre": "Le Sénat approuve massivement l'accord de sécurité franco-ukrainien : revivez les débats",
@@ -48,6 +48,12 @@
           "url": "https://thepublic.info/en/news/bruno-retailleau-arrived-in-kyiv-ahead-of-the-french-elections",
           "media": "The Public",
           "date": "2026-05-20"
+        },
+        {
+          "titre": "Bruno Retailleau : « La primaire n'aura pas lieu si on inclut Éric Zemmour »",
+          "url": "https://www.sudradio.fr/sud-radio/bruno-retailleau-la-primaire-naura-pas-lieu-si-on-inclut-eric-zemmour",
+          "media": "Sud Radio",
+          "date": "2026-11-18"
         }
       ]
     },

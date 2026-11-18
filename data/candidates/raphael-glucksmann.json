@@ -398,7 +398,7 @@
   },
   "programme": {
     "statut": "Propositions partielles",
-    "resume": "Le programme complet n'est pas encore publié ; le projet est coordonné par Marguerite Cazeneuve. Le 9 novembre 2026, Raphaël Glucksmann a présenté le volet écologique et les « 100 premiers jours » : 200 milliards d'euros d'investissements publics sur le quinquennat, financés notamment par une contribution exceptionnelle de 5 % sur les patrimoines de plus de 100 millions d'euros, et des mesures de pouvoir d'achat (leasing social, chèque énergie, pompes à chaleur). Il défend aussi une surtaxe des « méga-héritages » pour baisser la CSG sur les salaires, l'abrogation de la réforme des retraites de 2023 avec un âge de référence à 62 ans, un service civique obligatoire et une convention citoyenne sur l'immigration. Il affiche l'objectif de stabiliser la dette à l'horizon 2032. Un second volet (biodiversité, eau, agriculture, santé) est annoncé. Le week-end des 14 et 15 novembre 2026, sa campagne diffuse un tract de dix propositions « pour sortir de la crise », dont le SMIC à 1 700 € net, l'abrogation de Parcoursup et une aide d'urgence contre la hausse des prix des carburants et de l'énergie (montant non précisé).",
+    "resume": "Le programme complet n'est pas encore publié ; le projet est coordonné par Marguerite Cazeneuve. Le 9 novembre 2026, Raphaël Glucksmann a présenté le volet écologique et les « 100 premiers jours » : 200 milliards d'euros d'investissements publics sur le quinquennat, financés notamment par une contribution exceptionnelle de 5 % sur les patrimoines de plus de 100 millions d'euros, et des mesures de pouvoir d'achat (leasing social, chèque énergie, pompes à chaleur). Il défend aussi une surtaxe des « méga-héritages » pour baisser la CSG sur les salaires, l'abrogation de la réforme des retraites de 2023 avec un âge de référence à 62 ans, un service civique obligatoire et une convention citoyenne sur l'immigration. Il affiche l'objectif de stabiliser la dette à l'horizon 2032. Un second volet (biodiversité, eau, agriculture, santé) est annoncé. Le week-end des 14 et 15 novembre 2026, sa campagne diffuse un tract de dix propositions « pour sortir de la crise », dont le SMIC à 1 700 € net, l'abrogation de Parcoursup et une aide d'urgence contre la hausse des prix des carburants et de l'énergie (montant non précisé). Le 17 novembre 2026, il s'est dit favorable à la régularisation de 250 000 à 300 000 travailleurs sans papiers (entretien aux journaux du groupe Ebra).",
     "documents": [
       {
         "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles",
@@ -1103,8 +1103,51 @@
             }
           ]
         }
+      },
+      {
+        "id": "regularisation-travailleurs-sans-papiers",
+        "theme": "immigration",
+        "type": "proposition",
+        "titre": "Régularisation des travailleurs sans papiers",
+        "description": "Dans un entretien aux journaux du groupe Ebra publié le 17 novembre 2026, jour de son déplacement à Villeurbanne, Raphaël Glucksmann se dit « pour la régularisation des travailleurs sans papiers », qui contribuent selon lui à la richesse du pays mais sont « maintenus artificiellement dans l'illégalité ». Il évoque 250 000 à 300 000 travailleurs concernés. Les modalités (critères, calendrier, base légale) n'ont pas été précisées.",
+        "chiffres": [
+          "Travailleurs concernés selon le candidat : 250 000 à 300 000"
+        ],
+        "date": "2026-11-17",
+        "sources": [
+          {
+            "titre": "A Villeurbanne, Glucksmann défend la \"solidarité\" et étrille Le Pen et la \"xénophobie ambiante\"",
+            "url": "https://www.boursorama.com/actualite-economique/actualites/a-villeurbanne-glucksmann-defend-la-solidarite-et-etrille-le-pen-et-la-xenophobie-ambiante-cda8e4eed9db562b8b991e82bf5ff6b1",
+            "media": "AFP (via Boursorama)",
+            "date": "2026-11-17"
+          },
+          {
+            "titre": "A Villeurbanne, Glucksmann défend la \"solidarité\" et étrille Le Pen et la \"xénophobie ambiante\"",
+            "url": "https://fr.news.yahoo.com/villeurbanne-glucksmann-d%C3%A9fend-solidarit%C3%A9-%C3%A9trille-204656152.html",
+            "media": "AFP (via Yahoo Actualités)",
+            "date": "2026-11-17"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification indépendante de cette déclaration n'a été trouvée au 18 novembre 2026. Il n'existe pas de décompte officiel des travailleurs sans papiers, la présence irrégulière étant par nature clandestine. La proposition de loi socialiste déposée le 6 octobre 2026 (premier signataire Paul Christophle) les estime à 300 000 à 400 000 et vise la régularisation immédiate d'environ 300 000 d'entre eux ; Olivier Faure avait avancé en septembre le chiffre de 400 000. Le ministère de l'Intérieur estime à environ 700 000 le nombre total de personnes en situation irrégulière (tous statuts, pas seulement les travailleurs), selon Public Sénat. La fourchette du candidat se situe donc dans le bas des estimations disponibles, sans qu'aucune ne soit officielle.",
+          "sources": [
+            {
+              "titre": "Proposition de loi n° 3253 visant à régulariser les travailleurs sans-papiers",
+              "url": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17B3253.html",
+              "media": "Assemblée nationale",
+              "date": "2026-10-06"
+            },
+            {
+              "titre": "Immigration : À quoi correspond la proposition d'Olivier Faure de régulariser 400 000 travailleurs sans-papiers ?",
+              "url": "https://www.publicsenat.fr/actualites/politique/immigration-a-quoi-correspond-la-proposition-dolivier-faure-de-regulariser-400-000-travailleurs-sans-papiers",
+              "media": "Public Sénat",
+              "date": "2026-09-17"
+            }
+          ]
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-17"
+  "derniereMiseAJour": "2026-11-18"
 }

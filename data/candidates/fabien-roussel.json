@@ -1007,8 +1007,52 @@
             }
           ]
         }
+      },
+      {
+        "id": "roussel-hopital-100000-emplois",
+        "theme": "sante",
+        "type": "proposition",
+        "titre": "100 000 emplois supplémentaires dans les hôpitaux publics",
+        "description": "Lors d'un déplacement le 10 novembre 2026 à l'hôpital d'instruction des armées Legouest de Metz, Fabien Roussel a défendu un plan de 100 000 emplois supplémentaires dans l'hôpital public, financé notamment par une réorientation des aides aux entreprises et une redéfinition des priorités budgétaires de l'État. Il reprend une mesure de son programme de 2022 (100 000 recrutements de soignants sur trois ans).",
+        "chiffres": [
+          "100 000 emplois supplémentaires à l'hôpital public",
+          "Coût : non chiffré"
+        ],
+        "date": "2026-11-10",
+        "sources": [
+          {
+            "titre": "Arthaud, Polony et Roussel : trois candidats en campagne en Moselle",
+            "url": "https://moselle.tv/roussel-arthaud-et-polony-trois-candidats-en-campagne-en-moselle/",
+            "media": "Moselle TV",
+            "date": "2026-11-17"
+          },
+          {
+            "titre": "Fabien Roussel (PCF) souhaite créer 100 000 personnels supplémentaires à l'hôpital public",
+            "url": "https://pediatrie.lequotidiendumedecin.fr/sante-societe/politique-de-sante/fabien-roussel-pcf-souhaite-creer-100-000-personnels-supplementaires-lhopital-public",
+            "media": "Le Quotidien du médecin",
+            "date": "2022"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification ni chiffrage indépendant de cette mesure n'a été trouvé pour la campagne 2027, et le candidat n'en a pas publié le coût. Ces recrutements semblent inclus dans l'objectif global de près de 500 000 fonctionnaires en cinq ans que chiffre le PCF à 27 Md€ par an, sans que la répartition soit précisée. La mesure figurait déjà dans le programme de 2022 (100 000 recrutements sur trois ans et abrogation de la tarification à l'activité).",
+          "sources": [
+            {
+              "titre": "Arthaud, Polony et Roussel : trois candidats en campagne en Moselle",
+              "url": "https://moselle.tv/roussel-arthaud-et-polony-trois-candidats-en-campagne-en-moselle/",
+              "media": "Moselle TV",
+              "date": "2026-11-17"
+            },
+            {
+              "titre": "Fabien Roussel (PCF) souhaite créer 100 000 personnels supplémentaires à l'hôpital public",
+              "url": "https://pediatrie.lequotidiendumedecin.fr/sante-societe/politique-de-sante/fabien-roussel-pcf-souhaite-creer-100-000-personnels-supplementaires-lhopital-public",
+              "media": "Le Quotidien du médecin",
+              "date": "2022"
+            }
+          ]
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-16"
+  "derniereMiseAJour": "2026-11-18"
 }

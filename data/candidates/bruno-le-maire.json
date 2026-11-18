@@ -8,7 +8,7 @@
   "couleur": "#D4A017",
   "statutCandidature": "potentiel",
   "candidature": {
-    "texte": "Bruno Le Maire n'est pas déclaré candidat à la date de mise à jour. Le 22 juin 2026, il avait annoncé qu'il dirait « en octobre » s'il se présentait ; le 1er juillet, sur Sud Radio, il jugeait que ce n'était « pas le moment » de répondre. Fin août 2026, il a publié un manifeste d'une soixantaine de pages structuré autour de l'autorité, de la prospérité et de la souveraineté, présenté comme le texte « d'un homme libre ». Aucune annonce de candidature ou de renoncement n'a été trouvée pour octobre-novembre 2026 : LCP (10/11/2026) le classe parmi les candidats potentiels et indique, citant Le Figaro, qu'il « doit prochainement présenter des propositions ».",
+    "texte": "Bruno Le Maire n'est pas déclaré candidat à la date de mise à jour. Le 22 juin 2026, il avait annoncé qu'il dirait « en octobre » s'il se présentait ; le 1er juillet, sur Sud Radio, il jugeait que ce n'était « pas le moment » de répondre. Fin août 2026, il a publié un manifeste d'une soixantaine de pages structuré autour de l'autorité, de la prospérité et de la souveraineté, présenté comme le texte « d'un homme libre ». LCP (10/11/2026) le classait parmi les candidats potentiels. Le 12 novembre 2026, il a présenté un projet de 50 propositions lors d'un discours diffusé sur YouTube, en précisant qu'il ne s'agissait pas d'une annonce de candidature ; le matin même sur France 2, il avait déclaré : « L'homme qui vous parle ce matin n'est pas candidat à l'élection présidentielle, on verra demain », disant se réserver « toutes les possibilités ».",
     "date": "2026-06-22",
     "sources": [
       {
@@ -34,6 +34,24 @@
         "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
         "media": "LCP",
         "date": "2026-11-10"
+      },
+      {
+        "titre": "\"Nous devons aller vers des solutions beaucoup plus radicales\", affirme Bruno Le Maire à propos des augmentations de salaires",
+        "url": "https://www.franceinfo.fr/politique/nous-devons-aller-vers-des-solutions-beaucoup-plus-radicales-affirme-bruno-le-maire-a-propos-des-augmentations-de-salaires_8278877.html",
+        "media": "franceinfo",
+        "date": "2026-11-12"
+      },
+      {
+        "titre": "Fin de l'emploi à vie des fonctionnaires, hausse de la TVA et du salaire net, RIC, suppression du département et du 49.3 : le projet de Bruno Le Maire, non candidat à la présidentielle",
+        "url": "https://www.publicsenat.fr/actualites/politique/fin-de-lemploi-a-vie-des-fonctionnaires-hausse-de-la-tva-et-du-salaire-net-ric-suppression-du-departement-et-du-49-3-le-projet-de-bruno-le-maire-non-candidat-a-la-presidentielle",
+        "media": "Public Sénat",
+        "date": "2026-11-12"
+      },
+      {
+        "titre": "Bruno Le Maire a présenté 50 propositions sans se déclarer candidat à la présidentielle",
+        "url": "https://fr.qz.com/bruno-le-maire-presente-projet-autre-france-candidature-111326",
+        "media": "Quartz (d'après l'AFP)",
+        "date": "2026-11-13"
       }
     ]
   },
@@ -226,7 +244,7 @@
   },
   "programme": {
     "statut": "Propositions partielles",
-    "resume": "Dans son manifeste d'août 2026 et ses entretiens, Bruno Le Maire défend un « changement complet de modèle » : un État recentré sur la sécurité, la protection, l'éducation et la santé ; une règle constitutionnelle de comptes publics à l'équilibre ; une retraite à 65 ans avec une part de capitalisation ; un transfert du financement de la protection sociale vers la consommation (hausse de la TVA de 2 à 3 points contre une baisse des cotisations salariales) ; une désindexation temporaire des pensions les plus élevées, des prestations et du barème de l'impôt. Sur l'Europe, il propose une fédération de six États-nations et une dette commune de 1 000 milliards d'euros pour investir. Il ne s'est pas déclaré candidat.",
+    "resume": "Dans son manifeste d'août 2026 et ses entretiens, Bruno Le Maire défend un « changement complet de modèle » : un État recentré sur la sécurité, la protection, l'éducation et la santé ; une règle constitutionnelle de comptes publics à l'équilibre ; une retraite à 65 ans avec une part de capitalisation ; un transfert du financement de la protection sociale vers la consommation (hausse de la TVA de 2 à 3 points contre une baisse des cotisations salariales) ; une désindexation temporaire des pensions les plus élevées, des prestations et du barème de l'impôt. Sur l'Europe, il propose une fédération de six États-nations et une dette commune de 1 000 milliards d'euros pour investir. Le 12 novembre 2026, il a présenté un projet de 50 propositions : hausse de 3 points de TVA, triplement de la taxe sur les géants du numérique et taxation des importations carbonées pour baisser de 50 Md€ les prélèvements sur les salaires (objectif de doubler à terme le salaire net médian), fin de l'emploi à vie dans la fonction publique hors fonctions régaliennes, indemnisation chômage limitée à 12 mois avant 55 ans, fusion des départements et des régions, RIC et responsabilité pénale dès 16 ans. Il ne s'est pas déclaré candidat.",
     "documents": [
       {
         "titre": "2027 : Le Maire publie un manifeste « pour une autre France »",
@@ -239,6 +257,18 @@
         "url": "https://www.sudradio.fr/linvite-politique/bruno-le-maire-nous-devons-tourner-la-page-de-letat-providence",
         "media": "Sud Radio",
         "date": "2026-07-01"
+      },
+      {
+        "titre": "Fin de l'emploi à vie des fonctionnaires, hausse de la TVA et du salaire net, RIC, suppression du département et du 49.3 : le projet de Bruno Le Maire, non candidat à la présidentielle",
+        "url": "https://www.publicsenat.fr/actualites/politique/fin-de-lemploi-a-vie-des-fonctionnaires-hausse-de-la-tva-et-du-salaire-net-ric-suppression-du-departement-et-du-49-3-le-projet-de-bruno-le-maire-non-candidat-a-la-presidentielle",
+        "media": "Public Sénat",
+        "date": "2026-11-12"
+      },
+      {
+        "titre": "Bruno Le Maire a présenté 50 propositions sans se déclarer candidat à la présidentielle",
+        "url": "https://fr.qz.com/bruno-le-maire-presente-projet-autre-france-candidature-111326",
+        "media": "Quartz (d'après l'AFP)",
+        "date": "2026-11-13"
       }
     ],
     "propositions": [
@@ -284,8 +314,12 @@
         "theme": "retraites",
         "type": "proposition",
         "titre": "Désindexer temporairement les pensions les plus élevées, les prestations et le barème de l'impôt",
-        "description": "Au titre de l'urgence budgétaire (il estime qu'il reste « quelques mois au plus » pour agir), désindexer pendant plusieurs années les pensions les plus élevées en épargnant les petites retraites, ainsi que les prestations sociales et le barème de l'impôt sur le revenu ; revoir le remboursement de certains médicaments et mieux cibler les dispositifs sociaux.",
-        "chiffres": [],
+        "description": "Au titre de l'urgence budgétaire (il estime qu'il reste « quelques mois au plus » pour agir), désindexer pendant plusieurs années les pensions les plus élevées en épargnant les petites retraites, ainsi que les prestations sociales et le barème de l'impôt sur le revenu ; revoir le remboursement de certains médicaments et mieux cibler les dispositifs sociaux. Dans son projet du 12 novembre 2026, il précise une désindexation temporaire des pensions de base d'un point par rapport à l'inflation, les petites retraites étant préservées.",
+        "chiffres": [
+          "Désindexation : 1 point sous l'inflation (pensions de base), temporaire",
+          "Économie annoncée : 3 à 4 Md€ (selon le candidat)",
+          "Estimation de la Commission des comptes de la Sécurité sociale : 3,5 Md€ si près de 18 millions de retraités sont concernés (rapportée par l'AFP)"
+        ],
         "date": "2026-08-23",
         "sources": [
           {
@@ -299,23 +333,23 @@
             "url": "https://www.sudradio.fr/linvite-politique/bruno-le-maire-nous-devons-tourner-la-page-de-letat-providence",
             "media": "Sud Radio",
             "date": "2026-07-01"
+          },
+          {
+            "titre": "Bruno Le Maire a présenté 50 propositions sans se déclarer candidat à la présidentielle",
+            "url": "https://fr.qz.com/bruno-le-maire-presente-projet-autre-france-candidature-111326",
+            "media": "Quartz (d'après l'AFP)",
+            "date": "2026-11-13"
           }
         ],
         "factCheck": {
-          "verdict": "non-verifie",
-          "analyse": "Ni les seuils (niveau de pension à partir duquel s'appliquerait la désindexation), ni la durée, ni le rendement attendu ne sont précisés. Aucune vérification indépendante n'a été trouvée.",
+          "verdict": "plutot-vrai",
+          "analyse": "L'ordre de grandeur avancé (3 à 4 Md€) est cohérent avec l'estimation de la Commission des comptes de la Sécurité sociale rapportée par l'AFP (3,5 Md€ pour un point de sous-indexation si près de 18 millions de retraités sont concernés). Le rendement réel dépendra du seuil retenu pour préserver les « petites retraites », qui n'est pas précisé et réduirait l'économie.",
           "sources": [
             {
-              "titre": "2027 : Le Maire publie un manifeste « pour une autre France »",
-              "url": "https://www.lagazettefrance.fr/article/2027-le-maire-publie-un-manifeste-pour-une-autre-france",
-              "media": "La Gazette France (AFP)",
-              "date": "2026-08-23"
-            },
-            {
-              "titre": "Bruno Le Maire : « Nous devons tourner la page de l'État providence »",
-              "url": "https://www.sudradio.fr/linvite-politique/bruno-le-maire-nous-devons-tourner-la-page-de-letat-providence",
-              "media": "Sud Radio",
-              "date": "2026-07-01"
+              "titre": "Bruno Le Maire a présenté 50 propositions sans se déclarer candidat à la présidentielle",
+              "url": "https://fr.qz.com/bruno-le-maire-presente-projet-autre-france-candidature-111326",
+              "media": "Quartz (d'après l'AFP)",
+              "date": "2026-11-13"
             }
           ]
         }
@@ -530,8 +564,199 @@
             }
           ]
         }
+      },
+      {
+        "id": "doubler-salaire-median-50-md",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Basculer 50 Md€ de financement de la protection sociale hors du travail pour hausser le salaire net",
+        "description": "Ne plus financer la protection sociale sur le travail : hausse de 3 points de la TVA (hors taux réduits), triplement de la taxe sur les géants du numérique et taxation des importations carbonées, pour baisser de 50 Md€ les prélèvements sur les salaires. Objectif affiché : environ 200 € nets de plus par mois pour un salarié au salaire médian, puis, à terme, doubler le salaire net médian (d'environ 2 000 à 4 000 € par mois). Cette proposition précise celle de son manifeste d'août 2026 (hausse de 2 à 3 points de TVA).",
+        "chiffres": [
+          "Baisse des prélèvements sur les salaires : 50 Md€",
+          "Gain annoncé : environ 200 € nets par mois au salaire médian",
+          "Hausse de TVA : 3 points (taux réduits inchangés)",
+          "Objectif : salaire net médian de 2 000 à 4 000 € par mois"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "\"Nous devons aller vers des solutions beaucoup plus radicales\", affirme Bruno Le Maire à propos des augmentations de salaires",
+            "url": "https://www.franceinfo.fr/politique/nous-devons-aller-vers-des-solutions-beaucoup-plus-radicales-affirme-bruno-le-maire-a-propos-des-augmentations-de-salaires_8278877.html",
+            "media": "franceinfo",
+            "date": "2026-11-12"
+          },
+          {
+            "titre": "Fin de l'emploi à vie des fonctionnaires, hausse de la TVA et du salaire net, RIC, suppression du département et du 49.3 : le projet de Bruno Le Maire, non candidat à la présidentielle",
+            "url": "https://www.publicsenat.fr/actualites/politique/fin-de-lemploi-a-vie-des-fonctionnaires-hausse-de-la-tva-et-du-salaire-net-ric-suppression-du-departement-et-du-49-3-le-projet-de-bruno-le-maire-non-candidat-a-la-presidentielle",
+            "media": "Public Sénat",
+            "date": "2026-11-12"
+          },
+          {
+            "titre": "Bruno Le Maire a présenté 50 propositions sans se déclarer candidat à la présidentielle",
+            "url": "https://fr.qz.com/bruno-le-maire-presente-projet-autre-france-candidature-111326",
+            "media": "Quartz (d'après l'AFP)",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Selon une étude 2025 de la direction générale du Trésor citée par Fipeco, un point de taux normal de TVA rapporte environ 8,9 Md€, soit de l'ordre de 27 Md€ pour 3 points : le reste des 50 Md€ devrait donc provenir de la taxe sur le numérique et de la taxation des importations carbonées, dont le rendement n'est pas détaillé. Aucune vérification indépendante du chiffrage global ni de l'objectif de doublement du salaire médian n'a été trouvée à la date de mise à jour.",
+          "sources": [
+            {
+              "titre": "Fiche TVA (F. Ecalle), citant une étude 2025 de la direction générale du Trésor",
+              "url": "https://www.fipeco.fr/pdf/TVA.pdf",
+              "media": "Fipeco",
+              "date": "2026-06-18"
+            },
+            {
+              "titre": "\"Nous devons aller vers des solutions beaucoup plus radicales\", affirme Bruno Le Maire à propos des augmentations de salaires",
+              "url": "https://www.franceinfo.fr/politique/nous-devons-aller-vers-des-solutions-beaucoup-plus-radicales-affirme-bruno-le-maire-a-propos-des-augmentations-de-salaires_8278877.html",
+              "media": "franceinfo",
+              "date": "2026-11-12"
+            }
+          ]
+        }
+      },
+      {
+        "id": "fin-emploi-a-vie-fonction-publique",
+        "theme": "territoires-services-publics",
+        "type": "proposition",
+        "titre": "Fin de l'emploi à vie dans la fonction publique, hors fonctions régaliennes",
+        "description": "Réserver l'emploi à vie aux fonctions régaliennes et assouplir le statut des autres fonctionnaires, avec l'objectif de « moins de fonctionnaires » « mieux payés ».",
+        "chiffres": [],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "\"Nous devons aller vers des solutions beaucoup plus radicales\", affirme Bruno Le Maire à propos des augmentations de salaires",
+            "url": "https://www.franceinfo.fr/politique/nous-devons-aller-vers-des-solutions-beaucoup-plus-radicales-affirme-bruno-le-maire-a-propos-des-augmentations-de-salaires_8278877.html",
+            "media": "franceinfo",
+            "date": "2026-11-12"
+          },
+          {
+            "titre": "Fin de l'emploi à vie des fonctionnaires, hausse de la TVA et du salaire net, RIC, suppression du département et du 49.3 : le projet de Bruno Le Maire, non candidat à la présidentielle",
+            "url": "https://www.publicsenat.fr/actualites/politique/fin-de-lemploi-a-vie-des-fonctionnaires-hausse-de-la-tva-et-du-salaire-net-ric-suppression-du-departement-et-du-49-3-le-projet-de-bruno-le-maire-non-candidat-a-la-presidentielle",
+            "media": "Public Sénat",
+            "date": "2026-11-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Ni le nombre d'agents concernés ni les économies attendues ne sont chiffrés. Aucune vérification indépendante n'a été trouvée à la date de mise à jour.",
+          "sources": [
+            {
+              "titre": "Fin de l'emploi à vie des fonctionnaires, hausse de la TVA et du salaire net, RIC, suppression du département et du 49.3 : le projet de Bruno Le Maire, non candidat à la présidentielle",
+              "url": "https://www.publicsenat.fr/actualites/politique/fin-de-lemploi-a-vie-des-fonctionnaires-hausse-de-la-tva-et-du-salaire-net-ric-suppression-du-departement-et-du-49-3-le-projet-de-bruno-le-maire-non-candidat-a-la-presidentielle",
+              "media": "Public Sénat",
+              "date": "2026-11-12"
+            }
+          ]
+        }
+      },
+      {
+        "id": "chomage-12-mois-moins-55-ans",
+        "theme": "emploi-travail",
+        "type": "proposition",
+        "titre": "Limiter à 12 mois l'indemnisation chômage avant 55 ans",
+        "description": "Limiter à 12 mois la durée des allocations chômage pour les demandeurs d'emploi de moins de 55 ans, avec un objectif de plein emploi à dix ans.",
+        "chiffres": [
+          "Durée maximale : 12 mois (moins de 55 ans)"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Fin de l'emploi à vie des fonctionnaires, hausse de la TVA et du salaire net, RIC, suppression du département et du 49.3 : le projet de Bruno Le Maire, non candidat à la présidentielle",
+            "url": "https://www.publicsenat.fr/actualites/politique/fin-de-lemploi-a-vie-des-fonctionnaires-hausse-de-la-tva-et-du-salaire-net-ric-suppression-du-departement-et-du-49-3-le-projet-de-bruno-le-maire-non-candidat-a-la-presidentielle",
+            "media": "Public Sénat",
+            "date": "2026-11-12"
+          },
+          {
+            "titre": "\"Nous devons aller vers des solutions beaucoup plus radicales\", affirme Bruno Le Maire à propos des augmentations de salaires",
+            "url": "https://www.franceinfo.fr/politique/nous-devons-aller-vers-des-solutions-beaucoup-plus-radicales-affirme-bruno-le-maire-a-propos-des-augmentations-de-salaires_8278877.html",
+            "media": "franceinfo",
+            "date": "2026-11-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Les économies attendues ne sont pas chiffrées par le candidat. Aucune vérification indépendante n'a été trouvée à la date de mise à jour.",
+          "sources": [
+            {
+              "titre": "Fin de l'emploi à vie des fonctionnaires, hausse de la TVA et du salaire net, RIC, suppression du département et du 49.3 : le projet de Bruno Le Maire, non candidat à la présidentielle",
+              "url": "https://www.publicsenat.fr/actualites/politique/fin-de-lemploi-a-vie-des-fonctionnaires-hausse-de-la-tva-et-du-salaire-net-ric-suppression-du-departement-et-du-49-3-le-projet-de-bruno-le-maire-non-candidat-a-la-presidentielle",
+              "media": "Public Sénat",
+              "date": "2026-11-12"
+            }
+          ]
+        }
+      },
+      {
+        "id": "institutions-departements-49-3-ric",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Fusion départements-régions, fin du 49.3 contre une censure « constructive » et RIC à un million de signatures",
+        "description": "Fusionner les départements avec les régions ; abandonner l'article 49.3 en échange d'une motion de censure « constructive » imposant une majorité alternative ; donner au ministre des Finances un droit de veto sur les dépenses et réduire le droit d'amendement budgétaire des parlementaires ; organiser des référendums (dont une « charte de l'immigration ») et instaurer un référendum d'initiative citoyenne déclenché par un million de signatures.",
+        "chiffres": [
+          "RIC : 1 million de signatures",
+          "Gouvernement de 10 membres (proposition déjà formulée)"
+        ],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Fin de l'emploi à vie des fonctionnaires, hausse de la TVA et du salaire net, RIC, suppression du département et du 49.3 : le projet de Bruno Le Maire, non candidat à la présidentielle",
+            "url": "https://www.publicsenat.fr/actualites/politique/fin-de-lemploi-a-vie-des-fonctionnaires-hausse-de-la-tva-et-du-salaire-net-ric-suppression-du-departement-et-du-49-3-le-projet-de-bruno-le-maire-non-candidat-a-la-presidentielle",
+            "media": "Public Sénat",
+            "date": "2026-11-12"
+          },
+          {
+            "titre": "Bruno Le Maire a présenté 50 propositions sans se déclarer candidat à la présidentielle",
+            "url": "https://fr.qz.com/bruno-le-maire-presente-projet-autre-france-candidature-111326",
+            "media": "Quartz (d'après l'AFP)",
+            "date": "2026-11-13"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La plupart de ces mesures (encadrement du 49.3, censure constructive, RIC, limitation du droit d'amendement) relèveraient d'une révision constitutionnelle. Le projet ne précise ni calendrier ni procédure, et aucune analyse indépendante n'a été trouvée à la date de mise à jour.",
+          "sources": [
+            {
+              "titre": "Fin de l'emploi à vie des fonctionnaires, hausse de la TVA et du salaire net, RIC, suppression du département et du 49.3 : le projet de Bruno Le Maire, non candidat à la présidentielle",
+              "url": "https://www.publicsenat.fr/actualites/politique/fin-de-lemploi-a-vie-des-fonctionnaires-hausse-de-la-tva-et-du-salaire-net-ric-suppression-du-departement-et-du-49-3-le-projet-de-bruno-le-maire-non-candidat-a-la-presidentielle",
+              "media": "Public Sénat",
+              "date": "2026-11-12"
+            }
+          ]
+        }
+      },
+      {
+        "id": "responsabilite-penale-16-ans",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "Responsabilité pénale engagée dès 16 ans",
+        "description": "Engager la responsabilité pénale des mineurs dès 16 ans, dans le cadre d'un volet « autorité de l'État » du projet.",
+        "chiffres": [],
+        "date": "2026-11-12",
+        "sources": [
+          {
+            "titre": "Fin de l'emploi à vie des fonctionnaires, hausse de la TVA et du salaire net, RIC, suppression du département et du 49.3 : le projet de Bruno Le Maire, non candidat à la présidentielle",
+            "url": "https://www.publicsenat.fr/actualites/politique/fin-de-lemploi-a-vie-des-fonctionnaires-hausse-de-la-tva-et-du-salaire-net-ric-suppression-du-departement-et-du-49-3-le-projet-de-bruno-le-maire-non-candidat-a-la-presidentielle",
+            "media": "Public Sénat",
+            "date": "2026-11-12"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Les modalités (fin de l'excuse de minorité, juridictions compétentes) ne sont pas précisées. Aucune vérification indépendante n'a été trouvée à la date de mise à jour.",
+          "sources": [
+            {
+              "titre": "Fin de l'emploi à vie des fonctionnaires, hausse de la TVA et du salaire net, RIC, suppression du département et du 49.3 : le projet de Bruno Le Maire, non candidat à la présidentielle",
+              "url": "https://www.publicsenat.fr/actualites/politique/fin-de-lemploi-a-vie-des-fonctionnaires-hausse-de-la-tva-et-du-salaire-net-ric-suppression-du-departement-et-du-49-3-le-projet-de-bruno-le-maire-non-candidat-a-la-presidentielle",
+              "media": "Public Sénat",
+              "date": "2026-11-12"
+            }
+          ]
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-13"
+  "derniereMiseAJour": "2026-11-18"
 }

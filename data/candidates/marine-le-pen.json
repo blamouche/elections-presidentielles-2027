@@ -1212,15 +1212,37 @@
         "theme": "retraites",
         "type": "proposition",
         "titre": "Retour à 62 ans avec 42 annuités, 60 ans pour les carrières longues et part de capitalisation obligatoire",
-        "description": "Projet présenté le 17 novembre 2026 au siège du RN par Marine Le Pen, avec Jordan Bardella et Jean-Philippe Tanguy : retour de l'âge légal de départ à 62 ans avec 42 annuités, ou 60 ans avec 40 annuités pour ceux ayant commencé à travailler avant 20 ans ; l'âge légal est maintenu, contrairement à ce que suggéraient au printemps des proches de Jordan Bardella (franceinfo). Introduction d'une « part de capitalisation pour tous les Français », présentée comme obligatoire, financée par la réorientation d'une partie des cotisations, avec une mise de départ visée de 20 Md€, soit à peu près le montant du Fonds de réserve pour les retraites (AFP) ; la veille sur LCI, Marine Le Pen a affirmé vouloir créer ce pilier « sans augmenter les cotisations retraite et sans baisser les pensions de retraite », et Jean-Philippe Tanguy a déclaré sur France 2 que « tous les salariés » auraient une part de capitalisation, financée par des « économies dans le système social ». Financement annoncé par une hausse du « volume de travail » (entrée plus précoce des jeunes, maintien des seniors via des exonérations de cotisations), un durcissement de la validation des trimestres (notamment pour les plus hauts revenus et les chômeurs) et 15 à 20 Md€ d'économies « à terme », dont la possible suppression de la majoration de pension de 10 % des parents de trois enfants et plus (AFP). Un député RN chiffre le coût à « une quinzaine de milliards d'euros », « compensés par une augmentation globale du volume de travail » (franceinfo) ; Marine Le Pen évalue le seul maintien à 62 ans à 9 Md€ par an (Europe 1).",
+        "description": "Projet présenté le 17 novembre 2026 au siège du RN par Marine Le Pen, avec Jordan Bardella et Jean-Philippe Tanguy : retour de l'âge légal de départ à 62 ans avec 42 annuités, ou 60 ans avec 40 annuités pour ceux ayant commencé à travailler avant 20 ans ; l'âge légal est maintenu, contrairement à ce que suggéraient au printemps des proches de Jordan Bardella (franceinfo). Introduction d'une « part de capitalisation pour tous les Français », présentée comme obligatoire, financée par la réorientation d'une partie des cotisations, avec une mise de départ visée de 20 Md€, soit à peu près le montant du Fonds de réserve pour les retraites (AFP) ; la veille sur LCI, Marine Le Pen a affirmé vouloir créer ce pilier « sans augmenter les cotisations retraite et sans baisser les pensions de retraite », et Jean-Philippe Tanguy a déclaré sur France 2 que « tous les salariés » auraient une part de capitalisation, financée par des « économies dans le système social ». Financement annoncé par une hausse du « volume de travail » (entrée plus précoce des jeunes, maintien des seniors via des exonérations de cotisations), un durcissement de la validation des trimestres (notamment pour les plus hauts revenus et les chômeurs) et 15 à 20 Md€ d'économies « à terme », dont la possible suppression de la majoration de pension de 10 % des parents de trois enfants et plus (AFP). Un député RN chiffre le coût à « une quinzaine de milliards d'euros », « compensés par une augmentation globale du volume de travail » (franceinfo) ; Marine Le Pen évalue le seul maintien à 62 ans à 9 Md€ par an (Europe 1). Selon le document détaillé présenté le 17 novembre (Public Sénat, franceinfo, LCP) : abrogation de la réforme de 2023 au 1er janvier 2028 puis mise en place progressive jusqu'en 2032 (âge de 60 à 62 ans et 40 à 42 annuités selon l'âge d'entrée dans la vie active, taux plein maintenu à 67 ans) ; validation d'un trimestre conditionnée à un travail au moins à mi-temps, sans critère de salaire ; décote portée à 5 % par trimestre manquant dans la limite de 50 % ; réduction des droits acquis pendant le chômage ; extinction progressive de la majoration de 10 % des pères de trois enfants et plus, celle des mères portée à 12 % ; affectation de la moitié des excédents de l'Unédic aux retraites et suspension de l'APA et de l'Aspa pour les retraités percevant plus de 3 000 € de pension. Le pilier de capitalisation, obligatoire pour les actifs de moins de 52 ans et géré par la Caisse des dépôts (rendement visé de 4 à 6 % par an), serait alimenté par le Fonds de réserve pour les retraites (environ 20 Md€) et par la réorientation du « 1 % logement », de la cotisation au Fnal et de la moitié des cotisations formation professionnelle, soit environ 12 Md€ par an (environ 500 € par actif et par an) ; le RN vise un fonds d'environ 900 Md€ en une génération et un capital d'environ 81 000 € (340 €/mois) en fin de carrière. Le RN chiffre le coût brut à 18,6 Md€ en 2032 et annonce un solde positif de 4,7 Md€ à cet horizon, hors gains de croissance ; Jean-Philippe Tanguy évoque un coût de 10,1 Md€. Marine Le Pen dit compter sur une majorité absolue à l'Assemblée et, à défaut, soumettre la réforme à référendum.",
         "chiffres": [
-          "Âge légal : 62 ans avec 42 annuités ; 60 ans avec 40 annuités si début de carrière avant 20 ans",
-          "Capitalisation : mise de départ visée de 20 Md€ (selon l'AFP)",
-          "Coût : « une quinzaine de milliards d'euros » selon un député RN ; 9 Md€/an pour le maintien à 62 ans selon Marine Le Pen",
+          "Âge légal : 60 à 62 ans et 40 à 42 annuités selon l'âge d'entrée dans la vie active ; taux plein à 67 ans",
+          "Calendrier : abrogation de la réforme de 2023 au 1er janvier 2028, montée en charge jusqu'en 2032",
+          "Coût brut : 18,6 Md€ en 2032 ; solde annoncé : +4,7 Md€ en 2032 (chiffrage RN, hors croissance)",
+          "Coût selon Jean-Philippe Tanguy : 10,1 Md€ ; 9 Md€/an pour le maintien à 62 ans selon Marine Le Pen",
+          "Décote : 5 % par trimestre manquant (2,7 Md€ selon le RN) ; seuil de 160 trimestres : 5,8 Md€",
+          "Unédic et suspension APA/Aspa au-delà de 3 000 € de pension : 9,7 Md€ selon le RN",
+          "Capitalisation : ~12 Md€/an réorientés (1 % logement, Fnal, moitié de la formation professionnelle) + ~20 Md€ du FRR ; fonds visé ~900 Md€ en une génération",
           "Économies annoncées : 15 à 20 Md€ « à terme »"
         ],
         "date": "2026-11-17",
         "sources": [
+          {
+            "titre": "Présidentielle 2027 : que contient la réforme des retraites présentée par Marine Le Pen ?",
+            "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-que-contient-la-reforme-des-retraites-presentee-par-marine-le-pen",
+            "media": "Public Sénat",
+            "date": "2026-11-17"
+          },
+          {
+            "titre": "Age de départ, part de capitalisation, possible référendum… Que propose le Rassemblement national pour réformer les retraites ?",
+            "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/age-de-depart-part-de-capitalisation-referendum-que-propose-le-rassemblement-national-pour-reformer-les-retraites_8286419.html",
+            "media": "franceinfo",
+            "date": "2026-11-17"
+          },
+          {
+            "titre": "Réforme des retraites : c'est quoi la capitalisation obligatoire que Marine Le Pen veut mettre en place ?",
+            "url": "https://lcp.fr/actualites/reforme-des-retraites-c-est-quoi-la-capitalisation-obligatoire-que-marine-le-pen-veut",
+            "media": "LCP",
+            "date": "2026-11-17"
+          },
           {
             "titre": "Retour de l'âge légal de départ à 62 ans, capitalisation obligatoire… Le RN présente sa réforme des retraites",
             "url": "https://www.franceinfo.fr/politique/front-national/retour-de-l-age-legal-de-depart-a-62-ans-capitalisation-obligatoire-le-rn-presente-sa-reforme-des-retraites_8285453.html",
@@ -1278,8 +1300,26 @@
         ],
         "factCheck": {
           "verdict": "non-verifie",
-          "analyse": "Aucune vérification indépendante du chiffrage présenté le 17 novembre 2026 n'a été trouvée à cette date. Les estimations disponibles divergent : le RN avance un coût d'environ 9 Md€/an pour le maintien à 62 ans (Europe 1 note que ce chiffre est bien inférieur à celui de certaines institutions) et « une quinzaine de milliards » pour l'ensemble ; en 2024, l'Institut Montaigne estimait à 34,7 Md€/an le coût de la mesure du RN d'abrogation de la réforme de 2023 avec départ à 60 ans après 40 annuités ; la Cour des comptes chiffre jusqu'à 10 Md€ par an l'annulation de la réforme de 2023 (Reuters). Reuters juge difficile d'atteindre 15 à 20 Md€ d'économies annuelles si le départ à 60 ans pour les carrières longues est maintenu. Le financement de la part de capitalisation (20 Md€ de mise de départ selon l'AFP) n'a pas fait l'objet d'une évaluation publiée.",
+          "analyse": "Aucun fact-check formel du chiffrage présenté le 17 novembre 2026 n'a été trouvé au 18 novembre. Les chiffres du RN eux-mêmes varient (coût brut de 18,6 Md€ en 2032 avec un solde positif de 4,7 Md€ selon le document présenté, 10,1 Md€ selon Jean-Philippe Tanguy, 9 Md€/an pour le seul maintien à 62 ans selon Marine Le Pen) et excluent les gains de croissance. L'économiste Bertrand Martinot (Institut Montaigne), dans un entretien à Atlantico le 18 novembre, estime qu'environ 15 des 18,6 Md€ de surcoût seraient couverts par de véritables économies, mais que le système resterait déséquilibré à long terme faute d'indexation de l'âge et de la durée de cotisation sur l'espérance de vie, et que le pilier de capitalisation repose sur des transferts de prélèvements existants sans argent nouveau ; il identifie comme perdants les carrières hachées et les temps très partiels. En 2024, l'Institut Montaigne estimait à 34,7 Md€/an le coût de la mesure du RN d'abrogation de la réforme de 2023 avec départ à 60 ans après 40 annuités, et il avait jugé « largement sous-estimé » le chiffrage RN de 2022 (franceinfo) ; la Cour des comptes chiffre jusqu'à 10 Md€ par an l'annulation de la réforme de 2023 (Reuters). Le rendement de 4 à 6 % par an et l'objectif de 900 Md€ n'ont pas fait l'objet d'une évaluation indépendante publiée.",
           "sources": [
+            {
+              "titre": "Nouvelle réforme des retraites : les calculs hasardeux du Rassemblement national",
+              "url": "https://atlantico.fr/article/decryptage/nouvelle-reforme-des-retraites-les-calculs-hasardeux-du-rassemblement-national-bertrand-martinot",
+              "media": "Atlantico (entretien avec Bertrand Martinot, Institut Montaigne)",
+              "date": "2026-11-18"
+            },
+            {
+              "titre": "Age de départ, part de capitalisation, possible référendum… Que propose le Rassemblement national pour réformer les retraites ?",
+              "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/age-de-depart-part-de-capitalisation-referendum-que-propose-le-rassemblement-national-pour-reformer-les-retraites_8286419.html",
+              "media": "franceinfo",
+              "date": "2026-11-17"
+            },
+            {
+              "titre": "Présidentielle 2027 : que contient la réforme des retraites présentée par Marine Le Pen ?",
+              "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-que-contient-la-reforme-des-retraites-presentee-par-marine-le-pen",
+              "media": "Public Sénat",
+              "date": "2026-11-17"
+            },
             {
               "titre": "Maintien de l'âge légal à 62 ans, dose de capitalisation... Le Rassemblement national veut défendre sa crédibilité sur les retraites",
               "url": "https://www.europe1.fr/politique/maintien-de-lage-legal-a-62-ans-dose-de-capitalisation-le-rassemblement-national-veut-defendre-sa-credibilite-sur-les-retraites-1238295",
@@ -1665,19 +1705,19 @@
           }
         ],
         "factCheck": {
-          "verdict": "non-verifie",
-          "analyse": "Aucune vérification indépendante du montant de 3,7 Md€ n'a été trouvée au 17 novembre 2026. Le critère d'une association « politisée » n'a pas été défini sur le plateau, et interrogée par Raphaël Glucksmann, Marine Le Pen n'a pas cité de structure précise, ce qui empêche d'évaluer le périmètre et le rendement de la mesure. Les comptes rendus du débat (franceinfo, LCP) rapportent les déclarations sans les confronter à des données.",
+          "verdict": "plutot-faux",
+          "analyse": "Le fact-check porte sur la faisabilité juridique. Selon franceinfo (« Le vrai du faux », 18 novembre 2026), il n'est pas possible de supprimer une subvention au seul motif qu'une association serait « politisée » : cette notion n'a pas de fondement juridique et un tel critère porterait atteinte à la liberté d'association et à la liberté d'expression. L'État et les collectivités ne sont toutefois jamais tenus de subventionner une association et peuvent ne pas renouveler une subvention sans avoir à s'en justifier (exemple de la mairie RN de Carpentras avec le Planning familial en 2026) ; une subvention peut aussi être retirée en cas de manquement au contrat d'engagement républicain, décision contestable devant le juge administratif (le tribunal administratif a donné raison à Alternatiba Poitiers contre le préfet de la Vienne en 2022). Le montant de 3,7 Md€ d'économies n'a pas été vérifié de façon indépendante.",
           "sources": [
+            {
+              "titre": "VRAI OU FAUX. Est-il possible d'arrêter de subventionner des associations parce qu'elles sont \"politisées\", comme le souhaite Marine Le Pen ?",
+              "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-est-il-possible-d-arreter-de-subventionner-des-associations-parce-qu-elles-sont-politisees-comme-le-souhaite-marine-le-pen_8266754.html",
+              "media": "franceinfo (Le vrai du faux)",
+              "date": "2026-11-18"
+            },
             {
               "titre": "Marine Le Pen critiquée en plein débat de la présidentielle pour sa volonté de couper les subventions des associations \"politisées\"",
               "url": "https://www.franceinfo.fr/elections/marine-le-pen-critiquee-en-plein-debat-de-la-presidentielle-pour-sa-volonte-de-couper-les-subventions-des-associations-politisees_8285558.html",
               "media": "franceinfo",
-              "date": "2026-11-17"
-            },
-            {
-              "titre": "Logement, associations, jeunesse... : ce qu'il faut retenir du débat présidentiel sur LCI",
-              "url": "https://lcp.fr/actualites/logement-associations-jeunesse-ce-qu-il-faut-retenir-du-debat-presidentiel-sur-lci",
-              "media": "LCP",
               "date": "2026-11-17"
             }
           ]
@@ -1709,5 +1749,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-17"
+  "derniereMiseAJour": "2026-11-18"
 }
