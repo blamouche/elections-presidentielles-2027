@@ -1,6 +1,6 @@
 {
   "id": "raphael-glucksmann",
-  "derniereMiseAJour": "2026-11-13",
+  "derniereMiseAJour": "2026-11-19",
   "resume": "Raphaël Glucksmann défend une Europe fédérale et puissante, dotée d'une défense commune financée par l'emprunt, et une ligne de fermeté envers la Russie et la Chine. Il s'oppose à Donald Trump tout en restant attaché à l'alliance avec les États-Unis, selon l'analyse de l'IRIS (juillet 2026).",
   "axes": {
     "europe": {
@@ -86,8 +86,8 @@
     "ukraine": {
       "position": 2,
       "titre": "Aide accrue et élargissement à l'Ukraine",
-      "resume": "Il qualifie l'Ukraine de « première ligne de défense » européenne, propose en 2024 un fonds de défense de 100 Md€ par emprunt commun avec priorité aux commandes ukrainiennes, et soutient l'élargissement de l'UE à l'Ukraine couplé à une réforme institutionnelle.",
-      "date": "2024-05-16",
+      "resume": "Il qualifie l'Ukraine de « première ligne de défense » européenne, propose en 2024 un fonds de défense de 100 Md€ par emprunt commun avec priorité aux commandes ukrainiennes, et soutient l'élargissement de l'UE à l'Ukraine couplé à une réforme institutionnelle. Le 19 novembre 2026, il a appelé la France à être une « locomotive » de l'aide à l'Ukraine et à « augmenter le soutien à la résistance ukrainienne », accusant Jean-Luc Mélenchon d'être « le perroquet de M. Lavrov ».",
+      "date": "2026-11-19",
       "sources": [
         {
           "titre": "Bâtir l'Europe de 2030 : la doctrine Glucksmann",
@@ -100,6 +100,18 @@
           "url": "https://www.iris-france.org/glucksmann-ambiguites-geopolitiques/",
           "media": "IRIS (Pascal Boniface)",
           "date": "2026-07-23"
+        },
+        {
+          "titre": "DIRECT. Présidentielle 2027 : \"Elle a choisi de tourner le dos à la tradition écologiste\", réagit Raphaël Glucksmann après le rapprochement initié par Marine Tondelier avec LFI",
+          "url": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html",
+          "media": "franceinfo (direct)",
+          "date": "2026-11-19"
+        },
+        {
+          "titre": "\"Elle a choisi de tourner le dos à la tradition écologiste\", regrette Raphaël Glucksmann après le rapprochement de Marine Tondelier à la candidature de Jean-Luc Mélenchon",
+          "url": "https://www.franceinfo.fr/elections/elle-a-choisi-de-tourner-le-dos-a-la-tradition-ecologiste-regrette-raphael-glucksmann-apres-le-rapprochement-de-marine-tondelier-a-la-candidature-de-jean-luc-melenchon_8289584.html",
+          "media": "franceinfo",
+          "date": "2026-11-19"
         }
       ]
     },

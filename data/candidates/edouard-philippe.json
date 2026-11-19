@@ -720,7 +720,7 @@
   },
   "programme": {
     "statut": "Programme complet publié",
-    "resume": "Le programme, publié sur le site de campagne « Avec Édouard 2027 » et détaillé lors de « L'Heure de vérité » (France 2, 8 octobre 2026), s'organise autour de l'ordre et de la protection, d'une économie forte avec des comptes en ordre, de l'avenir des enfants et des « grands défis » (IA, énergie, climat). Il prévoit de ramener le déficit public à 2 % du PIB en fin de mandat avec une règle d'or constitutionnelle, aucun nouvel impôt pendant cinq ans, la suppression de 250 000 postes de fonctionnaires et une retraite à 65 ans avec 45 annuités. Il propose aussi de diviser par deux l'immigration, de construire de l'ordre de 4 millions de logements en cinq ans, de défiscaliser les heures travaillées au-delà de 35 heures négociées en entreprise, une allocation familiale unique de 350 € dès le premier enfant et un « deal » de 50 Md€ de baisse d'impôts de production contre 50 Md€ d'aides en moins. Le 18 novembre 2026, il a présenté le premier volume de son programme en conférence de presse. Aucun chiffrage global indépendant n'était publié au 16 novembre 2026 (l'Institut Montaigne annonce le sien pour le premier trimestre 2027).",
+    "resume": "Le programme, publié sur le site de campagne « Avec Édouard 2027 » et détaillé lors de « L'Heure de vérité » (France 2, 8 octobre 2026), s'organise autour de l'ordre et de la protection, d'une économie forte avec des comptes en ordre, de l'avenir des enfants et des « grands défis » (IA, énergie, climat). Il prévoyait en octobre de ramener le déficit public à 2 % du PIB en fin de mandat avec une règle d'or constitutionnelle, aucun nouvel impôt pendant cinq ans, la suppression de 250 000 postes de fonctionnaires et une retraite à 65 ans avec 45 annuités. Il propose aussi de diviser par deux l'immigration, de construire de l'ordre de 4 millions de logements en cinq ans, de défiscaliser les heures travaillées au-delà de 35 heures négociées en entreprise, une allocation familiale unique de 350 € dès le premier enfant et un « deal » de 50 Md€ de baisse d'impôts de production contre 50 Md€ d'aides en moins. Le 18 novembre 2026, il a présenté en conférence de presse le « volume 1 » de son programme (142 propositions, selon LCP), sous le mot d'ordre « ordre et progrès » : suppression des 35 heures, statut de fonctionnaire réservé au régalien et aux enseignants, privatisation de France Travail, suppression du Cese, outils antiterroristes contre les casseurs, et un déficit ramené sous 2,5 % de la richesse nationale en 2032 ; un plan de redressement des finances publiques est annoncé « dans quelques jours » et un volume 2 début 2027. Aucun chiffrage global indépendant n'était publié au 16 novembre 2026 (l'Institut Montaigne annonce le sien pour le premier trimestre 2027).",
     "documents": [
       {
         "titre": "Le programme — Avec Édouard 2027",
@@ -751,6 +751,12 @@
         "url": "https://www.edouardphilippe.fr/actualites/edouard-philippe-presente-le-premier-volume-de-son-programme-presidentiel",
         "media": "Avec Édouard 2027 (site de campagne)",
         "date": "2026-11-17"
+      },
+      {
+        "titre": "En présentant son programme, Edouard Philippe cherche une nouvelle dynamique, loin des discussions sur la primaire",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-edouard-philippe-promet-des-reformes-radicales-pour-relancer-sa",
+        "media": "LCP",
+        "date": "2026-11-18"
       }
     ],
     "propositions": [
@@ -862,7 +868,8 @@
           "Déficit visé : 2 % du PIB en fin de mandat",
           "Point de départ invoqué : plus de 5 % du PIB",
           "Aucun nouvel impôt pendant cinq ans",
-          "Effort : 50 % dépenses sociales, 25 % État et collectivités, 25 % croissance"
+          "Effort : 50 % dépenses sociales, 25 % État et collectivités, 25 % croissance",
+          "Volume 1 du programme (18 novembre 2026) : déficit ramené sous 2,5 % de la richesse nationale en 2032"
         ],
         "date": "2026-10-08",
         "sources": [
@@ -877,6 +884,12 @@
             "url": "https://www.franceinfo.fr/politique/edouard-philippe/immigration-retraites-allocations-familiales-parcoursup-ce-qu-il-faut-retenir-de-l-interview-d-edouard-philippe-dans-l-emission-l-heure-de-verite_8228416.html",
             "media": "franceinfo",
             "date": "2026-10-08"
+          },
+          {
+            "titre": "En présentant son programme, Edouard Philippe cherche une nouvelle dynamique, loin des discussions sur la primaire",
+            "url": "https://lcp.fr/actualites/presidentielle-2027-edouard-philippe-promet-des-reformes-radicales-pour-relancer-sa",
+            "media": "LCP",
+            "date": "2026-11-18"
           }
         ],
         "factCheck": {
@@ -1523,8 +1536,157 @@
             }
           ]
         }
+      },
+      {
+        "id": "statut-fonction-publique-regalien",
+        "theme": "territoires-services-publics",
+        "type": "proposition",
+        "titre": "Réserver le statut de fonctionnaire aux fonctions régaliennes et aux enseignants",
+        "description": "Limiter le statut de la fonction publique aux « fonctions essentielles » (régalien, enseignants) et recruter les autres agents sous statut de droit privé ; laisser aux collectivités locales qui le souhaitent le choix d'opter pour le droit privé. Selon son entourage, professeurs, médecins, magistrats et policiers conserveraient leur statut. Mesure du « volume 1 » du programme présenté le 18 novembre 2026.",
+        "chiffres": [
+          "Coût / économies : non chiffrés par le candidat"
+        ],
+        "date": "2026-11-18",
+        "sources": [
+          {
+            "titre": "Casseurs, fonction publique : Édouard Philippe présente de nouvelles mesures pour «rétablir l'ordre»",
+            "url": "https://www.europe1.fr/politique/casseurs-fonction-publique-edouard-philippe-presente-de-nouvelles-mesures-pour-retablir-lordre-1239609",
+            "media": "Europe 1",
+            "date": "2026-11-18"
+          },
+          {
+            "titre": "Présidentielle : en recul dans les sondages, Philippe mise sur un projet « radical » et « sérieux »",
+            "url": "https://www.sudradio.fr/societe/presidentielle-en-recul-dans-les-sondages-philippe-mise-sur-un-projet-radical-et-serieux",
+            "media": "Sud Radio (AFP)",
+            "date": "2026-11-18"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Le candidat ne chiffre ni le nombre d'agents concernés ni les économies attendues. Aucune vérification indépendante (chiffrage, analyse juridique) n'a été trouvée à la date de mise à jour.",
+          "sources": [
+            {
+              "titre": "Casseurs, fonction publique : Édouard Philippe présente de nouvelles mesures pour «rétablir l'ordre»",
+              "url": "https://www.europe1.fr/politique/casseurs-fonction-publique-edouard-philippe-presente-de-nouvelles-mesures-pour-retablir-lordre-1239609",
+              "media": "Europe 1",
+              "date": "2026-11-18"
+            }
+          ]
+        }
+      },
+      {
+        "id": "agences-france-travail-cese",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Supprimer, fusionner ou privatiser une trentaine d'agences, dont France Travail et le Cese",
+        "description": "Fusionner, supprimer ou privatiser une trentaine d'agences et opérateurs de l'État jugés redondants, avec notamment la privatisation de France Travail (ex-Pôle emploi) et la suppression du Conseil économique, social et environnemental (Cese).",
+        "chiffres": [
+          "Une trentaine d'agences et opérateurs visés",
+          "Économies : non chiffrées par le candidat"
+        ],
+        "date": "2026-11-18",
+        "sources": [
+          {
+            "titre": "Casseurs, fonction publique : Édouard Philippe présente de nouvelles mesures pour «rétablir l'ordre»",
+            "url": "https://www.europe1.fr/politique/casseurs-fonction-publique-edouard-philippe-presente-de-nouvelles-mesures-pour-retablir-lordre-1239609",
+            "media": "Europe 1",
+            "date": "2026-11-18"
+          },
+          {
+            "titre": "Présidentielle : en recul dans les sondages, Philippe mise sur un projet « radical » et « sérieux »",
+            "url": "https://www.sudradio.fr/societe/presidentielle-en-recul-dans-les-sondages-philippe-mise-sur-un-projet-radical-et-serieux",
+            "media": "Sud Radio (AFP)",
+            "date": "2026-11-18"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucun montant d'économies n'est annoncé. La suppression du Cese, institution prévue par le titre XI de la Constitution, supposerait une révision constitutionnelle. Aucune vérification indépendante (chiffrage, analyse juridique) n'a été trouvée à la date de mise à jour.",
+          "sources": [
+            {
+              "titre": "Casseurs, fonction publique : Édouard Philippe présente de nouvelles mesures pour «rétablir l'ordre»",
+              "url": "https://www.europe1.fr/politique/casseurs-fonction-publique-edouard-philippe-presente-de-nouvelles-mesures-pour-retablir-lordre-1239609",
+              "media": "Europe 1",
+              "date": "2026-11-18"
+            }
+          ]
+        }
+      },
+      {
+        "id": "casseurs-mesures-antiterroristes",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "Appliquer aux « casseurs » les outils de prévention antiterroristes",
+        "description": "Appliquer aux auteurs de violences en manifestation les mesures de prévention utilisées contre le terrorisme : assignations à résidence lors des manifestations à risque, fichier dédié sur le modèle du FSPRT, visites domiciliaires et mesures individuelles de contrôle administratif.",
+        "chiffres": [
+          "Coût : non chiffré par le candidat"
+        ],
+        "date": "2026-11-18",
+        "sources": [
+          {
+            "titre": "Casseurs, fonction publique : Édouard Philippe présente de nouvelles mesures pour «rétablir l'ordre»",
+            "url": "https://www.europe1.fr/politique/casseurs-fonction-publique-edouard-philippe-presente-de-nouvelles-mesures-pour-retablir-lordre-1239609",
+            "media": "Europe 1",
+            "date": "2026-11-18"
+          },
+          {
+            "titre": "En présentant son programme, Edouard Philippe cherche une nouvelle dynamique, loin des discussions sur la primaire",
+            "url": "https://lcp.fr/actualites/presidentielle-2027-edouard-philippe-promet-des-reformes-radicales-pour-relancer-sa",
+            "media": "LCP",
+            "date": "2026-11-18"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "La compatibilité de ces mesures administratives avec la liberté de manifester, contrôlée par le Conseil constitutionnel, n'a pas fait l'objet d'une analyse publiée. Aucune vérification indépendante (chiffrage, analyse juridique) n'a été trouvée à la date de mise à jour.",
+          "sources": [
+            {
+              "titre": "Casseurs, fonction publique : Édouard Philippe présente de nouvelles mesures pour «rétablir l'ordre»",
+              "url": "https://www.europe1.fr/politique/casseurs-fonction-publique-edouard-philippe-presente-de-nouvelles-mesures-pour-retablir-lordre-1239609",
+              "media": "Europe 1",
+              "date": "2026-11-18"
+            }
+          ]
+        }
+      },
+      {
+        "id": "suppression-35-heures",
+        "theme": "emploi-travail",
+        "type": "proposition",
+        "titre": "Supprimer les 35 heures",
+        "description": "Supprimer la durée légale de 35 heures, présentée avec une réforme des retraites « la plus ambitieuse du XXIe siècle » et une « réduction massive » de la dépense publique lors de la présentation du volume 1 du programme. Le candidat estime par ailleurs que la hausse du Smic relève des partenaires sociaux.",
+        "chiffres": [
+          "Aucun chiffrage ni calendrier annoncé"
+        ],
+        "date": "2026-11-18",
+        "sources": [
+          {
+            "titre": "Présidentielle : en recul dans les sondages, Philippe mise sur un projet « radical » et « sérieux »",
+            "url": "https://www.sudradio.fr/societe/presidentielle-en-recul-dans-les-sondages-philippe-mise-sur-un-projet-radical-et-serieux",
+            "media": "Sud Radio (AFP)",
+            "date": "2026-11-18"
+          },
+          {
+            "titre": "Casseurs, fonction publique : Édouard Philippe présente de nouvelles mesures pour «rétablir l'ordre»",
+            "url": "https://www.europe1.fr/politique/casseurs-fonction-publique-edouard-philippe-presente-de-nouvelles-mesures-pour-retablir-lordre-1239609",
+            "media": "Europe 1",
+            "date": "2026-11-18"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Les modalités (nouvelle durée de référence, seuil de déclenchement des heures supplémentaires, rôle des accords d'entreprise) ne sont pas précisées dans les comptes rendus. Aucune vérification indépendante (chiffrage, analyse juridique) n'a été trouvée à la date de mise à jour.",
+          "sources": [
+            {
+              "titre": "Présidentielle : en recul dans les sondages, Philippe mise sur un projet « radical » et « sérieux »",
+              "url": "https://www.sudradio.fr/societe/presidentielle-en-recul-dans-les-sondages-philippe-mise-sur-un-projet-radical-et-serieux",
+              "media": "Sud Radio (AFP)",
+              "date": "2026-11-18"
+            }
+          ]
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-18"
+  "derniereMiseAJour": "2026-11-19"
 }

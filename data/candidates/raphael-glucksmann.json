@@ -751,7 +751,7 @@
         "theme": "retraites",
         "type": "proposition",
         "titre": "Abroger la réforme de 2023 avec un âge de référence à 62 ans",
-        "description": "Abrogation de la réforme des retraites de 2023 sans retour à 60 ans (« Non, on ne pourra pas faire 60 ans, ça sera 62 »), avec des départs différenciés : plus tôt pour les métiers pénibles, plus tard pour certains cadres supérieurs. Création d'un Haut Conseil du pilotage des retraites et plan pour augmenter le nombre de cotisants (emploi des seniors).",
+        "description": "Abrogation de la réforme des retraites de 2023 sans retour à 60 ans (« Non, on ne pourra pas faire 60 ans, ça sera 62 »), avec des départs différenciés : plus tôt pour les métiers pénibles, plus tard pour certains cadres supérieurs. Création d'un Haut Conseil du pilotage des retraites et plan pour augmenter le nombre de cotisants (emploi des seniors). Le 19 novembre 2026 sur franceinfo, il a annoncé la présentation de son propre projet sur les retraites « en janvier », en affirmant qu'« il faut sauver le système de retraites par répartition ».",
         "chiffres": [
           "Âge de référence : 62 ans",
           "Aucun chiffrage du coût publié"
@@ -769,6 +769,12 @@
             "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/changement-de-systeme-passage-a-60-ou-a-65-ans-capitalisation-que-proposent-les-principaux-candidats-a-l-election-presidentielle-pour-les-retraites_8215784.html",
             "media": "franceinfo",
             "date": "2026-09-30"
+          },
+          {
+            "titre": "DIRECT. Présidentielle 2027 : \"Elle a choisi de tourner le dos à la tradition écologiste\", réagit Raphaël Glucksmann après le rapprochement initié par Marine Tondelier avec LFI",
+            "url": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html",
+            "media": "franceinfo (direct)",
+            "date": "2026-11-19"
           }
         ],
         "factCheck": {
@@ -1109,9 +1115,10 @@
         "theme": "immigration",
         "type": "proposition",
         "titre": "Régularisation des travailleurs sans papiers",
-        "description": "Dans un entretien aux journaux du groupe Ebra publié le 17 novembre 2026, jour de son déplacement à Villeurbanne, Raphaël Glucksmann se dit « pour la régularisation des travailleurs sans papiers », qui contribuent selon lui à la richesse du pays mais sont « maintenus artificiellement dans l'illégalité ». Il évoque 250 000 à 300 000 travailleurs concernés. Les modalités (critères, calendrier, base légale) n'ont pas été précisées.",
+        "description": "Dans un entretien aux journaux du groupe Ebra publié le 17 novembre 2026, jour de son déplacement à Villeurbanne, Raphaël Glucksmann se dit « pour la régularisation des travailleurs sans papiers », qui contribuent selon lui à la richesse du pays mais sont « maintenus artificiellement dans l'illégalité ». Il évoque 250 000 à 300 000 travailleurs concernés. Les modalités (critères, calendrier, base légale) n'ont pas été précisées. La mesure correspond à la proposition de loi socialiste (rapporteur Paul Christophle) inscrite à la niche parlementaire du PS du 19 novembre 2026 : régularisation « de plein droit » des travailleurs sans papiers justifiant d'au moins six mois d'activité professionnelle, consécutifs ou non, sur les deux dernières années, pour environ 300 000 bénéficiaires selon le texte, qui avait été repoussé de peu en commission. Le candidat a appelé à la voter au nom de la « dignité » (« Ils travaillent en France. Ils cotisent. Mais on leur refuse leur titre de séjour »).",
         "chiffres": [
-          "Travailleurs concernés selon le candidat : 250 000 à 300 000"
+          "Travailleurs concernés selon le candidat : 250 000 à 300 000",
+          "Critère de la proposition de loi PS : 6 mois d'activité sur les 2 dernières années ; environ 300 000 bénéficiaires estimés"
         ],
         "date": "2026-11-17",
         "sources": [
@@ -1126,11 +1133,23 @@
             "url": "https://fr.news.yahoo.com/villeurbanne-glucksmann-d%C3%A9fend-solidarit%C3%A9-%C3%A9trille-204656152.html",
             "media": "AFP (via Yahoo Actualités)",
             "date": "2026-11-17"
+          },
+          {
+            "titre": "Régularisation de travailleurs sans-papiers : le PS, et Glucksmann, mettent un coup de barre à gauche",
+            "url": "https://www.lagazettefrance.fr/article/regularisation-de-travailleurs-sans-papiers-le-ps-et-glucksmann-mettent-un-coup-de-barre-a-gauche",
+            "media": "La Gazette France (AFP)",
+            "date": "2026-11-19"
+          },
+          {
+            "titre": "Immigration : Raphaël Glucksmann et les socialistes proposent ce jeudi à l'Assemblée la régularisation d'environ 300.000 sans-papiers",
+            "url": "https://cnews.fr/france/2026-11-19/immigration-raphael-glucksmann-et-les-socialistes-proposent-ce-jeudi-lassemblee",
+            "media": "CNews",
+            "date": "2026-11-19"
           }
         ],
         "factCheck": {
           "verdict": "non-verifie",
-          "analyse": "Aucune vérification indépendante de cette déclaration n'a été trouvée au 18 novembre 2026. Il n'existe pas de décompte officiel des travailleurs sans papiers, la présence irrégulière étant par nature clandestine. La proposition de loi socialiste déposée le 6 octobre 2026 (premier signataire Paul Christophle) les estime à 300 000 à 400 000 et vise la régularisation immédiate d'environ 300 000 d'entre eux ; Olivier Faure avait avancé en septembre le chiffre de 400 000. Le ministère de l'Intérieur estime à environ 700 000 le nombre total de personnes en situation irrégulière (tous statuts, pas seulement les travailleurs), selon Public Sénat. La fourchette du candidat se situe donc dans le bas des estimations disponibles, sans qu'aucune ne soit officielle.",
+          "analyse": "Aucune vérification indépendante de cette déclaration n'a été trouvée au 19 novembre 2026. Il n'existe pas de décompte officiel des travailleurs sans papiers, la présence irrégulière étant par nature clandestine. La proposition de loi socialiste déposée le 6 octobre 2026 (premier signataire Paul Christophle) les estime à 300 000 à 400 000 et vise la régularisation immédiate d'environ 300 000 d'entre eux ; Olivier Faure avait avancé en septembre le chiffre de 400 000. Le ministère de l'Intérieur estime à environ 700 000 le nombre total de personnes en situation irrégulière (tous statuts, pas seulement les travailleurs), selon Public Sénat. La fourchette du candidat se situe donc dans le bas des estimations disponibles, sans qu'aucune ne soit officielle.",
           "sources": [
             {
               "titre": "Proposition de loi n° 3253 visant à régulariser les travailleurs sans-papiers",
@@ -1149,5 +1168,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-18"
+  "derniereMiseAJour": "2026-11-19"
 }

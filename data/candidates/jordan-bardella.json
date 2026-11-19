@@ -1356,8 +1356,47 @@
           "analyse": "Aucune vérification indépendante n'a été trouvée au 18 novembre 2026. La proposition n'a pas été détaillée (échelle des sanctions, articulation avec le code de l'éducation et la procédure disciplinaire existante), ce qui empêche d'en évaluer la portée et la faisabilité.",
           "sources": []
         }
+      },
+      {
+        "id": "prisons-40000-magistrats-double",
+        "theme": "securite-justice",
+        "type": "proposition",
+        "titre": "40 000 places de prison et doublement du nombre de magistrats",
+        "description": "Invité de « Face à Jordan Bardella » sur CNews et Europe 1 le 17 novembre 2026, Jordan Bardella a promis la création de « 40.000 places de prison » afin, selon lui, d'atteindre la moyenne européenne, le doublement du « nombre de magistrats », l'absence d'aménagement pour toute peine de prison ferme de « plus de six mois » et un abaissement de la majorité pénale (sans seuil précisé). Le programme présenté par Marine Le Pen évoque pour sa part 30 000 places de prison supplémentaires.",
+        "chiffres": [
+          "40 000 places de prison (Jordan Bardella, 17/11/2026) ; 30 000 dans le programme de Marine Le Pen",
+          "Doublement du nombre de magistrats",
+          "Pas d'aménagement des peines fermes de plus de six mois"
+        ],
+        "date": "2026-11-17",
+        "sources": [
+          {
+            "titre": "En direct - Grèves successives, élection présidentielle, réforme des retraites... Ce qu'il faut retenir de l'interview de Jordan Bardella",
+            "url": "https://www.europe1.fr/politique/en-direct-greves-successives-election-presidentielle-reforme-des-retraites-ce-quil-faut-retenir-de-linterview-de-jordan-bardella-1239039",
+            "media": "Europe 1",
+            "date": "2026-11-17"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-faux",
+          "analyse": "La justification avancée (« 40 000 places » manquantes pour atteindre la moyenne européenne) avait déjà été vérifiée par le JDD après une déclaration identique de Jordan Bardella sur Sud Radio en mai 2021 : selon les statistiques SPACE du Conseil de l'Europe, la France comptait alors 90 places pour 100 000 habitants contre 116 en moyenne dans l'UE, soit un écart d'environ 16 000 places et non 40 000. Ces données datent de 2021 et aucune vérification de la déclaration de novembre 2026 n'a été trouvée. Le constat de surpopulation reste réel : au 1er septembre 2026, 90 020 détenus pour 63 348 places opérationnelles (densité de 142,1 %). Le doublement du nombre de magistrats n'est pas chiffré.",
+          "sources": [
+            {
+              "titre": "Surpopulation carcérale : Jordan Bardella exagère le nombre de places manquantes par rapport à nos voisins",
+              "url": "https://www.lejdd.fr/Societe/surpopulation-carcerale-jordan-bardella-exagere-le-nombre-de-places-manquantes-par-rapport-a-nos-voisins-4048518",
+              "media": "Le JDD",
+              "date": "2021-06-02"
+            },
+            {
+              "titre": "Prisons : avec 90 020 détenus en France au 1er septembre, la population carcérale bat un nouveau record",
+              "url": "https://www.ouest-france.fr/societe/prison/prisons-avec-90-020-detenus-en-france-au-1er-septembre-la-population-carcerale-bat-un-nouveau-record-4c798c92-beff-11f1-bc1c-de747933f8a6",
+              "media": "Ouest-France (AFP)",
+              "date": "2026-09"
+            }
+          ]
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-18"
+  "derniereMiseAJour": "2026-11-19"
 }

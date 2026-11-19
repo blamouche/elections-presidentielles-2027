@@ -1,7 +1,314 @@
 {
-  "miseAJour": "2026-11-18",
-  "periode": "2026-11-01/2026-11-18",
+  "miseAJour": "2026-11-19",
+  "periode": "2026-11-01/2026-11-19",
   "items": [
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "raphael-glucksmann",
+        "marine-tondelier",
+        "jean-luc-melenchon"
+      ],
+      "categorie": "ralliement",
+      "titre": "Glucksmann accuse Tondelier de « tourner le dos à la tradition écologiste » en soutenant un « europhobe »",
+      "sources": [
+        {
+          "titre": "\"Elle a choisi de tourner le dos à la tradition écologiste\", regrette Raphaël Glucksmann après le rapprochement de Marine Tondelier à la candidature de Jean-Luc Mélenchon",
+          "url": "https://www.franceinfo.fr/elections/elle-a-choisi-de-tourner-le-dos-a-la-tradition-ecologiste-regrette-raphael-glucksmann-apres-le-rapprochement-de-marine-tondelier-a-la-candidature-de-jean-luc-melenchon_8289584.html",
+          "media": "franceinfo",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "raphael-glucksmann"
+      ],
+      "categorie": "programme",
+      "titre": "Glucksmann soutient la proposition de loi PS régularisant environ 300 000 travailleurs sans papiers, examinée à l'Assemblée",
+      "sources": [
+        {
+          "titre": "Régularisation de travailleurs sans-papiers : le PS, et Glucksmann, mettent un coup de barre à gauche",
+          "url": "https://www.lagazettefrance.fr/article/regularisation-de-travailleurs-sans-papiers-le-ps-et-glucksmann-mettent-un-coup-de-barre-a-gauche",
+          "media": "La Gazette France (AFP)",
+          "date": "2026-11-19"
+        },
+        {
+          "titre": "Immigration : Raphaël Glucksmann et les socialistes proposent ce jeudi à l'Assemblée la régularisation d'environ 300.000 sans-papiers",
+          "url": "https://cnews.fr/france/2026-11-19/immigration-raphael-glucksmann-et-les-socialistes-proposent-ce-jeudi-lassemblee",
+          "media": "CNews",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "raphael-glucksmann"
+      ],
+      "categorie": "programme",
+      "titre": "Glucksmann annonce son projet sur les retraites pour janvier et veut « sauver le système par répartition »",
+      "sources": [
+        {
+          "titre": "DIRECT. Présidentielle 2027 : \"Elle a choisi de tourner le dos à la tradition écologiste\", réagit Raphaël Glucksmann après le rapprochement initié par Marine Tondelier avec LFI",
+          "url": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html",
+          "media": "franceinfo (direct)",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "raphael-glucksmann"
+      ],
+      "categorie": "international",
+      "titre": "Glucksmann veut que la France soit une « locomotive » de l'aide à l'Ukraine et attaque Mélenchon",
+      "sources": [
+        {
+          "titre": "DIRECT. Présidentielle 2027 : \"Elle a choisi de tourner le dos à la tradition écologiste\", réagit Raphaël Glucksmann après le rapprochement initié par Marine Tondelier avec LFI",
+          "url": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html",
+          "media": "franceinfo (direct)",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "marine-tondelier",
+        "jean-luc-melenchon"
+      ],
+      "categorie": "ralliement",
+      "titre": "Sur France 2, Marine Tondelier se dit « prête » à travailler à une coalition autour de la candidature Mélenchon",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027: Marine Tondelier 'prête' à une 'coalition' autour de Jean-Luc Mélenchon",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-marine-tondelier-prete-a-une-coalition-autour-de-jean-luc-melenchon",
+          "media": "LCP",
+          "date": "2026-11-18"
+        },
+        {
+          "titre": "Présidentielle : Marine Tondelier \"prête à travailler à une coalition\" autour de Jean-Luc Mélenchon",
+          "url": "https://www.france24.com/fr/france/20261118-presidentielle-2027-election-marine-tondelier-ecologistes-prete-travailler-coalition-autour-jean-luc-melenchon-la-france-insoumise-soutien",
+          "media": "France 24 (avec AFP)",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "marine-tondelier",
+        "jean-luc-melenchon"
+      ],
+      "categorie": "candidature",
+      "titre": "Tondelier conditionne la coalition à une semaine de négociation avec LFI ; LFI salue « une bonne nouvelle »",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027: Marine Tondelier 'prête' à une 'coalition' autour de Jean-Luc Mélenchon",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-marine-tondelier-prete-a-une-coalition-autour-de-jean-luc-melenchon",
+          "media": "LCP",
+          "date": "2026-11-18"
+        },
+        {
+          "titre": "À six mois de l'élection présidentielle, Marine Tondelier fait un pas vers Jean-Luc Mélenchon et se dit \"prête\" à travailler avec lui",
+          "url": "https://www.franceinfo.fr/elections/a-six-mois-de-l-election-presidentielle-marine-tondelier-fait-un-pas-vers-jean-luc-melenchon-et-se-dit-prete-a-travailler-avec-lui_8289617.html",
+          "media": "franceinfo",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "edouard-philippe"
+      ],
+      "categorie": "programme",
+      "titre": "Édouard Philippe présente 142 propositions, dont la suppression des 35 heures et la privatisation de France Travail",
+      "sources": [
+        {
+          "titre": "En présentant son programme, Edouard Philippe cherche une nouvelle dynamique, loin des discussions sur la primaire",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-edouard-philippe-promet-des-reformes-radicales-pour-relancer-sa",
+          "media": "LCP",
+          "date": "2026-11-18"
+        },
+        {
+          "titre": "Présidentielle : en recul dans les sondages, Philippe mise sur un projet « radical » et « sérieux »",
+          "url": "https://www.sudradio.fr/societe/presidentielle-en-recul-dans-les-sondages-philippe-mise-sur-un-projet-radical-et-serieux",
+          "media": "Sud Radio (AFP)",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "edouard-philippe"
+      ],
+      "categorie": "programme",
+      "titre": "Philippe veut réserver le statut de fonctionnaire au régalien et aux enseignants et appliquer aux casseurs des outils antiterroristes",
+      "sources": [
+        {
+          "titre": "Casseurs, fonction publique : Édouard Philippe présente de nouvelles mesures pour «rétablir l'ordre»",
+          "url": "https://www.europe1.fr/politique/casseurs-fonction-publique-edouard-philippe-presente-de-nouvelles-mesures-pour-retablir-lordre-1239609",
+          "media": "Europe 1",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "nicolas-dupont-aignan",
+        "david-lisnard",
+        "eric-zemmour"
+      ],
+      "categorie": "candidature",
+      "titre": "Nicolas Dupont-Aignan décline l'offre de David Lisnard d'élargir jusqu'à lui la primaire de la droite et du centre",
+      "sources": [
+        {
+          "titre": "Présidentielle : Lisnard souffle le chaud et le froid sur la primaire",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/presidentielle-lisnard-souffle-le-chaud-et-le-froid-sur-la-primaire-07f2591012191dd99e253faeb9cb0e65",
+          "media": "Boursorama (AFP)",
+          "date": "2026-11-18"
+        },
+        {
+          "titre": "Lisnard pose deux conditions à la primaire de la droite et du centre",
+          "url": "https://fr.qz.com/lisnard-primaire-droite-conditions-philippe-zemmour-111826",
+          "media": "Quartz (édition française)",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "marine-le-pen",
+        "edouard-philippe",
+        "bruno-retailleau"
+      ],
+      "categorie": "programme",
+      "titre": "Édouard Philippe et Bruno Retailleau critiquent la réforme des retraites du RN et le financement de sa capitalisation",
+      "sources": [
+        {
+          "titre": "Retraites : la droite et le centre critiquent le plan présenté par Marine Le Pen",
+          "url": "https://www.europe1.fr/politique/retraites-la-droite-et-le-centre-critiquent-le-plan-presente-par-marine-le-pen-1239042",
+          "media": "Europe 1",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "jordan-bardella"
+      ],
+      "categorie": "programme",
+      "titre": "Jordan Bardella veut réorienter des cotisations formation (CPF) vers un compte de capitalisation retraite d'environ 500 € par an",
+      "sources": [
+        {
+          "titre": "Le «racket» de votre CPF ? Jordan Bardella (RN) veut envoyer ses cotisations sur un compte retraite",
+          "url": "https://fr.finance.yahoo.com/actualites/racket-cpf-jordan-bardella-rn-074810041.html",
+          "media": "Capital (via Yahoo Finance)",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "marine-le-pen"
+      ],
+      "categorie": "autre",
+      "titre": "Marine Le Pen attendue à Mayotte puis à La Réunion du 14 au 16 décembre",
+      "sources": [
+        {
+          "titre": "Marine Le Pen en visite à La Réunion du 14 au 16 décembre",
+          "url": "https://la1ere.franceinfo.fr/reunion/marine-le-pen-en-visite-a-la-reunion-du-14-au-16-decembre-1758990.html",
+          "media": "Réunion La 1ère (franceinfo)",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "marine-le-pen",
+        "jean-luc-melenchon",
+        "david-lisnard",
+        "edouard-philippe"
+      ],
+      "categorie": "sondage",
+      "titre": "Ifop-Fiducial : Le Pen entre 32 et 36 %, Mélenchon entre 17 et 19,5 %, Lisnard jusqu'à 12 %",
+      "sources": [
+        {
+          "titre": "Les intentions de vote à l'élection présidentielle 2027",
+          "url": "https://www.ifopgroup.com/article/les-intentions-de-vote-a-lelection-presidentielle-2027/",
+          "media": "Ifop",
+          "date": "2026-11-18"
+        },
+        {
+          "titre": "Présidentielle 2027 – Petit-déjeuner électoral : intentions de vote et déterminants du vote (présentation)",
+          "url": "https://www.ifopgroup.com/wp-content/uploads/2026/11/122919-petit-dejeuner-electoral-intentions-de-vote-et-determinants-du-vote.pdf",
+          "media": "Ifop",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "marine-le-pen",
+        "jean-luc-melenchon",
+        "david-lisnard",
+        "edouard-philippe"
+      ],
+      "categorie": "sondage",
+      "titre": "YouGov pour Le HuffPost : Le Pen à 32 %, Mélenchon à 19 %, Lisnard (9-10 %) au niveau de Philippe",
+      "sources": [
+        {
+          "titre": "HuffPost – Intentions de vote à l'élection présidentielle 2027 – Novembre 2026 (résultats YouGov)",
+          "url": "https://ygo-assets-websites-editorial-emea.yougov.net/documents/R%C3%A9sultats_YouGov_pour_le_HuffPost_Intentions_de_vote_Novembre_2026_17.11.2026.pdf",
+          "media": "YouGov",
+          "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "david-lisnard",
+        "edouard-philippe",
+        "gabriel-attal",
+        "bruno-retailleau"
+      ],
+      "categorie": "sondage",
+      "titre": "Ifop pour Le Figaro, primaire centre-droite : Lisnard 29 %, Philippe 28 %, Attal 25 %, Retailleau 18 %",
+      "sources": [
+        {
+          "titre": "Les Français et une primaire de la droite et du centre",
+          "url": "https://www.ifopgroup.com/article/les-francais-et-une-primaire-de-la-droite-et-du-centre/",
+          "media": "Ifop",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [],
+      "categorie": "sondage",
+      "titre": "Odoxa : 83 % des Français tiendront compte des propositions sur le pouvoir d'achat pour voter en 2027",
+      "sources": [
+        {
+          "titre": "Pouvoir d'achat : les Français pensent qu'un(e) président(e) peut améliorer la situation",
+          "url": "https://www.odoxa.fr/sondage/pouvoir-dachat-les-francais-pensent-quune-presidente-peut-ameliorer-la-situation/",
+          "media": "Odoxa",
+          "date": "2026-11-18"
+        }
+      ]
+    },
     {
       "date": "2026-11-18",
       "candidats": [
@@ -111,6 +418,38 @@
           "url": "https://atlantico.fr/article/decryptage/nouvelle-reforme-des-retraites-les-calculs-hasardeux-du-rassemblement-national-bertrand-martinot",
           "media": "Atlantico",
           "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "candidats": [
+        "jean-luc-melenchon"
+      ],
+      "categorie": "autre",
+      "titre": "Mélenchon dîne avec treize grands patrons, dont Arnault et Pouyanné, sans renoncer à son programme",
+      "sources": [
+        {
+          "titre": "\"Les taxes, ils les boufferont\" : Mélenchon et le controversé dîner avec des grands patrons",
+          "url": "https://www.france24.com/fr/france/20261118-les-taxes-ils-les-boufferont-m%C3%A9lenchon-et-le-controvers%C3%A9-d%C3%AEner-avec-des-grands-patrons",
+          "media": "France 24 (avec AFP)",
+          "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "candidats": [
+        "jordan-bardella"
+      ],
+      "categorie": "programme",
+      "titre": "Sur CNews et Europe 1, Jordan Bardella promet 40 000 places de prison et le doublement du nombre de magistrats",
+      "sources": [
+        {
+          "titre": "En direct - Grèves successives, élection présidentielle, réforme des retraites... Ce qu'il faut retenir de l'interview de Jordan Bardella",
+          "url": "https://www.europe1.fr/politique/en-direct-greves-successives-election-presidentielle-reforme-des-retraites-ce-quil-faut-retenir-de-linterview-de-jordan-bardella-1239039",
+          "media": "Europe 1",
+          "date": "2026-11-17"
         }
       ]
     },

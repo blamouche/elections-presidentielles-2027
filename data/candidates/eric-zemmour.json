@@ -8,7 +8,7 @@
   "couleur": "#1B1F3B",
   "statutCandidature": "declare",
   "candidature": {
-    "texte": "Le 17 septembre 2026, sur BFMTV (« Face à BFM »), Éric Zemmour déclare : « Je suis candidat à la présidence de la République, je serai candidat à l'élection présidentielle », confirmant qu'il portera lui-même les couleurs de Reconquête plutôt que l'eurodéputée Sarah Knafo, qui fera campagne à ses côtés. Il officialise et détaille sa candidature le 10 novembre 2026 au journal de 20 heures de TF1, en disant vouloir « enrayer le déclin » et « conserver une France française ». Il doit encore réunir les 500 parrainages d'élus requis.",
+    "texte": "Le 17 septembre 2026, sur BFMTV (« Face à BFM »), Éric Zemmour déclare : « Je suis candidat à la présidence de la République, je serai candidat à l'élection présidentielle », confirmant qu'il portera lui-même les couleurs de Reconquête plutôt que l'eurodéputée Sarah Knafo, qui fera campagne à ses côtés. Il officialise et détaille sa candidature le 10 novembre 2026 au journal de 20 heures de TF1, en disant vouloir « enrayer le déclin » et « conserver une France française ». Il doit encore réunir les 500 parrainages d'élus requis. Le 18 novembre 2026, David Lisnard (Nouvelle Énergie) a fait de la participation d'Éric Zemmour, avec celle d'Édouard Philippe, l'une de ses deux conditions à une primaire de la droite et du centre ; Bruno Retailleau a au contraire déclaré sur Sud Radio que « si Éric Zemmour y participe, il n'y aura pas de primaire », position partagée par l'entourage de Gabriel Attal (AFP). Selon l'AFP, Éric Zemmour souhaite participer à une primaire ouverte ; aucune réaction de Reconquête aux propos du 18 novembre n'a été trouvée au 19 novembre.",
     "date": "2026-09-17",
     "sources": [
       {
@@ -40,6 +40,24 @@
         "url": "https://www.politiquematin.fr/zemmour-presidentielle-2027-confirme-candidature-tf1-programme-101126-2055",
         "media": "Politique Matin",
         "date": "2026-11-10"
+      },
+      {
+        "titre": "Présidentielle : Lisnard souffle le chaud et le froid sur la primaire",
+        "url": "https://www.boursorama.com/actualite-economique/actualites/presidentielle-lisnard-souffle-le-chaud-et-le-froid-sur-la-primaire-07f2591012191dd99e253faeb9cb0e65",
+        "media": "Boursorama (AFP)",
+        "date": "2026-11-18"
+      },
+      {
+        "titre": "Lisnard pose deux conditions à la primaire de la droite et du centre",
+        "url": "https://fr.qz.com/lisnard-primaire-droite-conditions-philippe-zemmour-111826",
+        "media": "Quartz (édition française)",
+        "date": "2026-11-18"
+      },
+      {
+        "titre": "Présidentielle : «Si Zemmour y participe, il n'y a pas de primaire», prévient Retailleau",
+        "url": "https://www.lejdd.fr/politique/presidentielle-si-zemmour-y-participe-il-ny-a-pas-de-primaire-previent-retailleau-189072",
+        "media": "Le JDD",
+        "date": "2026-11-18"
       }
     ]
   },
@@ -1683,5 +1701,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-16"
+  "derniereMiseAJour": "2026-11-19"
 }
