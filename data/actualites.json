@@ -1,7 +1,399 @@
 {
-  "miseAJour": "2026-11-19",
-  "periode": "2026-11-01/2026-11-19",
+  "miseAJour": "2026-11-20",
+  "periode": "2026-11-01/2026-11-20",
   "items": [
+    {
+      "date": "2026-11-20",
+      "candidats": [
+        "dominique-de-villepin"
+      ],
+      "categorie": "candidature",
+      "titre": "Dominique de Villepin convoque la presse à Paris, où l'officialisation de sa candidature est attendue",
+      "sources": [
+        {
+          "titre": "\"Vu à quel niveau sont les autres, on n'est pas si loin\" : Dominique de Villepin se lance dans la course présidentielle malgré les embûches",
+          "url": "https://www.franceinfo.fr/elections/vu-a-quel-niveau-sont-les-autres-on-n-est-pas-si-loin-dominique-de-villepin-se-lance-dans-la-course-presidentielle-malgre-les-embuches_8288267.html",
+          "media": "franceinfo",
+          "date": "2026-11-20"
+        },
+        {
+          "titre": "Présidentielle 2027: Dominique de Villepin sur le point d'officialiser sa candidature à l'Élysée",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-dominique-de-villepin-sur-le-point-d-officialiser-sa-candidature-a-l",
+          "media": "LCP",
+          "date": "2026-11-20"
+        },
+        {
+          "titre": "Villepin sur le point d'annoncer sa candidature à la présidentielle",
+          "url": "https://www.dhnet.be/dernieres-depeches/2026/11/20/villepin-sur-le-point-dannoncer-sa-candidature-a-la-presidentielle-L5QEZF7PHFCV5NPOJIRDXMD7SA/",
+          "media": "AFP (La DH)",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "candidats": [
+        "dominique-de-villepin"
+      ],
+      "categorie": "autre",
+      "titre": "L'entourage de Villepin revendique « autour de 300 promesses » de parrainages sur les 500 requis",
+      "sources": [
+        {
+          "titre": "\"Vu à quel niveau sont les autres, on n'est pas si loin\" : Dominique de Villepin se lance dans la course présidentielle malgré les embûches",
+          "url": "https://www.franceinfo.fr/elections/vu-a-quel-niveau-sont-les-autres-on-n-est-pas-si-loin-dominique-de-villepin-se-lance-dans-la-course-presidentielle-malgre-les-embuches_8288267.html",
+          "media": "franceinfo",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "candidats": [],
+      "categorie": "judiciaire",
+      "titre": "Laurent Nuñez convoque le préfet Hugues Moutouh, soupçonné d'avoir renseigné le RN ; le RN dénonce des « accusations sans fondement »",
+      "sources": [
+        {
+          "titre": "DIRECT. Préfet soupçonné d'avoir renseigné le RN : \"Si les faits sont avérés, ils sont évidemment très graves\", déclare Laurent Nuñez, qui a convoqué Hugues Moutouh",
+          "url": "https://www.franceinfo.fr/societe/justice/direct-si-les-faits-sont-averes-ils-sont-evidemment-tres-graves-laurent-nunez-convoque-le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-des-informations-sensibles-au-rassemblement-national_8291756.html",
+          "media": "franceinfo",
+          "date": "2026-11-20"
+        },
+        {
+          "titre": "\"Des rumeurs et des accusations sans fondement\", réagit Jean-Philippe Tanguy dans l'affaire du préfet soupçonné d'avoir renseigné le RN sur des affaires en cours",
+          "url": "https://www.franceinfo.fr/politique/front-national/des-rumeurs-et-des-accusations-sans-fondement-reagit-jean-philippe-tanguy-dans-l-affaire-du-prefet-soupconne-d-avoir-renseigne-le-rn-sur-des-affaires-en-cours_8291828.html",
+          "media": "franceinfo",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [],
+      "categorie": "autre",
+      "titre": "L'Arcom soumet pour la première fois les grands créateurs vidéo (YouTube, réseaux sociaux) aux règles de pluralisme de la présidentielle",
+      "sources": [
+        {
+          "titre": "France: L'Arcom impose le temps de parole aux youtubeurs pour 2027",
+          "url": "https://www.blick.ch/fr/monde/france-larcom-impose-le-temps-de-parole-aux-youtubeurs-pour-2027/xp0dlf2",
+          "media": "Blick (AFP)",
+          "date": "2026-11-19"
+        },
+        {
+          "titre": "Créateurs de contenus : les règles fixées par l'Arcom durant la présidentielle 2027",
+          "url": "https://www.arcom.fr/actualites/createurs-de-contenus-les-regles-fixees-par-larcom-durant-la-presidentielle-2027",
+          "media": "Arcom",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [],
+      "categorie": "autre",
+      "titre": "L'Arcom présente sa recommandation : équité du temps de parole dès le 4 janvier 2027, égalité stricte à partir du 5 avril",
+      "sources": [
+        {
+          "titre": "Élection présidentielle 2027 : les règles fixées par l'Arcom",
+          "url": "https://www.arcom.fr/temps-parole/election/presidentielle/2027",
+          "media": "Arcom",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "gabriel-attal"
+      ],
+      "categorie": "candidature",
+      "titre": "Sur France 2, Gabriel Attal admet ne pas avoir « convaincu les Français » à ce stade de la campagne",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027: Gabriel Attal admet qu'il n'a \"pas convaincu\" à \"ce stade\" de la campagne",
+          "url": "https://fr.news.yahoo.com/presidentielle-2027-gabriel-attal-admet-060927798.html",
+          "media": "BFMTV (Yahoo Actualités)",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "gabriel-attal",
+        "edouard-philippe"
+      ],
+      "categorie": "candidature",
+      "titre": "Gabriel Attal presse Édouard Philippe d'envoyer un émissaire à la prochaine réunion sur la primaire",
+      "sources": [
+        {
+          "titre": "2027 : «C'est quoi la proposition alternative ?», Gabriel Attal appelle de ses vœux à une primaire de la droite et du centre",
+          "url": "https://www.europe1.fr/politique/2027-cest-quoi-la-proposition-alternative-gabriel-attal-appelle-de-ses-voeux-a-une-primaire-de-la-droite-et-du-centre-1240819",
+          "media": "Europe 1",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "edouard-philippe",
+        "bruno-retailleau",
+        "gabriel-attal",
+        "david-lisnard"
+      ],
+      "categorie": "candidature",
+      "titre": "Sur BFMTV, Gérard Larcher se dit confiant pour réunir les quatre candidats de la droite et du centre",
+      "sources": [
+        {
+          "titre": "Réunion entre les candidats du centre et de la droite: \"on va y arriver\", assure Larcher",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/reunion-entre-les-candidats-du-centre-et-de-la-droite-on-va-y-arriver-assure-larcher-d2fbe918472d3ce16e05b59c774a585d",
+          "media": "AFP (Boursorama)",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [],
+      "categorie": "judiciaire",
+      "titre": "Le parquet confirme une perquisition au siège du RN le 9 novembre dans une enquête sur des fuites, sans mise en examen",
+      "sources": [
+        {
+          "titre": "Le siège du RN a été perquisitionné dans le cadre d'une information judiciaire, notamment pour \"violation du secret de l'enquête\"",
+          "url": "https://www.franceinfo.fr/politique/front-national/le-siege-du-rn-perquisitionne-dans-le-cadre-d-une-information-judiciaire-notamment-pour-violation-du-secret-de-l-enquete_8290280.html",
+          "media": "franceinfo",
+          "date": "2026-11-19"
+        },
+        {
+          "titre": "Le RN au cœur d'une nouvelle enquête autour de fuites impliquant un préfet",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/le-rn-au-coeur-d-une-nouvelle-enquete-autour-de-fuites-impliquant-un-prefet-ec98a3e6bfb81efdc705a60870ca0f36",
+          "media": "AFP via Boursorama",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "teddy-riner"
+      ],
+      "categorie": "autre",
+      "titre": "Selon Mediapart, une société liée à Teddy Riner réalisait l'essentiel de son activité avec la délégation du roi du Maroc",
+      "sources": [
+        {
+          "titre": "Présidentielle en France: des révélations de Mediapart mettent Teddy Riner dans l'embarras",
+          "url": "https://www.lalibre.be/international/europe/elections-france/2026/11/19/presidentielle-en-france-des-revelations-de-mediapart-mettent-teddy-riner-dans-lembarras-NJV2DY65MVEDHN6BIQPFY5S3BM/",
+          "media": "La Libre Belgique",
+          "date": "2026-11-19"
+        },
+        {
+          "titre": "Des millions d'euros offerts par le roi du Maroc ? De nouvelles révélations de Mediapart mettent Teddy Riner dans l'embarras",
+          "url": "https://www.dhnet.be/actu/monde/2026/11/19/des-millions-deuros-offerts-par-le-roi-du-maroc-de-nouvelles-revelations-de-mediapart-mettent-teddy-riner-dans-lembarras-KYFFQLAFVJGOFEUNR4XGPUESAU/",
+          "media": "La DH",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "teddy-riner"
+      ],
+      "categorie": "autre",
+      "titre": "Le HuffPost établit que la photo de Teddy Riner en une de Paris Match date de mai 2024, pas de la campagne",
+      "sources": [
+        {
+          "titre": "Non, Teddy Riner n'a pas vraiment posé torse nu dans « Paris Match » pour faire campagne",
+          "url": "https://fr.news.yahoo.com/teddy-riner-n-vraiment-pos%C3%A9-095312892.html",
+          "media": "Le HuffPost (via Yahoo Actualités)",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "david-lisnard",
+        "eric-zemmour"
+      ],
+      "categorie": "candidature",
+      "titre": "David Lisnard juge « malveillant » le soupçon de vouloir faire échouer la primaire en y incluant Éric Zemmour",
+      "sources": [
+        {
+          "titre": "Primaire : en incluant Eric Zemmour, David Lisnard cherche-t-il à « planter le processus » ou à en faire un « pré-premier tour » de la présidentielle ?",
+          "url": "https://www.publicsenat.fr/actualites/politique/primaire-en-incluant-eric-zemmour-david-lisnard-cherche-t-il-a-planter-le-processus-ou-a-en-faire-un-pre-premier-tour-de-la-presidentielle",
+          "media": "Public Sénat",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "francois-hollande",
+        "raphael-glucksmann"
+      ],
+      "categorie": "candidature",
+      "titre": "Sur LCI, François Hollande repousse sa décision à fin janvier ou début février et laisse Glucksmann convaincre",
+      "sources": [
+        {
+          "titre": "Présidentielle: Hollande laisse à Glucksmann jusqu'à février pour convaincre",
+          "url": "https://www.arabnews.fr/france/pr%C3%A9sidentielle-hollande-laisse-%C3%A0-glucksmann-jusqu%C3%A0-f%C3%A9vrier-pour-convaincre-3000674",
+          "media": "Arab News en français (AFP)",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "francois-hollande",
+        "raphael-glucksmann"
+      ],
+      "categorie": "autre",
+      "titre": "François Hollande annonce qu'il n'assistera pas au meeting de lancement de Raphaël Glucksmann le 6 décembre",
+      "sources": [
+        {
+          "titre": "Présidentielle: Hollande laisse à Glucksmann jusqu'à février pour convaincre",
+          "url": "https://www.arabnews.fr/france/pr%C3%A9sidentielle-hollande-laisse-%C3%A0-glucksmann-jusqu%C3%A0-f%C3%A9vrier-pour-convaincre-3000674",
+          "media": "Arab News en français (AFP)",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "francois-hollande",
+        "jean-luc-melenchon"
+      ],
+      "categorie": "programme",
+      "titre": "Hollande juge qu'avec le programme de Mélenchon « on va vers l'incident de crédit en deux jours »",
+      "sources": [
+        {
+          "titre": "«On va vers l'incident de crédit en deux jours» - Hollande tacle Mélenchon",
+          "url": "https://www.bluewin.ch/fr/infos/monde/on-va-vers-l-incident-de-credit-en-deux-jours-hollande-tacle-melenchon-li.3680382",
+          "media": "Bluewin (AFP)",
+          "date": "2026-11-20"
+        },
+        {
+          "titre": "Présidentielle: Hollande laisse à Glucksmann jusqu'à février pour convaincre",
+          "url": "https://www.arabnews.fr/france/pr%C3%A9sidentielle-hollande-laisse-%C3%A0-glucksmann-jusqu%C3%A0-f%C3%A9vrier-pour-convaincre-3000674",
+          "media": "Arab News en français (AFP)",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "jean-luc-melenchon",
+        "marine-tondelier"
+      ],
+      "categorie": "ralliement",
+      "titre": "Sur RTL et à l'AFP, Mélenchon juge qu'une alliance avec Tondelier « devrait pouvoir se faire »",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : l'alliance avec Marine Tondelier \"devrait pouvoir se faire\", estime Jean-Luc Mélenchon",
+          "url": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html",
+          "media": "franceinfo",
+          "date": "2026-11-19"
+        },
+        {
+          "titre": "Mélenchon salue l'offre de coalition de Tondelier",
+          "url": "https://www.journaldunet.com/business/action-publique/1558289-melenchon-salue-l-offre-de-coalition-de-tondelier/",
+          "media": "Journal du Net",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "marine-tondelier",
+        "jean-luc-melenchon"
+      ],
+      "categorie": "candidature",
+      "titre": "Tondelier se dit « toujours candidate », refuse de changer de programme ; lignes rouges sur l'Europe et l'Ukraine",
+      "sources": [
+        {
+          "titre": "La main tendue de Marine Tondelier à Jean-Luc Mélenchon peut-elle faire imploser les Écologistes ?",
+          "url": "https://publicsenat.fr/actualites/politique/la-main-tendue-de-marine-tondelier-a-melenchon-peut-elle-faire-imploser-les-ecologistes",
+          "media": "Public Sénat",
+          "date": "2026-11-19"
+        },
+        {
+          "titre": "France: Les Écologistes tentés par une \"coalition\" avec les Insoumis en vue de la présidentielle",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/france-les-ecologistes-tentes-par-une-coalition-avec-les-insoumis-en-vue-de-la-presidentielle-21ab893940fd20f1609137301a168220",
+          "media": "Boursorama (Reuters)",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "marine-tondelier",
+        "raphael-glucksmann"
+      ],
+      "categorie": "ralliement",
+      "titre": "Le sénateur Yannick Jadot, soutien de Glucksmann, annonce quitter Les Écologistes après l'ouverture vers Mélenchon",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : l'alliance avec Marine Tondelier \"devrait pouvoir se faire\", estime Jean-Luc Mélenchon",
+          "url": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html",
+          "media": "franceinfo",
+          "date": "2026-11-19"
+        },
+        {
+          "titre": "Mélenchon salue l'offre de coalition de Tondelier",
+          "url": "https://www.journaldunet.com/business/action-publique/1558289-melenchon-salue-l-offre-de-coalition-de-tondelier/",
+          "media": "Journal du Net",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "delphine-batho",
+        "marine-tondelier",
+        "jean-luc-melenchon"
+      ],
+      "categorie": "autre",
+      "titre": "Batho qualifie l'ouverture de Tondelier vers Mélenchon de « contresens historique » et d'« abandon de l'écologie »",
+      "sources": [
+        {
+          "titre": "\"C'est un abandon de l'écologie\": Delphine Batho s'oppose à une possible coalition des Écologistes avec Jean-Luc Mélenchon",
+          "url": "https://actu.orange.fr/videos/france/c-est-un-abandon-de-l-ecologie-delphine-batho-s-oppose-a-une-possible-coalition-des-ecologistes-avec-jean-luc-melenchon-CNT000002tOQRf.html",
+          "media": "BFMTV via Orange Actualités",
+          "date": "2026-11-19"
+        },
+        {
+          "titre": "France: Les Écologistes tentés par une \"coalition\" avec les Insoumis en vue de la présidentielle",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/france-les-ecologistes-tentes-par-une-coalition-avec-les-insoumis-en-vue-de-la-presidentielle-21ab893940fd20f1609137301a168220",
+          "media": "Boursorama (Reuters)",
+          "date": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "candidats": [
+        "raphael-glucksmann",
+        "marine-tondelier"
+      ],
+      "categorie": "candidature",
+      "titre": "Glucksmann appelle les électeurs écologistes à le rejoindre et convie ses soutiens à La Villette le 6 décembre",
+      "sources": [
+        {
+          "titre": "\"Elle a choisi de tourner le dos à la tradition écologiste\", regrette Raphaël Glucksmann après le rapprochement de Marine Tondelier à la candidature de Jean-Luc Mélenchon",
+          "url": "https://www.franceinfo.fr/elections/elle-a-choisi-de-tourner-le-dos-a-la-tradition-ecologiste-regrette-raphael-glucksmann-apres-le-rapprochement-de-marine-tondelier-a-la-candidature-de-jean-luc-melenchon_8289584.html",
+          "media": "franceinfo",
+          "date": "2026-11-19"
+        }
+      ]
+    },
     {
       "date": "2026-11-19",
       "candidats": [
@@ -71,6 +463,23 @@
           "url": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html",
           "media": "franceinfo (direct)",
           "date": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "candidats": [
+        "marine-le-pen",
+        "jordan-bardella"
+      ],
+      "categorie": "programme",
+      "titre": "Franceinfo estime que les économies annoncées ne couvrent pas les plus de 18 Md€ de la réforme des retraites du RN",
+      "sources": [
+        {
+          "titre": "La réforme des retraites de Marine Le Pen décryptée : un départ à 60 ans mais à quelles conditions et à quel prix ?",
+          "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/la-reforme-des-retraites-de-marine-le-pen-decryptee-un-depart-a-60-ans-mais-a-quelles-conditions-et-a-quel-prix_8266760.html",
+          "media": "franceinfo",
+          "date": "2026-11-18"
         }
       ]
     },

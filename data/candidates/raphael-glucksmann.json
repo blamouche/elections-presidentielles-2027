@@ -8,7 +8,7 @@
   "couleur": "#E8556D",
   "statutCandidature": "declare",
   "candidature": {
-    "texte": "Candidature annoncée le 23 août 2026 au journal de 20 heures de TF1 (« Oui, je suis candidat à l'élection présidentielle »), en s'engageant à participer à la primaire sociale-démocrate et à en respecter le résultat. Après l'abandon à l'été 2026 d'une primaire unitaire de toute la gauche, il remporte dès le premier tour, le 11 octobre 2026, la primaire organisée par le Parti socialiste, Place publique et la Gauche républicaine et socialiste : 66,17 % des suffrages exprimés (79 613 voix, pour 120 787 votants), selon les résultats proclamés par Patrick Mennucci, président de la commission d'organisation de la primaire, devant Olivier Faure (14,46 %), Ségolène Royal (7,62 %), Emmanuel Maurel (5,92 %) et Jérôme Guedj (5,83 %) ; le chiffre de 66,13 % parfois repris ne correspond pas au résultat proclamé. Il exclut tout accord avec La France insoumise. Il est crédité d'environ 9 à 14 % des intentions de vote au premier tour selon les sondages cités par la presse (environ 12 % dans un sondage Ifop pour LCI publié le 3 novembre 2026). Le 7 novembre 2026, dans La Tribune Dimanche, il a rejeté l'idée, prêtée à Emmanuel Macron, d'une large coalition allant de lui à David Lisnard, qui selon lui « décrédibilise la politique » (« Comment imaginer une seconde une fusion entre mon projet et celui de David Lisnard ? »). Au 14 novembre 2026, aucun retrait ni ralliement de candidat de gauche en sa faveur n'était rapporté (LCP) ; sa campagne prépare un meeting présenté comme « le vrai coup d'envoi de la campagne », le 6 décembre 2026 au Paris Event Center.",
+    "texte": "Candidature annoncée le 23 août 2026 au journal de 20 heures de TF1 (« Oui, je suis candidat à l'élection présidentielle »), en s'engageant à participer à la primaire sociale-démocrate et à en respecter le résultat. Après l'abandon à l'été 2026 d'une primaire unitaire de toute la gauche, il remporte dès le premier tour, le 11 octobre 2026, la primaire organisée par le Parti socialiste, Place publique et la Gauche républicaine et socialiste : 66,17 % des suffrages exprimés (79 613 voix, pour 120 787 votants), selon les résultats proclamés par Patrick Mennucci, président de la commission d'organisation de la primaire, devant Olivier Faure (14,46 %), Ségolène Royal (7,62 %), Emmanuel Maurel (5,92 %) et Jérôme Guedj (5,83 %) ; le chiffre de 66,13 % parfois repris ne correspond pas au résultat proclamé. Il exclut tout accord avec La France insoumise. Il est crédité d'environ 9 à 14 % des intentions de vote au premier tour selon les sondages cités par la presse (environ 12 % dans un sondage Ifop pour LCI publié le 3 novembre 2026). Le 7 novembre 2026, dans La Tribune Dimanche, il a rejeté l'idée, prêtée à Emmanuel Macron, d'une large coalition allant de lui à David Lisnard, qui selon lui « décrédibilise la politique » (« Comment imaginer une seconde une fusion entre mon projet et celui de David Lisnard ? »). Au 14 novembre 2026, aucun retrait ni ralliement de candidat de gauche en sa faveur n'était rapporté (LCP) ; sa campagne prépare un meeting présenté comme « le vrai coup d'envoi de la campagne », le 6 décembre 2026 au Paris Event Center. Le 19 novembre 2026, sur franceinfo, il a appelé les militants et électeurs écologistes à le rejoindre après l'ouverture de Marine Tondelier vers Jean-Luc Mélenchon, qu'il a qualifié d'« europhobe », et a invité ses soutiens à son meeting du 6 décembre à La Villette. François Hollande a indiqué le même jour qu'il n'assisterait pas à ce meeting.",
     "date": "2026-08-23",
     "sources": [
       {
@@ -64,6 +64,18 @@
         "url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/info-franceinfo-raphael-glucksmann-va-diffuser-ce-week-end-un-tract-presentant-dix-propositions-pour-sortir-de-la-crise_8261228.html",
         "media": "franceinfo",
         "date": "2026-11-14"
+      },
+      {
+        "titre": "\"Elle a choisi de tourner le dos à la tradition écologiste\", regrette Raphaël Glucksmann après le rapprochement de Marine Tondelier à la candidature de Jean-Luc Mélenchon",
+        "url": "https://www.franceinfo.fr/elections/elle-a-choisi-de-tourner-le-dos-a-la-tradition-ecologiste-regrette-raphael-glucksmann-apres-le-rapprochement-de-marine-tondelier-a-la-candidature-de-jean-luc-melenchon_8289584.html",
+        "media": "franceinfo",
+        "date": "2026-11-19"
+      },
+      {
+        "titre": "Présidentielle: Hollande laisse à Glucksmann jusqu'à février pour convaincre",
+        "url": "https://www.arabnews.fr/france/pr%C3%A9sidentielle-hollande-laisse-%C3%A0-glucksmann-jusqu%C3%A0-f%C3%A9vrier-pour-convaincre-3000674",
+        "media": "Arab News en français (AFP)",
+        "date": "2026-11-20"
       }
     ]
   },
@@ -1168,5 +1180,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-19"
+  "derniereMiseAJour": "2026-11-20"
 }

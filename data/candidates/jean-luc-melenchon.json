@@ -8,7 +8,7 @@
   "couleur": "#C9452E",
   "statutCandidature": "declare",
   "candidature": {
-    "texte": "Candidature annoncée le dimanche 3 mai 2026 au journal de TF1 (« Oui, je suis candidat »), après approbation le même jour par l'intergroupe des élus insoumis (députés, eurodéputés, maires ; environ une centaine d'élus), sans autre candidature ni opposition exprimée selon le coordinateur Manuel Bompard. Il s'agit de sa quatrième candidature après 2012, 2017 et 2022. LFI refuse de participer à une primaire de la gauche. Comme en 2022, LFI s'est fixé l'objectif de recueillir 150 000 parrainages citoyens. Premier grand meeting prévu le 7 juin 2026 à Saint-Denis ; contre-budget pour 2027 présenté le 14 octobre 2026 ; programme « L'Avenir en commun » (édition 2027) publié le 6 novembre 2026, meeting au Bourget le 7 novembre 2026. Le 5 novembre 2026, neuf des dix-sept députés du groupe GDR (communistes et ultramarins), dont son président Stéphane Peu, ont annoncé soutenir sa candidature plutôt que celle de Fabien Roussel, candidat désigné du PCF ; il s'est dit « très ému de me retrouver au coude-à-coude avec le groupe communiste à nos côtés ». Un meeting est annoncé au Havre le 5 décembre 2026. Le 18 novembre 2026, Marine Tondelier (Les Écologistes) s'est dite prête à travailler à une coalition autour de sa candidature ; le coordinateur de LFI Manuel Bompard y a vu « une bonne nouvelle qui renforce la possibilité d'une victoire populaire ».",
+    "texte": "Candidature annoncée le dimanche 3 mai 2026 au journal de TF1 (« Oui, je suis candidat »), après approbation le même jour par l'intergroupe des élus insoumis (députés, eurodéputés, maires ; environ une centaine d'élus), sans autre candidature ni opposition exprimée selon le coordinateur Manuel Bompard. Il s'agit de sa quatrième candidature après 2012, 2017 et 2022. LFI refuse de participer à une primaire de la gauche. Comme en 2022, LFI s'est fixé l'objectif de recueillir 150 000 parrainages citoyens. Premier grand meeting prévu le 7 juin 2026 à Saint-Denis ; contre-budget pour 2027 présenté le 14 octobre 2026 ; programme « L'Avenir en commun » (édition 2027) publié le 6 novembre 2026, meeting au Bourget le 7 novembre 2026. Le 5 novembre 2026, neuf des dix-sept députés du groupe GDR (communistes et ultramarins), dont son président Stéphane Peu, ont annoncé soutenir sa candidature plutôt que celle de Fabien Roussel, candidat désigné du PCF ; il s'est dit « très ému de me retrouver au coude-à-coude avec le groupe communiste à nos côtés ». Un meeting est annoncé au Havre le 5 décembre 2026. Le 18 novembre 2026, Marine Tondelier (Les Écologistes) s'est dite prête à travailler à une coalition autour de sa candidature ; le coordinateur de LFI Manuel Bompard y a vu « une bonne nouvelle qui renforce la possibilité d'une victoire populaire ». Le 19 novembre 2026, auprès de RTL et de l'AFP, il a jugé que cette alliance « devrait pouvoir se faire » (« Ça devrait pouvoir aboutir positivement »), en posant comme principe que « personne ne se dissout dans personne ».",
     "date": "2026-05-03",
     "sources": [
       {
@@ -70,6 +70,18 @@
         "url": "https://lcp.fr/actualites/presidentielle-2027-marine-tondelier-prete-a-une-coalition-autour-de-jean-luc-melenchon",
         "media": "LCP",
         "date": "2026-11-18"
+      },
+      {
+        "titre": "Présidentielle 2027 : l'alliance avec Marine Tondelier \"devrait pouvoir se faire\", estime Jean-Luc Mélenchon",
+        "url": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html",
+        "media": "franceinfo",
+        "date": "2026-11-19"
+      },
+      {
+        "titre": "Mélenchon salue l'offre de coalition de Tondelier",
+        "url": "https://www.journaldunet.com/business/action-publique/1558289-melenchon-salue-l-offre-de-coalition-de-tondelier/",
+        "media": "Journal du Net",
+        "date": "2026-11-20"
       }
     ]
   },
@@ -1582,5 +1594,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-19"
+  "derniereMiseAJour": "2026-11-20"
 }

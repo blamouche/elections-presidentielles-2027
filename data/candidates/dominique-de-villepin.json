@@ -8,9 +8,27 @@
   "couleur": "#48BEF9",
   "statutCandidature": "potentiel",
   "candidature": {
-    "texte": "Dominique de Villepin a lancé le 23 juin 2025 La France humaniste, mouvement dont il est président d'honneur (présidé par Benoît Jimenez, maire de Garges-lès-Gonesse), dans la perspective de la présidentielle de 2027. Le 30 août 2026 sur BFMTV, il a déclaré : « Je veux être candidat, je me bats pour être candidat », en revendiquant « plusieurs centaines » de parrainages, insuffisants à ce stade pour atteindre les 500 requis. Le 3 novembre 2026 sur France Inter, il a toutefois précisé : « Je ne suis pas encore candidat », jugeant que « ce n'est pas le moment » et appelant à la patience, tout en excluant toute alliance avec Édouard Philippe ou Gabriel Attal. Au 13 novembre 2026, aucune déclaration officielle de candidature n'a été faite ; LCP le classe parmi les candidats potentiels.",
-    "date": "2026-11-03",
+    "texte": "Dominique de Villepin a lancé le 23 juin 2025 La France humaniste, mouvement dont il est président d'honneur (présidé par Benoît Jimenez, maire de Garges-lès-Gonesse), dans la perspective de la présidentielle de 2027. Le 30 août 2026 sur BFMTV, il a déclaré : « Je veux être candidat, je me bats pour être candidat », en revendiquant « plusieurs centaines » de parrainages, insuffisants à ce stade pour atteindre les 500 requis. Le 3 novembre 2026 sur France Inter, il a toutefois précisé : « Je ne suis pas encore candidat », jugeant que « ce n'est pas le moment » et appelant à la patience, tout en excluant toute alliance avec Édouard Philippe ou Gabriel Attal. Son équipe a convoqué la presse le vendredi 20 novembre 2026 à 11 h à la Maison de l'Amérique latine (Paris) pour une prise de parole « exceptionnelle » où, selon l'AFP, LCP et franceinfo, il devait officialiser sa candidature, avec un premier slogan « Et si on s'aimait encore ? » ; Benoît Jimenez, président de La France humaniste, évoquait alors « autour de 300 promesses » de parrainages sur les 500 requis. À la date de cette mise à jour, aucun compte rendu de cette prise de parole n'a pu être consulté : le statut reste donc « potentiel » dans l'attente de confirmation.",
+    "date": "2026-11-20",
     "sources": [
+      {
+        "titre": "\"Vu à quel niveau sont les autres, on n'est pas si loin\" : Dominique de Villepin se lance dans la course présidentielle malgré les embûches",
+        "url": "https://www.franceinfo.fr/elections/vu-a-quel-niveau-sont-les-autres-on-n-est-pas-si-loin-dominique-de-villepin-se-lance-dans-la-course-presidentielle-malgre-les-embuches_8288267.html",
+        "media": "franceinfo",
+        "date": "2026-11-20"
+      },
+      {
+        "titre": "Présidentielle 2027: Dominique de Villepin sur le point d'officialiser sa candidature à l'Élysée",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-dominique-de-villepin-sur-le-point-d-officialiser-sa-candidature-a-l",
+        "media": "LCP",
+        "date": "2026-11-20"
+      },
+      {
+        "titre": "Villepin sur le point d'annoncer sa candidature à la présidentielle",
+        "url": "https://www.dhnet.be/dernieres-depeches/2026/11/20/villepin-sur-le-point-dannoncer-sa-candidature-a-la-presidentielle-L5QEZF7PHFCV5NPOJIRDXMD7SA/",
+        "media": "AFP (La DH)",
+        "date": "2026-11-20"
+      },
       {
         "titre": "\"Je ne suis pas encore candidat\" à la présidentielle 2027, indique Dominique de Villepin",
         "url": "https://www.franceinfo.fr/elections/presidentielle/je-ne-suis-pas-encore-candidat-a-la-presidentielle-2027-indique-dominique-de-villepin_8265395.html",
@@ -889,8 +907,37 @@
             }
           ]
         }
+      },
+      {
+        "id": "liaison-prefecture-sous-prefectures",
+        "theme": "territoires-services-publics",
+        "type": "proposition",
+        "titre": "Liaison à prix fixe entre préfecture et sous-préfectures",
+        "description": "Garantir dans chaque département une liaison de transport à prix fixe entre la préfecture et chacune de ses sous-préfectures, mesure citée parmi les pistes d'un programme « en cours d'élaboration » relevant d'une ligne de « gaullisme social », selon son entourage.",
+        "chiffres": [],
+        "date": "2026-11-20",
+        "sources": [
+          {
+            "titre": "\"Vu à quel niveau sont les autres, on n'est pas si loin\" : Dominique de Villepin se lance dans la course présidentielle malgré les embûches",
+            "url": "https://www.franceinfo.fr/elections/vu-a-quel-niveau-sont-les-autres-on-n-est-pas-si-loin-dominique-de-villepin-se-lance-dans-la-course-presidentielle-malgre-les-embuches_8288267.html",
+            "media": "franceinfo",
+            "date": "2026-11-20"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Mesure rapportée par franceinfo sans chiffrage, ni précision sur le mode de transport, l'opérateur ou le prix envisagé ; aucune vérification indépendante n'a été publiée. Son coût dépendrait du nombre de liaisons nouvelles à créer et de la répartition du financement entre l'État et les régions, autorités organisatrices des transports régionaux.",
+          "sources": [
+            {
+              "titre": "\"Vu à quel niveau sont les autres, on n'est pas si loin\" : Dominique de Villepin se lance dans la course présidentielle malgré les embûches",
+              "url": "https://www.franceinfo.fr/elections/vu-a-quel-niveau-sont-les-autres-on-n-est-pas-si-loin-dominique-de-villepin-se-lance-dans-la-course-presidentielle-malgre-les-embuches_8288267.html",
+              "media": "franceinfo",
+              "date": "2026-11-20"
+            }
+          ]
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-13"
+  "derniereMiseAJour": "2026-11-20"
 }

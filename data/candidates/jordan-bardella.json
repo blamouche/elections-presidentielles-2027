@@ -1284,7 +1284,7 @@
         ],
         "factCheck": {
           "verdict": "non-verifie",
-          "analyse": "Aucun chiffrage indépendant du coût des exonérations ni du rendement du durcissement de la validation des trimestres n'a été trouvé au 17 novembre 2026. Un député RN chiffre le coût global de la réforme présentée le 17 novembre à « une quinzaine de milliards d'euros » compensés par une hausse du volume de travail (franceinfo). Reuters rapporte que des économistes et investisseurs doutent de la faisabilité du projet, l'objectif de 15 à 20 Md€ d'économies annuelles paraissant difficile à atteindre avec un départ à 60 ans ; la Cour des comptes chiffre jusqu'à 10 Md€ par an le coût de l'annulation de la réforme de 2023.",
+          "analyse": "Aucun chiffrage indépendant du coût des exonérations ni du rendement du durcissement de la validation des trimestres n'a été trouvé au 17 novembre 2026. Un député RN chiffre le coût global de la réforme présentée le 17 novembre à « une quinzaine de milliards d'euros » compensés par une hausse du volume de travail (franceinfo). Reuters rapporte que des économistes et investisseurs doutent de la faisabilité du projet, l'objectif de 15 à 20 Md€ d'économies annuelles paraissant difficile à atteindre avec un départ à 60 ans ; la Cour des comptes chiffre jusqu'à 10 Md€ par an le coût de l'annulation de la réforme de 2023. Sur la prémisse de la mesure, franceinfo (Vrai ou Fake, 16 novembre 2026) confirme qu'il existe des trimestres validés sans cotisation individuelle (trimestres « assimilés » : chômage, maladie, maternité, service militaire, jusqu'à huit trimestres par enfant), financés par la solidarité nationale pour environ 26 Md€ par an, dont environ 13 Md€ pour le chômage et 8 à 10 Md€ pour les enfants ; le livre « Gouverner » épargne la maternité, la maladie et le handicap mais ne précise pas le sort du chômage, et la mesure retarderait l'accès à la retraite pour les personnes concernées.",
           "sources": [
             {
               "titre": "Marine Le Pen cherche à concilier promesses électorales et réalité budgétaire",
@@ -1297,6 +1297,12 @@
               "url": "https://www.franceinfo.fr/politique/front-national/retour-de-l-age-legal-de-depart-a-62-ans-capitalisation-obligatoire-le-rn-presente-sa-reforme-des-retraites_8285453.html",
               "media": "franceinfo",
               "date": "2026-11-17"
+            },
+            {
+              "titre": "Retraites : existe-t-il des trimestres validés sans travailler ?",
+              "url": "https://www.franceinfo.fr/vrai-ou-fake/retraites-existe-t-il-des-trimestres-valides-sans-travailler_8285468.html",
+              "media": "franceinfo",
+              "date": "2026-11-16"
             }
           ]
         }
@@ -1398,5 +1404,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-19"
+  "derniereMiseAJour": "2026-11-20"
 }

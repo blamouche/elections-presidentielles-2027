@@ -8,8 +8,8 @@
   "couleur": "#FF8080",
   "statutCandidature": "potentiel",
   "candidature": {
-    "texte": "Non déclaré au 13 novembre 2026. Après avoir dit au Point fin août qu'il tirerait « au mois de décembre » les conclusions sur la possibilité d'un rassemblement dont il serait l'expression, François Hollande a refusé de participer à la primaire du camp social-démocrate d'octobre 2026, remportée dès le premier tour par Raphaël Glucksmann. Début novembre, selon l'AFP, il poursuit sa campagne mais repousse sa décision à janvier 2027, son entourage jugeant le paysage « pas encore dégagé » et indiquant qu'il ne se présentera pas « contre » Glucksmann ; son équipe précise qu'il « ne va pas s'autodéclarer candidat ». Il était crédité d'environ 7 à 8 % des intentions de vote. Une association, « Démocratie 2030 », a été créée pour financer sa campagne.",
-    "date": "2026-11-04",
+    "texte": "Non déclaré au 13 novembre 2026. Après avoir dit au Point fin août qu'il tirerait « au mois de décembre » les conclusions sur la possibilité d'un rassemblement dont il serait l'expression, François Hollande a refusé de participer à la primaire du camp social-démocrate d'octobre 2026, remportée dès le premier tour par Raphaël Glucksmann. Début novembre, selon l'AFP, il poursuit sa campagne mais repousse sa décision à janvier 2027, son entourage jugeant le paysage « pas encore dégagé » et indiquant qu'il ne se présentera pas « contre » Glucksmann ; son équipe précise qu'il « ne va pas s'autodéclarer candidat ». Il était crédité d'environ 7 à 8 % des intentions de vote. Une association, « Démocratie 2030 », a été créée pour financer sa campagne. Le 19 novembre 2026, sur LCI, il a repoussé sa décision à fin janvier ou début février 2027, laissant à Raphaël Glucksmann le temps de montrer une dynamique, et a indiqué qu'il n'assisterait pas au meeting de lancement de ce dernier le 6 décembre ; face à un éventuel duel Le Pen-Mélenchon, il estime qu'« une solution » devra être proposée, qui apparaîtra en février. Il a jugé qu'avec le programme de Jean-Luc Mélenchon « on va vers l'incident de crédit en deux jours ».",
+    "date": "2026-11-19",
     "sources": [
       {
         "titre": "Présidentielle : Hollande ne lâche rien, malgré la victoire de Glucksmann",
@@ -40,6 +40,18 @@
         "url": "https://www.lalibre.be/international/europe/2026/04/25/presidentielle-francois-hollande-ne-cache-plus-ses-intentions-pour-2027-KIDGGGNCKZDTVD5VGNUENIKLDI/",
         "media": "La Libre Belgique (AFP)",
         "date": "2026-04-25"
+      },
+      {
+        "titre": "Présidentielle: Hollande laisse à Glucksmann jusqu'à février pour convaincre",
+        "url": "https://www.arabnews.fr/france/pr%C3%A9sidentielle-hollande-laisse-%C3%A0-glucksmann-jusqu%C3%A0-f%C3%A9vrier-pour-convaincre-3000674",
+        "media": "Arab News en français (AFP)",
+        "date": "2026-11-20"
+      },
+      {
+        "titre": "«On va vers l'incident de crédit en deux jours» - Hollande tacle Mélenchon",
+        "url": "https://www.bluewin.ch/fr/infos/monde/on-va-vers-l-incident-de-credit-en-deux-jours-hollande-tacle-melenchon-li.3680382",
+        "media": "Bluewin (AFP)",
+        "date": "2026-11-20"
       }
     ]
   },
@@ -724,5 +736,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-13"
+  "derniereMiseAJour": "2026-11-20"
 }

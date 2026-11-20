@@ -8,7 +8,7 @@
   "couleur": "#2E9E4F",
   "statutCandidature": "declare",
   "candidature": {
-    "texte": "Déclarée candidate le 22 octobre 2025 dans un entretien au Nouvel Obs (« Cette interview est ma déclaration officielle de candidature »), puis au 20 heures de TF1. Désignée le 8 décembre 2025 par les adhérents des Écologistes, avec 86 % des voix face à Waleed Mouhali (14 %), pour représenter le parti à une primaire unitaire de la gauche. Cette primaire ayant échoué faute d'accord avec les socialistes, un conseil fédéral extraordinaire a adopté le 21 septembre 2026 (69,44 % des exprimés, 93 % de participation) une motion qui maintient sa candidature et renvoie la décision finale à un vote des adhérents du 10 au 13 décembre 2026 : candidature écologiste autonome ou ralliement à un autre candidat de gauche. Le 5 novembre 2026, elle se disait toujours candidate tout en se déclarant prête à se retirer s'il le fallait (« s'il faut être responsable pour plusieurs, je le serai ») ; elle était créditée d'environ 3 % dans un sondage Ifop pour LCI publié le 3 novembre 2026. Le 18 novembre 2026, au 20 heures de France 2, elle s'est dite « prête, et les Écologistes sont prêts, à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon », jugeant sa dynamique « indéniable », sous condition d'« un travail d'une semaine » avec LFI sur un accord de gouvernement, un accord pour les législatives, un accord programmatique et un dispositif de campagne commun ; elle reconnaît des désaccords avec LFI sur l'Ukraine, l'OTAN et l'Union européenne. Un conseil fédéral est prévu le 26 novembre 2026, avant le vote des adhérents du 10 au 13 décembre. Elle était alors créditée de 2 à 4 % des intentions de vote.",
+    "texte": "Déclarée candidate le 22 octobre 2025 dans un entretien au Nouvel Obs (« Cette interview est ma déclaration officielle de candidature »), puis au 20 heures de TF1. Désignée le 8 décembre 2025 par les adhérents des Écologistes, avec 86 % des voix face à Waleed Mouhali (14 %), pour représenter le parti à une primaire unitaire de la gauche. Cette primaire ayant échoué faute d'accord avec les socialistes, un conseil fédéral extraordinaire a adopté le 21 septembre 2026 (69,44 % des exprimés, 93 % de participation) une motion qui maintient sa candidature et renvoie la décision finale à un vote des adhérents du 10 au 13 décembre 2026 : candidature écologiste autonome ou ralliement à un autre candidat de gauche. Le 5 novembre 2026, elle se disait toujours candidate tout en se déclarant prête à se retirer s'il le fallait (« s'il faut être responsable pour plusieurs, je le serai ») ; elle était créditée d'environ 3 % dans un sondage Ifop pour LCI publié le 3 novembre 2026. Le 18 novembre 2026, au 20 heures de France 2, elle s'est dite « prête, et les Écologistes sont prêts, à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon », jugeant sa dynamique « indéniable », sous condition d'« un travail d'une semaine » avec LFI sur un accord de gouvernement, un accord pour les législatives, un accord programmatique et un dispositif de campagne commun ; elle reconnaît des désaccords avec LFI sur l'Ukraine, l'OTAN et l'Union européenne. Un conseil fédéral est prévu le 26 novembre 2026, avant le vote des adhérents du 10 au 13 décembre. Elle était alors créditée de 2 à 4 % des intentions de vote. Le 19 novembre 2026, elle a précisé qu'il s'agissait d'une coalition et non d'un ralliement (« Je suis toujours candidate à la présidentielle ») et qu'elle ne changerait pas de programme ; selon son entourage cité par Reuters, des « lignes rouges » sont posées sur l'Europe et l'Ukraine. Le conseil fédéral du 26 novembre doit arrêter les options soumises aux adhérents (candidature autonome, soutien à Jean-Luc Mélenchon ou rapprochement avec Raphaël Glucksmann). Le sénateur Yannick Jadot, soutien de Raphaël Glucksmann, a annoncé le 19 novembre quitter le parti (Public Sénat évoque une suspension).",
     "date": "2025-10-22",
     "sources": [
       {
@@ -58,6 +58,24 @@
         "url": "https://www.franceinfo.fr/elections/a-six-mois-de-l-election-presidentielle-marine-tondelier-fait-un-pas-vers-jean-luc-melenchon-et-se-dit-prete-a-travailler-avec-lui_8289617.html",
         "media": "franceinfo",
         "date": "2026-11-19"
+      },
+      {
+        "titre": "France: Les Écologistes tentés par une \"coalition\" avec les Insoumis en vue de la présidentielle",
+        "url": "https://www.boursorama.com/actualite-economique/actualites/france-les-ecologistes-tentes-par-une-coalition-avec-les-insoumis-en-vue-de-la-presidentielle-21ab893940fd20f1609137301a168220",
+        "media": "Boursorama (Reuters)",
+        "date": "2026-11-19"
+      },
+      {
+        "titre": "La main tendue de Marine Tondelier à Jean-Luc Mélenchon peut-elle faire imploser les Écologistes ?",
+        "url": "https://publicsenat.fr/actualites/politique/la-main-tendue-de-marine-tondelier-a-melenchon-peut-elle-faire-imploser-les-ecologistes",
+        "media": "Public Sénat",
+        "date": "2026-11-19"
+      },
+      {
+        "titre": "Mélenchon salue l'offre de coalition de Tondelier",
+        "url": "https://www.journaldunet.com/business/action-publique/1558289-melenchon-salue-l-offre-de-coalition-de-tondelier/",
+        "media": "Journal du Net",
+        "date": "2026-11-20"
       }
     ]
   },
@@ -843,5 +861,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-19"
+  "derniereMiseAJour": "2026-11-20"
 }

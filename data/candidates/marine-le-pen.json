@@ -1300,7 +1300,7 @@
         ],
         "factCheck": {
           "verdict": "non-verifie",
-          "analyse": "Aucun fact-check formel du chiffrage présenté le 17 novembre 2026 n'a été trouvé au 18 novembre. Les chiffres du RN eux-mêmes varient (coût brut de 18,6 Md€ en 2032 avec un solde positif de 4,7 Md€ selon le document présenté, 10,1 Md€ selon Jean-Philippe Tanguy, 9 Md€/an pour le seul maintien à 62 ans selon Marine Le Pen) et excluent les gains de croissance. L'économiste Bertrand Martinot (Institut Montaigne), dans un entretien à Atlantico le 18 novembre, estime qu'environ 15 des 18,6 Md€ de surcoût seraient couverts par de véritables économies, mais que le système resterait déséquilibré à long terme faute d'indexation de l'âge et de la durée de cotisation sur l'espérance de vie, et que le pilier de capitalisation repose sur des transferts de prélèvements existants sans argent nouveau ; il identifie comme perdants les carrières hachées et les temps très partiels. En 2024, l'Institut Montaigne estimait à 34,7 Md€/an le coût de la mesure du RN d'abrogation de la réforme de 2023 avec départ à 60 ans après 40 annuités, et il avait jugé « largement sous-estimé » le chiffrage RN de 2022 (franceinfo) ; la Cour des comptes chiffre jusqu'à 10 Md€ par an l'annulation de la réforme de 2023 (Reuters). Le rendement de 4 à 6 % par an et l'objectif de 900 Md€ n'ont pas fait l'objet d'une évaluation indépendante publiée.",
+          "analyse": "Aucun fact-check formel du chiffrage présenté le 17 novembre 2026 n'a été trouvé au 18 novembre. Les chiffres du RN eux-mêmes varient (coût brut de 18,6 Md€ en 2032 avec un solde positif de 4,7 Md€ selon le document présenté, 10,1 Md€ selon Jean-Philippe Tanguy, 9 Md€/an pour le seul maintien à 62 ans selon Marine Le Pen) et excluent les gains de croissance. L'économiste Bertrand Martinot (Institut Montaigne), dans un entretien à Atlantico le 18 novembre, estime qu'environ 15 des 18,6 Md€ de surcoût seraient couverts par de véritables économies, mais que le système resterait déséquilibré à long terme faute d'indexation de l'âge et de la durée de cotisation sur l'espérance de vie, et que le pilier de capitalisation repose sur des transferts de prélèvements existants sans argent nouveau ; il identifie comme perdants les carrières hachées et les temps très partiels. En 2024, l'Institut Montaigne estimait à 34,7 Md€/an le coût de la mesure du RN d'abrogation de la réforme de 2023 avec départ à 60 ans après 40 annuités, et il avait jugé « largement sous-estimé » le chiffrage RN de 2022 (franceinfo) ; la Cour des comptes chiffre jusqu'à 10 Md€ par an l'annulation de la réforme de 2023 (Reuters). Le rendement de 4 à 6 % par an et l'objectif de 900 Md€ n'ont pas fait l'objet d'une évaluation indépendante publiée. Dans un décryptage publié le 18 novembre 2026, franceinfo (sans verdict formel) relève que le départ à 60 ans serait réservé aux personnes ayant commencé à travailler avant 20 ans et cumulé 160 trimestres, le taux plein à 62 ans supposant 168 trimestres (contre 172 visés par la réforme de 2023), que les critères de pénibilité seraient supprimés, et que les ajustements annoncés (validation des trimestres durcie, moins de trimestres pour les chômeurs, suppression de la majoration de 10 % des pères de trois enfants) ne combleraient pas à eux seuls les plus de 18 Md€ de coût, le recours à des fonds existants (fonds de réserve des retraites, Fnal, formation) obligeant à trouver d'autres ressources : on serait « loin » d'une garantie d'équilibre du régime.",
           "sources": [
             {
               "titre": "Nouvelle réforme des retraites : les calculs hasardeux du Rassemblement national",
@@ -1355,6 +1355,12 @@
               "url": "https://www.boursorama.com/actualite-economique/actualites/marine-le-pen-cherche-a-concilier-promesses-electorales-et-realite-budgetaire-e0aec0c412a9d56ea873bc2a4b67a9d4",
               "media": "Reuters (via Boursorama)",
               "date": "2026-11-16"
+            },
+            {
+              "titre": "La réforme des retraites de Marine Le Pen décryptée : un départ à 60 ans mais à quelles conditions et à quel prix ?",
+              "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/la-reforme-des-retraites-de-marine-le-pen-decryptee-un-depart-a-60-ans-mais-a-quelles-conditions-et-a-quel-prix_8266760.html",
+              "media": "franceinfo",
+              "date": "2026-11-18"
             }
           ]
         }
@@ -1746,8 +1752,39 @@
           "analyse": "Aucun coût n'a été annoncé pour cette mesure et aucune vérification indépendante n'a été trouvée au 17 novembre 2026.",
           "sources": []
         }
+      },
+      {
+        "id": "valenciennes-postes-administratifs",
+        "theme": "sante",
+        "type": "declaration-chiffree",
+        "titre": "L'hôpital de Valenciennes « descendu à 6 % de postes administratifs »",
+        "description": "Sur France Bleu, Marine Le Pen a présenté le centre hospitalier de Valenciennes comme un modèle de gouvernance hospitalière à suivre : « Ils ont réussi à descendre à 6 % de postes administratifs. Ça fonctionne extrêmement bien ! » Le modèle de Valenciennes est également mis en avant par Sarah Knafo (Reconquête).",
+        "chiffres": [
+          "6 % de postes administratifs revendiqués"
+        ],
+        "date": "2026-04-18",
+        "sources": [
+          {
+            "titre": "Hôpital public : le modèle de Valenciennes est-il vraiment aussi efficace qu'on le dit ?",
+            "url": "https://www.franceinfo.fr/vrai-ou-fake/hopital-public-le-modele-de-valenciennes-est-il-vraiment-aussi-efficace-qu-on-le-dit_8282579.html",
+            "media": "franceinfo",
+            "date": "2026-11-14"
+          }
+        ],
+        "factCheck": {
+          "verdict": "plutot-faux",
+          "analyse": "La cellule de vérification de franceinfo (14 novembre 2026), sans attribuer d'étiquette explicite, contredit le chiffre de 6 % : selon les données déclarées au ministère de la Santé, le personnel administratif représente environ une personne sur dix à Valenciennes, proche de la moyenne des hôpitaux français, les postes administratifs ayant été redistribués dans les pôles plutôt que supprimés ; les syndicats l'estiment toujours supérieur à 10 %. Le reste de l'éloge est en partie fondé : la Cour des comptes juge la situation financière de l'établissement excédentaire et la réorganisation a donné davantage d'autonomie aux médecins, même si des syndicats relèvent qu'un pôle reste déficitaire. Le verdict « plutôt faux » est une lecture de ces conclusions, franceinfo n'ayant pas publié de verdict formel.",
+          "sources": [
+            {
+              "titre": "Hôpital public : le modèle de Valenciennes est-il vraiment aussi efficace qu'on le dit ?",
+              "url": "https://www.franceinfo.fr/vrai-ou-fake/hopital-public-le-modele-de-valenciennes-est-il-vraiment-aussi-efficace-qu-on-le-dit_8282579.html",
+              "media": "franceinfo",
+              "date": "2026-11-14"
+            }
+          ]
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-18"
+  "derniereMiseAJour": "2026-11-20"
 }
