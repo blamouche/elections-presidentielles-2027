@@ -6,11 +6,23 @@
   "partiAbrev": "LFH",
   "famillePolitique": "divers",
   "couleur": "#48BEF9",
-  "statutCandidature": "potentiel",
+  "statutCandidature": "declare",
   "candidature": {
-    "texte": "Dominique de Villepin a lancé le 23 juin 2025 La France humaniste, mouvement dont il est président d'honneur (présidé par Benoît Jimenez, maire de Garges-lès-Gonesse), dans la perspective de la présidentielle de 2027. Le 30 août 2026 sur BFMTV, il a déclaré : « Je veux être candidat, je me bats pour être candidat », en revendiquant « plusieurs centaines » de parrainages, insuffisants à ce stade pour atteindre les 500 requis. Le 3 novembre 2026 sur France Inter, il a toutefois précisé : « Je ne suis pas encore candidat », jugeant que « ce n'est pas le moment » et appelant à la patience, tout en excluant toute alliance avec Édouard Philippe ou Gabriel Attal. Son équipe a convoqué la presse le vendredi 20 novembre 2026 à 11 h à la Maison de l'Amérique latine (Paris) pour une prise de parole « exceptionnelle » où, selon l'AFP, LCP et franceinfo, il devait officialiser sa candidature, avec un premier slogan « Et si on s'aimait encore ? » ; Benoît Jimenez, président de La France humaniste, évoquait alors « autour de 300 promesses » de parrainages sur les 500 requis. À la date de cette mise à jour, aucun compte rendu de cette prise de parole n'a pu être consulté : le statut reste donc « potentiel » dans l'attente de confirmation.",
+    "texte": "Déclaré le 20 novembre 2026 lors d'une conférence de presse à la Maison de l'Amérique latine (Paris) : « Je suis candidat à l'élection présidentielle de 2027 », évoquant une « décision lourde, difficile » (AFP). Il a réuni le soir même quelques centaines de personnes à la mairie de Garges-lès-Gonesse (Val-d'Oise), ville de Benoît Jimenez, président de La France humaniste, le mouvement qu'il a lancé le 23 juin 2025. Son équipe revendique environ 300 promesses de parrainages sur les 500 requis ; selon l'AFP, il est crédité de 1 à 3 % des intentions de vote et un rapprochement avec François Ruffin n'a pas abouti à ce stade. Auparavant, il avait déclaré le 30 août 2026 sur BFMTV : « Je veux être candidat, je me bats pour être candidat », puis le 3 novembre 2026 sur France Inter : « Je ne suis pas encore candidat », excluant toute alliance avec Édouard Philippe ou Gabriel Attal.",
     "date": "2026-11-20",
     "sources": [
+      {
+        "titre": "Villepin lance son pari présidentiel",
+        "url": "https://www.lagazettefrance.fr/article/villepin-lance-son-pari-presidentiel",
+        "media": "La Gazette France (AFP)",
+        "date": "2026-11-20"
+      },
+      {
+        "titre": "Présidentielle 2027: la liste des candidats déclarés et potentiels",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "media": "LCP",
+        "date": "2026-11-20"
+      },
       {
         "titre": "\"Vu à quel niveau sont les autres, on n'est pas si loin\" : Dominique de Villepin se lance dans la course présidentielle malgré les embûches",
         "url": "https://www.franceinfo.fr/elections/vu-a-quel-niveau-sont-les-autres-on-n-est-pas-si-loin-dominique-de-villepin-se-lance-dans-la-course-presidentielle-malgre-les-embuches_8288267.html",
@@ -40,12 +52,6 @@
         "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-me-bats-pour-etre-candidat-declare-dominique-de-villepin-qui-revendique-plusieurs-centaines-de-parrainages_8169629.html",
         "media": "franceinfo (avec AFP)",
         "date": "2026-08-30"
-      },
-      {
-        "titre": "Présidentielle 2027 : la liste des candidats déclarés et potentiels",
-        "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
-        "media": "LCP",
-        "date": "2026-11-10"
       },
       {
         "titre": "« Sortir du traumatisme » du 64 ans : la vision de Villepin pour la retraite des Français",
@@ -80,7 +86,7 @@
         }
       ]
     },
-    "resume": "Diplomate de carrière issu de l'ENA, Dominique de Villepin a été secrétaire général de l'Élysée sous Jacques Chirac (1995-2002), puis ministre des Affaires étrangères (2002-2004), ministre de l'Intérieur (2004-2005) et Premier ministre (2005-2007). Il n'a jamais exercé de mandat électif. Relaxé définitivement dans l'affaire Clearstream en 2011, il a fondé République solidaire en 2010 et renoncé à sa candidature présidentielle de 2012 faute de parrainages. Revenu au premier plan en 2024-2025, notamment par ses prises de position sur Gaza, il a lancé en juin 2025 La France humaniste, qui se réclame d'un « écogaullisme » et de l'humanisme, et dit vouloir être candidat en 2027 sans l'avoir officialisé.",
+    "resume": "Diplomate de carrière issu de l'ENA, Dominique de Villepin a été secrétaire général de l'Élysée sous Jacques Chirac (1995-2002), puis ministre des Affaires étrangères (2002-2004), ministre de l'Intérieur (2004-2005) et Premier ministre (2005-2007). Il n'a jamais exercé de mandat électif. Relaxé définitivement dans l'affaire Clearstream en 2011, il a fondé République solidaire en 2010 et renoncé à sa candidature présidentielle de 2012 faute de parrainages. Revenu au premier plan en 2024-2025, notamment par ses prises de position sur Gaza, il a lancé en juin 2025 La France humaniste, qui se réclame d'un « écogaullisme » et de l'humanisme, et a officialisé sa candidature à la présidentielle de 2027 le 20 novembre 2026.",
     "formation": [
       {
         "texte": "Licence de droit (université Paris-II Assas), diplômé de l'Institut d'études politiques de Paris (1975), École nationale d'administration (promotion Voltaire, 1980).",
@@ -523,9 +529,15 @@
     ]
   },
   "programme": {
-    "statut": "Pas de programme présidentiel complet (candidature non officialisée) : la fiche repose sur ses prises de position publiques 2025-2026 et sur les 20 propositions économiques publiées en 2026 par La France humaniste, complétées par ses tribunes thématiques.",
-    "resume": "Faute de candidature officielle, le projet de Dominique de Villepin se lit dans les textes publiés par La France humaniste en 2025-2026. Il propose un « big bang » fiscal (neuf grands impôts, suppression de toutes les niches, impôt unique sur le patrimoine des 1 % les plus aisés, bascule de plus de 200 Md€ de cotisations vers la CSG pour augmenter le salaire net) et un retour du déficit sous 3 % en 2031. Il défend l'abrogation de la retraite à 64 ans au profit d'un système à points, un « écogaullisme » adossé au nucléaire (6 EPR2) et à l'éolien en mer, un fonds souverain réunissant les actifs publics, une revalorisation des personnels de l'Éducation nationale et une Europe souveraine de la défense. Sur le plan international, il plaide pour une action européenne et onusienne à Gaza et une sécurité européenne moins dépendante des États-Unis.",
+    "statut": "Propositions partielles : candidature officialisée le 20 novembre 2026 avec un projet revendiqué d'environ 258 propositions (AFP) ; la fiche repose sur ses prises de position publiques 2025-2026, les 20 propositions économiques de La France humaniste et ses tribunes thématiques.",
+    "resume": "Candidat déclaré depuis le 20 novembre 2026, Dominique de Villepin revendique environ 258 propositions (fin des privilèges fiscaux, référendums réguliers, nationalisation des autoroutes, droit de vote à 16 ans, déficit sous 3 %), selon l'AFP ; son projet se lit aussi dans les textes publiés par La France humaniste en 2025-2026. Il propose un « big bang » fiscal (neuf grands impôts, suppression de toutes les niches, impôt unique sur le patrimoine des 1 % les plus aisés, bascule de plus de 200 Md€ de cotisations vers la CSG pour augmenter le salaire net) et un retour du déficit sous 3 % en 2031. Il défend l'abrogation de la retraite à 64 ans au profit d'un système à points, un « écogaullisme » adossé au nucléaire (6 EPR2) et à l'éolien en mer, un fonds souverain réunissant les actifs publics, une revalorisation des personnels de l'Éducation nationale et une Europe souveraine de la défense. Sur le plan international, il plaide pour une action européenne et onusienne à Gaza et une sécurité européenne moins dépendante des États-Unis.",
     "documents": [
+      {
+        "titre": "Villepin lance son pari présidentiel",
+        "url": "https://www.lagazettefrance.fr/article/villepin-lance-son-pari-presidentiel",
+        "media": "La Gazette France (AFP)",
+        "date": "2026-11-20"
+      },
       {
         "titre": "Programme économique de Dominique de Villepin : 20 propositions",
         "url": "https://lafrancehumaniste.fr/programme/economie.html",
@@ -936,8 +948,40 @@
             }
           ]
         }
+      },
+      {
+        "id": "droit-vote-16-ans",
+        "theme": "institutions-democratie",
+        "type": "proposition",
+        "titre": "Droit de vote à 16 ans",
+        "description": "Lors de l'officialisation de sa candidature le 20 novembre 2026, Dominique de Villepin a présenté un projet d'environ 258 propositions comprenant notamment le droit de vote à 16 ans, des référendums réguliers, la nationalisation des autoroutes, la fin des « privilèges » fiscaux et le maintien du déficit sous 3 % (AFP).",
+        "chiffres": [
+          "Âge du droit de vote abaissé de 18 à 16 ans",
+          "Projet revendiqué : environ 258 propositions"
+        ],
+        "date": "2026-11-20",
+        "sources": [
+          {
+            "titre": "Villepin lance son pari présidentiel",
+            "url": "https://www.lagazettefrance.fr/article/villepin-lance-son-pari-presidentiel",
+            "media": "La Gazette France (AFP)",
+            "date": "2026-11-20"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Aucune vérification publiée n'a été trouvée au 21 novembre 2026. La mesure relève de la loi électorale et, selon les modalités, d'une révision de l'article 3 de la Constitution (qui renvoie aux « nationaux français majeurs ») ; le détail de sa mise en œuvre n'a pas été précisé dans les comptes rendus consultés.",
+          "sources": [
+            {
+              "titre": "Villepin lance son pari présidentiel",
+              "url": "https://www.lagazettefrance.fr/article/villepin-lance-son-pari-presidentiel",
+              "media": "La Gazette France (AFP)",
+              "date": "2026-11-20"
+            }
+          ]
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-20"
+  "derniereMiseAJour": "2026-11-21"
 }

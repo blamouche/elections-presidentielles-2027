@@ -1,6 +1,6 @@
 {
   "id": "dominique-de-villepin",
-  "derniereMiseAJour": "2026-11-13",
+  "derniereMiseAJour": "2026-11-21",
   "resume": "Dominique de Villepin défend une « Europe souveraine », fédération d'États-nations dotée d'une défense commune « viable sans l'OTAN », et une diplomatie de désescalade fondée sur le droit international. Il critique la politique de Donald Trump et appelle depuis 2025 à isoler économiquement et stratégiquement Israël en raison de la guerre à Gaza.",
   "axes": {
     "europe": {
@@ -126,9 +126,15 @@
     "proche-orient": {
       "position": 2,
       "titre": "Embargo sur les armes et isolement d'Israël",
-      "resume": "Le 20 mai 2025 sur franceinfo, il appelle à « un isolement économique et stratégique » d'Israël, à un « embargo sur les armes de tous les pays européens » et à « suspendre immédiatement » l'accord européen avec Israël, accusant le gouvernement Netanyahou de viser la déportation des Gazaouis. En juillet 2025, il propose une opération humanitaire internationale à Gaza.",
+      "resume": "Le 20 mai 2025 sur franceinfo, il appelle à « un isolement économique et stratégique » d'Israël, à un « embargo sur les armes de tous les pays européens » et à « suspendre immédiatement » l'accord européen avec Israël, accusant le gouvernement Netanyahou de viser la déportation des Gazaouis. En juillet 2025, il propose une opération humanitaire internationale à Gaza. Lors de l'officialisation de sa candidature, le 20 novembre 2026, il a de nouveau condamné « fermement » la guerre à Gaza (AFP).",
       "date": "2025-07-24",
       "sources": [
+        {
+          "titre": "Villepin lance son pari présidentiel",
+          "url": "https://www.lagazettefrance.fr/article/villepin-lance-son-pari-presidentiel",
+          "media": "La Gazette France (AFP)",
+          "date": "2026-11-20"
+        },
         {
           "titre": "Gaza : De Villepin appelle à agir pour éviter l'« épuration ethnique » prévue par Israël",
           "url": "https://fr.hespress.com/424985-gaza-de-villepin-appelle-a-agir-pour-eviter-lepuration-ethnique-prevue-par-israel.html",
