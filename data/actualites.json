@@ -1,7 +1,29 @@
 {
-  "miseAJour": "2026-11-21",
-  "periode": "2026-11-01/2026-11-21",
+  "miseAJour": "2026-11-22",
+  "periode": "2026-11-01/2026-11-22",
   "items": [
+    {
+      "date": "2026-11-21",
+      "candidats": [
+        "francois-ruffin"
+      ],
+      "categorie": "candidature",
+      "titre": "François Ruffin retire sa candidature, prenant acte de « l'impasse » de sa campagne, sans soutenir aucun candidat",
+      "sources": [
+        {
+          "titre": "François Ruffin se retire de la présidentielle 2027 sans soutenir aucun des candidats de gauche encore en lice",
+          "url": "https://lcp.fr/actualites/francois-ruffin-se-retire-de-la-presidentielle-2027-sans-soutenir-aucun-des-candidats-de",
+          "media": "LCP (AFP)",
+          "date": "2026-11-21"
+        },
+        {
+          "titre": "Présidentielle 2027 : François Ruffin jette l'éponge face à \"l'impasse\" de sa campagne",
+          "url": "https://france24.com/fr/france/20261121-pr%C3%A9sidentielle-prenant-acte-de-l-impasse-de-sa-campagne-fran%C3%A7ois-ruffin-retire-sa-candidature",
+          "media": "France 24 (AFP)",
+          "date": "2026-11-21"
+        }
+      ]
+    },
     {
       "date": "2026-11-21",
       "candidats": [

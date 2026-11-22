@@ -6,11 +6,23 @@
   "partiAbrev": "Debout",
   "famillePolitique": "gauche",
   "couleur": "#E4587A",
-  "statutCandidature": "declare",
+  "statutCandidature": "retire",
   "candidature": {
-    "texte": "Candidat déclaré à la primaire de la gauche unitaire (hors LFI, Place publique et PCF), qu'il a cofondée en novembre 2025 : il confirme sa candidature le 26 janvier 2026 (« Oui, sans surprise, je serai candidat »), la primaire étant alors fixée au 11 octobre 2026. Le 12 mai 2026, il annonce qu'il sera candidat à la présidentielle même sans primaire. Le processus est abandonné de fait à l'été 2026 : le 9 juillet, 55 % des militants socialistes choisissent une primaire fermée réservée au « pôle socialiste », ce qui enterre la primaire unitaire (RTBF), puis Clémentine Autain renonce le 11 juillet à se présenter en dénonçant « l'empilement des candidatures » (franceinfo). Il maintient depuis sa candidature sous la bannière de Debout ! (campagne « Nous Président ! »). Le 6 novembre 2026, sur franceinfo, il déclare : « Aujourd'hui, je suis candidat », tout en se disant prêt à se retirer « si une solution se dégage pour battre Marine Le Pen au deuxième tour », solution qu'il dit ne pas voir à ce jour et qui ne pourrait pas, selon lui, être Jean-Luc Mélenchon. LCP le classe le 10 novembre 2026 parmi les candidats qui n'ont pas encore définitivement tranché : sa candidature reste donc susceptible d'un retrait.",
-    "date": "2026-01-26",
+    "texte": "Retiré le 21 novembre 2026. Candidat déclaré depuis le 26 janvier 2026 (primaire de la gauche unitaire, qu'il avait cofondée en novembre 2025, puis candidature maintenue sans primaire sous la bannière de Debout !, campagne « Nous Président ! »), il annonce par communiqué le samedi 21 novembre 2026 renoncer à se présenter, prenant acte de « l'impasse » de sa campagne : « les appareils ont rejeté cette grande primaire et le duel des deux gauches irréconciliables est installé », les autres candidatures, « dont la mienne », étant selon lui « cantonnées à un rôle de témoignage ». Il ne soutient aucun candidat, souhaite « bonne campagne » aux candidats de gauche encore en lice et dit poursuivre le combat avec Debout! contre le Rassemblement national. Sa campagne était créditée de 1 à 3 % dans les sondages (LCP, France 24). Historique : le 6 novembre 2026, il s'était dit prêt à se retirer « si une solution se dégage pour battre Marine Le Pen au deuxième tour ».",
+    "date": "2026-11-21",
     "sources": [
+      {
+        "titre": "François Ruffin se retire de la présidentielle 2027 sans soutenir aucun des candidats de gauche encore en lice",
+        "url": "https://lcp.fr/actualites/francois-ruffin-se-retire-de-la-presidentielle-2027-sans-soutenir-aucun-des-candidats-de",
+        "media": "LCP (AFP)",
+        "date": "2026-11-21"
+      },
+      {
+        "titre": "Présidentielle 2027 : François Ruffin jette l'éponge face à \"l'impasse\" de sa campagne",
+        "url": "https://france24.com/fr/france/20261121-pr%C3%A9sidentielle-prenant-acte-de-l-impasse-de-sa-campagne-fran%C3%A7ois-ruffin-retire-sa-candidature",
+        "media": "France 24 (AFP)",
+        "date": "2026-11-21"
+      },
       {
         "titre": "Primaire de la gauche : le député François Ruffin confirme qu'il sera bien candidat",
         "url": "https://www.franceinfo.fr/politique/primaire-de-la-gauche-le-depute-francois-ruffin-confirme-qu-il-sera-bien-candidat_7766543.html",
@@ -963,5 +975,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-16"
+  "derniereMiseAJour": "2026-11-22"
 }
