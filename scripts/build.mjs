@@ -7,7 +7,20 @@ import { spawnSync } from "node:child_process";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const candDir = path.join(root, "data/candidates");
-const warnings = [];
+const warnings = []; // signalés, n'empêchent pas la publication (photo, site officiel…)
+const errors = []; // fait sans source, valeur inconnue… : la commande échoue et GitHub Pages ne publie pas
+// Valeurs admises : mêmes clés que THEMES, VERDICTS, FAMILLES, STATUTS et JUD dans src/template.html.
+const ENUMS = {
+  theme: ["economie-fiscalite", "emploi-travail", "retraites", "pouvoir-achat-social", "sante", "education", "securite-justice", "immigration",
+    "environnement-energie", "agriculture", "logement", "europe-international", "defense", "institutions-democratie", "numerique-innovation",
+    "culture", "territoires-services-publics"],
+  verdict: ["vrai", "plutot-vrai", "trompeur", "plutot-faux", "faux", "inverifiable", "non-verifie"],
+  famillePolitique: ["extreme-gauche", "gauche", "ecologiste", "centre", "droite", "extreme-droite", "divers"],
+  statutCandidature: ["declare", "potentiel", "incertain", "retire"],
+  statut: ["condamnation-definitive", "condamnation-non-definitive", "proces-en-cours", "mise-en-examen", "enquete", "relaxe", "non-lieu", "classement", "autre"],
+};
+// Le site ignore les accents des verdicts (« invérifiable » = « inverifiable »), pas ceux des autres valeurs.
+const enumOk = (k, v) => ENUMS[k].includes(k === "verdict" ? String(v).normalize("NFD").replace(/[\u0300-\u036f]/g, "") : v);
 
 const candidats = fs
   .readdirSync(candDir)
@@ -38,27 +51,38 @@ for (const c of candidats) {
   if (fs.existsSync(ip)) {
     c.international = JSON.parse(fs.readFileSync(ip, "utf8"));
     for (const [k, a] of Object.entries(c.international.axes || {})) {
-      if (a.position !== null && a.position !== undefined && !(a.sources || []).length) warnings.push(`${c.id} : axe international « ${k} » sans source`);
-      if (![-2, -1, 0, 1, 2, null, undefined].includes(a.position)) warnings.push(`${c.id} : position invalide sur « ${k} »`);
+      if (a.position !== null && a.position !== undefined && !(a.sources || []).length) errors.push(`${c.id} : axe international « ${k} » sans source`);
+      if (![-2, -1, 0, 1, 2, null, undefined].includes(a.position)) errors.push(`${c.id} : position invalide sur « ${k} »`);
     }
   } else warnings.push(`${c.id} : pas de positions internationales`);
 }
 
-// Vérifie que chaque fait porte au moins une source avec une URL http(s).
+// Vérifie que chaque fait porte au moins une source avec une URL http(s), et que les valeurs codées sont connues du site.
 function checkSources(c, file) {
   const need = (obj, label) => {
     const s = obj && obj.sources;
-    if (!Array.isArray(s) || s.length === 0) warnings.push(`${file} : pas de source pour ${label}`);
-    else s.forEach((src) => { if (!/^https?:\/\//.test(src.url || "")) warnings.push(`${file} : URL invalide (${label}) ${src.url}`); });
+    if (!Array.isArray(s) || s.length === 0) errors.push(`${file} : pas de source pour ${label}`);
+    else s.forEach((src) => { if (!/^https?:\/\//.test(src.url || "")) errors.push(`${file} : URL invalide (${label}) ${src.url}`); });
   };
+  const known = (k, v, label) => { if (!enumOk(k, v)) errors.push(`${file} : ${k} « ${v} » inconnu (${label})`); };
+  known("famillePolitique", c.famillePolitique, "fiche");
+  known("statutCandidature", c.statutCandidature, "fiche");
   need(c.candidature, "candidature");
   need(c.profil, "profil");
   (c.parcoursPolitique || []).forEach((p) => need(p, `parcours « ${p.fonction} »`));
-  (c.judiciaire?.affaires || []).forEach((a) => need(a, `affaire « ${a.titre} »`));
+  (c.judiciaire?.affaires || []).forEach((a) => {
+    need(a, `affaire « ${a.titre} »`);
+    known("statut", a.statut, `affaire « ${a.titre} »`);
+    if (a.misEnCause !== undefined && typeof a.misEnCause !== "boolean") errors.push(`${file} : misEnCause doit valoir true ou false (affaire « ${a.titre} »)`);
+  });
   (c.programme?.propositions || []).forEach((p) => {
     need(p, `proposition « ${p.titre} »`);
-    if (!p.factCheck) warnings.push(`${file} : pas de fact-check pour « ${p.titre} »`);
-    else if (p.factCheck.verdict !== "non-verifie") need(p.factCheck, `fact-check « ${p.titre} »`);
+    known("theme", p.theme, `proposition « ${p.titre} »`);
+    if (!p.factCheck) errors.push(`${file} : pas de fact-check pour « ${p.titre} »`);
+    else {
+      known("verdict", p.factCheck.verdict, `proposition « ${p.titre} »`);
+      if (p.factCheck.verdict !== "non-verifie") need(p.factCheck, `fact-check « ${p.titre} »`);
+    }
   });
 }
 
@@ -71,23 +95,23 @@ const historique = fs.existsSync(elecDir) ? fs.readdirSync(elecDir).filter((f) =
 for (const e of historique) for (const t of e.tours || []) {
   const where = `historique ${e.annee} T${t.tour}`;
   const sum = (t.resultats || []).reduce((a, r) => a + (r.voix || 0), 0);
-  if (sum !== t.exprimes) warnings.push(`${where} : somme des voix ${sum} ≠ exprimés ${t.exprimes}`);
+  if (sum !== t.exprimes) errors.push(`${where} : somme des voix ${sum} ≠ exprimés ${t.exprimes}`);
   const bn = t.blancsNuls ?? ((t.blancs || 0) + (t.nuls || 0));
-  if (t.exprimes + bn !== t.votants) warnings.push(`${where} : exprimés + blancs/nuls ≠ votants`);
-  if (!(t.sources || []).some((s) => /^https?:\/\//.test(s.url || ""))) warnings.push(`${where} : sans source`);
+  if (t.exprimes + bn !== t.votants) errors.push(`${where} : exprimés + blancs/nuls ≠ votants`);
+  if (!(t.sources || []).some((s) => /^https?:\/\//.test(s.url || ""))) errors.push(`${where} : sans source`);
 }
 // Sondages d'intentions de vote (data/sondages/sondages.json).
 const sondPath = path.join(root, "data/sondages/sondages.json");
 const sondages = fs.existsSync(sondPath) ? JSON.parse(fs.readFileSync(sondPath, "utf8")) : null;
 for (const s of sondages?.sondages || []) {
-  if (!(s.sources || []).some((x) => /^https?:\/\//.test(x.url || "") && !/wikipedia\.org/.test(x.url))) warnings.push(`sondage ${s.id} : pas de source primaire`);
+  if (!(s.sources || []).some((x) => /^https?:\/\//.test(x.url || "") && !/wikipedia\.org/.test(x.url))) errors.push(`sondage ${s.id} : pas de source primaire`);
 }
 // Actualités de campagne (data/actualites.json) : chaque entrée doit être sourcée.
 const actuPath = path.join(root, "data/actualites.json");
 const actualites = fs.existsSync(actuPath) ? JSON.parse(fs.readFileSync(actuPath, "utf8")) : null;
 for (const a of actualites?.items || []) {
-  if (!(a.sources || []).some((x) => /^https?:\/\//.test(x.url || ""))) warnings.push(`actualité « ${a.titre} » sans source`);
-  for (const id of a.candidats || []) if (!candidats.some((c) => c.id === id)) warnings.push(`actualité « ${a.titre} » : candidat inconnu ${id}`);
+  if (!(a.sources || []).some((x) => /^https?:\/\//.test(x.url || ""))) errors.push(`actualité « ${a.titre} » sans source`);
+  for (const id of a.candidats || []) if (!candidats.some((c) => c.id === id)) errors.push(`actualité « ${a.titre} » : candidat inconnu ${id}`);
 }
 const data = { generatedAt: new Date().toISOString().slice(0, 10), candidats, documents, autres, historique, sondages, actualites };
 const json = JSON.stringify(data).replace(/</g, "\\u003c");
@@ -111,9 +135,11 @@ if (fs.existsSync(fontsCss)) {
 } else {
   warnings.push("data/fonts absent : la page autonome chargera les polices en ligne (node scripts/fetch-fonts.mjs)");
 }
+// Titre et description du gabarit remontés dans <head>, où les lisent moteurs de recherche et aperçus de liens.
+const headTags = [];
+standalone = standalone.replace(/<title>[^<]*<\/title>\n?|<meta name="description"[^>]*>\n?/g, (m) => (headTags.push(m.trim()), ""));
 const dest = path.join(root, "dist/index.html");
-fs.writeFileSync(dest, `<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>Présidentielle 2027</title></head><body>\n${standalone}\n</body></html>\n`);
-for (const f of ["presidentielle-2027.html", "presidentielle-2027-portable.html"]) fs.rmSync(path.join(root, "dist", f), { force: true }); // anciens noms
+fs.writeFileSync(dest, `<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">${headTags.join("")}</head><body>\n${standalone}\n</body></html>\n`);
 
 // 3) Dossier complet en PDF : impression de la vue #rapport par Chrome sans interface.
 const pdf = path.join(root, "dist/presidentielle-2027.pdf");
@@ -136,6 +162,11 @@ if (fs.existsSync(pdf)) console.log(`→ ${path.relative(root, pdf)} (${Math.rou
 if (warnings.length) {
   console.log(`\n${warnings.length} avertissement(s) :`);
   warnings.forEach((w) => console.log("  - " + w));
+}
+if (errors.length) {
+  console.error(`\n${errors.length} erreur(s) à corriger avant publication :`);
+  errors.forEach((e) => console.error("  - " + e));
+  process.exitCode = 1;
 }
 
 function findChrome() {

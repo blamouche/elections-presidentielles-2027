@@ -56,6 +56,7 @@ Un fichier JSON par candidat : `data/candidates/<id>.json` (id = slug `prenom-no
         "titre": "Affaire des assistants parlementaires …",
         "statut": "condamnation-definitive | condamnation-non-definitive | proces-en-cours | mise-en-examen | enquete | relaxe | non-lieu | classement | autre",
         "role": "prévenu | mis en examen | témoin assisté | plaignant | …",
+        "misEnCause": "true | false (facultatif) : le candidat est-il visé par la procédure ? Sans ce champ, le site le déduit de `role` (plaignant, victime, demandeur, requérant → non). À renseigner dès que le rôle est ambigu.",
         "resume": "Faits reprochés, étapes et décisions datées, peines éventuelles, recours en cours.",
         "chronologie": [ { "date": "AAAA-MM-JJ", "evenement": "", "sources": [Source] } ],
         "sources": [Source]

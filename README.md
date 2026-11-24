@@ -34,6 +34,6 @@ Le site est régénéré depuis la conversation Claude : transmettre un document
 node scripts/build.mjs
 ```
 
-La commande affiche un avertissement pour toute information sans source.
+La commande échoue (et GitHub Pages ne publie pas) si une information n'a pas de source ou si une valeur codée est inconnue (thème, verdict, famille, statut) ; elle signale à part ce qui manque sans bloquer (photo, site officiel).
 
 GitHub Pages est mis à jour automatiquement à chaque push sur `main` (`.github/workflows/pages.yml` relance `node scripts/build.mjs` et publie `index.html` et le PDF).

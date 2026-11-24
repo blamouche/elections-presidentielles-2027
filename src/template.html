@@ -618,12 +618,19 @@ const BY_ID = Object.fromEntries(CANDS.map((c) => [c.id, c]));
 const props = (c) => c.programme?.propositions || [];
 const ALL_PROPS = CANDS.flatMap((c) => props(c).map((p) => ({ c, p })));
 const checked = (list) => list.filter((p) => !["non-verifie"].includes(vkey(p.factCheck?.verdict))).length;
-// Le candidat est-il mis en cause (et non plaignant, victime ou requérant) ?
-const misEnCause = (a) => !/victime|plaignant|demandeur|requérant/i.test(a.role || "");
+// Le candidat est-il mis en cause ? Champ explicite `misEnCause` d'abord ; sinon déduit du rôle (plaignant, victime, requérant → non).
+const misEnCause = (a) => typeof a.misEnCause === "boolean" ? a.misEnCause : !/victime|plaignant|demandeur|requérant/i.test(a.role || "");
+// Procédures triées (mises en cause d'abord, puis par gravité) avec leur étiquette : même règle pour la fiche et le PDF.
+function affaires(c) {
+  const order = Object.keys(JUD);
+  return [...(c.judiciaire?.affaires || [])]
+    .sort((a, b) => (misEnCause(b) - misEnCause(a)) || (order.indexOf(a.statut) - order.indexOf(b.statut)))
+    .map((a) => { const mis = misEnCause(a); return { a, mis, J: mis ? (JUD[a.statut] || JUD.autre) : { label: JUD[a.statut]?.label || "Procédure", tone: "neutral" } }; });
+}
 function judSummary(c) {
   const all = c.judiciaire?.affaires || [];
   const a = all.filter(misEnCause), other = all.length - a.length;
-  const otherTxt = other ? ` · ${other} comme plaignant ou victime` : "";
+  const otherTxt = other ? ` · ${other} sans mise en cause` : "";
   if (!a.length) return { text: "Aucune procédure le visant" + otherTxt, tone: "ok" };
   const def = a.filter((x) => x.statut === "condamnation-definitive").length;
   const nd = a.filter((x) => x.statut === "condamnation-non-definitive").length;
@@ -634,6 +641,16 @@ function judSummary(c) {
   if (open) parts.push(`${open} en cours`);
   return { text: `${a.length} procédure${a.length > 1 ? "s" : ""} le visant${parts.length ? " · " + parts.join(", ") : ""}${otherTxt}`, tone: def || nd ? "crit" : open ? "warn" : "neutral" };
 }
+
+/* ---------- Filtre de statut (accueil, carte, international) ---------- */
+// « autre » = potentiels ou incertains ; les retraits ont leur propre filtre.
+const STATUT_FILTRES = [["", "Tous"], ["declare", "Candidats déclarés"], ["autre", "Potentiels ou incertains"], ["retire", "Retirés"]];
+const statutKey = (c) => ["declare", "retire"].includes(c.statutCandidature) ? c.statutCandidature : "autre";
+const byStatut = (c) => !state.statut || statutKey(c) === state.statut;
+const statutChips = () => `<div class="toolbar" role="group" aria-label="Filtrer par statut de candidature">${STATUT_FILTRES.map(([v, l]) => {
+  const n = v ? CANDS.filter((c) => statutKey(c) === v).length : CANDS.length;
+  return n ? `<button class="chip" data-act="statut" data-v="${v}" aria-pressed="${(state.statut || "") === v}">${l} <span class="n">${n}</span></button>` : "";
+}).join("")}</div>`;
 
 /* ---------- État (sélection du comparateur mémorisée localement) ---------- */
 const store = {
@@ -653,7 +670,7 @@ const saveCompare = () => store.set("compare", [...state.compare]);
 
 /* ---------- Routage (#accueil, #comparer, #fact-check, #sources, #c-<id>[--onglet]) ---------- */
 function route() {
-  const h = decodeURIComponent(location.hash.slice(1));
+  let h; try { h = decodeURIComponent(location.hash.slice(1)); } catch { h = ""; } // lien tronqué (« %E2 »…) : accueil
   if (h.startsWith("c-")) {
     const [id, tab] = h.slice(2).split("--");
     if (BY_ID[id]) return { view: "candidat", id, tab: tab || "programme" };
@@ -731,10 +748,7 @@ function viewActualites() {
 
 function viewAccueil() {
   const fams = FAM_ORDER.filter((f) => CANDS.some((c) => c.famillePolitique === f));
-  const isDecl = (c) => c.statutCandidature === "declare";
-  const byStatut = (c) => !state.statut || (state.statut === "declare" ? isDecl(c) : !isDecl(c));
   const list = CANDS.filter((c) => byStatut(c) && (!state.famille || c.famillePolitique === state.famille));
-  const nDecl = CANDS.filter(isDecl).length;
   const nChecked = checked(ALL_PROPS.map((x) => x.p));
   const nAff = CANDS.reduce((n, c) => n + (c.judiciaire?.affaires || []).filter(misEnCause).length, 0);
   return `
@@ -752,11 +766,7 @@ function viewAccueil() {
     </div>
   </section>
   <section class="section" aria-label="Candidats">
-    <div class="toolbar" role="group" aria-label="Filtrer par statut de candidature">
-      <button class="chip" data-act="statut" data-v="" aria-pressed="${!state.statut}">Tous <span class="n">${CANDS.length}</span></button>
-      <button class="chip" data-act="statut" data-v="declare" aria-pressed="${state.statut === "declare"}">Candidats déclarés <span class="n">${nDecl}</span></button>
-      <button class="chip" data-act="statut" data-v="autre" aria-pressed="${state.statut === "autre"}">Potentiels ou incertains <span class="n">${CANDS.length - nDecl}</span></button>
-    </div>
+    ${statutChips()}
     <div class="toolbar" role="group" aria-label="Filtrer par famille politique">
       <button class="chip" data-act="fam" data-v="" aria-pressed="${!state.famille}">Toutes les familles</button>
       ${fams.map((f) => `<button class="chip" data-act="fam" data-v="${f}" aria-pressed="${state.famille === f}">${FAMILLES[f]} <span class="n">${CANDS.filter((c) => byStatut(c) && c.famillePolitique === f).length}</span></button>`).join("")}
@@ -809,7 +819,7 @@ function viewCandidat(c, tab) {
   <section class="chead">
     ${c.photo ? `<figure class="portrait-fig">
       <img class="portrait" src="${c.photo.src}" alt="Portrait de ${esc(fullName(c))}" style="border-color:${esc(c.couleur)}">
-      <figcaption><a href="${esc(c.photo.page)}" target="_blank" rel="noopener noreferrer">Photo : ${esc(c.photo.auteur)}</a>${c.photo.licenceUrl ? `, <a href="${esc(c.photo.licenceUrl)}" target="_blank" rel="noopener noreferrer">${esc(c.photo.licence)}</a>` : `, ${esc(c.photo.licence)}`}</figcaption>
+      <figcaption>${safeUrl(c.photo.page) ? `<a href="${esc(c.photo.page)}" target="_blank" rel="noopener noreferrer">Photo : ${esc(c.photo.auteur)}</a>` : `Photo : ${esc(c.photo.auteur)}`}${safeUrl(c.photo.licenceUrl) ? `, <a href="${esc(c.photo.licenceUrl)}" target="_blank" rel="noopener noreferrer">${esc(c.photo.licence)}</a>` : `, ${esc(c.photo.licence)}`}</figcaption>
     </figure>` : avatar(c)}
     <div>
       <p class="eyebrow">${esc(FAMILLES[c.famillePolitique] || "")}</p>
@@ -896,24 +906,23 @@ function tabProfil(c) {
   </section>`;
 }
 function age(d) {
-  const b = new Date(d); if (isNaN(b)) return "?";
-  const now = new Date(); let a = now.getFullYear() - b.getFullYear();
-  if (now < new Date(now.getFullYear(), b.getMonth(), b.getDate())) a--;
-  return a;
+  // Lecture directe AAAA[-MM-JJ] : new Date("AAAA-MM-JJ") est en UTC et décale d'un jour à l'ouest de Greenwich.
+  const m = String(d).match(/^(\d{4})(?:-(\d{2})-(\d{2}))?/); if (!m) return "?";
+  const now = new Date(), bm = +(m[2] || 1), bd = +(m[3] || 1);
+  const before = now.getMonth() + 1 < bm || (now.getMonth() + 1 === bm && now.getDate() < bd);
+  return now.getFullYear() - +m[1] - (before ? 1 : 0);
 }
 function tabJudiciaire(c) {
-  const j = c.judiciaire || {}, aff = j.affaires || [];
-  const order = Object.keys(JUD);
-  const sorted = [...aff].sort((a, b) => (misEnCause(b) - misEnCause(a)) || (order.indexOf(a.statut) - order.indexOf(b.statut)));
+  const j = c.judiciaire || {};
   return `
   <p class="notice">Toute personne mise en cause est présumée innocente tant qu'une condamnation définitive n'a pas été prononcée. Seules les procédures judiciaires sont listées, pas les polémiques. Le statut est celui connu à la date de mise à jour de la fiche.</p>
   ${j.note ? `<div class="panel"><p class="eyebrow">Synthèse</p><p>${esc(j.note)}</p>${srcLinks(j.sources)}</div>` : ""}
-  ${sorted.map((a) => { const J = misEnCause(a) ? (JUD[a.statut] || JUD.autre) : { label: JUD[a.statut]?.label || "Procédure", tone: "neutral" }; return `<article class="case ${J.tone}">
-    <div class="case-head"><h3>${esc(a.titre)}</h3><span>${misEnCause(a) ? "" : pill("Plaignant ou victime", "accent") + " "}${pill(J.label, J.tone)}${a.role ? ` <span class="muted" style="font-size:.82rem">${esc(a.role)}</span>` : ""}</span></div>
+  ${affaires(c).map(({ a, mis, J }) => `<article class="case ${J.tone}">
+    <div class="case-head"><h3>${esc(a.titre)}</h3><span>${mis ? "" : pill("Non mis en cause", "accent") + " "}${pill(J.label, J.tone)}${a.role ? ` <span class="muted" style="font-size:.82rem">${esc(a.role)}</span>` : ""}</span></div>
     ${a.resume ? `<p>${esc(a.resume)}</p>` : ""}
     ${(a.chronologie || []).length ? `<ol class="chrono">${[...a.chronologie].sort((x, y) => String(x.date).localeCompare(String(y.date))).map((e) => `<li><span class="d">${esc(fmtDate(e.date))}</span><span>${esc(e.evenement)}</span>${srcLinks(e.sources)}</li>`).join("")}</ol>` : ""}
     ${srcLinks(a.sources)}
-  </article>`; }).join("") || `<p class="empty">Aucune procédure judiciaire recensée.</p>`}`;
+  </article>`).join("") || `<p class="empty">Aucune procédure judiciaire recensée.</p>`}`;
 }
 function collectSources(c) {
   const out = new Map();
@@ -998,7 +1007,7 @@ function credibility(c) {
 }
 // Niveau judiciaire = situation la plus grave parmi les procédures où le candidat est mis en cause.
 const JUD_LEVELS = [
-  { label: "Aucune procédure en cours ni condamnation", tone: "ok", icon: "✓" },
+  { label: "Aucune procédure en cours ni condamnation définitive connue", tone: "ok", icon: "✓" },
   { label: "Procédure en cours (enquête, mise en examen, procès)", tone: "warn", icon: "!" },
   { label: "Condamnation non définitive", tone: "orange", icon: "!!" },
   { label: "Condamnation définitive", tone: "crit", icon: "⚖" },
@@ -1009,8 +1018,7 @@ function judLevel(c) {
   return { level: a.reduce((m, x) => Math.max(m, lvl(x.statut)), 0), count: a.filter((x) => lvl(x.statut) > 0).length };
 }
 function viewCarte() {
-  const isDecl = (c) => c.statutCandidature === "declare";
-  const list = CANDS.filter((c) => !state.statut || (state.statut === "declare" ? isDecl(c) : !isDecl(c)));
+  const list = CANDS.filter(byStatut);
   const BANDS = ["extreme-gauche", "gauche", "ecologiste", "centre", "droite", "extreme-droite", "divers"];
   const W = 1200, L = 64, R = 1190, GAP = 18, TOP = 34, Y0 = 420, STRIP = 470;
   const bw = (R - L - GAP) / BANDS.length;
@@ -1074,11 +1082,7 @@ function viewCarte() {
   return `
   <header class="section"><p class="eyebrow">Carte</p><h1>Positionnement, fiabilité des chiffres et situation judiciaire</h1>
     <p class="prose muted">Chaque candidat est placé selon sa famille politique (axe horizontal) et l'indice de fiabilité de ses chiffres vérifiés (axe vertical). La couleur de l'anneau indique la situation judiciaire la plus grave ; la pastille, le nombre de procédures en cours ou de condamnations. Cliquez sur un candidat pour ouvrir sa fiche.</p></header>
-  <div class="toolbar" role="group" aria-label="Filtrer par statut de candidature">
-    <button class="chip" data-act="statut" data-v="" aria-pressed="${!state.statut}">Tous <span class="n">${CANDS.length}</span></button>
-    <button class="chip" data-act="statut" data-v="declare" aria-pressed="${state.statut === "declare"}">Candidats déclarés</button>
-    <button class="chip" data-act="statut" data-v="autre" aria-pressed="${state.statut === "autre"}">Potentiels ou incertains</button>
-  </div>
+  ${statutChips()}
   <div class="map-legend">
     ${JUD_LEVELS.map((J) => `<span><svg width="18" height="18" aria-hidden="true"><circle cx="9" cy="9" r="6.5" class="ring t-${J.tone}"/></svg>${esc(J.label)}</span>`).join("")}
   </div>
@@ -1088,7 +1092,7 @@ function viewCarte() {
       <p style="font-size:.9rem">Moyenne des verdicts obtenus par les propositions et déclarations chiffrées du candidat : vrai = 100, plutôt vrai = 75, trompeur = 40, plutôt faux = 20, faux = 0. Les verdicts « invérifiable » et « non vérifié » ne comptent pas. En dessous de ${MIN_VERDICTS} verdicts, aucun indice n'est calculé.</p>
       <p class="muted" style="font-size:.85rem">L'indice dépend des affirmations qui ont été vérifiées, pas de l'ensemble du discours d'un candidat. Il est indicatif et évoluera à mesure que les fact-checkeurs publient.</p></div>
     <div class="panel"><h3>Positionnement et judiciaire</h3>
-      <p style="font-size:.9rem">L'axe horizontal suit la famille politique retenue par la presse de référence et le classement du ministère de l'Intérieur ; « Hors axe » regroupe les candidats qui ne se rattachent pas au clivage gauche-droite. Seules comptent les procédures où le candidat est mis en cause (pas celles où il est plaignant ou victime) ; une relaxe, un non-lieu ou un classement ne pèsent pas.</p></div>
+      <p style="font-size:.9rem">L'axe horizontal suit la famille politique retenue par la presse de référence et le classement du ministère de l'Intérieur ; « Hors axe » regroupe les candidats qui ne se rattachent pas au clivage gauche-droite. Seules comptent les procédures où le candidat est mis en cause (pas celles où il est plaignant, victime ou cité sans mise en cause) ; une relaxe, un non-lieu ou un classement ne pèsent pas.</p></div>
   </div>
   <section class="section"><h2>Les données de la carte</h2>
     <div class="matrix-wrap"><table class="datatable">
@@ -1152,8 +1156,7 @@ function tabInternational(c) {
   }).join("")}</div>`;
 }
 function viewInternational() {
-  const isDecl = (c) => c.statutCandidature === "declare";
-  const list = CANDS.filter(hasIntl).filter((c) => !state.statut || (state.statut === "declare" ? isDecl(c) : !isDecl(c)));
+  const list = CANDS.filter(hasIntl).filter(byStatut);
   const ax = state.intlX || "europe", ay = state.intlY || "russie";
   const X = AXIS[ax], Y = AXIS[ay];
   // Carte 5 × 5 : chaque case regroupe les candidats qui partagent la même position sur les deux axes.
@@ -1199,11 +1202,7 @@ function viewInternational() {
   return `
   <header class="section"><p class="eyebrow">International</p><h1>Positions de politique extérieure</h1>
     <p class="prose muted">Europe, OTAN et États-Unis, Donald Trump, Russie, Ukraine, Chine, Proche-Orient : chaque position est placée sur une échelle de −2 à +2 entre deux pôles, d'après les déclarations, votes et propositions du candidat, avec leurs sources. L'échelle décrit une position, elle ne la juge pas.</p></header>
-  <div class="toolbar" role="group" aria-label="Filtrer par statut de candidature">
-    <button class="chip" data-act="statut" data-v="" aria-pressed="${!state.statut}">Tous</button>
-    <button class="chip" data-act="statut" data-v="declare" aria-pressed="${state.statut === "declare"}">Candidats déclarés</button>
-    <button class="chip" data-act="statut" data-v="autre" aria-pressed="${state.statut === "autre"}">Potentiels ou incertains</button>
-  </div>
+  ${statutChips()}
   ${list.length ? `
   <section class="section">
     <h2>Carte</h2>
@@ -1300,7 +1299,7 @@ const fmtPct = (x, d = 2) => Number.isFinite(x) ? x.toLocaleString("fr-FR", { mi
 const partic = (t) => t && t.inscrits ? (t.votants / t.inscrits) * 100 : null;
 
 /* Petit graphique en lignes (SVG) : séries [{key,label,color,points:[{x,y,tip}]}], axe x numérique. */
-function lineChart({ series, xMin, xMax, yMin, yMax, yStep, xTicks, fmtY = (v) => String(v).replace(".", ",") + " %", height = 340, unit = "" }) {
+function lineChart({ series, xMin, xMax, yMin, yMax, yStep, xTicks, fmtY = (v) => String(v).replace(".", ",") + " %", height = 340 }) {
   const W = 1000, H = height, L = 46, R = 200, T = 16, B = 34;
   const X = (x) => L + ((x - xMin) / ((xMax - xMin) || 1)) * (W - L - R);
   const Y = (y) => T + (1 - (y - yMin) / ((yMax - yMin) || 1)) * (H - T - B);
@@ -1349,7 +1348,7 @@ function viewHistorique(year) {
   const e = H.find((x) => String(x.annee) === String(year)) || H[H.length - 1];
   const t1 = e.tours.find((t) => t.tour === 1), t2 = e.tours.find((t) => t.tour === 2);
   const years = H.map((x) => x.annee), xs = years.map((y, i) => ({ y, i }));
-  const mk = (tour, label, color) => ({ key: "t" + tour, label, color, points: H.map((x, i) => { const t = x.tours.find((tt) => tt.tour === tour); const p = partic(t); return p === null ? null : { x: i, y: p, tip: `${x.annee} · ${label}|Participation : ${fmtPct(p, 1)}|Abstention : ${fmtPct(100 - p, 1)}` }; }).filter(Boolean) });
+  const mk = (tour, label, color) => ({ label, color, points: H.map((x, i) => { const t = x.tours.find((tt) => tt.tour === tour); const p = partic(t); return p === null ? null : { x: i, y: p, tip: `${x.annee} · ${label}|Participation : ${fmtPct(p, 1)}|Abstention : ${fmtPct(100 - p, 1)}` }; }).filter(Boolean) });
   const series = [mk(1, "1er tour", "var(--accent)"), mk(2, "2nd tour", "var(--orange)")];
   return `
   <header><p class="eyebrow">Historique</p><h1>Les élections présidentielles depuis 1965</h1>
@@ -1421,8 +1420,8 @@ function viewSondages() {
     .sort((a, b) => String(b.terrainFin).localeCompare(String(a.terrainFin)));
   // Courbes : 1re hypothèse de chaque sondage de 1er tour ; candidats les plus présents et les plus hauts récemment.
   let chart = "";
-  // 2nd tour : pas de graphique, couleur du parti pour lire les duels.
-  if (tour !== 1) POLL_COLORS = new Map(CANDS.map((c) => [c.id, c.couleur]));
+  // Par défaut (2nd tour, ou pas de graphique) : couleur du parti ; remplacée plus bas par le rang dans le graphique.
+  POLL_COLORS = new Map(CANDS.map((c) => [c.id, c.couleur]));
   const t1 = list.filter((s) => s.tour === 1 && s.hypotheses?.[0]).slice().reverse();
   if (tour === 1 && t1.length >= 2) {
     const by = new Map();
@@ -1435,7 +1434,7 @@ function viewSondages() {
       .map((v) => ({ ...v, recent: v.pts.slice(-5).reduce((a, p) => a + p.y, 0) / Math.min(5, v.pts.length) }))
       .sort((a, b) => b.recent - a.recent).slice(0, 7);
     POLL_COLORS = new Map(ranked.map((v, i) => [candKey(v.r), `var(--s${i + 1})`]));
-    const series = ranked.map((v) => ({ key: candKey(v.r), label: v.r.candidat, color: candColor(v.r), points: v.pts }));
+    const series = ranked.map((v) => ({ label: v.r.candidat, color: candColor(v.r), points: v.pts }));
     const xs = t1.map((s) => dnum(s.terrainFin)), xMin = Math.min(...xs), xMax = Math.max(...xs);
     const yMax = Math.ceil(Math.max(...series.flatMap((s) => s.points.map((p) => p.y)), 10) / 5) * 5;
     const ticks = []; const d0 = new Date(xMin); d0.setDate(1);
@@ -1482,14 +1481,12 @@ function mkRefs(prefix) {
 }
 const SITE_URL = "https://blamouche.github.io/elections-presidentielles-2027/";
 const STATUT_COURT = { declare: "Déclaré", potentiel: "Potentiel", incertain: "Incertain", retire: "Retiré" };
-const JUD_COURT = ["Aucune procédure", "Procédure en cours", "Condamnation non définitive", "Condamnation définitive"];
+const JUD_COURT = ["Rien en cours ni condamnation définitive connue", "Procédure en cours", "Condamnation non définitive", "Condamnation définitive"];
 const fmtPos = (v) => v === null ? "—" : v > 0 ? "+" + v : v < 0 ? "−" + Math.abs(v) : "0";
 function rapportCandidat(c, i) {
   const R = mkRefs("c" + i), pr = c.profil || {}, n = pr.naissance || {}, j = c.judiciaire || {};
   const st = STATUTS[c.statutCandidature] || STATUTS.incertain, ps = props(c), cr = credibility(c), jl = judLevel(c);
   const parcours = [...(c.parcoursPolitique || [])].sort((a, b) => String(b.debut).localeCompare(String(a.debut)));
-  const order = Object.keys(JUD);
-  const aff = [...(j.affaires || [])].sort((a, b) => (misEnCause(b) - misEnCause(a)) || (order.indexOf(a.statut) - order.indexOf(b.statut)));
   const themes = Object.keys(THEMES).filter((t) => ps.some((p) => p.theme === t));
   const I = c.international;
   return `<section class="r-cand" id="r-${esc(c.id)}">
@@ -1520,12 +1517,12 @@ function rapportCandidat(c, i) {
     <h2>Situation judiciaire</h2>
     <p class="r-note">Présomption d'innocence : toute personne mise en cause est présumée innocente tant qu'aucune condamnation définitive n'a été prononcée. Statuts connus au ${esc(fmtDate(c.derniereMiseAJour))}.</p>
     ${j.note ? `<p><strong>Synthèse :</strong> ${esc(j.note)}${R.cite(j.sources)}</p>` : ""}
-    ${aff.map((a) => { const J = misEnCause(a) ? (JUD[a.statut] || JUD.autre) : { label: JUD[a.statut]?.label || "Procédure", tone: "neutral" }; return `<div class="r-case ${J.tone}">
+    ${affaires(c).map(({ a, mis, J }) => `<div class="r-case ${J.tone}">
       <h3>${esc(a.titre)}</h3>
-      <p class="r-meta">${misEnCause(a) ? "" : "Plaignant ou victime · "}${esc(J.label)}${a.role ? ` · ${esc(a.role)}` : ""}</p>
+      <p class="r-meta">${mis ? "" : "Non mis en cause · "}${esc(J.label)}${a.role ? ` · ${esc(a.role)}` : ""}</p>
       ${a.resume ? `<p>${esc(a.resume)}${R.cite(a.sources)}</p>` : R.cite(a.sources)}
       ${(a.chronologie || []).length ? `<table class="r-table r-chrono"><tbody>${[...a.chronologie].sort((x, y) => String(x.date).localeCompare(String(y.date))).map((e) => `<tr><td class="r-when">${esc(fmtDate(e.date))}</td><td>${esc(e.evenement)}${R.cite(e.sources)}</td></tr>`).join("")}</tbody></table>` : ""}
-    </div>`; }).join("") || `<p class="empty">Aucune procédure judiciaire recensée.</p>`}
+    </div>`).join("") || `<p class="empty">Aucune procédure judiciaire recensée.</p>`}
 
     <h2>Programme et fact-checking</h2>
     <p><strong>${esc(c.programme?.statut || "Statut non renseigné")}.</strong> ${esc(c.programme?.resume || "")}${R.cite(c.programme?.documents)}</p>
@@ -1585,7 +1582,7 @@ function viewRapport() {
       <h2>Indice de fiabilité</h2>
       <p>Moyenne des verdicts d'un candidat : Vrai = 100, Plutôt vrai = 75, Trompeur = 40, Plutôt faux = 20, Faux = 0. Les verdicts « Invérifiable » et « Non vérifié » ne comptent pas. L'indice n'est pas calculé en dessous de ${MIN_VERDICTS} verdicts.</p>
       <h2>Situation judiciaire</h2>
-      <p>Seules les procédures judiciaires sont listées, pas les polémiques. Le niveau retenu est la situation la plus grave parmi les procédures où le candidat est mis en cause (les affaires où il est plaignant ou victime sont signalées à part) :</p>
+      <p>Seules les procédures judiciaires sont listées, pas les polémiques. Le niveau retenu est la situation la plus grave parmi les procédures où le candidat est mis en cause (les affaires où il est plaignant, victime ou cité sans mise en cause sont signalées à part) :</p>
       <table class="r-table"><tbody>${JUD_LEVELS.map((l, i) => `<tr><td class="r-when">Niveau ${i}</td><td>${esc(l.label)}</td></tr>`).join("")}</tbody></table>
       <h2>Positions de politique extérieure</h2>
       <p>Chaque sujet est noté de −2 à +2 entre deux pôles, d'après les déclarations, votes et propositions datés ; « — » signifie qu'aucune position publique n'a été identifiée. En cas de doute entre deux crans, le plus prudent est retenu.</p>
@@ -1644,7 +1641,7 @@ function viewRapport() {
       ${(DATA.documents || []).length ? `<ul>${DATA.documents.map((x) => `<li><strong>${esc(x.titre)}</strong> (${esc(fmtDate(x.ajouteLe))})${x.url && safeUrl(x.url) ? ` — <a href="${esc(x.url)}">${esc(x.url)}</a>` : ""}${x.resume ? `<br>${esc(x.resume)}` : ""}</li>`).join("")}</ul>` : `<p>Aucun document ajouté pour l'instant : les fiches reposent sur la recherche initiale.</p>`}
       <h2>Crédits photographiques</h2>
       <p>Photos issues de Wikimedia Commons, sous licence libre.</p>
-      <table class="r-table"><tbody>${CANDS.filter((c) => c.photo).map((c) => `<tr><td class="r-when">${esc(fullName(c))}</td><td>${esc(c.photo.auteur)}, ${esc(c.photo.licence)} — <a href="${esc(c.photo.page)}">${esc(c.photo.page)}</a></td></tr>`).join("")}</tbody></table>
+      <table class="r-table"><tbody>${CANDS.filter((c) => c.photo).map((c) => `<tr><td class="r-when">${esc(fullName(c))}</td><td>${esc(c.photo.auteur)}, ${esc(c.photo.licence)}${safeUrl(c.photo.page) ? ` — <a href="${esc(c.photo.page)}">${esc(c.photo.page)}</a>` : ""}</td></tr>`).join("")}</tbody></table>
       <h2>Polices</h2>
       <p>Archivo, Public Sans et IBM Plex Mono (licence SIL Open Font License).</p>
     </section>
