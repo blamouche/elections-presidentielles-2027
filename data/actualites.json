@@ -1,7 +1,91 @@
 {
-  "miseAJour": "2026-11-23",
-  "periode": "2026-11-01/2026-11-23",
+  "miseAJour": "2026-11-24",
+  "periode": "2026-11-01/2026-11-24",
   "items": [
+    {
+      "date": "2026-11-24",
+      "candidats": [
+        "david-lisnard",
+        "dominique-de-villepin",
+        "bruno-retailleau",
+        "eric-zemmour",
+        "edouard-philippe",
+        "marine-le-pen"
+      ],
+      "categorie": "autre",
+      "titre": "Ouverture du Congrès des maires : Lisnard, Villepin, Retailleau, Zemmour et Philippe attendus ; Le Pen reçoit des maires au siège du RN",
+      "sources": [
+        {
+          "titre": "Le Congrès des maires s'ouvre sur fond de bataille pour l'Elysée",
+          "url": "https://www.france24.com/fr/info-en-continu/20261124-le-congr%C3%A8s-des-maires-s-ouvre-sur-fond-de-bataille-pour-l-elys%C3%A9e",
+          "media": "France 24 (AFP)",
+          "date": "2026-11-24"
+        },
+        {
+          "titre": "DIRECT. Présidentielle 2027 : \"Nous allons vers l'iceberg, donc j'ai décidé d'agir\", déclare Natacha Polony à propos de sa candidature",
+          "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-le-congres-des-maires-s-ouvre-plusieurs-candidats-attendus-sur-place_8297094.html",
+          "media": "franceinfo",
+          "date": "2026-11-24"
+        },
+        {
+          "titre": "Congrès des maires : des consignes transmises aux candidats à l'élection présidentielle pour éviter que l'événement ne se transforme en \"meeting\"",
+          "url": "https://www.franceinfo.fr/politique/congres-des-maires-des-consignes-transmises-aux-candidats-a-l-election-presidentielle-pour-eviter-que-l-evenement-ne-se-transforme-en-meeting_8297280.html",
+          "media": "franceinfo",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "candidats": [
+        "marine-le-pen",
+        "edouard-philippe",
+        "jean-luc-melenchon",
+        "teddy-riner",
+        "david-lisnard"
+      ],
+      "categorie": "sondage",
+      "titre": "Odoxa-Mascaret : aucun candidat ne suscite plus d'adhésion que de mécontentement ; seuls Lisnard et Philippe devancent Le Pen en duel",
+      "sources": [
+        {
+          "titre": "Sondage : le vainqueur de l'élection présidentielle de 2027 devrait susciter plus de rejet que d'adhésion",
+          "url": "https://www.publicsenat.fr/actualites/politique/sondage-le-vainqueur-de-lelection-presidentielle-de-2027-devrait-susciter-plus-de-rejet-que-dadhesion",
+          "media": "Public Sénat",
+          "date": "2026-11-24"
+        },
+        {
+          "titre": "Sondage : au deuxième tour, seuls David Lisnard et Edouard Philippe seraient préférés à Marine Le Pen",
+          "url": "https://www.publicsenat.fr/actualites/politique/sondage-au-deuxieme-tour-seuls-david-lisnard-et-edouard-philippe-seraient-preferes-a-marine-le-pen",
+          "media": "Public Sénat",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "candidats": [
+        "david-lisnard",
+        "marine-le-pen",
+        "edouard-philippe",
+        "jean-luc-melenchon"
+      ],
+      "categorie": "sondage",
+      "titre": "Toluna Harris Interactive : Le Pen recule à 30-31 %, Lisnard (11-12 %) dépasse Philippe (9-10 %)",
+      "sources": [
+        {
+          "titre": "Notice de la Commission des sondages : 10393-pres-iv-vague-10-toluna-harris-interactive-23-novembre.pdf",
+          "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10393-pres-iv-vague-10-toluna-harris-interactive-23-novembre.pdf",
+          "media": "Commission des sondages",
+          "date": "2026-11-23"
+        },
+        {
+          "titre": "Présidentielle 2027: un candidat crée la surprise dans les sondages, Marine Le Pen en perte de vitesse dans la course à l'Élysée",
+          "url": "https://www.lalibre.be/international/europe/elections-france/2026/11/23/presidentielle-2027-un-candidat-cree-la-surprise-dans-les-sondages-marine-le-pen-en-perte-de-vitesse-dans-la-course-a-lelysee-SLGQCP32IZBZ5EDOWZAYKLEBP4/",
+          "media": "La Libre",
+          "date": "2026-11-23"
+        }
+      ]
+    },
     {
       "date": "2026-11-21",
       "candidats": [

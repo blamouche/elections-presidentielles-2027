@@ -1,6 +1,292 @@
 {
-  "derniereMiseAJour": "2026-11-23",
+  "derniereMiseAJour": "2026-11-24",
   "sondages": [
+    {
+      "id": "harris-2026-11-19-t1",
+      "institut": "Toluna Harris Interactive",
+      "commanditaire": "M6, RTL, L'Express",
+      "terrainDebut": "2026-11-18",
+      "terrainFin": "2026-11-19",
+      "publication": "2026-11-23",
+      "echantillon": 2088,
+      "methode": "Questionnaire auto-administré en ligne, méthode des quotas",
+      "tour": 1,
+      "hypotheses": [
+        {
+          "label": "Hypothèse 1 (Attal et Philippe) : Arthaud (LO), Mélenchon (LFI), Roussel (PCF), Tondelier (LE), Glucksmann (PP), Attal (RE), Philippe (HOR), de Villepin (LFH), Lisnard (NE), Retailleau (LR), Dupont-Aignan (DLF), Le Pen (RN), Zemmour (REC), Riner",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 31
+            },
+            {
+              "candidat": "Jean-Luc Mélenchon",
+              "id": "jean-luc-melenchon",
+              "pct": 18
+            },
+            {
+              "candidat": "Raphaël Glucksmann",
+              "id": "raphael-glucksmann",
+              "pct": 11
+            },
+            {
+              "candidat": "David Lisnard",
+              "id": "david-lisnard",
+              "pct": 11
+            },
+            {
+              "candidat": "Édouard Philippe",
+              "id": "edouard-philippe",
+              "pct": 9
+            },
+            {
+              "candidat": "Gabriel Attal",
+              "id": "gabriel-attal",
+              "pct": 4
+            },
+            {
+              "candidat": "Bruno Retailleau",
+              "id": "bruno-retailleau",
+              "pct": 4
+            },
+            {
+              "candidat": "Teddy Riner",
+              "id": "teddy-riner",
+              "pct": 4
+            },
+            {
+              "candidat": "Éric Zemmour",
+              "id": "eric-zemmour",
+              "pct": 3
+            },
+            {
+              "candidat": "Nathalie Arthaud",
+              "id": "nathalie-arthaud",
+              "pct": 1
+            },
+            {
+              "candidat": "Fabien Roussel",
+              "id": "fabien-roussel",
+              "pct": 1
+            },
+            {
+              "candidat": "Nicolas Dupont-Aignan",
+              "id": "nicolas-dupont-aignan",
+              "pct": 1
+            },
+            {
+              "candidat": "Marine Tondelier",
+              "id": "marine-tondelier",
+              "pct": 1
+            },
+            {
+              "candidat": "Dominique de Villepin",
+              "id": "dominique-de-villepin",
+              "pct": 1
+            }
+          ]
+        },
+        {
+          "label": "Hypothèse 2 (Philippe candidat unique du centre) : Arthaud (LO), Mélenchon (LFI), Roussel (PCF), Tondelier (LE), Glucksmann (PP), Philippe (HOR), de Villepin (LFH), Lisnard (NE), Retailleau (LR), Dupont-Aignan (DLF), Le Pen (RN), Zemmour (REC), Riner",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 31
+            },
+            {
+              "candidat": "Jean-Luc Mélenchon",
+              "id": "jean-luc-melenchon",
+              "pct": 19
+            },
+            {
+              "candidat": "Raphaël Glucksmann",
+              "id": "raphael-glucksmann",
+              "pct": 11
+            },
+            {
+              "candidat": "David Lisnard",
+              "id": "david-lisnard",
+              "pct": 11
+            },
+            {
+              "candidat": "Édouard Philippe",
+              "id": "edouard-philippe",
+              "pct": 10
+            },
+            {
+              "candidat": "Bruno Retailleau",
+              "id": "bruno-retailleau",
+              "pct": 4
+            },
+            {
+              "candidat": "Éric Zemmour",
+              "id": "eric-zemmour",
+              "pct": 4
+            },
+            {
+              "candidat": "Teddy Riner",
+              "id": "teddy-riner",
+              "pct": 4
+            },
+            {
+              "candidat": "Dominique de Villepin",
+              "id": "dominique-de-villepin",
+              "pct": 2
+            },
+            {
+              "candidat": "Nathalie Arthaud",
+              "id": "nathalie-arthaud",
+              "pct": 1
+            },
+            {
+              "candidat": "Fabien Roussel",
+              "id": "fabien-roussel",
+              "pct": 1
+            },
+            {
+              "candidat": "Nicolas Dupont-Aignan",
+              "id": "nicolas-dupont-aignan",
+              "pct": 1
+            },
+            {
+              "candidat": "Marine Tondelier",
+              "id": "marine-tondelier",
+              "pct": 1
+            }
+          ]
+        },
+        {
+          "label": "Hypothèse 3 (Attal candidat unique du centre) : Arthaud (LO), Mélenchon (LFI), Roussel (PCF), Tondelier (LE), Glucksmann (PP), Attal (RE), de Villepin (LFH), Lisnard (NE), Retailleau (LR), Dupont-Aignan (DLF), Le Pen (RN), Zemmour (REC), Riner",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 30
+            },
+            {
+              "candidat": "Jean-Luc Mélenchon",
+              "id": "jean-luc-melenchon",
+              "pct": 19
+            },
+            {
+              "candidat": "David Lisnard",
+              "id": "david-lisnard",
+              "pct": 12
+            },
+            {
+              "candidat": "Raphaël Glucksmann",
+              "id": "raphael-glucksmann",
+              "pct": 11
+            },
+            {
+              "candidat": "Gabriel Attal",
+              "id": "gabriel-attal",
+              "pct": 7
+            },
+            {
+              "candidat": "Bruno Retailleau",
+              "id": "bruno-retailleau",
+              "pct": 5
+            },
+            {
+              "candidat": "Teddy Riner",
+              "id": "teddy-riner",
+              "pct": 5
+            },
+            {
+              "candidat": "Éric Zemmour",
+              "id": "eric-zemmour",
+              "pct": 4
+            },
+            {
+              "candidat": "Marine Tondelier",
+              "id": "marine-tondelier",
+              "pct": 2
+            },
+            {
+              "candidat": "Dominique de Villepin",
+              "id": "dominique-de-villepin",
+              "pct": 2
+            },
+            {
+              "candidat": "Nathalie Arthaud",
+              "id": "nathalie-arthaud",
+              "pct": 1
+            },
+            {
+              "candidat": "Fabien Roussel",
+              "id": "fabien-roussel",
+              "pct": 1
+            },
+            {
+              "candidat": "Nicolas Dupont-Aignan",
+              "id": "nicolas-dupont-aignan",
+              "pct": 1
+            }
+          ]
+        }
+      ],
+      "note": "Vague 10 du baromètre ; bases : 1 460, 1 451 et 1 453 inscrits certains d'aller voter exprimant une intention.",
+      "sources": [
+        {
+          "titre": "Notice de la Commission des sondages : 10393-pres-iv-vague-10-toluna-harris-interactive-23-novembre.pdf",
+          "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10393-pres-iv-vague-10-toluna-harris-interactive-23-novembre.pdf",
+          "media": "Commission des sondages",
+          "date": "2026-11-23"
+        },
+        {
+          "titre": "Présidentielle 2027: un candidat crée la surprise dans les sondages, Marine Le Pen en perte de vitesse dans la course à l'Élysée",
+          "url": "https://www.lalibre.be/international/europe/elections-france/2026/11/23/presidentielle-2027-un-candidat-cree-la-surprise-dans-les-sondages-marine-le-pen-en-perte-de-vitesse-dans-la-course-a-lelysee-SLGQCP32IZBZ5EDOWZAYKLEBP4/",
+          "media": "La Libre",
+          "date": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "id": "harris-2026-11-19-t2",
+      "institut": "Toluna Harris Interactive",
+      "commanditaire": "M6, RTL, L'Express",
+      "terrainDebut": "2026-11-18",
+      "terrainFin": "2026-11-19",
+      "publication": "2026-11-23",
+      "echantillon": 2088,
+      "methode": "Questionnaire auto-administré en ligne, méthode des quotas",
+      "tour": 2,
+      "hypotheses": [
+        {
+          "label": "Mélenchon / Le Pen",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 65
+            },
+            {
+              "candidat": "Jean-Luc Mélenchon",
+              "id": "jean-luc-melenchon",
+              "pct": 35
+            }
+          ]
+        }
+      ],
+      "note": "Un seul duel testé ; base : 1 208 personnes exprimant une intention.",
+      "sources": [
+        {
+          "titre": "Notice de la Commission des sondages : 10393-pres-iv-vague-10-toluna-harris-interactive-23-novembre.pdf",
+          "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10393-pres-iv-vague-10-toluna-harris-interactive-23-novembre.pdf",
+          "media": "Commission des sondages",
+          "date": "2026-11-23"
+        },
+        {
+          "titre": "Présidentielle 2027: un candidat crée la surprise dans les sondages, Marine Le Pen en perte de vitesse dans la course à l'Élysée",
+          "url": "https://www.lalibre.be/international/europe/elections-france/2026/11/23/presidentielle-2027-un-candidat-cree-la-surprise-dans-les-sondages-marine-le-pen-en-perte-de-vitesse-dans-la-course-a-lelysee-SLGQCP32IZBZ5EDOWZAYKLEBP4/",
+          "media": "La Libre",
+          "date": "2026-11-23"
+        }
+      ]
+    },
     {
       "id": "yougov-2026-11-17-t1",
       "institut": "YouGov",
