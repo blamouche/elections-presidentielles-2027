@@ -1698,8 +1698,45 @@
             }
           ]
         }
+      },
+      {
+        "id": "zemmour-suppression-droits-succession",
+        "theme": "economie-fiscalite",
+        "type": "proposition",
+        "titre": "Suppression des droits de succession",
+        "description": "Supprimer les droits de succession, ainsi que la CSG sur le patrimoine, présentés comme une défense de la propriété privée (annonce du meeting de Toulon du 21 novembre 2026).",
+        "chiffres": [
+          "Recettes des droits de succession : 16,6 Md€ en 2023 (Cour des comptes, citée par Yahoo Finance)"
+        ],
+        "date": "2026-11-21",
+        "sources": [
+          {
+            "titre": "\"Je serai le candidat de la liberté de pensée, de parler, de dire ce que vous voyez\", clame Eric Zemmour lors de son premier meeting de campagne présidentielle",
+            "url": "https://www.franceinfo.fr/elections/je-serai-le-candidat-de-la-liberte-de-pensee-de-parler-de-dire-ce-que-vous-voyez-clame-eric-zemmour-lors-de-son-premier-meeting-de-campagne-presidentielle_8294024.html",
+            "media": "franceinfo",
+            "date": "2026-11-21"
+          },
+          {
+            "titre": "Vos enfants hériteront-ils sans payer un euro ? Eric Zemmour promet de supprimer tous les droits de succession",
+            "url": "https://fr.finance.yahoo.com/actualites/enfants-h%C3%A9riteront-payer-euro-eric-225243177.html",
+            "media": "Yahoo Finance",
+            "date": "2026-11-22"
+          }
+        ],
+        "factCheck": {
+          "verdict": "non-verifie",
+          "analyse": "Mesure non chiffrée par le candidat ni compensée à ce stade. Les droits de succession, au barème progressif de 5 % à 45 % en ligne directe, ont rapporté 16,6 Md€ à l'État en 2023 selon la Cour des comptes, ordre de grandeur de la perte de recettes. Aucune évaluation indépendante de la mesure n'a été trouvée.",
+          "sources": [
+            {
+              "titre": "Vos enfants hériteront-ils sans payer un euro ? Eric Zemmour promet de supprimer tous les droits de succession",
+              "url": "https://fr.finance.yahoo.com/actualites/enfants-h%C3%A9riteront-payer-euro-eric-225243177.html",
+              "media": "Yahoo Finance",
+              "date": "2026-11-22"
+            }
+          ]
+        }
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-19"
+  "derniereMiseAJour": "2026-11-25"
 }

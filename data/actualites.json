@@ -1,7 +1,115 @@
 {
-  "miseAJour": "2026-11-24",
-  "periode": "2026-11-01/2026-11-24",
+  "miseAJour": "2026-11-25",
+  "periode": "2026-11-01/2026-11-25",
   "items": [
+    {
+      "date": "2026-11-25",
+      "candidats": [
+        "edouard-philippe",
+        "david-lisnard"
+      ],
+      "categorie": "candidature",
+      "titre": "Au Congrès des maires, Édouard Philippe propose un débat en face-à-face à David Lisnard",
+      "sources": [
+        {
+          "titre": "Face à la dynamique de David Lisnard, Édouard Philippe assume le match et appuie sur leurs désaccords",
+          "url": "https://www.franceinfo.fr/elections/face-a-la-dynamique-de-david-lisnard-edouard-philippe-assume-le-match-et-appuie-sur-leurs-desaccords_8298915.html",
+          "media": "franceinfo",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "candidats": [
+        "edouard-philippe"
+      ],
+      "categorie": "judiciaire",
+      "titre": "Le parquet du Havre confirme une enquête après un signalement visant l'agglomération ; Philippe, non mis en cause, dénonce une « vendetta judiciaire »",
+      "sources": [
+        {
+          "titre": "Une enquête ouverte après un signalement pour détournement de fonds publics à l'agglomération du Havre présidée par Edouard Philippe",
+          "url": "https://www.franceinfo.fr/politique/edouard-philippe/une-enquete-ouverte-apres-un-signalement-pour-detournement-de-fonds-publics-a-l-agglomeration-du-havre-presidee-par-edouard-philippe_8297676.html",
+          "media": "franceinfo",
+          "date": "2026-11-24"
+        },
+        {
+          "titre": "Détournement de fonds de publics : une enquête vise l'agglomération du Havre d'Édouard Philippe",
+          "url": "https://www.france24.com/fr/france/20261124-edouard-philippe-vis%C3%A9-par-une-enqu%C3%AAte-pour-d%C3%A9tournement-de-fonds-publics-au-havre",
+          "media": "France 24",
+          "date": "2026-11-24"
+        },
+        {
+          "titre": "Enquête pour détournement de fonds publics au Havre : Edouard Philippe dénonce une \"vendetta judiciaire\"",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/enquete-pour-detournement-de-fonds-publics-au-havre-edouard-philippe-denonce-une-vendetta-judiciaire-f89cc16f3d33c4661f8a85d54b055e4c",
+          "media": "Boursorama (AFP)",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "candidats": [
+        "edouard-philippe",
+        "david-lisnard",
+        "gabriel-attal",
+        "bruno-retailleau"
+      ],
+      "categorie": "candidature",
+      "titre": "Édouard Philippe ira à la réunion convoquée par Gérard Larcher mais reste opposé à une primaire et cible Lisnard",
+      "sources": [
+        {
+          "titre": "« On peut aimer les tronçonneuses et ne pas savoir trancher ! » : le tacle d'Edouard Philippe à David Lisnard, accusé de pas être assez « étanche à l'extrême droite »",
+          "url": "https://www.publicsenat.fr/actualites/politique/on-peut-aimer-les-tronconneuses-et-ne-pas-savoir-trancher-le-tacle-dedouard-philippe-a-david-lisnard-accuse-de-pas-etre-assez-etanche-a-l",
+          "media": "Public Sénat",
+          "date": "2026-11-24"
+        },
+        {
+          "titre": "« Edouard Philippe n'est pas Emmanuel Macron », défend Christophe Béchu",
+          "url": "https://www.publicsenat.fr/actualites/politique/edouard-philippe-nest-pas-emmanuel-macron-defend-christophe-bechu",
+          "media": "Public Sénat",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "candidats": [
+        "bruno-retailleau"
+      ],
+      "categorie": "programme",
+      "titre": "Au Congrès des maires, Bruno Retailleau fustige « l'État profond » et veut « remettre la mairie au milieu du village »",
+      "sources": [
+        {
+          "titre": "Fustigeant « l'Etat profond » et la « bureaucratie », Bruno Retailleau veut « remettre la mairie au milieu du village »",
+          "url": "https://www.publicsenat.fr/actualites/politique/fustigeant-letat-profond-et-la-bureaucratie-bruno-retailleau-veut-remettre-la-mairie-au-milieu-du-village",
+          "media": "Public Sénat",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "candidats": [
+        "david-lisnard"
+      ],
+      "categorie": "autre",
+      "titre": "Candidat à un nouveau mandat à la tête de l'AMF face à Philippe Laurent, David Lisnard voit sa double candidature contestée",
+      "sources": [
+        {
+          "titre": "La double candidature de David Lisnard, pour la tête de l'Association des maires de France et la présidentielle, fait grincer des dents",
+          "url": "https://www.franceinfo.fr/politique/david-lisnard/la-double-candidature-de-david-lisnard-pour-la-tete-de-l-association-des-maires-de-france-et-la-presidentielle-fait-grincer-des-dents_8297235.html",
+          "media": "franceinfo",
+          "date": "2026-11-24"
+        },
+        {
+          "titre": "Le Congrès des maires s'ouvre sur fond de bataille pour l'Elysée",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/le-congres-des-maires-s-ouvre-sur-fond-de-bataille-pour-l-elysee-a3108980949525afe901f9225e464e8b",
+          "media": "Boursorama (AFP)",
+          "date": "2026-11-24"
+        }
+      ]
+    },
     {
       "date": "2026-11-24",
       "candidats": [
@@ -83,6 +191,28 @@
           "url": "https://www.lalibre.be/international/europe/elections-france/2026/11/23/presidentielle-2027-un-candidat-cree-la-surprise-dans-les-sondages-marine-le-pen-en-perte-de-vitesse-dans-la-course-a-lelysee-SLGQCP32IZBZ5EDOWZAYKLEBP4/",
           "media": "La Libre",
           "date": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "candidats": [
+        "eric-zemmour"
+      ],
+      "categorie": "programme",
+      "titre": "Premier meeting d'Éric Zemmour à Toulon : suppression des droits de succession et de l'Arcom",
+      "sources": [
+        {
+          "titre": "\"Je serai le candidat de la liberté de pensée, de parler, de dire ce que vous voyez\", clame Eric Zemmour lors de son premier meeting de campagne présidentielle",
+          "url": "https://www.franceinfo.fr/elections/je-serai-le-candidat-de-la-liberte-de-pensee-de-parler-de-dire-ce-que-vous-voyez-clame-eric-zemmour-lors-de-son-premier-meeting-de-campagne-presidentielle_8294024.html",
+          "media": "franceinfo",
+          "date": "2026-11-21"
+        },
+        {
+          "titre": "\"Candidat de la liberté\", attaques contre l'Arcom : Éric Zemmour, en difficulté dans les sondages, lance sa campagne à Toulon",
+          "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/toulon/candidat-de-la-liberte-attaques-contre-l-arcom-eric-zemmour-en-difficulte-dans-les-sondages-lance-sa-campagne-a-toulon-3453951.html",
+          "media": "France 3 Provence-Alpes-Côte d'Azur",
+          "date": "2026-11-21"
         }
       ]
     },

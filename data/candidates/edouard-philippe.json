@@ -490,7 +490,7 @@
     }
   ],
   "judiciaire": {
-    "note": "Aucune condamnation ni mise en examen. Placé le 29 octobre 2026 sous le statut de témoin assisté dans une information judiciaire toujours en cours au 13 novembre 2026 sur la Cité numérique du Havre ; il conteste toute irrégularité et bénéficie de la présomption d'innocence. Non-lieu de la Cour de justice de la République le 7 juillet 2025 dans l'enquête sur la gestion du Covid-19.",
+    "note": "Aucune condamnation ni mise en examen. Placé le 29 octobre 2026 sous le statut de témoin assisté dans une information judiciaire toujours en cours au 13 novembre 2026 sur la Cité numérique du Havre ; il conteste toute irrégularité et bénéficie de la présomption d'innocence. Non-lieu de la Cour de justice de la République le 7 juillet 2025 dans l'enquête sur la gestion du Covid-19. Le 24 novembre 2026, le parquet du Havre a confirmé une enquête distincte, confiée au commissariat du Havre après un signalement sur des frais d'avocat pris en charge par la communauté urbaine ; Édouard Philippe n'y est pas mis en cause à ce stade et dénonce une « vendetta judiciaire ».",
     "affaires": [
       {
         "titre": "Cité numérique du Havre (soupçons de détournement de fonds publics et favoritisme)",
@@ -1688,5 +1688,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-19"
+  "derniereMiseAJour": "2026-11-25"
 }
