@@ -1,6 +1,6 @@
 {
-  "miseAJour": "2026-11-25",
-  "periode": "2026-11-01/2026-11-25",
+  "miseAJour": "2026-11-26",
+  "periode": "2026-11-01/2026-11-26",
   "items": [
     {
       "date": "2026-11-25",
@@ -15,6 +15,28 @@
           "titre": "Face à la dynamique de David Lisnard, Édouard Philippe assume le match et appuie sur leurs désaccords",
           "url": "https://www.franceinfo.fr/elections/face-a-la-dynamique-de-david-lisnard-edouard-philippe-assume-le-match-et-appuie-sur-leurs-desaccords_8298915.html",
           "media": "franceinfo",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "candidats": [
+        "david-lisnard"
+      ],
+      "categorie": "autre",
+      "titre": "David Lisnard réélu président de l'AMF avec 72 % des voix face à Philippe Laurent, dix points de plus qu'en 2021",
+      "sources": [
+        {
+          "titre": "« C'est le fruit de la mobilisation d'une France de terrain » : David Lisnard, candidat à la présidentielle, est réélu à la tête de l'Association des maires de France",
+          "url": "https://www.franceinfo.fr/politique/david-lisnard/c-est-le-fruit-de-la-mobilisation-d-une-france-de-terrain-david-lisnard-candidat-a-la-presidentielle-est-reelu-a-la-tete-de-l-association-des-maires-de-france_8299698.html",
+          "media": "franceinfo",
+          "date": "2026-11-25"
+        },
+        {
+          "titre": "David Lisnard largement réélu à la tête de l'AMF : « J'y vois la mobilisation d'une France du terrain qui ne veut plus se laisser dicter son destin »",
+          "url": "https://www.publicsenat.fr/actualites/politique/david-lisnard-largement-reelu-a-la-tete-de-lassociation-des-maires-de-france",
+          "media": "Public Sénat",
           "date": "2026-11-25"
         }
       ]
@@ -190,6 +212,26 @@
           "titre": "Présidentielle 2027: un candidat crée la surprise dans les sondages, Marine Le Pen en perte de vitesse dans la course à l'Élysée",
           "url": "https://www.lalibre.be/international/europe/elections-france/2026/11/23/presidentielle-2027-un-candidat-cree-la-surprise-dans-les-sondages-marine-le-pen-en-perte-de-vitesse-dans-la-course-a-lelysee-SLGQCP32IZBZ5EDOWZAYKLEBP4/",
           "media": "La Libre",
+          "date": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "candidats": [
+        "jordan-bardella",
+        "marine-le-pen",
+        "jean-luc-melenchon",
+        "raphael-glucksmann",
+        "teddy-riner"
+      ],
+      "categorie": "autre",
+      "titre": "Bardella (pour Le Pen) attendu aux Antilles du 30 novembre au 4 décembre, Mélenchon jusqu'au 18 décembre ; Glucksmann et Riner envisagent d'y aller",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : Bardella et Mélenchon attendus aux Antilles, Glucksmann et Riner pourraient suivre",
+          "url": "https://rci.fm/deuxiles/infos/Politique/Presidentielle-2027-Bardella-et-Melenchon-attendus-aux-Antilles-Glucksmann-et-Riner",
+          "media": "RCI (d'après La Tribune Dimanche)",
           "date": "2026-11-23"
         }
       ]

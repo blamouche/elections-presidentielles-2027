@@ -347,7 +347,7 @@
       "debut": "2021",
       "fin": null,
       "fonction": "Président de l'Association des maires de France (AMF)",
-      "details": "Élu le 17 novembre 2021 face à Philippe Laurent, avec 62,3 % des voix. Candidat à sa réélection face au même adversaire, maire UDI de Sceaux, lors du congrès de l'AMF prévu du 24 au 26 novembre 2026 ; sa double casquette de président de l'AMF et de candidat à la présidentielle est contestée par une partie des maires.",
+      "details": "Élu le 17 novembre 2021 face à Philippe Laurent, avec 62,3 % des voix. Réélu le 25 novembre 2026, lors du 108e Congrès des maires, avec 72 % des voix face au même adversaire, Philippe Laurent (UDI, maire de Sceaux), pour un troisième mandat ; il évoque un record de participation depuis 1989. Sa double casquette de président de l'AMF et de candidat à la présidentielle avait été contestée par une partie des maires.",
       "sources": [
         {
           "titre": "David Lisnard",
@@ -360,6 +360,18 @@
           "url": "https://www.publicsenat.fr/actualites/politique/le-congres-des-maires-de-france-ne-peut-pas-devenir-un-temps-de-la-presidentielle-avec-david-lisnard-conteste-il-se-passe-quelque-chose-a-lamf",
           "media": "Public Sénat",
           "date": "2026-11-02"
+        },
+        {
+          "titre": "« C'est le fruit de la mobilisation d'une France de terrain » : David Lisnard, candidat à la présidentielle, est réélu à la tête de l'Association des maires de France",
+          "url": "https://www.franceinfo.fr/politique/david-lisnard/c-est-le-fruit-de-la-mobilisation-d-une-france-de-terrain-david-lisnard-candidat-a-la-presidentielle-est-reelu-a-la-tete-de-l-association-des-maires-de-france_8299698.html",
+          "media": "franceinfo",
+          "date": "2026-11-25"
+        },
+        {
+          "titre": "David Lisnard largement réélu à la tête de l'AMF : « J'y vois la mobilisation d'une France du terrain qui ne veut plus se laisser dicter son destin »",
+          "url": "https://www.publicsenat.fr/actualites/politique/david-lisnard-largement-reelu-a-la-tete-de-lassociation-des-maires-de-france",
+          "media": "Public Sénat",
+          "date": "2026-11-25"
         }
       ]
     },
@@ -934,5 +946,5 @@
       }
     ]
   },
-  "derniereMiseAJour": "2026-11-20"
+  "derniereMiseAJour": "2026-11-26"
 }
