@@ -1,7 +1,44 @@
 {
-  "miseAJour": "2026-11-26",
-  "periode": "2026-11-01/2026-11-26",
+  "miseAJour": "2026-11-27",
+  "periode": "2026-11-01/2026-11-27",
   "items": [
+    {
+      "date": "2026-11-26",
+      "candidats": [
+        "david-lisnard",
+        "bruno-retailleau"
+      ],
+      "categorie": "ralliement",
+      "titre": "Huit députés LR du groupe Droite républicaine soutiennent David Lisnard plutôt que Bruno Retailleau dans une tribune à Paris Match",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : huit députés LR choisissent David Lisnard plutôt que Bruno Retailleau",
+          "url": "https://actu.orange.fr/politique/presidentielle-2027-huit-deputes-lr-choisissent-david-lisnard-plutot-que-bruno-retailleau-l-express-via-6medias-CNT000002u4eg5.html",
+          "media": "6Médias avec L'Express (Orange Actualités)",
+          "date": "2026-11-26"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "candidats": [
+        "marine-le-pen",
+        "jean-luc-melenchon",
+        "david-lisnard",
+        "raphael-glucksmann",
+        "edouard-philippe"
+      ],
+      "categorie": "sondage",
+      "titre": "OpinionWay-CNews : Le Pen 33 %, Mélenchon 16 %, Lisnard 12 % devant Glucksmann (10 %) et Philippe (8 %)",
+      "sources": [
+        {
+          "titre": "Notice de la Commission des sondages : 10400-pres-iv-vague-5-opinionway-26-novembre.pdf",
+          "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10400-pres-iv-vague-5-opinionway-26-novembre.pdf",
+          "media": "Commission des sondages",
+          "date": "2026-11-26"
+        }
+      ]
+    },
     {
       "date": "2026-11-25",
       "candidats": [

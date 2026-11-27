@@ -1,6 +1,188 @@
 {
-  "derniereMiseAJour": "2026-11-24",
+  "derniereMiseAJour": "2026-11-27",
   "sondages": [
+    {
+      "id": "opinionway-2026-11-26-t1",
+      "institut": "OpinionWay",
+      "commanditaire": "CNews",
+      "terrainDebut": "2026-11-25",
+      "terrainFin": "2026-11-26",
+      "publication": "2026-11-26",
+      "echantillon": 912,
+      "methode": "Questionnaire auto-administré en ligne, méthode des quotas",
+      "tour": 1,
+      "hypotheses": [
+        {
+          "label": "Hypothèse unique : Arthaud (LO), Mélenchon (LFI), Roussel (PCF), Tondelier (LE), Glucksmann (PP), Bouamrane (PS), de Villepin (LFH), Attal (RE), Philippe (HOR), Riner (SE), Retailleau (LR), Lisnard (NE), Dupont-Aignan (DLF), Zemmour (REC), Le Pen (RN)",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 33
+            },
+            {
+              "candidat": "Jean-Luc Mélenchon",
+              "id": "jean-luc-melenchon",
+              "pct": 16
+            },
+            {
+              "candidat": "David Lisnard",
+              "id": "david-lisnard",
+              "pct": 12
+            },
+            {
+              "candidat": "Raphaël Glucksmann",
+              "id": "raphael-glucksmann",
+              "pct": 10
+            },
+            {
+              "candidat": "Édouard Philippe",
+              "id": "edouard-philippe",
+              "pct": 8
+            },
+            {
+              "candidat": "Gabriel Attal",
+              "id": "gabriel-attal",
+              "pct": 4
+            },
+            {
+              "candidat": "Bruno Retailleau",
+              "id": "bruno-retailleau",
+              "pct": 4
+            },
+            {
+              "candidat": "Éric Zemmour",
+              "id": "eric-zemmour",
+              "pct": 3
+            },
+            {
+              "candidat": "Fabien Roussel",
+              "id": "fabien-roussel",
+              "pct": 2
+            },
+            {
+              "candidat": "Dominique de Villepin",
+              "id": "dominique-de-villepin",
+              "pct": 2
+            },
+            {
+              "candidat": "Teddy Riner",
+              "id": "teddy-riner",
+              "pct": 2
+            },
+            {
+              "candidat": "Nicolas Dupont-Aignan",
+              "id": "nicolas-dupont-aignan",
+              "pct": 2
+            },
+            {
+              "candidat": "Nathalie Arthaud",
+              "id": "nathalie-arthaud",
+              "pct": 1
+            },
+            {
+              "candidat": "Marine Tondelier",
+              "id": "marine-tondelier",
+              "pct": 1
+            },
+            {
+              "candidat": "Karim Bouamrane",
+              "id": "karim-bouamrane",
+              "pct": 0
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Notice de la Commission des sondages : 10400-pres-iv-vague-5-opinionway-26-novembre.pdf",
+          "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10400-pres-iv-vague-5-opinionway-26-novembre.pdf",
+          "media": "Commission des sondages",
+          "date": "2026-11-26"
+        }
+      ]
+    },
+    {
+      "id": "opinionway-2026-11-26-t2",
+      "institut": "OpinionWay",
+      "commanditaire": "CNews",
+      "terrainDebut": "2026-11-25",
+      "terrainFin": "2026-11-26",
+      "publication": "2026-11-26",
+      "echantillon": 912,
+      "methode": "Questionnaire auto-administré en ligne, méthode des quotas",
+      "tour": 2,
+      "hypotheses": [
+        {
+          "label": "Philippe / Le Pen",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 59
+            },
+            {
+              "candidat": "Édouard Philippe",
+              "id": "edouard-philippe",
+              "pct": 41
+            }
+          ]
+        },
+        {
+          "label": "Mélenchon / Le Pen",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 69
+            },
+            {
+              "candidat": "Jean-Luc Mélenchon",
+              "id": "jean-luc-melenchon",
+              "pct": 31
+            }
+          ]
+        },
+        {
+          "label": "Glucksmann / Le Pen",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 58
+            },
+            {
+              "candidat": "Raphaël Glucksmann",
+              "id": "raphael-glucksmann",
+              "pct": 42
+            }
+          ]
+        },
+        {
+          "label": "Lisnard / Le Pen",
+          "resultats": [
+            {
+              "candidat": "Marine Le Pen",
+              "id": "marine-le-pen",
+              "pct": 55
+            },
+            {
+              "candidat": "David Lisnard",
+              "id": "david-lisnard",
+              "pct": 45
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Notice de la Commission des sondages : 10400-pres-iv-vague-5-opinionway-26-novembre.pdf",
+          "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/novembre/10400-pres-iv-vague-5-opinionway-26-novembre.pdf",
+          "media": "Commission des sondages",
+          "date": "2026-11-26"
+        }
+      ]
+    },
     {
       "id": "harris-2026-11-19-t1",
       "institut": "Toluna Harris Interactive",
