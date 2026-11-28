@@ -1,7 +1,89 @@
 {
-  "miseAJour": "2026-11-27",
-  "periode": "2026-11-01/2026-11-27",
+  "miseAJour": "2026-11-28",
+  "periode": "2026-11-01/2026-11-28",
   "items": [
+    {
+      "date": "2026-11-27",
+      "candidats": [
+        "bruno-retailleau",
+        "david-lisnard"
+      ],
+      "categorie": "ralliement",
+      "titre": "Bruno Retailleau juge « anecdotique » le ralliement de huit députés LR à Lisnard et exclut toute sanction",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : \"Les débauchages, ça ne m'émeut pas\", réagit Bruno Retailleau après le ralliement de huit députés LR à David Lisnard",
+          "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-marine-le-pen-va-presenter-son-programme-pour-les-outre-mer-en-pleine-tourmente-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8302521.html",
+          "media": "franceinfo",
+          "date": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "candidats": [
+        "marine-le-pen",
+        "jordan-bardella"
+      ],
+      "categorie": "programme",
+      "titre": "Marine Le Pen présente son programme pour les outre-mer aux côtés de Jordan Bardella, à qui elle renouvelle sa confiance",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : \"Les débauchages, ça ne m'émeut pas\", réagit Bruno Retailleau après le ralliement de huit députés LR à David Lisnard",
+          "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-marine-le-pen-va-presenter-son-programme-pour-les-outre-mer-en-pleine-tourmente-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8302521.html",
+          "media": "franceinfo",
+          "date": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "candidats": [
+        "bruno-retailleau"
+      ],
+      "categorie": "programme",
+      "titre": "Bruno Retailleau propose de supprimer Parcoursup et de porter l'inscription à 1 000 € en licence et 2 500 € en master (AFP)",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : \"Les débauchages, ça ne m'émeut pas\", réagit Bruno Retailleau après le ralliement de huit députés LR à David Lisnard",
+          "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-marine-le-pen-va-presenter-son-programme-pour-les-outre-mer-en-pleine-tourmente-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8302521.html",
+          "media": "franceinfo",
+          "date": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "candidats": [
+        "jordan-bardella"
+      ],
+      "categorie": "judiciaire",
+      "titre": "Le Monde et Mediapart publient de nouveaux extraits de messages antisémites de 2013 attribués à Bardella, qui les conteste",
+      "sources": [
+        {
+          "titre": "Écrits antisémites : Le Monde et Mediapart révèlent de nouveaux éléments compromettants pour Bardella",
+          "url": "https://www.france24.com/fr/info-en-continu/20261126-%C3%A9crits-antis%C3%A9mites-le-monde-et-mediapart-r%C3%A9v%C3%A8lent-de-nouveaux-%C3%A9l%C3%A9ments-compromettants-pour-bardella",
+          "media": "France 24 (AFP)",
+          "date": "2026-11-26"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "candidats": [
+        "eric-zemmour"
+      ],
+      "categorie": "candidature",
+      "titre": "Éric Zemmour annonce que 2027 sera sa « dernière campagne » présidentielle",
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : \"Les débauchages, ça ne m'émeut pas\", réagit Bruno Retailleau après le ralliement de huit députés LR à David Lisnard",
+          "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-marine-le-pen-va-presenter-son-programme-pour-les-outre-mer-en-pleine-tourmente-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8302521.html",
+          "media": "franceinfo",
+          "date": "2026-11-27"
+        }
+      ]
+    },
     {
       "date": "2026-11-26",
       "candidats": [

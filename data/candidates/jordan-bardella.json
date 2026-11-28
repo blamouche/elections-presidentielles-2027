@@ -610,7 +610,7 @@
         "titre": "Plaintes après l'enquête de Mediapart sur des messages antisémites qui lui sont attribués",
         "statut": "autre",
         "role": "plaignant",
-        "resume": "Le 28 septembre 2026, Mediapart a publié des messages privés datant de 2013 attribués à Jordan Bardella, alors âgé de 17-18 ans, comportant des propos antisémites ; il en conteste formellement l'authenticité et parle de « faux grossiers ». Il a déposé le 30 septembre 2026 une plainte en diffamation avec constitution de partie civile contre Mediapart, puis une plainte contre X pour faux et usage de faux, reçue par le parquet de Paris la semaine du 10 novembre 2026, qui doit décider des suites. Mediapart, qui a publié une extraction des messages par Meta certifiée par huissier, dit attendre une enquête judiciaire sur l'authenticité des documents. M. Bardella n'est mis en cause dans aucune procédure à ce titre.",
+        "resume": "Le 28 septembre 2026, Mediapart a publié des messages privés datant de 2013 attribués à Jordan Bardella, alors âgé de 17-18 ans, comportant des propos antisémites ; il en conteste formellement l'authenticité et parle de « faux grossiers ». Il a déposé le 30 septembre 2026 une plainte en diffamation avec constitution de partie civile contre Mediapart, puis une plainte contre X pour faux et usage de faux, reçue par le parquet de Paris la semaine du 10 novembre 2026, qui doit décider des suites. Le 26 novembre 2026, Le Monde et Mediapart ont publié de nouveaux extraits de la même conversation, certifiée « complète et non altérée » par un commissaire de justice ; il continue de les nier et son avocat envisage un complément de plainte. Mediapart, qui a publié une extraction des messages par Meta certifiée par huissier, dit attendre une enquête judiciaire sur l'authenticité des documents. M. Bardella n'est mis en cause dans aucune procédure à ce titre.",
         "chronologie": [
           {
             "date": "2026-09-28",
@@ -647,6 +647,18 @@
                 "date": "2026-11-12"
               }
             ]
+          },
+          {
+            "date": "2026-11-26",
+            "evenement": "Nouveaux extraits publiés par Le Monde et Mediapart ; son avocat envisage un complément de plainte des mêmes chefs.",
+            "sources": [
+              {
+                "titre": "Écrits antisémites : Le Monde et Mediapart révèlent de nouveaux éléments compromettants pour Bardella",
+                "url": "https://www.france24.com/fr/info-en-continu/20261126-%C3%A9crits-antis%C3%A9mites-le-monde-et-mediapart-r%C3%A9v%C3%A8lent-de-nouveaux-%C3%A9l%C3%A9ments-compromettants-pour-bardella",
+                "media": "France 24 (AFP)",
+                "date": "2026-11-26"
+              }
+            ]
           }
         ],
         "sources": [
@@ -655,6 +667,12 @@
             "url": "https://www.france24.com/fr/info-en-continu/20261112-accusations-d-antis%C3%A9mitisme-bardella-a-port%C3%A9-plainte-pour-faux-et-usage-de-faux",
             "media": "France 24 (AFP)",
             "date": "2026-11-12"
+          },
+          {
+            "titre": "Écrits antisémites : Le Monde et Mediapart révèlent de nouveaux éléments compromettants pour Bardella",
+            "url": "https://www.france24.com/fr/info-en-continu/20261126-%C3%A9crits-antis%C3%A9mites-le-monde-et-mediapart-r%C3%A9v%C3%A8lent-de-nouveaux-%C3%A9l%C3%A9ments-compromettants-pour-bardella",
+            "media": "France 24 (AFP)",
+            "date": "2026-11-26"
           }
         ]
       }
